@@ -2092,8 +2092,40 @@
    "method": "project-decision",
    "by": "agent:rut002",
    "date": "2026-10-14",
-   "status": "open",
+   "status": "superseded",
    "note": "redeem, set free; no noun for the kinsman-redeemer, see gap:kinsman_redeemer"
+  },
+  {
+   "id": "term:H1350.tone",
+   "kind": "term",
+   "source": "H1350 (redeem; kinsman-redeemer)",
+   "value": "nqovotáz",
+   "attested": "attested",
+   "evidence": [
+    {
+     "ref": "ACT 7:34",
+     "form": "nónqovotáz"
+    },
+    {
+     "ref": "MAT 20:28",
+     "form": "tèabete-nqovotáz"
+    },
+    {
+     "ref": "ACT 7:35",
+     "form": "vǿnqovotāz"
+    },
+    {
+     "ref": "LUK 1:68",
+     "form": "génqovotán"
+    }
+   ],
+   "confidence": "low",
+   "method": "corpus-observed",
+   "by": "agent:spelling-curation",
+   "date": "2026-10-21",
+   "status": "open",
+   "note": "redeem, set free; no noun for the kinsman-redeemer, see gap:kinsman_redeemer | written nqovotáz (4x; nqovotāz 1x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21)",
+   "supersedes": "term:H1350"
   },
   {
    "id": "term:H2558",
@@ -3067,8 +3099,36 @@
    "method": "corpus-observed",
    "by": "agent:rut003",
    "date": "2026-10-14",
-   "status": "decided",
+   "status": "superseded",
    "note": "'they recognized that' = gimatøvemem, av nqægo; 'did not recognize that it was X' = matavapøteáv, av nqægo, ngenek X (Jhn 21:4), used in Rut 3:14"
+  },
+  {
+   "id": "term:H5234.tone",
+   "kind": "term",
+   "source": "H5234 (recognize)",
+   "value": "matøvém",
+   "attested": "attested",
+   "evidence": [
+    {
+     "ref": "ACT 3:10",
+     "form": "Gimatøvemem"
+    },
+    {
+     "ref": "1CO 14:24",
+     "form": "segé-matøvém"
+    },
+    {
+     "ref": "JHN 21:4",
+     "form": "matavapøteáv, av nqægo"
+    }
+   ],
+   "confidence": "medium",
+   "method": "corpus-observed",
+   "by": "agent:spelling-curation",
+   "date": "2026-10-21",
+   "status": "decided",
+   "note": "'they recognized that' = gimatøvemem, av nqægo; 'did not recognize that it was X' = matavapøteáv, av nqægo, ngenek X (Jhn 21:4), used in Rut 3:14 | written matøvém (26x; matøvēm 2x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21) After a hyphen the text writes -matøvém (segé-matøvém, qate-matøvém); fused words have no mark (gematøvem, gimatøvemem, ACT 3:10).",
+   "supersedes": "term:H5234"
   },
   {
    "id": "term:H3045know",
@@ -3714,8 +3774,40 @@
    "method": "project-decision",
    "by": "agent:rut003",
    "date": "2026-10-14",
-   "status": "open",
+   "status": "superseded",
    "note": "'you are our relative, (there) to redeem us'; 'I am a kinsman-redeemer' = No qoge ekeza ezoqám, qo nqovotaz-qa nqate꞉go (Rut 3:12); 'let him redeem you' = betaqá-nqovotáz, 'I will redeem you' = søtaqá-nqovotáz (built after Søtaqá-etoám, Mrk 6:23); see gap:kinsman_redeemer, gap:redeem_2sg_object"
+  },
+  {
+   "id": "formula:you_are_a_redeemer.tone",
+   "kind": "formula",
+   "source": "כִּי גֹאֵל אָתָּה / for you are a kinsman-redeemer",
+   "value": "qo nigi ekeza ezoqám, ni nqovotáz-qa nqoqote꞉go",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "REV 19:10",
+     "form": "av qo nqoqote꞉go"
+    },
+    {
+     "ref": "1CO 7:7",
+     "form": "av no nqate꞉go"
+    },
+    {
+     "ref": "ACT 7:35",
+     "form": "vǿnqovotāz"
+    },
+    {
+     "ref": "MRK 6:23",
+     "form": "Søtaqá-etoám"
+    }
+   ],
+   "confidence": "low",
+   "method": "corpus-observed",
+   "by": "agent:spelling-curation",
+   "date": "2026-10-21",
+   "status": "open",
+   "note": "'you are our relative, (there) to redeem us'; 'I am a kinsman-redeemer' = No qoge ekeza ezoqám, qo nqovotaz-qa nqate꞉go (Rut 3:12); 'let him redeem you' = betaqá-nqovotáz, 'I will redeem you' = søtaqá-nqovotáz (built after Søtaqá-etoám, Mrk 6:23); see gap:kinsman_redeemer, gap:redeem_2sg_object | nqovotáz with its tone (term:H1350.tone): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21)",
+   "supersedes": "formula:you_are_a_redeemer"
   },
   {
    "id": "formula:do_not_go_back_empty",
@@ -10760,12 +10852,44 @@
    "method": "corpus-observed",
    "by": "agent:gen001",
    "date": "2026-10-15",
-   "status": "decided",
+   "status": "superseded",
    "words": [
     "appear",
     "may appear"
    ],
    "note": "fakhan = come out, appear (Rev 12:1, 12:3 a sign appeared); optative befakhan (8x)."
+  },
+  {
+   "id": "term:H7200appear.tone",
+   "kind": "term",
+   "source": "H7200 (Niphal: appear)",
+   "value": "befakhán",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "REV 12:1",
+     "form": "ndøfakhán"
+    },
+    {
+     "ref": "LUK 1:38",
+     "form": "befakhán"
+    },
+    {
+     "ref": "LUK 22:42",
+     "form": "befakhán"
+    }
+   ],
+   "confidence": "medium",
+   "method": "corpus-observed",
+   "by": "agent:spelling-curation",
+   "date": "2026-10-21",
+   "status": "decided",
+   "words": [
+    "appear",
+    "may appear"
+   ],
+   "note": "fakhan = come out, appear (Rev 12:1, 12:3 a sign appeared); optative befakhan (8x). | the optative is written befakhán / bèfakhán ('let it be', LUK 1:38, 22:42); befàkha᷄n with the prohibitive tone is 'it must not be' (4x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21)",
+   "supersedes": "term:H7200appear"
   },
   {
    "id": "term:H1877",

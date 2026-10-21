@@ -40,6 +40,6 @@ Last verse drafted: **47:31** (agent gen047, 21.10.2026). Next: Genesis 48.
 - 45: "a father to Pharaoh", a word for cart, built 2pl "sold me" forms, "spirit revived".
 - 46: names that fall together (Eli, Sela, Gela; Zob); *toqonanim* (when you die); 2sg "you are still alive";
   built numerals 16, 33, 66; Hebrew 70 vs ACT 7:14 75.
-- 47: v21 Hebrew "cities" kept against the BSB's "servitude"; faithfulness (gap); "do not bury me" without a
-  prohibitive (*poeveáv* + *toqonǿ-upá*); God added to the worship (v31, HEB 11:21); built *wieáv*, *tizi-khonab*,
+- 47: v21 Hebrew "cities" kept against the BSB's "servitude"; faithfulness (gap); "do not bury me" now the
+  prohibitive *nø-ùpa᷄* (built after RUT 1:20; revised 2026-10-21); God added to the worship (v31, HEB 11:21); built *wieáv*, *tizi-khonab*,
   *qoqoni-khandi꞉z*, *foti-sevén*.

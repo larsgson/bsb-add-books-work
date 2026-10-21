@@ -29,6 +29,8 @@ style_guides: [wiki/index.md, "_learn/packs/{code}{nnn}.md"]
 # Target-language tokenising for the toolkit (scripts/langtools.py): suffixes after a hyphen are tokens;
 # ꞉ (U+A789) and the combining macron belong to words; the tone marks to ignore come from the store.
 spell_check: true            # check_draft.py lists forms whose marks differ from the corpus (scripts/langtools.py spell_check)
+pack_grammar: binding        # on trial from Genesis 48 (the user, 2026-10-21): the verbs to mark in the pack and prompt, an
+                             # unmarked one a FIX in chapter_check.py unless the notes say why; compare the cells after a few chapters
 tokenise:
   split_hyphens: true
   word_chars: [U+A789, U+0304]
