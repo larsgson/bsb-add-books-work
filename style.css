@@ -16,6 +16,12 @@ main { max-width:960px; margin:0 auto; padding:18px 16px 40px; }
 h1 { font-size:24px; margin:8px 0 12px; } h2 { font-size:19px; margin:26px 0 8px; }
 a { color:var(--accent); }
 .banner { background:var(--q); border-left:4px solid var(--q-line); padding:10px 14px; border-radius:4px; margin:12px 0 18px; }
+.strip { position:sticky; top:0; z-index:5; padding:8px 16px; font-size:15px; line-height:1.4; border-bottom:2px solid; }
+.strip.draft, .strip.review { background:#ffe7a3; color:#3d2a00; border-color:#c98a00; }
+.strip.published { background:#dff3e4; color:#123d1f; border-color:#3c8d5a; }
+.strip strong { text-transform:uppercase; letter-spacing:.04em; margin-right:4px; }
+.strip a { color:inherit; text-decoration:underline; }
+.books .chs a.review { border-color:#c98a00; } .books .chs a.published { border-color:#3c8d5a; background:#dff3e4; color:#123d1f; }
 table { border-collapse:collapse; width:100%; display:block; overflow-x:auto; font-size:15px; }
 th, td { border-bottom:1px solid var(--line); padding:6px 10px; text-align:left; vertical-align:top; }
 th { color:var(--muted); font-weight:600; }
