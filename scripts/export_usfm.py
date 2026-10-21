@@ -13,13 +13,14 @@ Per book, one file with the chapters that are drafted:
   - verse numbers: OT drafts keep the Hebrew numbering; the file takes the team's (`--numbering`, default from the
     edition's SFM: English where their Jonah has 1:17, else Hebrew). Hebrew verses that the BSB joins become one verse;
   - Unicode as the team's files have it (`--norm NFC|NFD`, default: as their SFM; a team's files may be NFD, our texts are NFC: the same
-    letters, but Paratext's word list compares code points).
+    letters, but Paratext's word list compares code points); line endings likewise (`--eol crlf|lf`, default: as their SFM);
+  - the divine name marked `\\nd ...\\nd*` wherever the team's SFM marks a word so (any of their books).
 The file is checked with usfmtc (pip install usfmtc) and its verses counted against the draft.
 
 Where it goes: a file in the team's structure is derived from their edition (docs/licensing.md), so it is written to the
 project's derived path (`local_output/<project>/usfm/`, scripts/project.py derived_dir); a plain frame to build/usfm/.
 
-Usage: python3 scripts/export_usfm.py <project> <code> [<ch>[-<ch>]] [--numbering english|hebrew] [--norm NFC|NFD] [--out DIR]
+Usage: python3 scripts/export_usfm.py <project> <code> [<ch>[-<ch>]] [--numbering english|hebrew] [--norm NFC|NFD] [--eol crlf|lf] [--out DIR]
 """
 import datetime, glob, json, os, re, sys, unicodedata
 
@@ -45,6 +46,19 @@ def team_sfm(p, code):
     files = [f for f in files if "Earlier" not in os.path.basename(f)]
     mine = next((f for f in files if re.match(rf"\\id {code.upper()}\b", open(f, encoding="utf-8").readline())), None)
     return mine, (mine or (files[0] if files else None))
+
+
+def team_nd(p):
+    """The words the team's SFM marks as the divine name (\\nd ...\\nd*), NFC, punctuation stripped: what their files do
+    (Kuni's Genesis marks every Evezøza; their older books none)."""
+    words = set()
+    for e in p.get("style_from") or []:
+        for f in glob.glob(os.path.join(edition(e)["dir"], "source", "*.[sS][fF][mM]")):
+            for m in re.findall(r"\\nd (.*?)\\nd\*", open(f, encoding="utf-8").read()):
+                w = unicodedata.normalize("NFC", m).strip(" ,.;:!?")
+                if w:
+                    words.add(w)
+    return words
 
 
 def bsb_layout(code):
@@ -219,6 +233,10 @@ def main():
                 out.append("\\p" if mode != "q" or i == 0 else "\\m")
             out.append(f"{lead}{text}{end}" if lead else text)
             mode = "p"
+    nd = team_nd(p)
+    if nd:                                      # the divine name marked as the team's files mark it
+        rx = re.compile(r"(?<![\w\\])(" + "|".join(sorted(map(re.escape, nd), key=len, reverse=True)) + r")(?!\w)")
+        out = out[:len(head)] + [rx.sub(r"\\nd \1\\nd*", unicodedata.normalize("NFC", l)) for l in out[len(head):]]
     usfm = unicodedata.normalize(norm, "\n".join(out) + "\n")
 
     if mine or frame:
@@ -232,7 +250,9 @@ def main():
         odir = opt("--out") or os.path.join(ROOT, "build", "usfm", pname.replace("/", "_"))
     os.makedirs(odir, exist_ok=True)
     path = os.path.join(odir, fname)
-    open(path, "w", encoding="utf-8").write(usfm)
+    # line endings as the team's files have them (Paratext on Windows: CRLF)
+    eol = opt("--eol") or ("crlf" if frame and b"\r\n" in open(frame, "rb").read() else "lf")
+    open(path, "w", encoding="utf-8", newline="\r\n" if eol == "crlf" else "\n").write(usfm)
 
     nv = sum(1 for l in usfm.splitlines() if re.search(r"\\v \d+", l))
     want = len(merged) - sum(1 for k in merged if k[1] == "title")
