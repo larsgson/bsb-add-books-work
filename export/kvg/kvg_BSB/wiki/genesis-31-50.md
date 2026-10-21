@@ -1,6 +1,6 @@
 ---
 title: Looking ahead: Genesis 31–50
-entries: [term:H2472.g, gap:interpret_dream.g, term:H7458.g, term:H1250.g, term:H3701.g, term:H5470.g, term:steward.g, term:H56.g, term:H6912.g, term:H4631.g, gap:coat.g, gap:household_gods.g, term:H251.g, term:H251brothers.g, term:H1581.g, term:H168.g, term:H1777.g, name:pharaoh.g, name:egypt.g, name:egyptian.g, name:machpelah.g, name:canaan.g, genealogy_list.g, term:coat_ornate.g, formula:dream_had.g, term:dreamer.g, term:pit.g, term:lift_out.g, formula:wild_animal_devoured.g, gap:torn_pieces.g, name:ishmaelites.g, name:dothan.g, name:potiphar.g, name:medanites.g, term:traders.g, term:officer_eunuch.g, term:captain_guard.g, formula:jealous.g, formula:kept_in_mind.g, formula:loved_more.g, formula:hated_more.g, term:our_brother.g, formula:own_flesh.g, formula:comfort_refused.g, formula:to_sheol.g, formula:reign_over_us.g, formula:sold_price.g, formula:binding_sheaves.g, term:pledge.g, term:signet_seal.g, term:cord_thread.g, formula:raise_offspring.g, gap:spill_seed.g, gap:breach.g, gap:pull_back_hand.g, formula:prostituted.g, term:shrine_prostitute.g, term:father_in_law.g, term:H6743.g, formula:lord_with_him.g, term:H6711.g, term:H7121cry.g, term:H8610.g, term:H2820.g, term:handsome.g, formula:knew_nothing.g, term:H5127run.g, term:H2617god.g, formula:found_favor_with.g, formula:into_his_hand.g, term:H6485charge.g, term:attendant.g, term:warden.g, term:prison_throw.g, term:day_after_day.g, formula:sin_against_god.g, formula:he_refused.g, gap:confined.g, term:cupbearer.g, term:baker.g, term:basket.g, term:cup.g, term:grapes.g, term:blossom_ripen.g, term:squeeze.g, formula:sad_face.g, formula:birthday.g, formula:feast_for.g, formula:remember_forget.g, formula:interpretation.g, formula:within_days.g, formula:lift_head.g, term:hang.g, formula:kidnapped.g, formula:did_wrong_to.g, formula:restore_position.g, formula:assigned_to.g, formula:show_kindness_when_well.g, term:magician.g, term:cow.g, term:graze.g, term:fat_thin.g, term:wither.g, term:swallow.g, formula:i_remembered.g, formula:told_us.g, term:chariot.g, term:chain_neck.g, term:signet_ring.g, formula:bow_knee.g, formula:go_to_pl.g, term:storehouse.g, term:abundance.g, term:shave.g, formula:without_your_word.g, formula:years_began.g, formula:cried_for.g, formula:no_one_could_know.g, gap:fifth_part.g, gap:keep_track.g, gap:discerning.g, term:spy.g, term:honest.g, term:youngest.g, term:sack.g, term:provisions.g, formula:spoke_harshly.g, formula:pretended.g, formula:where_from.g, formula:oath_lives.g, formula:test_you.g, formula:you_will_live.g, formula:they_consented.g, formula:did_not_listen.g, formula:told_you.g, term:plead.g, term:bind.g, formula:load_donkeys.g, term:interpreter.g, gap:land_nakedness.g, gap:harm_befall.g, gap:lodging_place.g, gap:empty_sacks.g, gap:accuse.g, gap:bereave.g, gap:relieve_hunger.g, term:n_times.g43, formula:finished_eating.g43, formula:how_could_we_know.g43, formula:as_he_asked.g43, formula:slaughter_animal.g43, term:dine.g43, term:private_room.g43, formula:is_he_well.g43, formula:still_alive.g43, formula:do_you_have.g43, formula:counterfactual.g43, term:delay.g43, term:detestable.g43, term:separately.g43, formula:astonished_looked.g43, formula:it_is_fine.g43, term:treasure.g43, term:donkey.g43, term:elderly.g43, term:additional.g43, gap:surety.g43, gap:mistake.g43, gap:double.g43, gap:nuts.g43, gap:best_products.g43, gap:composure.g43, gap:portions.g43, gap:drank_freely.g43, gap:intend_overpower.g43, gap:received_money.g43, gap:amount.g43, term:divination.g44, formula:repay_evil.g44, formula:deed_wicked.g44, formula:free_of_blame.g44, formula:justify_ourselves.g44, formula:oldest_to_youngest.g44, formula:far_be_it.g44, formula:equal_to.g44, formula:relayed.g44, formula:wife_bore_me.g44, formula:cannot_bear_to_see.g44, formula:bound_up.g44, term:went_from.g44, formula:not_seen_since.g44, formula:may_i_speak.g44, formula:child_of_old_age.g44, formula:only_one_left.g44, gap:gray_hair.g44, gap:in_place_of.g44, term:wagon.g45, term:attendants.g45, formula:quarrel.g45, formula:stunned.g45, formula:revived.g45, formula:not_distressed.g45, formula:embraced.g45, formula:sent_off.g45, term:splendor.g45, formula:save_lives.g45, formula:father_to.g45, formula:i_am_name.g45, formula:the_one_who.g45, formula:children_grandchildren.g45, formula:everything_you_own.g45, formula:provide_for.g45, formula:before_i_die.g45, formula:glad_pl.g45, formula:load_imperative.g45, name:goshen.g45, gap:destitution.g45, gap:plowing.g45, gap:remnant.g45]
+entries: [term:H2472.g, gap:interpret_dream.g, term:H7458.g, term:H1250.g, term:H3701.g, term:H5470.g, term:steward.g, term:H56.g, term:H6912.g, term:H4631.g, gap:coat.g, gap:household_gods.g, term:H251.g, term:H251brothers.g, term:H1581.g, term:H168.g, term:H1777.g, name:pharaoh.g, name:egypt.g, name:egyptian.g, name:machpelah.g, name:canaan.g, genealogy_list.g, term:coat_ornate.g, formula:dream_had.g, term:dreamer.g, term:pit.g, term:lift_out.g, formula:wild_animal_devoured.g, gap:torn_pieces.g, name:ishmaelites.g, name:dothan.g, name:potiphar.g, name:medanites.g, term:traders.g, term:officer_eunuch.g, term:captain_guard.g, formula:jealous.g, formula:kept_in_mind.g, formula:loved_more.g, formula:hated_more.g, term:our_brother.g, formula:own_flesh.g, formula:comfort_refused.g, formula:to_sheol.g, formula:reign_over_us.g, formula:sold_price.g, formula:binding_sheaves.g, term:pledge.g, term:signet_seal.g, term:cord_thread.g, formula:raise_offspring.g, gap:spill_seed.g, gap:breach.g, gap:pull_back_hand.g, formula:prostituted.g, term:shrine_prostitute.g, term:father_in_law.g, term:H6743.g, formula:lord_with_him.g, term:H6711.g, term:H7121cry.g, term:H8610.g, term:H2820.g, term:handsome.g, formula:knew_nothing.g, term:H5127run.g, term:H2617god.g, formula:found_favor_with.g, formula:into_his_hand.g, term:H6485charge.g, term:attendant.g, term:warden.g, term:prison_throw.g, term:day_after_day.g, formula:sin_against_god.g, formula:he_refused.g, gap:confined.g, term:cupbearer.g, term:baker.g, term:basket.g, term:cup.g, term:grapes.g, term:blossom_ripen.g, term:squeeze.g, formula:sad_face.g, formula:birthday.g, formula:feast_for.g, formula:remember_forget.g, formula:interpretation.g, formula:within_days.g, formula:lift_head.g, term:hang.g, formula:kidnapped.g, formula:did_wrong_to.g, formula:restore_position.g, formula:assigned_to.g, formula:show_kindness_when_well.g, term:magician.g, term:cow.g, term:graze.g, term:fat_thin.g, term:wither.g, term:swallow.g, formula:i_remembered.g, formula:told_us.g, term:chariot.g, term:chain_neck.g, term:signet_ring.g, formula:bow_knee.g, formula:go_to_pl.g, term:storehouse.g, term:abundance.g, term:shave.g, formula:without_your_word.g, formula:years_began.g, formula:cried_for.g, formula:no_one_could_know.g, gap:fifth_part.g, gap:keep_track.g, gap:discerning.g, term:spy.g, term:honest.g, term:youngest.g, term:sack.g, term:provisions.g, formula:spoke_harshly.g, formula:pretended.g, formula:where_from.g, formula:oath_lives.g, formula:test_you.g, formula:you_will_live.g, formula:they_consented.g, formula:did_not_listen.g, formula:told_you.g, term:plead.g, term:bind.g, formula:load_donkeys.g, term:interpreter.g, gap:land_nakedness.g, gap:harm_befall.g, gap:lodging_place.g, gap:empty_sacks.g, gap:accuse.g, gap:bereave.g, gap:relieve_hunger.g, term:n_times.g43, formula:finished_eating.g43, formula:how_could_we_know.g43, formula:as_he_asked.g43, formula:slaughter_animal.g43, term:dine.g43, term:private_room.g43, formula:is_he_well.g43, formula:still_alive.g43, formula:do_you_have.g43, formula:counterfactual.g43, term:delay.g43, term:detestable.g43, term:separately.g43, formula:astonished_looked.g43, formula:it_is_fine.g43, term:treasure.g43, term:donkey.g43, term:elderly.g43, term:additional.g43, gap:surety.g43, gap:mistake.g43, gap:double.g43, gap:nuts.g43, gap:best_products.g43, gap:composure.g43, gap:portions.g43, gap:drank_freely.g43, gap:intend_overpower.g43, gap:received_money.g43, gap:amount.g43, term:divination.g44, formula:repay_evil.g44, formula:deed_wicked.g44, formula:free_of_blame.g44, formula:justify_ourselves.g44, formula:oldest_to_youngest.g44, formula:far_be_it.g44, formula:equal_to.g44, formula:relayed.g44, formula:wife_bore_me.g44, formula:cannot_bear_to_see.g44, formula:bound_up.g44, term:went_from.g44, formula:not_seen_since.g44, formula:may_i_speak.g44, formula:child_of_old_age.g44, formula:only_one_left.g44, gap:gray_hair.g44, gap:in_place_of.g44, term:wagon.g45, term:attendants.g45, formula:quarrel.g45, formula:stunned.g45, formula:revived.g45, formula:not_distressed.g45, formula:embraced.g45, formula:sent_off.g45, term:splendor.g45, formula:save_lives.g45, formula:father_to.g45, formula:i_am_name.g45, formula:the_one_who.g45, formula:children_grandchildren.g45, formula:everything_you_own.g45, formula:provide_for.g45, formula:before_i_die.g45, formula:glad_pl.g45, formula:load_imperative.g45, name:goshen.g45, gap:destitution.g45, gap:plowing.g45, gap:remnant.g45, term:fathered_2sg.g48, formula:before_i_came.g48, formula:when_i_came_back.g48, term:ill.g48, term:rallied_strength.g48, term:sat_up.g48, formula:god_has_given_me.g48, term:bless_them_1sg.g48, term:eyesight_poor.g48, term:stretched_out_hand.g48, term:displeased.g48, term:refused.g48, formula:walk_before_god.g48, term:shepherd_me.g48, formula:rescued_me_from_all_evil.g48, term:boys.g48, term:multiply_wish.g48, term:peoples.g48, term:everlasting_possession.g48, term:pronounce_blessing.g48, term:ridge.g48, term:bow.g48, term:knees.g48, term:territory_inherit.g48, gap:cross_hands.g48, gap:reckoned.g48, gap:bring_back_3sg.g48]
 ---
 # Looking ahead: Genesis 31–50
 
@@ -8,6 +8,49 @@ The key words of the Jacob and Joseph chapters, with what Genesis 1–30 or the 
 Where neither has a model the entry is a `gap` with a proposal (`status: open`): build the word
 as proposed and list it in the chapter notes for the team. Names are on [names](names.md), the
 narrative formulas on [OT narrative](ot-narrative.md).
+
+## Genesis 48: Jacob blesses Ephraim and Manasseh (agent gen048)
+
+- The blessing has two wordings, both kept apart: a man's hand-laying blessing *zenda gembøeve* /
+  *zenda gezømbove* (HEB 11:21 tells this very scene: "Zekop Zosef-gi nakhei angana menas zenda
+  gezømbove"), and God's blessing with *khakheinøv*: "no gekhakheinømbem" (he blessed me, Laban's words in
+  GEN 30:27), the wish *bèkhakheinøvém* (may he bless them) and *bèkhakheinøqavém* (you).
+- Jacob's blindness follows Isaac's in GEN 27:1 (*bøi waev vømbø̄i-navøem*); "my son" is *Áti!* as there.
+- "The God before whom my fathers walked" follows GEN 24:40 and 17:1: walking before God is keeping his
+  word (*manqat o-mba … ndap*).
+- "Redeemed me from all harm" is told with Paul's "the Lord rescued me from all of them" (2TI 3:11,
+  *mø̀ndø-khandí꞉n*); the kinsman's *nqovotáz* (term:H1350) stays open.
+- Gaps: crossing the hands (48:14), 'bring you back' with God as subject (48:21).
+
+## Genesis 49: Jacob's blessings and death (agent gen049)
+
+- The blessings are poetry; the team's own blessings and curses in GEN 9:25–27 and 27:27–29, 39–40 give the
+  wordings: "cursed be" *bèsoqoév*, "let them praise" *yàbeto-eqawát*, "bow down to you" *qoqa megemege-te
+  bēfoyamat*, "you will not be" *qógoák* (for Reuben's "you will no longer excel").
+- The animal likenesses stay likenesses with *andé X me* where the corpus has the animal (lion *layon*, donkey
+  *donki*, snake *wazeam*, wolf *gaqo khobos*, JHN 10:12); where it has none (doe) or no matching word
+  (hamstring, dark eyes) the line is told by its meaning and the store has a gap.
+- The noun "blessing(s)" (25–26) is told as *gigiap eqeieqei* (good things God gives); the verb keeps the two
+  wordings of Genesis 48.
+- Jacob's death follows the team's Abraham (GEN 25:8–10) word for word: *ekeza ezoqam zøpaév, ndigu
+  bugukhokhof go꞉pakhaez* (gathered to his people), the cave *Makpela nandi nqa*, the field bought from the
+  Hittites as *manqei pakha upøgim nonqo* (23:20).
+- A name in the vocative takes the accent on its first syllable (*Lúben!*, *Zúda!*), as *Evézøza* and *Zíona*.
+- **Question for the Kuni team:** Shiloh (49:10) as a name *Sailo*, or "the one to whom it belongs"?
+
+
+## Genesis 50: Jacob's burial, Joseph's forgiveness and death (agent gen050)
+
+- The burial follows the team's Genesis: mourning *mutøkhop neka eiv matev ndøgó* (GEN 23:2), loud wailing *eiv neka
+  osombo kandambá* (MRK 5:38), the cave at Machpelah (GEN 25:9), "they carried him" *ginø-tonqogimám* (ACT 7:16).
+- No word for embalming: told as wrapping the body with spices (JHN 19:39–40); physicians *mulømula etoam ezoqam*
+  (COL 4:14); coffin as a wooden bier *tae kumøkuma* (LUK 7:14, built).
+- Forgiveness as in the Lord's Prayer and on the cross: *sà betaqambo-navøemát* (LUK 11:4), *qo sà betaqambo-navøém*
+  (LUK 23:34); "do not be afraid" *møe ndøgòne᷄m* (binding prohibitive); "Am I in the place of God?" in the team's own
+  words of GEN 30:2 *Gê, no Mbumbukiàm?*
+- Joseph's last words follow HEB 11:22, which retells 50:25: *manqei tozo-ivøvem, noqa bazag vø̀-upatét*.
+- Names: *Atad*, *Eibol-Mizlaim* (Abel-mizraim; the pun not bracketed), *Makil* (Machir). Question for the team:
+  should 'across the Jordan' be 'on the other side' rather than 'near' (*avønin-te*)?
 
 ## The Joseph story in the NT
 
@@ -1608,4 +1651,139 @@ Quotations on this page are from the Kuni team's Genesis and the Kuni NT (credit
   - answers: remnant, preserve you as a remnant, preserve
   - gen045:7.
   - agent:gen045, 2026-10-16
-<!-- store:end sha=66fa39b7 -->
+- **`term:fathered_2sg.g48`** הוֹלַדְתָּ / הַנּוֹלָדִים לְךָ (you fathered; born to you) → **qoqomanaz** [low, decided, by-rule]
+  - NT: GEN 10:3 *Goma gemanaz*; GEN 30:30 *qaqambo-goam*
+  - answers: born to you, fathered, children born to you
+  - 2sg past qoqo- (feature second_person_past) on gemanaz (he fathered, formula:x_father_of_y.h). Built; carries the binding 2.SG.IND qo-. gen048:5, 6.
+  - agent:gen048, 2026-10-21
+- **`formula:before_i_came.g48`** עַד־בֹּאִי אֵלֶיךָ (before I came to you) → **no qo-te fakhaneav qægoam** [high, decided, attested]
+  - NT: GEN 30:30 *fakhaneav qægoam*
+  - answers: before i came, before i came to you
+  - Jacob's own words to Laban (30:30). gen048:5.
+  - agent:gen048, 2026-10-21
+- **`formula:when_i_came_back.g48`** בְּבֹאִי מִ<X> (when I came back from X) → **<X> manqei-te qatøndoqavan ndøgo** [low, decided, by-rule]
+  - NT: GEN 35:9 *gendoqavan ndøgo*
+  - answers: returning, when i was returning
+  - 1sg of our 35:9 'gendoqavan ndøgo' with qatøndo- (as qatøndo-ndap). Built. gen048:7.
+  - agent:gen048, 2026-10-21
+- **`term:ill.g48`** חֹלֶה (ill, sick) → **<X> enqoni mbogó** [high, decided, attested]
+  - NT: JHN 11:3 *enqoni mbogó*; JHN 11:1 *enqoni mbogoám*
+  - answers: ill, sick, is ill
+  - 'Your father is ill' = 'Qoge qave, enqoni mbogó.' gen048:1.
+  - agent:gen048, 2026-10-21
+- **`term:rallied_strength.g48`** וַיִּתְחַזֵּק (rallied his strength) → **bazaføgakh nqawa qamøndæ-vesez** [high, decided, attested]
+  - NT: ACT 9:19 *qamøndæ-vesez*
+  - answers: rallied, rallied his strength, regained strength
+  - Saul's strength came back (ACT 9:19). gen048:2.
+  - agent:gen048, 2026-10-21
+- **`term:sat_up.g48`** וַיֵּשֶׁב עַל־הַמִּטָּה (sat up in bed) → **venanqei nonqo-te sègeqóm** [high, decided, attested]
+  - NT: LUK 7:15 *sègeqóm*
+  - answers: sat up, sat up in bed
+  - The dead young man sat up (LUK 7:15); bed venanqei nonqo (gen047:31). gen048:2.
+  - agent:gen048, 2026-10-21
+- **`formula:god_has_given_me.g48`** אֲשֶׁר־נָתַן־לִי אֱלֹהִים (whom God has given me) → **<X>, ndigu Mbumbukiam genø-etoam** [high, decided, attested]
+  - NT: HEB 2:13 *Mbumbukiam genø-etoam ngínik*
+  - answers: god has given me, given me
+  - The children God has given me (HEB 2:13, from Isaiah). gen048:9.
+  - agent:gen048, 2026-10-21
+- **`term:bless_them_1sg.g48`** וַאֲבָרְכֵם (that I may bless them) → **zenda tøzømbove** [low, decided, by-rule]
+  - NT: GEN 27:19 *tøtaqambo-ve*; HEB 11:21 *zenda gezømbove*
+  - answers: that i may bless them, may bless, bless them
+  - 1sg irrealis of the hand-laying blessing with zø- (them): 27:19 tøtaqambo-ve (you sg) and HEB 11:21 gezømbove. Built. gen048:9; 'when they bless' = zenda tizømbove (ti-, 48:20).
+  - agent:gen048, 2026-10-21
+- **`term:eyesight_poor.g48`** עֵינֵי … כָּבְדוּ מִזֹּקֶן (his eyes were heavy from old age) → **<X> ùnime꞉-lawaqape-év, yaq teqa bøi waev vømbø̄i-navøem** [high, decided, attested]
+  - NT: GEN 27:1 *bøi waev vømbø̄i-navøem*; GEN 25:8 *ùnime꞉-lawaqape-év*
+  - answers: eyesight, eyesight was poor, old age, could hardly see
+  - Isaac's eyes (27:1); 'he could hardly see' = 'Ndego kopømba mbaín, eqeieqei te-omet.' gen048:10.
+  - agent:gen048, 2026-10-21
+- **`term:stretched_out_hand.g48`** וַיִּשְׁלַח … אֶת־יְמִינוֹ (stretched out his right hand) → **teqa nakeamo pingim sège-ovøyám** [high, decided, attested]
+  - NT: MAT 12:13 *pingim sège-ovøyám*
+  - answers: stretched out, stretched, stretched out his hand
+  - Arm = pingim; right = nakeamo, left = yogea (MAT 20:21). gen048:14.
+  - agent:gen048, 2026-10-21
+- **`term:displeased.g48`** וַיֵּרַע בְּעֵינָיו (it was displeasing to him) → **<X> khanakhanakh ùnime꞉-mbaín** [high, decided, attested]
+  - NT: GEN 21:11 *khanakhanakh ùnime꞉-mbaín*
+  - answers: displeased, was displeased, distressed
+  - Abraham's distress (21:11). gen048:17.
+  - agent:gen048, 2026-10-21
+- **`term:refused.g48`** וַיְמָאֵן (he refused) → **poeveáv** [high, decided, attested]
+  - NT: 2TH 2:10 *poeveáv*
+  - answers: refused, refuse
+  - 'he did not want'. gen048:19.
+  - agent:gen048, 2026-10-21
+- **`formula:walk_before_god.g48`** הִתְהַלֵּךְ לִפְנֵי <God> (walk before God) → **<God>, teqa manqat o-mba <subj>-mbøe-ndap** [medium, decided, attested]
+  - NT: GEN 24:40 *manqa o-mba*; GEN 17:1 *manqat o-mba mo꞉ndapé*
+  - answers: walked, walked before, walk before me
+  - 'The LORD, before whom I have walked' (24:40) and 'walk before me' (17:1) = keep his word; 3pl past gimbøe-ndapem built. gen048:15.
+  - agent:gen048, 2026-10-21
+- **`term:shepherd_me.g48`** הָרֹעֶה אֹתִי (who has shepherded me) → **andé sip keoge ezoqam me, no gènø-kewagám** [low, decided, by-rule]
+  - NT: GEN 30:31 *kewag*; HEB 13:20 *sip keoge ezoqa*
+  - answers: shepherd, been my shepherd
+  - Similative andé … me + kewag (look after, tend: gezø-kewagám) with -nø- me; built. gen048:15.
+  - agent:gen048, 2026-10-21
+- **`formula:rescued_me_from_all_evil.g48`** הַגֹּאֵל אֹתִי מִכָּל־רָע (who redeemed me from all harm) → **matev soqøsoqa ate ndægo-te, no mø̀ndø-khandí꞉n** [medium, decided, attested]
+  - NT: 2TI 3:11 *mø̀ndø-khandí꞉n*
+  - answers: redeemed, harm, from all harm
+  - Paul: the Lord rescued me from all of them (2TI 3:11); for גָּאַל used as rescue, not the kinsman's redemption (term:H1350 nqovotáz stays open). gen048:16.
+  - agent:gen048, 2026-10-21
+- **`term:boys.g48`** הַנְּעָרִים (the boys) → **nakhasam** [high, decided, attested]
+  - NT: GEN 21:12 *Nakhasam*
+  - answers: boys, boy, lads
+  - Ishmael 'the boy' (21:12). gen048:16 'nginik nakhasam'.
+  - agent:gen048, 2026-10-21
+- **`term:multiply_wish.g48`** וְיִדְגּוּ לָרֹב (may they grow into a multitude) → **bawan bèzø-khouwevtét** [high, decided, attested]
+  - NT: GEN 1:22 *bawan bèzø-khouwevtét*
+  - answers: multitude, grow into a multitude, multiply
+  - The creation blessing (1:22, 9:1). gen048:16.
+  - agent:gen048, 2026-10-21
+- **`term:peoples.g48`** קְהַל עַמִּים / מְלֹא־הַגּוֹיִם (a company of peoples, a multitude of nations) → **ezoqa bawabawan kopoav ndǿgoát** [medium, decided, attested]
+  - NT: GEN 17:6 *ezoqa bawabawan kandakanda*
+  - answers: peoples, multitude of peoples, multitude of nations, nations
+  - As our 35:11; GEN 17:6 'they will be great nations'. gen048:4, 19.
+  - agent:gen048, 2026-10-21
+- **`term:everlasting_possession.g48`** אֲחֻזַּת עוֹלָם (everlasting possession) → **ate nonqó <give>** [high, decided, attested]
+  - NT: GEN 17:8 *ate nonqó*
+  - answers: everlasting, possession, everlasting possession
+  - 'I will give it to you for ever' (17:8). gen048:4.
+  - agent:gen048, 2026-10-21
+- **`term:pronounce_blessing.g48`** בְּךָ יְבָרֵךְ יִשְׂרָאֵל לֵאמֹר (by you Israel will bless, saying) → **Izlael-ak ezoqa, ekeza nakheis zenda tizømbove ndøgo, zoqa iz-te, āv ti-einim nqǽgo, ‘…’** [low, decided, by-rule]
+  - NT: HEB 11:21 *zenda gezømbove*
+  - answers: pronounce, pronounce this blessing, blessing
+  - 'When Israelites bless their children, they will say by your name: …'; tizømbove built (irrealis ti-). 'May God make you like X' = 'Mbumbukiam qo bèkhakheinøqavém, andé X me'. gen048:20.
+  - agent:gen048, 2026-10-21
+- **`term:ridge.g48`** שְׁכֶם אַחַד (one ridge / portion; Shechem) → **manqei popotap kopo** [low, decided, attested]
+  - NT: GEN 12:8 *manqei popotap*
+  - answers: ridge, ridge of land
+  - Hill country (GEN 12:8 Betel manqei popotap). The pun on Shechem is not kept. gen048:22.
+  - agent:gen048, 2026-10-21
+- **`term:bow.g48`** קֶשֶׁת (bow) → **føif** [high, decided, attested]
+  - NT: GEN 27:3 *Føif neka sanqava*
+  - answers: bow, bow and arrows
+  - Isaac's 'your quiver and bow' (27:3); sword kaiya (term:H2719). gen048:22.
+  - agent:gen048, 2026-10-21
+- **`term:knees.g48`** בִּרְכַּיִם (knees, lap) → **manazap** [medium, decided, attested]
+  - NT: HEB 12:12 *manazap*
+  - answers: knees
+  - gen048:12 'tege eve-qa manazap-te'.
+  - agent:gen048, 2026-10-21
+- **`term:territory_inherit.g48`** בְּנַחֲלָתָם (in their inheritance, the territory they inherit) → **tiqa manqei** [medium, decided, attested]
+  - NT: MAT 5:5 *manqei-qape tiqa ndígu*
+  - answers: territory, inherit, inheritance
+  - term:H5159 'teqa manqei'; gen048:6 'Tiqa manqei ndøgo, tiqa zapikia-za-qa iziz-te ndǿgoát' (their land will be under their brothers' names).
+  - agent:gen048, 2026-10-21
+- **`gap:cross_hands.g48`** שִׂכֵּל אֶת־יָדָיו (he crossed his hands) → **no word for crossing the hands (searched the pack and the lexicon: none); used 'Izlael zenda nqanek matev-te ndøvé' (he put his hands this way)** [low, open, by-rule]
+  - NT: MAT 12:13 *pingim sège-ovøyám*
+  - answers: crossing, crossing his hands, crossed
+  - gen048:14. Question for the Kuni team.
+  - agent:gen048, 2026-10-21
+- **`gap:reckoned.g48`** לִי־הֵם (shall be reckoned as mine) → **no 'reckon, count as' found for persons; 'they are mine' = 'ndigu nogí' / 'nogí ndǿgoát'** [medium, decided, by-rule]
+  - NT: GEN 47:18 *qogí ndígu*
+  - answers: reckoned, reckoned as mine, shall be mine
+  - gen048:5 (our 47:18).
+  - agent:gen048, 2026-10-21
+- **`gap:bring_back_3sg.g48`** וְהֵשִׁיב אֶתְכֶם (and he will bring you back) → **no 3sg-subject 'bring you (pl) back' found (GEN 28:15 has the 1sg ndø̀tøndo-khatóq); used 'Teqa bazaføgakh-te, zo nqawa … manqei-te zógoát' (by his power you will again be in the land)** [low, open, by-rule]
+  - NT: 1PE 2:9 *Zo tegi zógoát*
+  - answers: bring you back, bring back
+  - gen048:21.
+  - agent:gen048, 2026-10-21
+<!-- store:end sha=25f84b8e -->

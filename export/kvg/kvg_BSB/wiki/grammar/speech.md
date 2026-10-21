@@ -154,6 +154,10 @@ gumbo-ein (to her) 13; she says "āv guni-eín nqǽgo" (29:33); answers with -qa
   - NT: 1JN 3:20 *mø̀ndøløvú*; ACT 15:14 *bugukhokhof*
   - 'A, B mø̀ndøløvú' = A exceeds B (1Jn 3:20; Rut 1:13); now = ndakin, before / at first = bugukhokhof
   - agent:rut003, 2026-10-14
+- **`formula:you_are_a_redeemer.tone`** כִּי גֹאֵל אָתָּה / for you are a kinsman-redeemer → **qo nigi ekeza ezoqám, ni nqovotáz-qa nqoqote꞉go** [low, open, by-rule]
+  - NT: REV 19:10 *av qo nqoqote꞉go*; 1CO 7:7 *av no nqate꞉go*; ACT 7:35 *vǿnqovotāz*; MRK 6:23 *Søtaqá-etoám*
+  - 'you are our relative, (there) to redeem us'; 'I am a kinsman-redeemer' = No qoge ekeza ezoqám, qo nqovotaz-qa nqate꞉go (Rut 3:12); 'let him redeem you' = betaqá-nqovotáz, 'I will redeem you' = søtaqá-nqovotáz (built after Søtaqá-etoám, Mrk 6:23); see gap:kinsman_redeemer, gap:redeem_2sg_object | nqovotáz with its tone (term:H1350.tone): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21)
+  - agent:spelling-curation, 2026-10-21, supersedes `formula:you_are_a_redeemer`
 - **`formula:named_him`** they named him <Y> → **iz <Y> mbo-akhaém** [high, decided, attested]
   - NT: LUK 2:21 *iz Yesu mbo-akhaém*
   - Rut 4:17 Obed
@@ -1008,4 +1012,84 @@ gumbo-ein (to her) 13; she says "āv guni-eín nqǽgo" (29:33); answers with -qa
   - answers: more righteous, righteous than i
   - Comparative 'A, B mø̀ndøløvú' (feature comparative) after the plain statement; feminine -qapú as kandambaqapu (REV 19:2). gen038:26.
   - agent:gen038, 2026-10-15
-<!-- store:end sha=7509ccd8 -->
+- **`formula:vocative_name.g49`** vocative of a son's name in a blessing (Reuben! Judah!) → **Lúben! / Zúda!** [medium, decided, by-rule]
+  - NT: JON 1:6 *Zíona*
+  - answers: reuben, judah
+  - Feature vocative.2: a name in the vocative moves its accent to the first syllable (Evézøza, Zíona). Narrative form stays Luben, Zuda. gen049:3, 8.
+  - agent:gen049, 2026-10-21
+- **`formula:cursed_be.g49`** אָרוּר (cursed be X) → **<X> bèsoqoév** [high, decided, attested]
+  - NT: GEN 9:25 *bèsoqoév*
+  - answers: cursed
+  - The team's Noah curse; the anger of Simeon and Levi (gen049:7 'Tiqa qaqa bèsoqoév').
+  - agent:gen049, 2026-10-21
+- **`formula:praise_name.g49`** יוֹדוּךָ (they will praise you) → **qoqa iz yàbeto-eqawát** [medium, decided, attested]
+  - NT: GEN 9:26 *yàbeto-eqawát*
+  - answers: praise
+  - 'Let them praise your name'; echoes the team's meaning of Judah (GEN 29:35 'Iz eqawát'), so the pun needs no bracket. gen049:8.
+  - agent:gen049, 2026-10-21
+- **`formula:bow_down_to_you.g49`** יִשְׁתַּחֲווּ לְךָ (they will bow down to you, blessing) → **qoqa megemege-te bēfoyamat** [high, decided, attested]
+  - NT: GEN 27:29 *bēfoyamat*
+  - answers: bow down
+  - Isaac's blessing; gen049:8.
+  - agent:gen049, 2026-10-21
+- **`formula:blessings_good_things.g49`** בִּרְכֹת (blessings of heaven, deep, breasts and womb) → **gigiap eqeieqei (good things)** [low, decided, by-rule]
+  - NT: LUK 1:53 *gigiap eqeieqei*
+  - answers: blessings, blessing
+  - The noun 'blessing' as the good things God gives; the verb stays khakheinøv / zenda ...ve. gen049:25-26.
+  - agent:gen049, 2026-10-21
+- **`formula:bury_me_2pl.g49`** קִבְרוּ אֹתִי (bury me, to several) → **no ... zó-otøvém (built)** [low, decided, by-rule]
+  - NT: GEN 25:10 *tinø-otøvém*; MRK 15:46 *otøv*
+  - answers: bury
+  - 2pl imperative zó- (as zó-ovobém, zó-uzám) on otøv. gen049:29.
+  - agent:gen049, 2026-10-21
+- **`formula:gathered_to_people_1sg.g49`** אֲנִי נֶאֱסָף אֶל־עַמִּי (I am about to be gathered to my people) → **Nøkeza ezoqam nø̀zøpāev, ndigu bugukhokhof go꞉pakhaez.** [medium, decided, attested]
+  - NT: GEN 25:8 *ekeza ezoqam zøpaév*
+  - answers: gathered, about to be gathered
+  - 1sg of the team's 25:8 with nø̀zøpāev (attested once); 3sg in 49:33 verbatim as 25:8. gen049:29, 33.
+  - agent:gen049, 2026-10-21
+- **`formula:finished_instructing.g49`** וַיְכַל ... לְצַוֹּת (finished instructing) → **<X> manqa løvuat qamømbøe-navøem** [high, decided, attested]
+  - NT: MAT 11:1 *manqa løvuat qamømbøe-navøem*
+  - answers: finished, instructing
+  - gen049:33; breathed his last = sasa ndønanim (MRK 15:37).
+  - agent:gen049, 2026-10-21
+- **`formula:mourning_rite.g50`** אֵבֶל / מִסְפֵּד (mourning, lamentation, 50:10-11) → **mutøkhop neka eiv matev ndøgó; eiv neka osombo kandambá geqeiv** [high, decided, attested]
+  - NT: GEN 23:2 *mutøkhop neka eiv matev*; MRK 5:38 *eiv neka osombo kandambá*
+  - answers: mourning, lamented, lamentation, mourned
+  - The team's Gen 23:2 for mourning, MRK 5:38 for loud wailing. gen050:10-11.
+  - agent:gen050, 2026-10-21
+- **`formula:forgive_sin.g50`** שָׂא נָא לְפֶשַׁע (please forgive the transgression, 50:17) → **manqa-zapazapa, qo sà betaqambo-navøém (sg) / sà betaqambo-navøemát (us)** [high, decided, attested]
+  - NT: LUK 23:34 *sà betaqambo-navøém*; LUK 11:4 *sà betaqambo-navøemát*
+  - answers: forgive, transgression, transgressions
+  - Forgive = let the wrong go; the plea particle sà carries 'please'. gen050:17.
+  - agent:gen050, 2026-10-21
+- **`formula:grudge.g50`** יִשְׂטְמֵנוּ (bears a grudge against us, 50:15) → **ni-te mbøni nqosøgeap ndǿgoát?** [medium, decided, attested]
+  - NT: GEN 27:45 *mbøni nqosøgeap*
+  - answers: grudge
+  - Anger kept against someone, as Esau's in the team's Gen 27:45. gen050:15.
+  - agent:gen050, 2026-10-21
+- **`formula:kindly.g50`** וַיְנַחֵם... וַיְדַבֵּר עַל־לִבָּם (reassured them and spoke kindly, 50:21) → **tanakh mbogó ti-te, neka manqat eqeieqei vøzø̄-ein** [medium, decided, attested]
+  - NT: ACT 27:3 *tanakh mbogó*; RUT 2:13 *tøke kandambá*
+  - answers: reassured, kindly, comforted
+  - gen050:21.
+  - agent:gen050, 2026-10-21
+- **`formula:if_found_favor_pl.g50`** אִם־נָא מָצָאתִי חֵן בְּעֵינֵיכֶם (if I have found favor in your eyes, 50:4) → **Zo poev tøzøgoat no-te** [high, decided, attested]
+  - NT: GEN 18:3 *Zo poev tøzøgoat no-te*
+  - answers: favor
+  - The team's Gen 18:3, 2pl. gen050:4.
+  - agent:gen050, 2026-10-21
+- **`formula:carry_bones.g50`** וְהַעֲלִתֶם אֶת־עַצְמֹתַי (carry my bones up, 50:25) → **manqei tozo-ivøvem, noqa bazag vø̀-upatét** [high, decided, attested]
+  - NT: HEB 11:22 *Noqa bazag vø̀-upatét*
+  - answers: bones
+  - HEB 11:22 retells this verse. gen050:25.
+  - agent:gen050, 2026-10-21
+- **`formula:god_will_visit.g50`** פָּקֹד יִפְקֹד אֱלֹהִים אֶתְכֶם (God will surely visit you, 50:24-25) → **Mbumbukiam unimanqatín, zo-te okha tenøwáv** [low, decided, by-rule]
+  - NT: ACT 7:23 *okha ndøwáv*
+  - answers: visit, attend
+  - 'Go to see (take care of)' as Moses visiting his people (ACT 7:23); future tenøwáv built. gen050:24-25.
+  - agent:gen050, 2026-10-21
+- **`formula:god_meant_good.g50`** אֱלֹהִים חֲשָׁבָהּ לְטֹבָה (God intended it for good, 50:20) → **Zoqa poev ... matev soqøsoqa ndøgoám. Geté Mbumbukiam-qa poev, matev eqeieqei ndøgoám** [medium, decided, by-rule]
+  - NT: LUK 22:22 *Mbumbukiam-qa poev*
+  - answers: intended
+  - poev 'mind, purpose'. gen050:20.
+  - agent:gen050, 2026-10-21
+<!-- store:end sha=ca6d1c00 -->

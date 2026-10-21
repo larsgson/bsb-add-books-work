@@ -26,3 +26,5 @@ date	chapter	familiarity	tokens	calls	minutes	note
 2026-10-20	gen046	unknown	422913	72	15.1	NLLB-start test arm C2 (2026-10-19; not kept as the chapter)
 2026-10-21	gen046	unknown	350000			book agent, pack v2 (Mac pack A/B round 3, round3-v2); handed over after 46; gen046-047 together 160 calls, 32 min
 2026-10-21	gen047	unknown	93000			book agent after the handover (Mac pack A/B round 3, round3-v2); calls and minutes in the gen046 row
+2026-10-21	gen048	unknown	312727	108	20	
+2026-10-21	gen049	unknown	173970	98	31	

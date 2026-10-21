@@ -12036,6 +12036,227 @@
    "basis_corpus": [
     "KVG-KuNT"
    ]
+  },
+  {
+   "id": "gap:cross_hands.g48",
+   "kind": "gap",
+   "source": "שִׂכֵּל אֶת־יָדָיו (he crossed his hands)",
+   "value": "no word for crossing the hands (searched the pack and the lexicon: none); used 'Izlael zenda nqanek matev-te ndøvé' (he put his hands this way)",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "MAT 12:13",
+     "form": "pingim sège-ovøyám"
+    }
+   ],
+   "confidence": "low",
+   "method": "corpus-observed",
+   "by": "agent:gen048",
+   "date": "2026-10-21",
+   "status": "open",
+   "words": [
+    "crossing",
+    "crossing his hands",
+    "crossed"
+   ],
+   "note": "gen048:14. Question for the Kuni team."
+  },
+  {
+   "id": "gap:reckoned.g48",
+   "kind": "gap",
+   "source": "לִי־הֵם (shall be reckoned as mine)",
+   "value": "no 'reckon, count as' found for persons; 'they are mine' = 'ndigu nogí' / 'nogí ndǿgoát'",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "GEN 47:18",
+     "form": "qogí ndígu"
+    }
+   ],
+   "confidence": "medium",
+   "method": "corpus-observed",
+   "by": "agent:gen048",
+   "date": "2026-10-21",
+   "status": "decided",
+   "words": [
+    "reckoned",
+    "reckoned as mine",
+    "shall be mine"
+   ],
+   "note": "gen048:5 (our 47:18)."
+  },
+  {
+   "id": "gap:bring_back_3sg.g48",
+   "kind": "gap",
+   "source": "וְהֵשִׁיב אֶתְכֶם (and he will bring you back)",
+   "value": "no 3sg-subject 'bring you (pl) back' found (GEN 28:15 has the 1sg ndø̀tøndo-khatóq); used 'Teqa bazaføgakh-te, zo nqawa … manqei-te zógoát' (by his power you will again be in the land)",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "1PE 2:9",
+     "form": "Zo tegi zógoát"
+    }
+   ],
+   "confidence": "low",
+   "method": "corpus-observed",
+   "by": "agent:gen048",
+   "date": "2026-10-21",
+   "status": "open",
+   "words": [
+    "bring you back",
+    "bring back"
+   ],
+   "note": "gen048:21."
+  },
+  {
+   "id": "gap:doe.g49",
+   "kind": "gap",
+   "source": "אַיָּלָה (doe, hind)",
+   "value": "searched deer|doe|hind: none; used 'andé søvakha sævam me' (like a female animal)",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "1PE 5:8",
+     "form": "andé layon"
+    }
+   ],
+   "confidence": "low",
+   "method": "corpus-observed",
+   "by": "agent:gen049",
+   "date": "2026-10-21",
+   "status": "open",
+   "words": [
+    "doe",
+    "fawns"
+   ],
+   "note": "gen049:21."
+  },
+  {
+   "id": "gap:defile.g49",
+   "kind": "gap",
+   "source": "חִלַּלְתָּ (you defiled [the bed])",
+   "value": "no verb 'make unclean' for a thing; used 'matev soqaqape qoqo-matanam' (you did this evil thing, GEN 4:10)",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "GEN 4:10",
+     "form": "qoqo-matanam"
+    }
+   ],
+   "confidence": "low",
+   "method": "corpus-observed",
+   "by": "agent:gen049",
+   "date": "2026-10-21",
+   "status": "open",
+   "words": [
+    "defiled",
+    "defile",
+    "couch"
+   ],
+   "note": "gen049:4; went up = qoqo-oq (ACT 11:3)."
+  },
+  {
+   "id": "gap:dark_eyes.g49",
+   "kind": "gap",
+   "source": "חַכְלִילִי עֵינַיִם (dark / red of eyes)",
+   "value": "no colour word for dark red; used 'bøivun-ús' (built, having darkness)",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "MAT 28:3",
+     "form": "ùnime꞉-papaqá"
+    }
+   ],
+   "confidence": "low",
+   "method": "corpus-observed",
+   "by": "agent:gen049",
+   "date": "2026-10-21",
+   "status": "open",
+   "words": [
+    "darker",
+    "whiter"
+   ],
+   "note": "whiter = ùnime꞉-papaqá. gen049:12."
+  },
+  {
+   "id": "gap:granddaughter.g46",
+   "kind": "gap",
+   "source": "בְנוֹת בָּנָיו (granddaughters, his sons' daughters)",
+   "value": "no word for granddaughter (searched BSB granddaughter: none; zeo is a grandson): nakhei angana-gi nakhei mbasi (his sons' daughters); grandsons = tigi nakhei angana (their sons)",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "2CO 6:18",
+     "form": "nakhei mbasi"
+    },
+    {
+     "ref": "GEN 11:31",
+     "form": "zeo"
+    }
+   ],
+   "confidence": "medium",
+   "method": "corpus-observed",
+   "by": "agent:gen046",
+   "date": "2026-10-21",
+   "status": "open",
+   "words": [
+    "granddaughters",
+    "granddaughter",
+    "grandsons"
+   ],
+   "note": "gen046:7."
+  },
+  {
+   "id": "gap:direct_descendants.g46",
+   "kind": "gap",
+   "source": "יֹצְאֵי יְרֵכוֹ (those who came from his loins, his direct descendants)",
+   "value": "no model for \"from his body\": tegi zi (his offspring, term:H2233.g)",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "GEN 5:1",
+     "form": "tegi zi"
+    }
+   ],
+   "confidence": "medium",
+   "method": "corpus-observed",
+   "by": "agent:gen046",
+   "date": "2026-10-21",
+   "status": "open",
+   "words": [
+    "direct descendants",
+    "direct",
+    "belonging to"
+   ],
+   "note": "gen046:26."
+  },
+  {
+   "id": "gap:faithfulness.g47",
+   "kind": "gap",
+   "source": "חֶסֶד וֶאֱמֶת (kindness and faithfulness, of a son to his father)",
+   "value": "no word for faithfulness in a promise: 'matev mbomømboma āv qoté-matønumát, no-te, av manqa mbusa toqove ndægo' (do good to me, as you will promise; built toqove)",
+   "attested": "by-rule",
+   "evidence": [
+    {
+     "ref": "GEN 24:27",
+     "form": "av manqa mbusa gembøeve"
+    },
+    {
+     "ref": "GEN 21:23",
+     "form": "āv qoté-matønumát"
+    }
+   ],
+   "confidence": "low",
+   "method": "corpus-observed",
+   "by": "agent:gen047",
+   "date": "2026-10-21",
+   "status": "open",
+   "words": [
+    "faithfulness",
+    "kindness and faithfulness",
+    "show me kindness"
+   ],
+   "note": "Kindness = matev mbomømboma (term:H2617.h); faithfulness as keeping the promise (GEN 24:27). gen047:29. Question for the Kuni team."
   }
  ]
 }

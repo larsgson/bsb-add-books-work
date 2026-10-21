@@ -1024,4 +1024,24 @@ Adulam-ak (Adullamite), Kezib vemiav (Chezib), Timna taon (Timnah), Enaim vemiav
   - answers: on
   - A town: name + taon (place_class_noun). gen041:45, 50.
   - agent:gen041, 2026-10-16
-<!-- store:end sha=bdec7e4a -->
+- **`name:shiloh.g49`** שִׁילֹה (Shiloh, 49:10) → **Sailo** [low, decided, by-rule]
+  - NT: GEN 30:18 *Isaka mbo-akhá*
+  - answers: shiloh
+  - Not in the corpus; letter rules sh -> s, long i -> ai (Saemon, Saedon). Read as a name as the BSB; the other reading (the one to whom tribute belongs) is for the team. gen049:10.
+  - agent:gen049, 2026-10-21
+- **`name:atad.g50`** גֹּרֶן הָאָטָד (the threshing floor of Atad, 50:10-11) → **Atad (Atad-qa bali nanga tøkuza manqei)** [medium, decided, by-rule]
+  - NT: RUT 3:2 *bali nanga tøkuza manqei*
+  - answers: atad
+  - Name by the letter table (unchanged); threshing floor as the human Ruth (term:H1637.h). gen050:10-11.
+  - agent:gen050, 2026-10-21
+- **`name:abel_mizraim.g50`** אָבֵל מִצְרַיִם (Abel-mizraim, 50:11) → **Eibol-Mizlaim** [low, decided, by-rule]
+  - NT: GEN 4:8 *Eibol*
+  - answers: mizraim, abel-mizraim
+  - Eibol as the store's Abel (same letters in the Hebrew of the first part is 'mourning', not Abel's name), r -> l. The pun (mourning of Egypt) is not shown; for the team. gen050:11.
+  - agent:gen050, 2026-10-21
+- **`name:machir.g50`** מָכִיר (Machir, 50:23) → **Makil** [low, decided, by-rule]
+  - NT: MAT 1:5 *Boaz*
+  - answers: machir
+  - Letter rules ch -> k, r -> l. gen050:23.
+  - agent:gen050, 2026-10-21
+<!-- store:end sha=c50c06a4 -->

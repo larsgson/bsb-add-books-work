@@ -432,9 +432,24 @@ Joseph's robe, the household gods; see [looking ahead](genesis-31-50.md).
   - answers: below, beneath
   - Deborah was buried below Bethel (downhill). If the team has a word for 'downhill from', use it.
   - agent:gen035, 2026-10-15
+- **`gap:doe.g49`** אַיָּלָה (doe, hind) → **searched deer|doe|hind: none; used 'andé søvakha sævam me' (like a female animal)** [low, open, by-rule]
+  - NT: 1PE 5:8 *andé layon*
+  - answers: doe, fawns
+  - gen049:21.
+  - agent:gen049, 2026-10-21
+- **`gap:defile.g49`** חִלַּלְתָּ (you defiled [the bed]) → **no verb 'make unclean' for a thing; used 'matev soqaqape qoqo-matanam' (you did this evil thing, GEN 4:10)** [low, open, by-rule]
+  - NT: GEN 4:10 *qoqo-matanam*
+  - answers: defiled, defile, couch
+  - gen049:4; went up = qoqo-oq (ACT 11:3).
+  - agent:gen049, 2026-10-21
+- **`gap:dark_eyes.g49`** חַכְלִילִי עֵינַיִם (dark / red of eyes) → **no colour word for dark red; used 'bøivun-ús' (built, having darkness)** [low, open, by-rule]
+  - NT: MAT 28:3 *ùnime꞉-papaqá*
+  - answers: darker, whiter
+  - whiter = ùnime꞉-papaqá. gen049:12.
+  - agent:gen049, 2026-10-21
 - **`gap:hot_springs.g`** הַיֵּמִם (hot springs, Gen 36:24; meaning uncertain) → **ibøkha tatas … ndøgo manqei mokho-té qando-fakhatám (hot water that came up out of the ground)** [low, open, by-rule]
   - NT: GEN 2:6 *manqei mokho-té qando-fakhatám*; REV 3:15 *tatás*
   - answers: hot springs, hot, springs
   - Searched 'spring(s)' and 'hot': no hot spring in the corpus. Built from the springs of Gen 2:6 (water came up from the earth) and tatas (hot, REV 3:15); the explanation stays in the text as the team does. Question for the Kuni team.
   - agent:gen036, 2026-10-15
-<!-- store:end sha=32757977 -->
+<!-- store:end sha=9e2c6f30 -->

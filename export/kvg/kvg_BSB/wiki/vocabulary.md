@@ -338,6 +338,10 @@ successor, the successor is the one the verse packs use.
   - NT: JHN 1:39 *khagús*; ACT 28:23
   - until evening = atema khagús
   - agent:rut002, 2026-10-14
+- **`term:H1350.tone`** H1350 (redeem; kinsman-redeemer) → **nqovotáz** [low, open, attested]
+  - NT: ACT 7:34 *nónqovotáz*; MAT 20:28 *tèabete-nqovotáz*; ACT 7:35 *vǿnqovotāz*; LUK 1:68 *génqovotán*
+  - redeem, set free; no noun for the kinsman-redeemer, see gap:kinsman_redeemer | written nqovotáz (4x; nqovotāz 1x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21)
+  - agent:spelling-curation, 2026-10-21, supersedes `term:H1350`
 - **`term:H3615`** H3615 (finish, complete) → **navøem** [medium, decided, attested]
   - NT: ACT 13:25 *qambøe-navøemtat*; REV 15:8 *bètøkhæ-navøém*; MAT 8:13 *tø̀mbøe-navøém*
   - 'until they finish' = atema ... vømǿ-navøēm (after atema Evezøza vømǿfakhān, 1Co 4:5)
@@ -396,10 +400,10 @@ successor, the successor is the one the verse packs use.
   - NT: MAT 27:43 *poev tømbogoat*; 1CO 7:28 *poeveáv*; 1CO 10:27 *tøkeeav tøgoat*
   - 'if he wants to redeem you' = qo nqovotaz-qa poev tømbogoat (Mat 27:43 'if He wants Him'); 'if he does not want' = poeveav tøgoat (after 'tøkeeav tøgoat' if he does not help, 1Co 10:27)
   - agent:rut003, 2026-10-14
-- **`term:H5234`** H5234 (recognize) → **matøvem** [medium, decided, attested]
-  - NT: ACT 3:10 *Gimatøvemem*; JHN 21:4 *matavapøteáv, av nqægo*
-  - 'they recognized that' = gimatøvemem, av nqægo; 'did not recognize that it was X' = matavapøteáv, av nqægo, ngenek X (Jhn 21:4), used in Rut 3:14
-  - agent:rut003, 2026-10-14
+- **`term:H5234.tone`** H5234 (recognize) → **matøvém** [medium, decided, attested]
+  - NT: ACT 3:10 *Gimatøvemem*; 1CO 14:24 *segé-matøvém*; JHN 21:4 *matavapøteáv, av nqægo*
+  - 'they recognized that' = gimatøvemem, av nqægo; 'did not recognize that it was X' = matavapøteáv, av nqægo, ngenek X (Jhn 21:4), used in Rut 3:14 | written matøvém (26x; matøvēm 2x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21) After a hyphen the text writes -matøvém (segé-matøvém, qate-matøvém); fused words have no mark (gematøvem, gimatøvemem, ACT 3:10).
+  - agent:spelling-curation, 2026-10-21, supersedes `term:H5234`
 - **`term:H3045know`** H3045 (know; they know that) → **mø̀ndæzøtéz** [high, decided, attested]
   - NT: 2CO 4:2; JHN 17:8; 1CO 2:11 *mè꞉-otevák*
   - 'they know that ...' = ndigu mø̀ndæzøtéz, <content> (2Co 4:2); I know = mø̀tenøtén; 'no one will know' = Ezoqa mè꞉-otevák (1Co 2:11), used for 'do not let it be known' (Rut 3:3, 3:14); see gap:not_let_known
@@ -1034,11 +1038,11 @@ successor, the successor is the one the verse packs use.
   - answers: between, in the midst of, in the middle
   - livin-te = in the middle of (Act 12:6 Peter between two soldiers; Act 8:25 on the way).
   - agent:gen001, 2026-10-15
-- **`term:H7200appear`** H7200 (Niphal: appear) → **befakhan** [medium, decided, by-rule]
-  - NT: REV 12:1 *ndøfakhán*
+- **`term:H7200appear.tone`** H7200 (Niphal: appear) → **befakhán** [medium, decided, by-rule]
+  - NT: REV 12:1 *ndøfakhán*; LUK 1:38 *befakhán*; LUK 22:42 *befakhán*
   - answers: appear, may appear
-  - fakhan = come out, appear (Rev 12:1, 12:3 a sign appeared); optative befakhan (8x).
-  - agent:gen001, 2026-10-15
+  - fakhan = come out, appear (Rev 12:1, 12:3 a sign appeared); optative befakhan (8x). | the optative is written befakhán / bèfakhán ('let it be', LUK 1:38, 22:42); befàkha᷄n with the prohibitive tone is 'it must not be' (4x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21)
+  - agent:spelling-curation, 2026-10-21, supersedes `term:H7200appear`
 - **`term:H4327`** H4327 לְמִינוֹ (according to its kind) → **bugug vinivinimbá** [high, decided, attested]
   - NT: ACT 10:12 *bugug vinivinimbá*
   - answers: according to its kind, according to their kinds, after its kind, kind, kinds
@@ -1834,4 +1838,149 @@ successor, the successor is the one the verse packs use.
   - answers: sheepshearers, shearers
   - Agent noun (feature agent_noun) on term H1494 (su qogem-, shear). gen038:12.
   - agent:gen038, 2026-10-15
-<!-- store:end sha=6e012b60 -->
+- **`term:council.g49`** סוֹד (council, 49:6) → **manqa ovøyam** [high, decided, attested]
+  - NT: MAT 10:17 *manqa ovøyam-té*
+  - answers: council
+  - Glossary: Zu ezoqam-gi manqa ovøyam megetapak (Council). gen049:6 'No tiqa manqa ovøyam-te nógoák' (I will not be in their council).
+  - agent:gen049, 2026-10-21
+- **`term:join_neg1sg.g49`** אַל־תֵּחַד כְּבֹדִי (may I never join, 49:6) → **nótøkuák (built)** [low, decided, by-rule]
+  - NT: ACT 5:13 *tøkuateáv*
+  - answers: join, assembly
+  - Join = tøkua (ACT 5:13 'did not join them'); 1sg negative future nó-...-ák (nólogák, nóndapák). Built. gen049:6.
+  - agent:gen049, 2026-10-21
+- **`term:hamstring.g49`** עִקְּרוּ־שׁוֹר (hamstrung oxen) → **kao-qa tokhotapak vø̄kepøtøzem (cut the cattle's legs)** [low, decided, by-rule]
+  - NT: LUK 14:19 *kao*; MAT 22:4 *kao angana*
+  - answers: hamstring, oxen
+  - No word for hamstring; 'cut the legs' with kepøtøz (cut). kao = cattle/oxen. gen049:6.
+  - agent:gen049, 2026-10-21
+- **`term:scatter_1sg_fut.g49`** אֲחַלְּקֵם / אֲפִיצֵם (I will divide / scatter them) → **ndæ̀zø-panqasam / ndæ̀zø-ngeasám (built)** [low, decided, by-rule]
+  - NT: GEN 11:8 *ndø-panqasam*; JHN 10:12 *segé-ngeasám*
+  - answers: disperse, scatter
+  - 1sg future with zø- as ndæ̀zø-etoám (48:4). gen049:7.
+  - agent:gen049, 2026-10-21
+- **`term:neck.g49`** עֹרֶף / צַוָּאר (neck) → **monqo** [medium, decided, attested]
+  - NT: LUK 17:2 *monqo*
+  - answers: necks, neck
+  - gen049:8 'qogi qaqa ezoqam-qa monqo-te' (on your enemies' necks).
+  - agent:gen049, 2026-10-21
+- **`term:lion.g49`** אַרְיֵה / גּוּר אַרְיֵה / לָבִיא (lion, young lion, lioness) → **layon; layon ndakinak; layon sævam** [medium, decided, attested]
+  - NT: 1PE 5:8 *layon*; JHN 12:14 *donki ndakinak*; REV 4:7 *kao anganeám*
+  - answers: lion, young lion, lioness
+  - Glossary Layon; young = ndakinak; female animal by sævam (as kao anganeam for a bull). gen049:9.
+  - agent:gen049, 2026-10-21
+- **`term:rouse.g49`** מִי יְקִימֶנּוּ (who will rouse him?) → **Gê, gekha ezoqām, ndego gembo-tiû? (built)** [low, decided, by-rule]
+  - NT: ACT 12:7 *vø̄tiu*
+  - answers: rouse, dares
+  - tiu = wake someone (ACT 12:7); 3sg + mbo- + question circumflex built. gen049:9.
+  - agent:gen049, 2026-10-21
+- **`term:scepter.g49`** שֵׁבֶט / מְחֹקֵק (scepter, ruler's staff) → **kawa ezoqam-qa khamokh; kawa tatuag** [medium, decided, attested]
+  - NT: REV 2:27 *khamokh*; MAT 27:30 *tatuag*
+  - answers: scepter, staff
+  - 'will not depart' = 'will never end' (gemǿ-navøemák, 1PE 1:4). gen049:10.
+  - agent:gen049, 2026-10-21
+- **`term:tie_donkey.g49`** אֹסְרִי לַגֶּפֶן עִירֹה (tying his donkey to the vine) → **donki, waen tae-te, gemopotavám (built)** [low, decided, by-rule]
+  - NT: MAT 21:2 *gémopotavát*; JHN 15:1 *waen táe*
+  - answers: ties, tied, vine
+  - tie = mopotav (a donkey tied, MAT 21:2; gumopotavám once); 3sg past built. colt = donki nakhasam (LUK 19:30). gen049:11.
+  - agent:gen049, 2026-10-21
+- **`term:wash_clothes.g49`** כִּבֵּס לְבֻשׁוֹ (washed his garments) → **ndabua ... gesunguz** [medium, decided, attested]
+  - NT: REV 7:14 *ginisungúz*; REV 22:14 *ndabua ndisunguzu*
+  - answers: washes, wash
+  - gesunguz attested 2x. gen049:11.
+  - agent:gen049, 2026-10-21
+- **`term:harbor.g49`** חוֹף אֳנִיּוֹת (haven for ships) → **palai khagua-qa pu** [medium, decided, attested]
+  - NT: ACT 27:8 *khagua pu*; ACT 20:13 *palai khagua*
+  - answers: harbor, ships, ship
+  - Seashore = ndaola ndøgeg (HEB 11:12). gen049:13.
+  - agent:gen049, 2026-10-21
+- **`term:seashore.g49`** חוֹף יַמִּים (seashore) → **ndaola ndøgeg** [high, decided, attested]
+  - NT: HEB 11:12 *ndøgeg*; GEN 22:17 *ndaola ndøgeg-te*
+  - answers: seashore, shore
+  - gen049:13.
+  - agent:gen049, 2026-10-21
+- **`term:sheepfold.g49`** מִשְׁפְּתַיִם (sheepfolds) → **sip-qa khoev** [medium, decided, attested]
+  - NT: JHN 10:1 *sip-qa khoev-te*
+  - answers: sheepfolds, sheepfold
+  - gen049:14.
+  - agent:gen049, 2026-10-21
+- **`term:judge_people.g49`** יָדִין עַמּוֹ (he will judge his people) → **ekeza bawan ezoqa gezømbó-kawaevtát (he will rule his people)** [medium, decided, attested]
+  - NT: REV 2:27 *gezømbó-kawaevtát*
+  - answers: provide justice, judge, justice
+  - Tribe = khagua bawan (HEB 7:14). gen049:16.
+  - agent:gen049, 2026-10-21
+- **`term:viper_bite.g49`** שְׁפִיפֹן / הַנֹּשֵׁךְ (viper, that bites) → **waza soqaqape; vømbōtag (bit)** [medium, decided, attested]
+  - NT: LUK 3:7 *waza soqøsoqa*; ACT 28:3 *vømbōtag*
+  - answers: viper, bites
+  - Rider = ezoqam ... hos vō꞉qotam (REV 6:2); fell = vø̄bøi. gen049:17.
+  - agent:gen049, 2026-10-21
+- **`term:wait_for.g49`** קִוִּיתִי (I wait for) → **nqækewag (built)** [low, decided, by-rule]
+  - NT: ACT 1:4 *tozombøé-kewagát*; ACT 17:16 *gezømbo-kewagam*
+  - answers: await, wait
+  - kewag = wait for; 1sg present nqæ- (feature present_nq). gen049:18.
+  - agent:gen049, 2026-10-21
+- **`term:raiders.g49`** גְּדוּד (band of raiders) → **nakhag ezoqa ... ndǿnøfeapāt (fighters will fight)** [medium, decided, attested]
+  - NT: REV 6:2 *Nakhag ezoqam*; 1CO 9:7 *nakhag ezoqa*
+  - answers: raiders, attacked, attack
+  - gen049:19.
+  - agent:gen049, 2026-10-21
+- **`term:rich_food.g49`** שְׁמֵנָה לַחְמוֹ (his food rich) → **lou enaq-ús** [medium, decided, attested]
+  - NT: GEN 27:39 *manqei enaq-us*
+  - answers: rich, delicacies
+  - delicacies = lou mbomømboma (good food). gen049:20.
+  - agent:gen049, 2026-10-21
+- **`term:wolf.g49`** זְאֵב יִטְרָף (a wolf that tears) → **gaqo khobos** [high, decided, attested]
+  - NT: JHN 10:12 *gaqo khobos*
+  - answers: wolf, ravenous
+  - gen049:27; plunder divided = 'gives things to each' (izuizu ndøzø-etoam).
+  - agent:gen049, 2026-10-21
+- **`term:archers.g49`** בַּעֲלֵי חִצִּים (archers) → **føif ezoqam; arrows sanqava** [low, decided, by-rule]
+  - NT: EPH 6:16 *sanqava*; REV 6:2 *føif mbogoám*
+  - answers: archers, arrows
+  - Bow man; built. gen049:23.
+  - agent:gen049, 2026-10-21
+- **`term:fruitful_bough.g49`** בֵּן פֹּרָת (fruitful bough) → **tae nanga-us (built)** [low, decided, by-rule]
+  - NT: JHN 15:4 *tae-te*; REV 22:2 *tae nanga*
+  - answers: fruitful, fruitful vine
+  - -us having suffix on nanga (fruit). Spring = ibøkha ozu. gen049:22.
+  - agent:gen049, 2026-10-21
+- **`term:help_opt.g49`** וְיַעְזְרֶךָּ (and he will help you, blessing) → **qo betaqa-tøké (built)** [low, decided, by-rule]
+  - NT: 2CO 1:11 *zòni-tøkeé*; GEN 27:10 *betaqambē-ve*
+  - answers: helps, help
+  - Optative betaqa- (for you sg) + tøke (help). Likewise 'may he give you' betaqa-etoám. gen049:25.
+  - agent:gen049, 2026-10-21
+- **`term:physicians.g50`** הָרֹפְאִים (the physicians, 50:2) → **mulømula etoam ezoqam** [high, decided, attested]
+  - NT: COL 4:14 *mulømula etoam ezoqam*; LUK 4:23 *Mulømula etoam ezoqam*
+  - answers: physicians, physician
+  - The NT's 'medicine-giving man'. gen050:2.
+  - agent:gen050, 2026-10-21
+- **`term:embalm.g50`** חָנַט (embalm, 50:2, 50:26) → **kha, tae etet sisip mbomømboma namba, vø̄e-gutøvem (wrapped the body with sweet-smelling spices)** [medium, decided, attested]
+  - NT: JHN 19:40 *vø̄e-gutøvem*; JHN 19:39 *tae etet sisip mbomømboma*
+  - answers: embalm, embalmed, embalming
+  - No NT word for embalming; described with Jesus' burial (spices, wrapping). Command form bèzø-gutøvém (let them wrap) built with the optative bè-. gen050:2, 26.
+  - agent:gen050, 2026-10-21
+- **`term:embalming_time.g50`** יְמֵי הַחֲנֻטִים (the days of embalming, 50:3) → **kha gutøveav matev** [low, decided, by-rule]
+  - NT: JHN 19:40 *vø̄e-gutøvem*; GEN 6:14 *gutøveav*
+  - answers: embalming
+  - Nominal gutøveav (attested 4x) + matev 'custom, way'. gen050:3.
+  - agent:gen050, 2026-10-21
+- **`term:bury_purpose.g50`** לִקְבֹּר (to bury, 50:7, 50:14) → **otav-qa** [low, decided, by-rule]
+  - NT: MAT 8:21 *bàtøkhæ-otáv*; GEN 45:7 *khandi꞉zat-qa*
+  - answers: bury
+  - Purpose 'to bury his father' built: stem otav (MAT 8:21) + purposive -qa as khandi꞉zat-qa. Check with the team. gen050:7, 14.
+  - agent:gen050, 2026-10-21
+- **`term:provide_food_2pl.g50`** אֲכַלְכֵּל אֶתְכֶם (I will provide for you (pl), 50:21) → **lou søtazǿ-etoám** [low, decided, by-rule]
+  - NT: GEN 45:11 *søtaqá-etoám*
+  - answers: provide, provided
+  - Built from formula:provide_for.g45 (2sg søtaqá-) with the 2pl object zø as in zǿ-etoám. Check with the team. gen050:21.
+  - agent:gen050, 2026-10-21
+- **`term:coffin.g50`** אָרוֹן (coffin, 50:26) → **tae kumøkuma** [low, decided, by-rule]
+  - NT: LUK 7:14 *kumøkuma*
+  - answers: coffin
+  - The NT's bier; tae 'wood'. gen050:26.
+  - agent:gen050, 2026-10-21
+- **`term:horsemen.g50`** פָּרָשִׁים (horsemen, 50:9) → **hos-us ezoqam** [medium, decided, attested]
+  - NT: ACT 23:32 *hos-us*
+  - answers: horsemen
+  - gen050:9.
+  - agent:gen050, 2026-10-21
+<!-- store:end sha=05f13cf1 -->
