@@ -37,3 +37,12 @@ attribution: ""
 credit: "Kuni NT © 2015 Wycliffe Switzerland, CC BY-NC-ND 4.0 (https://ebible.org/kvg/); quoted from the published text"
 published_also: ["import/non-free/kvg/KVG-KuNT/source/KVG-01GEN-Kuni 1-30.sfm"]  # Genesis 1-30, published by the team (not on eBible)
 published_text: download/editions/kvg/kvg_usfm.zip   # text/ is a newer working copy; quotations must match the published text
+
+# The approval of work derived from this edition (docs/licensing.md, *Three output paths*): projects under
+# local_output/ may build on it; their output goes back to the team and is never published by us.
+derived_work:
+  approved_by: the Kuni translation team
+  date: 2026-10-18
+  form: verbal, to the project's maintainer
+  for: all purposes this project needs (checks, back-translations, consistency reports, revision proposals, USFM, models)
+  returned_to: the Kuni translation team
