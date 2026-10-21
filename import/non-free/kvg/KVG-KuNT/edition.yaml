@@ -46,3 +46,28 @@ derived_work:
   form: verbal, to the project's maintainer
   for: all purposes this project needs (checks, back-translations, consistency reports, revision proposals, USFM, models)
   returned_to: the Kuni translation team
+
+sfm:                                  # scripts/sfm_profile.py, from the team's own files in source/
+  detected: "2026-10-21"
+  files: 31
+  newest: "GEN"
+  encoding: "utf-8"
+  bom: false
+  normalization: "NFD"
+  line_endings: "crlf"
+  versification: "english"
+  id_line: "\\id {BOOK} - Kuni/Boazi [KVG] (Kuni Dialect)"
+  ide: false
+  file_pattern: "KVG-{nn}{BOOK}-Kuni.sfm"
+  heading: "s1"
+  paragraphs: ["p", "m", "b", "q1", "q2", "li1", "li2"]
+  divine_name: ["Evezøza", "Evezøzá", "Evézøza"]
+  footnotes: "fr fk ft"
+  also: ["cross references", "figures", "glossary words", "italics", "parallel passages", "transliterations"]
+  evidence:
+    versification: "2 of 2 chapters: JON 1: 17 verses (english; Hebrew 16); JON 2: 10 verses (english; Hebrew 11)"
+  differs_in_older_books:
+    id_line: "\\id {BOOK} - NT0243 Kuni/Boazi [kvg] (Kuni Dialect) - Fumey Dec/2015"
+    ide: true
+    heading: "s"
+    divine_name: "none"

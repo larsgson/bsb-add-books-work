@@ -1,6 +1,9 @@
-project kvg/kvg_BSB, model eflomal, corpus 8938 verses
-eng: 8936 verse pairs, 5676 source words
+project kvg/kvg_BSB, model eflomal, corpus 8938 verses, aligned by parts with the gaps filled by word links
+eng: gap fill: 18423 word links added to 140337 by parts
+eng: 8936 verse pairs, 6100 source words
   glossary: the term is the top rendering of its one-word English equivalent in 90 of 116
-hbo: 1004 verse pairs, 1157 source words
-  names: the top rendering of a Hebrew name is the edition's name in 118 of 182
-grc: 7932 verse pairs, 7376 source words
+hbo: gap fill: 2075 word links added to 14129 by parts
+hbo: 1004 verse pairs, 1246 source words
+  names: the top rendering of a Hebrew name is the edition's name in 119 of 196
+grc: gap fill: 16836 word links added to 110297 by parts
+grc: 7932 verse pairs, 8143 source words

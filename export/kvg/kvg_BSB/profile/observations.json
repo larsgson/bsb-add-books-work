@@ -7294,10 +7294,12 @@
    "form": "qo-",
    "host": "verb",
    "stats": {
-    "count": 37,
-    "hosts": 12,
-    "lift": 14.4,
-    "test_lift": 14.3
+    "count": 394,
+    "hosts": 137,
+    "lift": 9.26,
+    "test_lift": 9.37,
+    "odds": 20.93,
+    "test_odds": 20.68
    },
    "evidence": [
     {
@@ -7321,7 +7323,10 @@
     "GB090",
     "GB092"
    ],
-   "note": "method affix; subject 2sg (S/A); wiki verb_subject_prefix (qoqo- past); lift all 14.4 against Greek 2.SG"
+   "note": "method affix; subject 2sg (S/A); wiki verb_subject_prefix (qoqo- past); lift all 14.4 against Greek 2.SG",
+   "greek": {
+    "person+number": "ss"
+   }
   },
   {
    "id": "m:z-:verb",
@@ -7331,8 +7336,8 @@
    "form": "z-",
    "host": "verb",
    "stats": {
-    "count": 111,
-    "hosts": 10,
+    "count": 229,
+    "hosts": 30,
     "lift": 7.0,
     "test_lift": 6.5
    },
@@ -7352,7 +7357,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "2;PL",
    "codes": [
     "GB090",
@@ -7389,13 +7394,16 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "superseded",
    "unimorph": "2;PL;PRF",
    "codes": [
     "GB090",
     "GB092"
    ],
-   "note": "method affix; mø- perfective + z 2pl; mostly οἶδα (lexical share high); lift all 9.4 against Greek 2.PL"
+   "note": "method affix; mø- perfective + z 2pl; mostly οἶδα (lexical share high); lift all 9.4 against Greek 2.PL | superseded 2026-10-21: as a word-initial prefix only in møzøte (οἶδα, 'you (pl) know'), one stem (morphs.py try: contradicted); the 2pl prefix is z- (m:z-:verb); møzøte is now term:G1492.moezote",
+   "greek": {
+    "person+number": "sp"
+   }
   },
   {
    "id": "m:ge-:verb",
@@ -7405,8 +7413,8 @@
    "form": "ge-",
    "host": "verb",
    "stats": {
-    "count": 198,
-    "hosts": 55,
+    "count": 2879,
+    "hosts": 465,
     "lift": 1.4,
     "test_lift": 1.6
    },
@@ -7426,7 +7434,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "3;SG",
    "codes": [
     "GB090",
@@ -7442,8 +7450,8 @@
    "form": "gi-",
    "host": "verb",
    "stats": {
-    "count": 39,
-    "hosts": 14,
+    "count": 1188,
+    "hosts": 217,
     "lift": 1.4,
     "test_lift": 4.1
    },
@@ -7479,10 +7487,16 @@
    "form": "n-",
    "host": "verb",
    "stats": {
-    "count": 90,
-    "hosts": 23,
-    "lift": 2.4,
-    "test_lift": 2.6
+    "count": 561,
+    "hosts": 84,
+    "lift": 6.3,
+    "test_lift": 6.58,
+    "productive_count": 6232,
+    "productive_hosts": 977,
+    "productive_odds": 1.44,
+    "productive_test_odds": 1.48,
+    "odds": 12.54,
+    "test_odds": 13.44
    },
    "evidence": [
     {
@@ -7506,7 +7520,11 @@
     "GB090",
     "GB092"
    ],
-   "note": "method affix; 1sg (nø-, nqa-, no-); lift all 2.5 against Greek 1.SG"
+   "note": "method affix; 1sg (nø-, nqa-, no-); lift all 2.5 against Greek 1.SG",
+   "greek": {
+    "person+number": "fs"
+   },
+   "productive": false
   },
   {
    "id": "m:te-:verb",
@@ -7516,8 +7534,8 @@
    "form": "te-",
    "host": "verb",
    "stats": {
-    "count": 25,
-    "hosts": 6,
+    "count": 666,
+    "hosts": 206,
     "lift": 6.6,
     "test_lift": 11.0
    },
@@ -7537,7 +7555,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "3;SG;IRR",
    "codes": [
     "GB079",
@@ -7553,8 +7571,8 @@
    "form": "t-",
    "host": "verb",
    "stats": {
-    "count": 8,
-    "hosts": 4,
+    "count": 224,
+    "hosts": 48,
     "lift": 6.2,
     "test_lift": 3.4
    },
@@ -7574,7 +7592,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "1;SG;IRR",
    "codes": [
     "GB079",
@@ -7590,8 +7608,8 @@
    "form": "be-",
    "host": "verb",
    "stats": {
-    "count": 26,
-    "hosts": 10,
+    "count": 463,
+    "hosts": 145,
     "lift": 60.7,
     "test_lift": 65.7
    },
@@ -7611,7 +7629,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "OPT",
    "codes": [
     "GB079",
@@ -7627,8 +7645,8 @@
    "form": "zi-",
    "host": "verb",
    "stats": {
-    "count": 5,
-    "hosts": 3,
+    "count": 130,
+    "hosts": 41,
     "lift": 81.2,
     "test_lift": 37.2
    },
@@ -7648,7 +7666,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "1;PL;HORT",
    "codes": [
     "GB079",
@@ -7664,8 +7682,8 @@
    "form": "-zø-",
    "host": "verb",
    "stats": {
-    "count": 223,
-    "hosts": 18,
+    "count": 316,
+    "hosts": 47,
     "lift": 9.6,
     "test_lift": 10.1
    },
@@ -7685,7 +7703,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "codes": [
     "GB094"
    ],
@@ -7699,8 +7717,8 @@
    "form": "-nø-",
    "host": "verb",
    "stats": {
-    "count": 20,
-    "hosts": 7,
+    "count": 323,
+    "hosts": 88,
     "lift": 10.1,
     "test_lift": 3.1
    },
@@ -7720,7 +7738,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "codes": [
     "GB094"
    ],
@@ -7734,10 +7752,16 @@
    "form": "-eav",
    "host": "verb",
    "stats": {
-    "count": 52,
-    "hosts": 13,
-    "lift": 16.7,
-    "test_lift": 14.6
+    "count": 424,
+    "hosts": 103,
+    "lift": 6.54,
+    "test_lift": 5.99,
+    "productive_count": 424,
+    "productive_hosts": 103,
+    "productive_odds": 13.55,
+    "productive_test_odds": 11.37,
+    "odds": 13.55,
+    "test_odds": 11.37
    },
    "evidence": [
     {
@@ -7761,7 +7785,11 @@
     "GB107",
     "GB080"
    ],
-   "note": "method affix; negative, past and present indicative (wiki: -áv/-eáv/-teáv, past); lift all 15.7 against Greek NEG.PST"
+   "note": "method affix; negative, past and present indicative (wiki: -áv/-eáv/-teáv, past); lift all 15.7 against Greek NEG.PST",
+   "greek": {
+    "negated": "yes"
+   },
+   "productive": true
   },
   {
    "id": "m:-av:verb",
@@ -7771,10 +7799,16 @@
    "form": "-av",
    "host": "verb",
    "stats": {
-    "count": 157,
-    "hosts": 28,
-    "lift": 6.8,
-    "test_lift": 6.2
+    "count": 238,
+    "hosts": 50,
+    "lift": 4.56,
+    "test_lift": 4.3,
+    "productive_count": 1262,
+    "productive_hosts": 256,
+    "productive_odds": 2.04,
+    "productive_test_odds": 1.99,
+    "odds": 6.79,
+    "test_odds": 6.25
    },
    "evidence": [
     {
@@ -7798,7 +7832,11 @@
     "GB107",
     "GB080"
    ],
-   "note": "method affix; the shorter negative (wiki -áv); -av is also part of positive stems; lift all 6.6 against Greek NEG.IND"
+   "note": "method affix; the shorter negative (wiki -áv); -av is also part of positive stems; lift all 6.6 against Greek NEG.IND",
+   "greek": {
+    "negated": "yes"
+   },
+   "productive": false
   },
   {
    "id": "m:-ak:verb",
@@ -7808,10 +7846,12 @@
    "form": "-ak",
    "host": "verb",
    "stats": {
-    "count": 13,
-    "hosts": 10,
-    "lift": 18.7,
-    "test_lift": 24.1
+    "count": 362,
+    "hosts": 149,
+    "lift": 6.98,
+    "test_lift": 6.98,
+    "odds": 15.57,
+    "test_odds": 15.7
    },
    "evidence": [
     {
@@ -7835,7 +7875,10 @@
     "GB107",
     "GB080"
    ],
-   "note": "method affix; negative future (wiki); also with μή + subjunctive and οἶδα (-nak); lift all 21.2 against Greek NEG.FUT"
+   "note": "method affix; negative future (wiki); also with μή + subjunctive and οἶδα (-nak); lift all 21.2 against Greek NEG.FUT",
+   "greek": {
+    "negated": "yes"
+   }
   },
   {
    "id": "m:-ak:verb.sbjv",
@@ -7845,10 +7888,12 @@
    "form": "-ak",
    "host": "verb",
    "stats": {
-    "count": 19,
-    "hosts": 11,
-    "lift": 17.5,
-    "test_lift": 12.3
+    "count": 362,
+    "hosts": 149,
+    "lift": 6.98,
+    "test_lift": 6.98,
+    "odds": 15.57,
+    "test_odds": 15.7
    },
    "evidence": [
     {
@@ -7872,7 +7917,10 @@
     "GB107",
     "GB080"
    ],
-   "note": "method affix; the same -ak in 'lest / so that not' (μή + subjunctive): new; lift all 15.0 against Greek NEG.SBJV"
+   "note": "method affix; the same -ak in 'lest / so that not' (μή + subjunctive): new; lift all 15.0 against Greek NEG.SBJV",
+   "greek": {
+    "negated": "yes"
+   }
   },
   {
    "id": "m:-at:verb",
@@ -7882,8 +7930,8 @@
    "form": "-at",
    "host": "verb",
    "stats": {
-    "count": 67,
-    "hosts": 25,
+    "count": 857,
+    "hosts": 163,
     "lift": 2.5,
     "test_lift": 3.0
    },
@@ -7903,7 +7951,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "FUT",
    "codes": [
     "GB084",
@@ -7919,8 +7967,8 @@
    "form": "-at",
    "host": "verb",
    "stats": {
-    "count": 64,
-    "hosts": 24,
+    "count": 857,
+    "hosts": 163,
     "lift": 3.0,
     "test_lift": 1.8
    },
@@ -7940,7 +7988,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "SBJV",
    "codes": [
     "GB080",
@@ -7956,8 +8004,8 @@
    "form": "-p",
    "host": "verb",
    "stats": {
-    "count": 63,
-    "hosts": 2,
+    "count": 27,
+    "hosts": 7,
     "lift": 15.4,
     "test_lift": 17.5
    },
@@ -8460,7 +8508,8 @@
    "form": "no-",
    "host": "poss",
    "stats": {
-    "count": 340
+    "count": 1614,
+    "hosts": 80
    },
    "evidence": [
     {
@@ -8478,7 +8527,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "PSS1S",
    "note": "method align-morph; possessive pronoun person; 340 of 342 Greek genitive pronouns of this person linked to a series form"
   },
@@ -8490,7 +8539,12 @@
    "form": "qo-",
    "host": "poss",
    "stats": {
-    "count": 230
+    "count": 1430,
+    "hosts": 184,
+    "lift": 9.17,
+    "test_lift": 9.5,
+    "odds": 11.47,
+    "test_odds": 11.96
    },
    "evidence": [
     {
@@ -8510,7 +8564,10 @@
    "date": "2026-10-20",
    "status": "observed",
    "unimorph": "PSS2S",
-   "note": "method align-morph; possessive pronoun person; 230 of 238 Greek genitive pronouns of this person linked to a series form"
+   "note": "method align-morph; possessive pronoun person; 230 of 238 Greek genitive pronouns of this person linked to a series form",
+   "greek": {
+    "person+number": "ss"
+   }
   },
   {
    "id": "m:te-:poss",
@@ -8520,7 +8577,8 @@
    "form": "te-",
    "host": "poss",
    "stats": {
-    "count": 357
+    "count": 2685,
+    "hosts": 266
    },
    "evidence": [
     {
@@ -8538,7 +8596,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "PSS3S",
    "note": "method align-morph; possessive pronoun person; 357 of 359 Greek genitive pronouns of this person linked to a series form"
   },
@@ -8550,7 +8608,8 @@
    "form": "tu-",
    "host": "poss",
    "stats": {
-    "count": 29
+    "count": 275,
+    "hosts": 42
    },
    "evidence": [
     {
@@ -8568,7 +8627,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "PSS3S",
    "note": "method align-morph; possessive pronoun person; 29 of 29 Greek genitive pronouns of this person linked to a series form"
   },
@@ -8580,7 +8639,8 @@
    "form": "ni-",
    "host": "poss",
    "stats": {
-    "count": 223
+    "count": 995,
+    "hosts": 87
    },
    "evidence": [
     {
@@ -8598,7 +8658,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "PSS1P",
    "note": "method align-morph; possessive pronoun person; 223 of 223 Greek genitive pronouns of this person linked to a series form"
   },
@@ -8610,7 +8670,8 @@
    "form": "zo-",
    "host": "poss",
    "stats": {
-    "count": 234
+    "count": 1175,
+    "hosts": 97
    },
    "evidence": [
     {
@@ -8628,7 +8689,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "PSS2P",
    "note": "method align-morph; possessive pronoun person; 234 of 239 Greek genitive pronouns of this person linked to a series form"
   },
@@ -8640,7 +8701,8 @@
    "form": "ti-",
    "host": "poss",
    "stats": {
-    "count": 129
+    "count": 1466,
+    "hosts": 224
    },
    "evidence": [
     {
@@ -8658,7 +8720,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "unimorph": "PSS3P",
    "note": "method align-morph; possessive pronoun person; 129 of 132 Greek genitive pronouns of this person linked to a series form"
   },
@@ -8670,7 +8732,8 @@
    "form": "-qa",
    "host": "poss",
    "stats": {
-    "count": 1543
+    "count": 3358,
+    "hosts": 23
    },
    "evidence": [
     {
@@ -8688,7 +8751,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "codes": [
     "GB051",
     "GB053"
@@ -8703,7 +8766,8 @@
    "form": "-ge",
    "host": "poss",
    "stats": {
-    "count": 302
+    "count": 856,
+    "hosts": 8
    },
    "evidence": [
     {
@@ -8721,7 +8785,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "codes": [
     "GB051",
     "GB053"
@@ -8736,7 +8800,8 @@
    "form": "-gu",
    "host": "poss",
    "stats": {
-    "count": 75
+    "count": 718,
+    "hosts": 78
    },
    "evidence": [
     {
@@ -8754,7 +8819,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "codes": [
     "GB051",
     "GB053"
@@ -8769,7 +8834,8 @@
    "form": "-gi",
    "host": "poss",
    "stats": {
-    "count": 640
+    "count": 1375,
+    "hosts": 3
    },
    "evidence": [
     {
@@ -8787,7 +8853,7 @@
    "method": "corpus-derived",
    "by": "agent:kvg-eng-alignment",
    "date": "2026-10-20",
-   "status": "observed",
+   "status": "open",
    "codes": [
     "GB051",
     "GB053"
@@ -12257,6 +12323,1023 @@
     "show me kindness"
    ],
    "note": "Kindness = matev mbomømboma (term:H2617.h); faithfulness as keeping the promise (GEN 24:27). gen047:29. Question for the Kuni team."
+  },
+  {
+   "id": "claim:morph.qo-:verb",
+   "kind": "claim",
+   "value": "qo- (prefix, verb) is an affix marking person+number=ss",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 394, stems 137, lift 9.26 (even verses 9.37), odds ratio 20.93 (even verses 20.68)",
+   "verdict": "confirmed",
+   "next": "the morph stays (observed)",
+   "confidence": "medium",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:qo-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.z-:verb",
+   "kind": "claim",
+   "value": "z- (prefix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 229, stems 30",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:z-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.ge-:verb",
+   "kind": "claim",
+   "value": "ge- (prefix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 2879, stems 465",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:ge-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.gi-:verb",
+   "kind": "claim",
+   "value": "gi- (prefix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 1188, stems 217",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:gi-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.n-:verb",
+   "kind": "claim",
+   "value": "n- (prefix, verb) is an affix marking person+number=fs",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 561, stems 84, lift 6.3 (even verses 6.58), odds ratio 12.54 (even verses 13.44); off every word: n 6232, stems 977, odds ratio 1.44 (even verses 1.48): not productive",
+   "verdict": "confirmed",
+   "next": "the morph stays (observed)",
+   "confidence": "medium",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:n-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.te-:verb",
+   "kind": "claim",
+   "value": "te- (prefix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 666, stems 206",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:te-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.t-:verb",
+   "kind": "claim",
+   "value": "t- (prefix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 224, stems 48",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:t-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.be-:verb",
+   "kind": "claim",
+   "value": "be- (prefix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 463, stems 145",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:be-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.zi-:verb",
+   "kind": "claim",
+   "value": "zi- (prefix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 130, stems 41",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:zi-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.zoe-:verb",
+   "kind": "claim",
+   "value": "-zø- (infix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 316, stems 47",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:zoe-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.noe-:verb",
+   "kind": "claim",
+   "value": "-nø- (infix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 323, stems 88",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:noe-:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-eav:verb",
+   "kind": "claim",
+   "value": "-eav (suffix, verb) is an affix marking negated=yes",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 424, stems 103, lift 6.54 (even verses 5.99), odds ratio 13.55 (even verses 11.37); off every word: n 424, stems 103, odds ratio 13.55 (even verses 11.37): productive",
+   "verdict": "confirmed",
+   "next": "the morph stays (observed)",
+   "confidence": "medium",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-eav:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-av:verb",
+   "kind": "claim",
+   "value": "-av (suffix, verb) is an affix marking negated=yes",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 238, stems 50, lift 4.56 (even verses 4.3), odds ratio 6.79 (even verses 6.25); off every word: n 1262, stems 256, odds ratio 2.04 (even verses 1.99): not productive",
+   "verdict": "confirmed",
+   "next": "the morph stays (observed)",
+   "confidence": "medium",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-av:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-ak:verb",
+   "kind": "claim",
+   "value": "-ak (suffix, verb) is an affix marking negated=yes",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 362, stems 149, lift 6.98 (even verses 6.98), odds ratio 15.57 (even verses 15.7)",
+   "verdict": "confirmed",
+   "next": "the morph stays (observed)",
+   "confidence": "medium",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-ak:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-ak:verb.sbjv",
+   "kind": "claim",
+   "value": "-ak (suffix, verb) is an affix marking negated=yes",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 362, stems 149, lift 6.98 (even verses 6.98), odds ratio 15.57 (even verses 15.7)",
+   "verdict": "confirmed",
+   "next": "the morph stays (observed)",
+   "confidence": "medium",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-ak:verb.sbjv"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-at:verb",
+   "kind": "claim",
+   "value": "-at (suffix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 857, stems 163",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-at:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-at:verb.sbjv",
+   "kind": "claim",
+   "value": "-at (suffix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 857, stems 163",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-at:verb.sbjv"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-p:verb",
+   "kind": "claim",
+   "value": "-p (suffix, verb) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 27, stems 7",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-p:verb"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.no-:poss",
+   "kind": "claim",
+   "value": "no- (prefix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 1614, stems 80",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:no-:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.qo-:poss",
+   "kind": "claim",
+   "value": "qo- (prefix, poss) is an affix marking person+number=ss",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 1430, stems 184, lift 9.17 (even verses 9.5), odds ratio 11.47 (even verses 11.96)",
+   "verdict": "confirmed",
+   "next": "the morph stays (observed)",
+   "confidence": "medium",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:qo-:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.te-:poss",
+   "kind": "claim",
+   "value": "te- (prefix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 2685, stems 266",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:te-:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.tu-:poss",
+   "kind": "claim",
+   "value": "tu- (prefix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 275, stems 42",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:tu-:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.ni-:poss",
+   "kind": "claim",
+   "value": "ni- (prefix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 995, stems 87",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:ni-:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.zo-:poss",
+   "kind": "claim",
+   "value": "zo- (prefix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 1175, stems 97",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:zo-:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.ti-:poss",
+   "kind": "claim",
+   "value": "ti- (prefix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 1466, stems 224",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:ti-:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-qa:poss",
+   "kind": "claim",
+   "value": "-qa (suffix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 3358, stems 23",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-qa:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-ge:poss",
+   "kind": "claim",
+   "value": "-ge (suffix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 856, stems 8",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-ge:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-gu:poss",
+   "kind": "claim",
+   "value": "-gu (suffix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 718, stems 78",
+   "verdict": "open",
+   "next": "counts only: name its Greek feature (`greek`) to test it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-gu:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "claim:morph.-gi:poss",
+   "kind": "claim",
+   "value": "-gi (suffix, poss) is an affix",
+   "area": "morph",
+   "source": "agent:kvg-eng-alignment",
+   "tests": [
+    "corpus"
+   ],
+   "figures": "n 1375, stems 3",
+   "verdict": "contradicted",
+   "next": "the morph stays open: revise or supersede it",
+   "confidence": "low",
+   "method": "corpus-derived",
+   "by": "script:morphs.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "rerun": [
+    "morphs.py",
+    "try",
+    "m:-gi:poss"
+   ],
+   "rerun_method": "morphs try 2",
+   "basis": "04a672dfe6abb6ae",
+   "basis_corpus": [
+    "KVG-KuNT"
+   ]
+  },
+  {
+   "id": "gb:GB080",
+   "kind": "feature",
+   "value": "1 (present): -eav, -av, -ak",
+   "codes": [
+    "GB080"
+   ],
+   "evidence": [
+    {
+     "ref": "1JN 4:8"
+    },
+    {
+     "ref": "1TI 6:16"
+    },
+    {
+     "ref": "2CO 7:2"
+    },
+    {
+     "ref": "1CO 10:20"
+    },
+    {
+     "ref": "1CO 12:1"
+    }
+   ],
+   "confidence": "high",
+   "method": "corpus-derived",
+   "by": "script:grammar.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "note": "grammar.py run: answered by the store's morphs (m:-eav:verb, m:-av:verb, m:-ak:verb, m:-ak:verb.sbjv); recipe: verb suffixes against the same"
+  },
+  {
+   "id": "gb:GB084",
+   "kind": "feature",
+   "value": "1 (present): tone-fut",
+   "codes": [
+    "GB084"
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 10:13"
+    },
+    {
+     "ref": "1CO 14:15"
+    },
+    {
+     "ref": "1CO 14:21"
+    }
+   ],
+   "confidence": "medium",
+   "method": "corpus-derived",
+   "by": "script:grammar.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "note": "grammar.py run: answered by the store's morphs (m:tone-fut:verb); recipe: affixes and marks against the Greek future"
+  },
+  {
+   "id": "gb:GB090",
+   "kind": "feature",
+   "value": "1 (present): qo-, n-",
+   "codes": [
+    "GB090"
+   ],
+   "evidence": [
+    {
+     "ref": "ACT 22:15"
+    },
+    {
+     "ref": "ACT 26:16"
+    },
+    {
+     "ref": "ACT 5:4"
+    },
+    {
+     "ref": "1CO 13:11"
+    },
+    {
+     "ref": "1CO 13:12"
+    }
+   ],
+   "confidence": "high",
+   "method": "corpus-derived",
+   "by": "script:grammar.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "note": "grammar.py run: answered by the store's morphs (m:qo-:verb, m:n-:verb); recipe: verb prefixes against the subject's person and number (intransitive clauses)"
+  },
+  {
+   "id": "gb:GB092",
+   "kind": "feature",
+   "value": "1 (present): qo-, n-",
+   "codes": [
+    "GB092"
+   ],
+   "evidence": [
+    {
+     "ref": "ACT 22:15"
+    },
+    {
+     "ref": "ACT 26:16"
+    },
+    {
+     "ref": "ACT 5:4"
+    },
+    {
+     "ref": "1CO 13:11"
+    },
+    {
+     "ref": "1CO 13:12"
+    }
+   ],
+   "confidence": "high",
+   "method": "corpus-derived",
+   "by": "script:grammar.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "note": "grammar.py run: answered by the store's morphs (m:qo-:verb, m:n-:verb); recipe: as GB090, transitive clauses"
+  },
+  {
+   "id": "gb:GB107",
+   "kind": "feature",
+   "value": "1 (present): -eav, -av, -ak, tone-proh",
+   "codes": [
+    "GB107"
+   ],
+   "evidence": [
+    {
+     "ref": "1JN 4:8"
+    },
+    {
+     "ref": "1TI 6:16"
+    },
+    {
+     "ref": "2CO 7:2"
+    },
+    {
+     "ref": "1CO 10:20"
+    },
+    {
+     "ref": "1CO 12:1"
+    }
+   ],
+   "confidence": "high",
+   "method": "corpus-derived",
+   "by": "script:grammar.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "note": "grammar.py run: answered by the store's morphs (m:-eav:verb, m:-av:verb, m:-ak:verb, m:-ak:verb.sbjv, m:tone-proh:verb); recipe: verb affixes and marks against clause negation"
+  },
+  {
+   "id": "gb:GB139",
+   "kind": "feature",
+   "value": "1 (present): tone-proh",
+   "codes": [
+    "GB139"
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 14:39"
+    },
+    {
+     "ref": "1CO 6:9"
+    },
+    {
+     "ref": "1CO 7:12"
+    },
+    {
+     "ref": "1CO 16:11"
+    },
+    {
+     "ref": "2TH 2:3"
+    }
+   ],
+   "confidence": "high",
+   "method": "corpus-derived",
+   "by": "script:grammar.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "note": "grammar.py run: answered by the store's morphs (m:tone-proh:verb, m:tone-proh:verb.sbjv); recipe: the pieces of prohibitions against those of declarative negation"
+  },
+  {
+   "id": "gb:GB312",
+   "kind": "feature",
+   "value": "1 (present): tone-proh",
+   "codes": [
+    "GB312"
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 14:39"
+    },
+    {
+     "ref": "1CO 6:9"
+    },
+    {
+     "ref": "1CO 7:12"
+    }
+   ],
+   "confidence": "high",
+   "method": "corpus-derived",
+   "by": "script:grammar.py",
+   "date": "2026-10-21",
+   "status": "observed",
+   "note": "grammar.py run: answered by the store's morphs (m:tone-proh:verb); recipe: verb pieces against mood (imperative, subjunctive, optative)"
   }
  ]
 }
