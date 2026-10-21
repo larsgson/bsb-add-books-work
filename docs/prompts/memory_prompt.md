@@ -11,7 +11,7 @@ Work in {root}. You are building the **language memory** of the project `{projec
 drafted from the Hebrew and Greek with the BSB as the only assisting translation. Later drafting agents
 read this memory before every chapter; the language team reads and edits the wiki. {language_rule}
 
-**What the memory is** (read first): `docs/proposals/language-profile/README.md` (the store: entry kinds,
+**What the memory is** (read first): `docs/language-store.md` (the store: entry kinds,
 fields, evidence; the wiki section at the end) and `scripts/wiki.py` (page format).{example_line}
 
 **Focus ({familiarity}):**
@@ -30,11 +30,17 @@ fields, evidence; the wiki section at the end) and `scripts/wiki.py` (page forma
 **Do NOT open:** `download/`, `scratch/`{do_not_open}.
 
 **Write:**
-1. `{store_dir}/observations.json` (`feature`, `letter`, `gap` entries) and
+1. `{store_dir}/observations.json` (`feature`, `letter`, `gap` entries; for the grammar `morph`, `cell`, `claim`) and
    `{store_dir}/decisions.json` (`term`, `formula`, `name`): every entry with evidence (`"BOOK C:V"`, verses of
    the corpus or of the project's drafts), `confidence`, `method` (`corpus-observed` for what the corpus
    shows, `project-decision` for what the project decided), `by: agent:memory-setup`, today's date
-   {date}. Give terms and formulas `words` (the BSB words they answer, lower case).
+   {date}. Give terms and formulas `words` (the BSB words they answer, lower case). Give every term, formula and name a
+   `gloss` in Greek or Hebrew, never English in a `value` (English goes to `note`): the source word it renders as its
+   verse writes it, with the lemma and the reference, `[{{"lang": "grc", "form": "Ἄγωμεν", "lemma": "ἄγω", "ref":
+   "MRK 1:38"}}]` (Greek from an NT verse, Hebrew from the WLC: `python3 scripts/gloss.py words {project} "<BOOK C:V>"`
+   prints a verse's words with their lemmas; Hebrew first for a decision about our OT drafts); a form built by rule with
+   no source word gets an `interlinear` Leipzig line. `python3 scripts/gloss.py propose {project}` proposes glosses
+   from the alignment: check them, drop `"proposed": true` from the right ones, correct the rest.
 2. Wiki pages in `{wiki_dir}/` (frontmatter `title`, `entries`: the store ids each page shows),
    one per topic, prose with short examples and references{pages_hint}. `index.md` says what the wiki is
    and links the pages; add a page of numbered questions for the language team (titled in {school_language},

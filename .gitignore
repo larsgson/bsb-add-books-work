@@ -6,7 +6,7 @@ reference/MSB/
 orig/
 
 # The clause-overlay examples carry BHSA levels (CC BY-NC 4.0): never published
-docs/proposals/clause-overlay/examples/
+docs/clause-sidecar/examples/
 
 # Imported editions are filed by licence (import/README.md): CC0/, CC-BY/ and CC-BY-SA/ are kept; non-free/, CC-ND/
 # and CC-NC/ keep only their descriptions; any other folder stays out until it is added here.
@@ -50,6 +50,8 @@ export/**/quarantine/
 # Generated files that print corpus verses (docs/licensing.md): local only, rebuilt at will
 export/**/_learn/packs/
 export/**/_learn/links_*.tsv
+export/**/_learn/units_*.tsv
+export/**/_learn/derived_report.md
 export/**/_learn/nt-only/
 export/**/_learn/style_norms*.json
 export/**/*_style.md

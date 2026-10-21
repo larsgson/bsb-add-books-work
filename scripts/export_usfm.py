@@ -15,6 +15,10 @@ Per book, one file with the chapters that are drafted:
   - Unicode as the team's files have it (`--norm NFC|NFD`, default: as their SFM; a team's files may be NFD, our texts are NFC: the same
     letters, but Paratext's word list compares code points); line endings likewise (`--eol crlf|lf`, default: as their SFM);
   - the divine name marked `\\nd ...\\nd*` wherever the team's SFM marks a word so (any of their books).
+The team's conventions come from the style edition's `sfm:` block in edition.yaml (scripts/sfm_profile.py: heading
+marker, paragraph markers, footnote parts, \\id line, \\ide, file names, the divine name, Unicode form, line endings,
+versification), each field overridable in the project's own `sfm:`; without a block they are detected from the files at
+every export, as above.
 The file is checked with usfmtc (pip install usfmtc) and its verses counted against the draft.
 
 Where it goes: a file in the team's structure is derived from their edition (docs/licensing.md), so it is written to the
@@ -50,7 +54,7 @@ def team_sfm(p, code):
 
 def team_nd(p):
     """The words the team's SFM marks as the divine name (\\nd ...\\nd*), NFC, punctuation stripped: what their files do
-    (Kuni's Genesis marks every Evezøza; their older books none)."""
+    (a team's newer books may mark it where their older ones don't)."""
     words = set()
     for e in p.get("style_from") or []:
         for f in glob.glob(os.path.join(edition(e)["dir"], "source", "*.[sS][fF][mM]")):
@@ -59,6 +63,18 @@ def team_nd(p):
                 if w:
                     words.add(w)
     return words
+
+
+def sfm_profile(p):
+    """the team's SFM conventions: the first style edition's `sfm:` block (scripts/sfm_profile.py), the project's
+    `sfm:` fields over it; {} when neither has one"""
+    out = {}
+    for e in p.get("style_from") or []:
+        if edition(e).get("sfm"):
+            out = dict(edition(e)["sfm"])
+            break
+    out.update(p.get("sfm") or {})
+    return out
 
 
 def bsb_layout(code):
@@ -131,10 +147,12 @@ def main():
     if not drafts:
         raise SystemExit(f"no drafts of {code} in {os.path.relpath(pd, ROOT)}/{code}/")
     mine, frame = team_sfm(p, code)
+    prof = sfm_profile(p)
     ftxt = open(frame, encoding="utf-8").read() if frame else ""
-    norm = opt("--norm") or ("NFD" if ftxt and ftxt == unicodedata.normalize("NFD", ftxt) else "NFC")
+    norm = opt("--norm") or prof.get("normalization") or (
+        "NFD" if ftxt and ftxt == unicodedata.normalize("NFD", ftxt) else "NFC")
     ot = BY_CODE[code][2] == "ot"
-    numbering = opt("--numbering")
+    numbering = opt("--numbering") or prof.get("versification")
     if not numbering:
         jon = next((f for f in glob.glob(os.path.join(os.path.dirname(frame or ""), "*")) if "JON" in os.path.basename(f)), None)
         numbering = "english" if jon and re.search(r"\\c 1\b.*?\\v 17\b", open(jon, encoding="utf-8").read(), re.S) else (
@@ -178,9 +196,11 @@ def main():
     if not head:
         name, _, br = (title or BY_CODE[code][1]).partition(" (")
         idl = f"\\id {code.upper()}"
-        if frame:
+        if prof.get("id_line"):
+            idl = prof["id_line"].replace("{BOOK}", code.upper())
+        elif frame:
             idl += re.sub(rf"^\\id \w+", "", ftxt.splitlines()[0])
-        head = [idl, "\\ide utf-8", f"\\h {title or name}", f"\\toc1 {name}", f"\\toc2 {name}",
+        head = [idl] + (["\\ide utf-8"] if prof.get("ide", True) else []) + [f"\\h {title or name}", f"\\toc1 {name}", f"\\toc2 {name}",
                 f"\\toc3 {code.capitalize()}", f"\\mt1 {name}"] + ([f"\\mt2 ({br}"] if br else [])
     chs = sorted({r[0] for r in rows})
     st = sorted({str((status.get(code) or {}).get(c, "draft")) if isinstance(status.get(code), dict) else "draft" for c in chs})
@@ -192,6 +212,9 @@ def main():
         rem.append("\\rem Verse numbers as in English Bibles (the drafts keep the Hebrew numbering).")
     head = head[:2] + rem + head[2:] if head[0].startswith("\\id") and len(head) > 1 and head[1].startswith("\\ide") \
         else head[:1] + rem + head[1:]
+    hmark = prof.get("heading") or "s1"
+    after_q = "m" if "m" in (prof.get("paragraphs") or ["m"]) else "p"
+    fk = "fk" in (prof.get("footnotes") or "fr fk ft").split()
 
     out, cur_c, merged, mode = list(head), None, {}, None
     for c, v, para, hs, parts, fns in rows:
@@ -202,14 +225,15 @@ def main():
             cur_c, mode = c, None
         para = group[0][0]
         for h in group[0][1]:
-            out.append(f"\\s1 {h}")
+            out.append(f"\\{hmark} {h}")
             mode = None
         parts = [pt for g in group for pt in g[2]]
         fns = [x for g in group for x in g[3]]
         if v == "title":
             out.append("\\d " + " ".join(t for _, t in parts))
             continue
-        note = "".join(f"\\f + \\fr {c}:{v} \\fk {k}:\\ft {t}\\f*" for _, _, k, t in fns)
+        note = "".join(f"\\f + \\fr {c}:{v} \\fk {k}:\\ft {t}\\f*" if fk else f"\\f + \\fr {c}:{v} \\ft {k}: {t}\\f*"
+                       for _, _, k, t in fns)
         # runs of the same kind: prose stays in the open paragraph, each poetry line its own \q line
         runs = []
         for k, t in parts:
@@ -230,16 +254,20 @@ def main():
                 mode = "q"
                 continue
             if mode != "p" or (i == 0 and para in ("s", "p")):
-                out.append("\\p" if mode != "q" or i == 0 else "\\m")
+                out.append("\\p" if mode != "q" or i == 0 else f"\\{after_q}")
             out.append(f"{lead}{text}{end}" if lead else text)
             mode = "p"
-    nd = team_nd(p)
+    nd = set(prof["divine_name"]) if "divine_name" in prof else team_nd(p)
     if nd:                                      # the divine name marked as the team's files mark it
         rx = re.compile(r"(?<![\w\\])(" + "|".join(sorted(map(re.escape, nd), key=len, reverse=True)) + r")(?!\w)")
         out = out[:len(head)] + [rx.sub(r"\\nd \1\\nd*", unicodedata.normalize("NFC", l)) for l in out[len(head):]]
     usfm = unicodedata.normalize(norm, "\n".join(out) + "\n")
 
-    if mine or frame:
+    if prof.get("file_pattern") and (mine or frame):
+        stem, ext = os.path.splitext(prof["file_pattern"].replace("{nn}", f"{book_number(code):02d}").replace("{BOOK}", code.upper()))
+        fname = f"{stem}-draft-{chs[0]}-{chs[-1]}{ext}"
+        odir = opt("--out") or os.path.join(derived_dir(pname), "usfm")
+    elif mine or frame:
         base = os.path.basename(mine or frame)
         m = re.match(rf"^(.*?)-\d\d[0-9A-Z]{{3}}-(.*?)(?: [\d-]+)?\.sfm$", base, re.I)
         fname = (f"{m[1]}-{book_number(code):02d}{code.upper()}-{m[2]}-draft-{chs[0]}-{chs[-1]}.sfm" if m
@@ -251,7 +279,7 @@ def main():
     os.makedirs(odir, exist_ok=True)
     path = os.path.join(odir, fname)
     # line endings as the team's files have them (Paratext on Windows: CRLF)
-    eol = opt("--eol") or ("crlf" if frame and b"\r\n" in open(frame, "rb").read() else "lf")
+    eol = opt("--eol") or prof.get("line_endings") or ("crlf" if frame and b"\r\n" in open(frame, "rb").read() else "lf")
     open(path, "w", encoding="utf-8", newline="\r\n" if eol == "crlf" else "\n").write(usfm)
 
     nv = sum(1 for l in usfm.splitlines() if re.search(r"\\v \d+", l))
@@ -265,7 +293,8 @@ def main():
     except Exception as e:  # noqa: BLE001
         parsed = f"usfmtc error: {str(e)[:200]}"
     print(f"{os.path.relpath(path, ROOT)}: {len(chs)} chapter(s) {chs[0]}–{chs[-1]}, {nv} verses (expected {want}), "
-          f"{norm}, {numbering} numbering, frame {'the team’s book' if mine else 'built'}; {parsed}")
+          f"{norm}, {eol}, {numbering} numbering, frame {'the team’s book' if mine else 'built'}, conventions "
+          f"{'from the sfm: block' if prof else 'detected from their files'}; {parsed}")
 
 
 if __name__ == "__main__":

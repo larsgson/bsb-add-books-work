@@ -4,7 +4,8 @@
 
 name: "Η Αγία Γραφή, μετάφραση Νεοφύτου Βάμβα (1850)"
 language: ell
-role: style
+role: source                     # a source for the second-draft model (scripts/nllb/source.py), not a style corpus
+nllb_code: ell_Grek              # its NLLB language code
 text_dir: text
 format: >-
   one book file per book, text/<code>.txt, lines 'chapter:verse<TAB>text'; the OT in the Hebrew verse numbering

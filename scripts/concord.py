@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """The drafting agents' learning tool for a project's language: the style corpus side by side with the
-assisting translation (docs/proposals/language-toolkit/). Every command prints references with both texts.
+assisting translation (docs/onboarding.md). Every command prints references with both texts.
 
   python3 scripts/concord.py <project> eng "<regex>" [N]   verses whose assisting text (BSB) matches
   python3 scripts/concord.py <project> tgt "<regex>" [N]   verses whose target text matches (the ignored
@@ -64,8 +64,10 @@ def main():
             f = os.path.join(P.profile, fn)
             if os.path.exists(f):
                 for e in json.load(open(f, encoding="utf-8"))["entries"]:
-                    if re.search(arg, " ".join(str(e.get(k, "")) for k in ("id", "source", "value")), re.I):
-                        print(json.dumps(e, ensure_ascii=False, indent=1), "\n")
+                    if re.search(arg, " ".join(str(e.get(k, "")) for k in ("id", "source", "value", "gloss")), re.I):
+                        import gloss as G
+                        print(json.dumps(e, ensure_ascii=False, indent=1))
+                        print("".join(f"  gloss: {G.line(g)}\n" for g in G.glosses(e)))
         return
     if cmd == "gloss":
         for row in P.glossary():

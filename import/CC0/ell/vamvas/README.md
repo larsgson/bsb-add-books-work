@@ -10,7 +10,7 @@ Bible Society: the NT in 1833, the whole Bible in 1850. Public domain.
   out of git.
 - **Numbering:** the module has the KJV versification. The OT is renumbered to the Hebrew verses (the repo's rule) by
   `orig/vrs`: Joel has 4 chapters and Malachi 3, as in `orig/heb`. Where several Hebrew verses make one English verse,
-  the text goes to the first; psalm superscriptions stay in verse 1. 31,099 verses have text.
+  the text goes to the first; a psalm superscription goes to the Hebrew title verse.
 - **NT basis:** the Textus Receptus (`nt_basis: tr`).
-- **Role:** style corpus. Its first use is as a source language for a second-draft model (modern Greek → a target
-  language trained on the NT pairs, then fed the Vamvas OT).
+- **Role:** `source`: the default source of the second-draft model (`scripts/nllb/source.py`; a project's
+  `nllb_source`), trained on the NT pairs with the target and then given the Vamvas OT. Not a style corpus.
