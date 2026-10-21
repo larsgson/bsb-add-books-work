@@ -24,8 +24,10 @@ The steps:
     beside the edition, and a suggested familiarity the user accepts or overrides (close_to where it applies);
  7. the tools that familiarity switches on, with the tokens per chapter logged so far in that mode (scripts/usage.py);
  8. the sources (scripts/setup.py; for OT books the Hebrew layout and scripts/src.py's prepared structure), the
-    alignment lexicons (scripts/align.py; for an unknown language also the NT occurrence index, scripts/lang.py), the
-    empty memory (scripts/memory_prompt.py --init) with the probe's slips as its first entries;
+    alignment lexicons (scripts/align.py; for an unknown language also the NT occurrence index, scripts/lang.py), for a
+    partly known or unknown language Grambank's questions (setup.py --only grambank) and the grammar plan
+    (scripts/grammar.py plan), the empty memory (scripts/memory_prompt.py --init) with the probe's slips as its first
+    entries;
  9. what comes next, asked for in Claude Code: the memory, the style guide, a reference chapter, the chapters.
 
 An edition that isn't in any of these sources (copied in by hand, or synced from its own repository like Den
@@ -33,11 +35,11 @@ Frie Bibel) is imported with the import-edition skill; the wizard can still crea
 (answer `editions` with its id).
 
 Answers (all optional; the wizard prints the file it used, so a run can be repeated):
-    language: kvg                  language_name: Kuni          school_language: English
-    dialect_id: null               # an interim id instead of the ISO code (ch-de-be)
-    editions: [ebible:kvg]         # source:id from the list, or the id of an edition already in import/
-    licence_folder: {ebible:kvg: non-free}   # only where the licence can't be read; default non-free
-    project: kvg_BSB               books: [gen, exo]            familiarity: null (set by the probe)
+    language: jam                  language_name: Jamaican Creole English   school_language: English
+    dialect_id: null               # an interim id instead of the ISO code, for a variety without one
+    editions: [dbt:JAMBSWN_ET]     # source:id from the list, or the id of an edition already in import/
+    licence_folder: {dbt:JAMBSWN_ET: non-free}   # only where the licence can't be read; default non-free
+    project: jam_BSB               books: [gen, exo]            familiarity: null (set by the probe)
     quotes: "“”"                   chapter_word: Chapter
     ai_route: api | claude-code    probe_model: claude-opus-5-5 (API route)   close_to: null   go_ahead: true
     run_setup: true                run_align: true              init_memory: true
@@ -717,6 +719,12 @@ def main():
                     "language study starts from")
                 run("scripts/lang.py", "build", pname)
                 run("scripts/lang.py", "derive", pname)
+    if fam in ("partial", "unknown"):           # the store's grammar: Grambank's questions and the curation list
+        if not os.path.exists(os.path.join(ROOT, "download", "grambank", "v1.0.3", "parameters.csv")):
+            say("  Fetching Grambank's feature questions (the typology of the language store; CC BY 4.0)")
+            run("scripts/setup.py", "--only", "grambank")
+        say(f"  - the grammar to settle, once the store has morphs: python3 scripts/grammar.py plan {pname} (the "
+            f"curation agent's list); grammar.py run {pname} --write fills the features the store's morphs answer")
     if ANSWERS.get("init_memory", True) and not DRY:
         if os.path.isdir(os.path.join(pdir, "profile")) and os.path.isdir(os.path.join(pdir, "wiki")):
             say("  - the language memory (store and wiki): already here")
@@ -976,7 +984,7 @@ def probe_step(pname, name, route, have_corpus):
     if not have_corpus or not route or DRY:
         why = "no corpus to score against" if not have_corpus else "no model to run them" if not route else "dry run"
         say(f"  the probes are skipped ({why}); docs/onboarding.md explains the three familiarities")
-        return ask("familiarity", "Familiarity (known: like Danish, partial: like Bern German, unknown: like Kuni)",
+        return ask("familiarity", "Familiarity (known: like Danish, partial: like Jamaican, unknown: the model doesn't know it)",
                    "unknown", choices=fams), []
     say("  Three short tests, each a fresh model with no tools (about a minute):\n"
         f"    write: 16 verses into {name}   read: 16 verses into English   tell apart: 24 pairs, which is the published one")
@@ -1025,7 +1033,7 @@ def accelerator():
 
 
 def training_offer(fam):
-    """The second-draft model (a fine-tuned NLLB-600M, for review triage; the study's verdict, 2026-10-19: a second opinion,
+    """The second-draft model (a fine-tuned NLLB-600M, for review triage: a second opinion,
     not a drafter): what this machine can do with it, a rented GPU where it can't, and the question. Offered in the
     unknown mode; in the partial mode it is still being tested; a known language doesn't need it. Returns the answer, or
     None when not offered."""

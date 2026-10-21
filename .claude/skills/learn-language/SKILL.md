@@ -16,7 +16,7 @@ of another language in this working copy, if there is one, is the worked example
    - who will review the drafts (the language team), and in which language the notes are written.
 2. **Import and set up:** `import-edition`, then `new-project` with `style_from` the edition. In
    `project.yaml` add `tokenise:` (does the orthography write suffixes after a hyphen? characters such as
-   `꞉` that belong to words?) and the rules of the Kuni project: no knowledge of the language assumed,
+   `꞉` that belong to words?) and the rules for an unknown language: no knowledge of the language assumed,
    everything modelled on the corpus, the verse pack first, searches only for what the pack lacks, every
    search ending in a store entry, the wiki, divine names, a notes file with the model verses.
 3. **Align:** `python3 scripts/align.py <project>` (eflomal if installed; see the toolkit's *External
@@ -29,7 +29,6 @@ of another language in this working copy, if there is one, is the worked example
    hypotheses (endings against the Greek features), name letters, formulas, OT gaps. Give the report to the agent
    of step 4 as its starting point: `python3 scripts/memory_prompt.py <project>` does that by default when the
    occurrence index exists (`--no-derived` without it); the agent confirms or rejects each item against the corpus.
-   Measured on Kuni (NT only): one such study run found 73% of the topics of the curated store, 195k tokens.
 4. **Seed the store and the wiki:** a first agent drafts one chapter and writes a grammar sketch; turn it
    into `profile/observations.json` + `decisions.json` (`docs/proposals/language-profile/`, validate with
    `python3 scripts/language_profile.py check export/<project>/profile --project <project>`) and seed the
@@ -40,6 +39,10 @@ of another language in this working copy, if there is one, is the worked example
    exactly (`language_profile.py check` lists values with other marks). `orthography.ignore_marks` only loosens the
    search tools. The team's own facts come in through `wiki/team-input.md` (`python3 scripts/team_input.py <project>
    init`, then `prompt` for the curation agent); they are binding.
+   The store's grammar (morphs, paradigm cells, claims; `scripts/grammar.py`): `grammar.py run <project> --write`
+   adds the Grambank features its morphs answer (questions: `python3 scripts/setup.py --only grambank`), and
+   `grammar.py plan <project>` lists what to settle next: the features a recipe can decide, open and thin cells,
+   claims to test. Give it to the curation agent; it proposes, the corpus counts decide.
 5. **Draft with packs:** for each chapter `python3 scripts/verse_pack.py <project> <code> <ch>`, then the
    `draft-chapter` skill (fresh agent per chapter; the pack and `wiki/index.md` in `style_guides`).
 6. **Test** (if a book is held out): score each chapter with `python3 scripts/score.py <project> <draft>

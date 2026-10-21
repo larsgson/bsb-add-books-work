@@ -10,9 +10,9 @@ silnlp does, target characters missing from the NLLB vocabulary become tokens, a
 initialised from the data's init_lang. Early stop on the validation loss; the best model is kept.
 
 The device: CUDA if there is one, else Apple's GPU (MPS; fp32: about 20 GB of shared memory, so a Mac with 32 GB; a 16 GB
-M1 ran out of memory, measured 2026-10-19), else the processor (weeks: 8.8 s per batch of 2 on an i7-6700, so 4-5 minutes a step; rent a GPU instead). --device overrides.
+M1 runs out of memory), else the processor (weeks: 8.8 s per batch of 2 on an i7-6700, so 4-5 minutes a step; rent a GPU instead). --device overrides.
 
-Measured (RTX 3060 Ti, 8 GB, Kuni NT 7,700 verses): peak 6.6-6.9 GB, about 5 s a step, early stop at 4,000-4,500 steps,
+Measured (RTX 3060 Ti, 8 GB, an NT of 7,700 verses): peak 6.6-6.9 GB, about 5 s a step, early stop at 4,000-4,500 steps,
 5.5-6 hours.
 
 Usage: python3 scripts/nllb/train.py --data DIR [--out DIR] [--model facebook/nllb-200-distilled-600M] [--steps 5000]
@@ -106,7 +106,7 @@ def main():
         output_dir=os.path.join(out, "ckpt"), max_steps=20 if smoke else args.steps,
         per_device_train_batch_size=2 if smoke else args.batch, gradient_accumulation_steps=1 if smoke else args.accum,
         # validation in the same small batches: the default of 8 runs out of an 8 GB card at the first validation (the loss
-        # over the 256k-token vocabulary; measured 2026-10-20)
+        # over the 256k-token vocabulary)
         per_device_eval_batch_size=2 if smoke else args.batch,
         learning_rate=args.lr, lr_scheduler_type="cosine", warmup_steps=2 if smoke else min(1000, args.steps // 5),
         label_smoothing_factor=0.2, optim=args.optim, bf16=dev == "cuda", gradient_checkpointing=True,
