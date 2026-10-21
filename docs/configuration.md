@@ -53,7 +53,7 @@ with `role: revise` must be CC0; `scripts/project.py` refuses any other.
 | `tokenise` | target tokenising (`scripts/langtools.py`): `split_hyphens`, `word_chars` (`U+A789` or literal), `ignore_marks` (default: the store's `orthography.ignore_marks`) |
 | `second_draft` | `nllb` or `none`, set by the wizard: whether the project plans a fine-tuned NLLB as a second opinion for review triage (`scripts/triage.py`, from `_eval/local/second/nllb/`); never a draft |
 | `nllb_source` | the second-draft model's source: a source edition (default `vamvas`, modern Greek) or `bsb` (the assisting translation, English); `scripts/nllb/source.py` |
-| `pack_grammar` | *experimental:* `true` adds the verb-marking block to the pack (pack v4, needs the store's verb cells); `binding` also lists the chapter's verbs of clearly marked cells in the prompt, and `chapter_check.py` reports one lacking the pattern unless the notes have `unmarked <ch>:<v> <cell>: <reason>` (`cell_check.py <project> unmarked \| try …` turns those into store entries); `verse_pack.py --grammar` for one pack |
+| `pack_grammar` | the verb-marking block of the pack (pack v4, needs the store's verb cells). Unset: `binding` for familiarity `unknown` once the store has cells the human OT clearly marks, else off (`modes.py <project>` shows which); `false` turns it off, `true` gives the block alone. `binding` also lists the chapter's verbs of clearly marked cells in the prompt, and `chapter_check.py` reports one lacking the pattern unless the notes have `unmarked <ch>:<v> <cell>: <reason>` (`cell_check.py <project> unmarked \| try …` turns those into store entries); `verse_pack.py --grammar` for one pack |
 | `rules` | project rules added to every prompt |
 | `book_rules` | lines added to the book agent's prompt only (`make_prompt.py --book`) |
 | `style_notes` | free text for the prompt's style section |
@@ -69,6 +69,7 @@ with `role: revise` must be CC0; `scripts/project.py` refuses any other.
 | `inline_notes` | allow inline notes: one entry per kind (`T`, `E`, `H`, `N`: when to use it), optional `glossary` and `placement`; checked by `check_draft.py` |
 | `report_items` | what the agent's final report names besides the verse check (default: footnotes created) |
 | `draft_statement` | statement shown with every draft (`STATUS.md`, site) |
+| `team_name` | the team the site's status strip names, without "the" ("Jamaican Bible review team"): "not yet checked or approved by the Jamaican Bible review team"; default "<language> language team" |
 | `publish_statement` | statement recorded on publishing, with `{by}` and `{date}` (`scripts/status.py publish`) |
 | `site` | `false`: the project is left off the website |
 | `sfm` | fields of the style edition's `sfm:` block (above) to set otherwise for this project's SFM export (`heading: s`, `versification: hebrew`) |
