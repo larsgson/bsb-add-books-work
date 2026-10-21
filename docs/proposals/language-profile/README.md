@@ -142,10 +142,20 @@ Rules:
   a list for several values). With any `position` in the store the morph view takes the chains off (`scripts/morphs.py`),
   by host where the NT is aligned to the Greek: a verb's affixes only off words linked to Greek verbs in at least half
   their tokens, or that leave such a word's stem; without `position`, one affix of each slot, word-class blind, as
-  before. `python3 scripts/morphs.py <project> try [id ...] --write` measures the
+  before. A chain affix told apart from another by tone alone is written with its mark (`aá-` past beside `aa-`): the
+  view finds it on the plain letters and labels it by the mark as written. `python3 scripts/morphs.py <project> try [id ...] --write` measures the
   entries on the NT aligned to the Greek: n, stems, lift and odds ratio of the `greek` feature (all verses, even
   verses); kept: n ≥ 20, stems ≥ 5, both odds ≥ 2; it writes the stats, status `observed` or `open`, and a claim
-  `claim:morph.<id>` with its rerun recipe and basis.
+  `claim:morph.<id>` with its rerun recipe and basis. Two parses that take off the same letters in the same number of
+  pieces are told apart by the marks: the one whose affixes are written as store forms wins (*b-aá-zeend-a*, not
+  *ba-á-zeend-a*).
+  The drafting agents use the view: the verse pack lists the affixes and a rendering's parts, the concordance a stem's
+  forms (`concord.py parts|stem|morph`), the spelling check accepts a form built from known parts, and the loop
+  (`chapter_check.py`, `morphs.py review`) reviews a Hebrew verb whose word lacks the affix for its subject, object,
+  negation or mood. The Hebrew verb gets the Greek feature names (person and number; a negation or an object pronoun in
+  its clause; imperative, jussive and cohortative as subjunctive, infinitive, participle; wayyiqtol as an aorist
+  indicative), and only words with a verb prefix count. A feature is checked where the human NT carries it on 60% or
+  more of 20 or more Greek verbs that have it (`morphs.py rates`).
 - **`cell`**: a paradigm cell, the form that fills one bundle of grammatical values. `paradigm` as the source-to-cell
   table names it (`verb.subject`, `verb.polarity`, `poss.pronoun`: `scripts/source_cells.py`), `bundle` its tags
   (`3.SG.IND`), `value` the form pattern (`z…-ap`, `Ø` for no mark; a form without hyphens is a separate word that marks the
