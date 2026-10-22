@@ -26,7 +26,7 @@ Maschinenentwurf von Eph 6,1-24 aus `orig/grc/eph006.txt` (BGB), abgeglichen mit
 | 10 | Τοῦ λοιποῦ | Zum Schluss | Finally | |
 | 11 | μεθοδείας τοῦ διαβόλου | d Hinderlischt vom Tüüfel | the devil’s schemes | wie 4,14 (μεθοδεία). |
 | 12 | αἷμα καὶ σάρκα | Fleisch und Bluet | flesh and blood | Hebr 2,14 (dt. Reihenfolge). |
-| 12 | ἀρχαί, ἐξουσίαι, κοσμοκράτορες, πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις | Herrschafte, Mächt, Wältherrscher, böse Geischtermächt i der himmlische Wält | rulers, authorities, powers, spiritual forces of evil in the heavenly realms | Herrschafte 2×, Mächt 9× (16, 2, 15). Wältherrscher, Geischtermächt nicht belegt; »himmlische« 4× (48, 40). ἐπουράνια wie im Entwurf zu Kap. 1-3 (»i der himmlische Wält«). |
+| 12 | πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας … πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις | Herrschafte, Mächt, Wältherrscher, böse Geischtermächt i der himmlische Wält | rulers, authorities, powers, spiritual forces of evil in the heavenly realms | Herrschafte 2×, Mächt 9× (16, 2, 15). Wältherrscher, Geischtermächt nicht belegt; »himmlische« 4× (48, 40). ἐπουράνια wie im Entwurf zu Kap. 1-3 (»i der himmlische Wält«). |
 | 13 | ἅπαντα κατεργασάμενοι στῆναι | we der alls usgfochte heit, no chöit sta | having done everything, to stand | |
 | 15 | ἑτοιμασία τοῦ εὐαγγελίου τῆς εἰρήνης | Syt parat für di gueti Botschaft vom Fride | readiness of the gospel of peace | parat 47×; εὐαγγέλιον = gueti Botschaft (Botschaft 211×, »Evangelium« 0×). |
 | 18 | προσευχή, δέησις, προσκαρτέρησις | Gebätt, Bitte, düreha | prayer, petition, perseverance | Kol 4,2 nicht nachgebildet. |

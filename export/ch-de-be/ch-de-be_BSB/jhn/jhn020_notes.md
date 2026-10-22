@@ -26,7 +26,7 @@ Fussnoten (berndeutsch) in `jhn020_footnotes.txt`: v1, v7, v16 (2), v23, v24, v2
 | 1.11.18 | Μαρία ἡ Μαγδαληνή / Μαριάμ | d Maria vo Magdala / d Maria | Mary Magdalene | Korpusform *Maria vo Magdala* 9× (56, 40, 10); Μαριάμ (v16.18) ebenfalls *Maria* |
 | 1 | μνημεῖον | Grab | tomb | *Grab* 31×  |
 | 1 | λίθον ἠρμένον | der Stei … ewägg | stone removed | nach Lk 24,2 *ewägg tröölet* verkürzt, da Joh das Rollen nicht nennt |
-| 2.4.8 | ὁ ἄλλος μαθητὴς ὃν ἐφίλει ὁ Ἰησοῦς | der ander Jünger, dä, wo Jesus lieb gha het | the one whom Jesus loved | *lieb gha* wie 3,16; φιλέω (nicht ἀγαπάω) nicht unterschieden – für Joh 13,23; 19,26; 21,7.20 abgleichen |
+| 2.4.8 | τὸν ἄλλον μαθητὴν ὃν ἐφίλει ὁ Ἰησοῦς | der ander Jünger, dä, wo Jesus lieb gha het | the one whom Jesus loved | *lieb gha* wie 3,16; φιλέω (nicht ἀγαπάω) nicht unterschieden – für Joh 13,23; 19,26; 21,7.20 abgleichen |
 | 2.4 | τρέχω / προέδραμεν τάχιον | springe / gschwinder gsprunge | running / outran | *springe* = laufen, wie Lk 24,12 *zum Grab gsprunge* |
 | 5.11 | παρακύψας | sech bücke (… ynegluege) | bent down and looked in | Lk 24,12 *Won er sech bbückt und ynegluegt het* |
 | 5-7 | τὰ ὀθόνια | di lynige Tüecher | the linen cloths | |

@@ -368,4 +368,128 @@ Daniel-stilarkene og de ensretninger review-oversigterne har gennemført.
   - answers: peoples, nations, and languages, every nation and language
   - Fast trehed i Dan 3-7.
   - script:gloss.py, 2026-10-14, supersedes `term:goyim`
-<!-- store:end sha=81ddf8a9 -->
+- **`term:elohe_hashamayim`** אֱלֹהֵי הַשָּׁמַיִם → **himlens Gud** [medium, decided, attested]
+  - gloss: אֱלֹהִים: אֱלֹהֵ֣י (EZR 1:2) — English (generated): the God
+  - NT: EZR 1:2 *himlens Gud*
+  - answers: himlens, gud
+  - God of heaven, as DFB Ps 136:26.
+  - agent:ezr001, 2026-10-22
+- **`term:nedavah_ezr`** נְדָבָה → **frivillig gave** [medium, decided, attested]
+  - gloss: נְדָבָה: נְּדָבָה (EZR 1:4) — English (generated): a freewill offering
+  - NT: EZR 1:4 *den frivillige gave*
+  - answers: frivillig, gave
+  - Freewill offering, as DFB Exod 35:29.
+  - agent:ezr001, 2026-10-22
+- **`term:golah`** הַגּוֹלָה → **de bortførte** [medium, decided, attested]
+  - gloss: גּוֹלָה: גּוֹלָ֔ה (EZR 1:11) — English (generated): when the exiles
+  - NT: EZR 1:11 *de bortførte*
+  - answers: de, bortførte
+  - The exiles; DFB 'bortførte'.
+  - agent:ezr001, 2026-10-22
+- **`term:netinim`** הַנְּתִינִים → **tempeltjenerne** [medium, decided, attested]
+  - gloss: נָתִין: נְּתִינִ֑ים (EZR 2:43) — English (generated): The temple servants
+  - NT: EZR 2:43 *tempeltjenerne*
+  - answers: tempeltjenerne
+  - Temple servants.
+  - agent:ezr002, 2026-10-22
+- **`term:tirshatha`** הַתִּרְשָׁתָא → **statholderen** [medium, decided, attested]
+  - gloss: תִּרְשָׁתָא: תִּרְשָׁ֨תָא֙ (EZR 2:63) — English (generated): The governor
+  - NT: EZR 2:63 *statholderen*
+  - answers: statholderen
+  - Persian title.
+  - agent:ezr002, 2026-10-22
+- **`term:avde_shelomo`** עַבְדֵי שְׁלֹמֹה → **Salomos trælle** [medium, decided, attested]
+  - gloss: עֶבֶד: עַבְדֵ֣י (EZR 2:55) — English (generated): of the servants
+  - NT: EZR 2:55 *Salomos trælle*
+  - answers: salomos, trælle
+  - Servants of Solomon.
+  - agent:ezr002, 2026-10-22
+- **`term:baal_teem`** בְּעֵל טְעֵם (aram.) → **kommandanten** [medium, decided, attested]
+  - gloss: בְּעֵל: בְּעֵל (EZR 4:8)
+  - NT: EZR 4:8 *Kommandanten*
+  - answers: kommandanten
+  - Rehum's title.
+  - agent:ezr004, 2026-10-22
+- **`term:avar_nahara`** עֲבַר נַהֲרָה (aram.) → **Hinsides Floden** [medium, decided, attested]
+  - gloss: עֲבַר: עֲבַֽר (EZR 4:10)
+  - NT: EZR 4:10 *Hinsides Floden*
+  - answers: hinsides, floden
+  - Province west of the Euphrates.
+  - agent:ezr004, 2026-10-22
+- **`term:pehah`** פֶּחָה / פַּחַת → **statholder** [medium, decided, attested]
+  - gloss: פֶּחָה: פַּחַ֧ת (EZR 5:3)
+  - NT: EZR 5:3 *statholderen*
+  - answers: statholder
+  - Persian governor; as tirshatha.
+  - agent:ezr005, 2026-10-22
+- **`term:hag_matsot`** חַג מַצּוֹת → **de usyrede brøds fest** [medium, decided, attested]
+  - gloss: מַצָּה: מַצּ֛וֹת (EZR 6:22) — English (generated): of Unleavened Bread
+  - NT: EZR 6:22 *de usyrede brøds fest*
+  - answers: de, usyrede, brøds
+  - Feast of Unleavened Bread, DFB.
+  - agent:ezr006, 2026-10-22
+- **`term:hanukkah_ezr`** חֲנֻכָּה (aram.) → **indvielsen** [medium, decided, attested]
+  - gloss: חֲנֻכָּה: חֲנֻכַּ֛ת (EZR 6:16)
+  - NT: EZR 6:16 *indvielsen*
+  - answers: indvielsen
+  - Dedication of the house.
+  - agent:ezr006, 2026-10-22
+- **`term:sofer_ezra`** סֹפֵר (om Ezra) → **skriftlærd** [medium, decided, attested]
+  - gloss: סֹפֵר: סֹפֵ֤ר (EZR 7:6) — English (generated): a scribe
+  - NT: EZR 7:6 *skriftlærd*
+  - answers: skriftlærd
+  - Ezra the scribe; Persian official sāfrāʔ = statsskriver.
+  - agent:ezr007, 2026-10-22
+- **`term:adarkonim`** אֲדַרְכֹנִים → **dariker** [medium, decided, attested]
+  - gloss: אֲדַרְכֹּון: אֲדַרְכֹנִ֖ים (EZR 8:27) — English (generated): darics
+  - NT: EZR 8:27 *dariker*
+  - answers: dariker
+  - Persian gold coin.
+  - agent:ezr008, 2026-10-22
+- **`term:maal_ezr`** מַעַל → **troløshed** [medium, decided, attested]
+  - gloss: מַעַל: מַּ֥עַל (EZR 9:2) — English (generated): unfaithfulness
+  - NT: EZR 9:2 *troløshed*
+  - answers: troløshed
+  - Unfaithfulness (mixed marriages), Ezra 9-10.
+  - agent:ezr009, 2026-10-22
+- **`term:toevot_ezr`** תּוֹעֵבוֹת → **vederstyggeligheder** [medium, decided, attested]
+  - gloss: תּוֹעֵבַה: תוֹעֲבֹֽתֵי (EZR 9:1) — English (generated): whose abominations
+  - NT: EZR 9:1 *vederstyggeligheder*
+  - answers: vederstyggeligheder
+  - Abominations, DFB word.
+  - agent:ezr009, 2026-10-22
+- **`term:ruler_of_district`** שַׂר (חֲצִי) פֶּלֶךְ → **leder af (den ene halvdel af) X's distrikt** [high, decided, attested]
+  - gloss: פֶּלֶךְ: פֶּ֥לֶךְ (NEH 3:9)
+  - gloss: שַׂר: שַׂ֕ר (NEH 3:9) — English (generated): ruler
+  - NT: NEH 3:9 *leder af den ene halvdel af Jerusalems distrikt*; NEH 3:14 *leder af Bet-Hakkerems distrikt*
+  - answers: leder, distrikt, halvdel
+  - agent:neh003, 2026-10-22
+- **`term:another_section`** מִדָּה שֵׁנִית → **et andet stykke** [high, decided, attested]
+  - gloss: מִדָּה: מִדָּ֣ה (NEH 3:11) — English (generated): section
+  - NT: NEH 3:11 *Et andet stykke udbedrede Malkija*; NEH 3:19 *et andet stykke*
+  - answers: andet, stykke
+  - agent:neh003, 2026-10-22
+- **`term:massa_usury`** מַשָּׁא (Neh 5) usury, exaction → **åger** [high, decided, attested]
+  - gloss: מַשָּׁא: מַשָּׁ֥א (NEH 5:7) — English (generated): usury
+  - NT: NEH 5:7 *I tager åger hver af sin bror!*; NEH 5:10 *denne åger*
+  - answers: åger
+  - agent:neh005, 2026-10-22
+- **`term:sar_habbira`** שַׂר הַבִּירָה commander of the fortress → **kommandanten for borgen** [high, decided, attested]
+  - gloss: שַׂר: שַׂ֥ר (NEH 7:2) — English (generated): the commander
+  - gloss: בִּירָה: בִּירָ֖ה (NEH 7:2) — English (generated): of the fortress
+  - NT: NEH 7:2 *Hananja, kommandanten for borgen*
+  - answers: kommandanten, borgen
+  - bira = borgen (also Neh 1:1 borgen Susa, 2:8 borgen ved templet).
+  - agent:neh007, 2026-10-22
+- **`term:sukkot_booths`** סֻכּוֹת booths → **løvhytter** [high, decided, attested]
+  - gloss: סֻכָּה: סֻּכּ֛וֹת (NEH 8:14) — English (generated): in booths
+  - NT: NEH 8:14 *bo i løvhytter*; EZR 3:4 *løvhyttefesten*
+  - answers: løvhytter, løvhytterne
+  - agent:neh008, 2026-10-22
+- **`term:atseret`** עֲצֶרֶת solemn assembly → **festforsamling** [high, decided, attested]
+  - gloss: עֲצֶרֶת: עֲצֶ֖רֶת (NEH 8:18) — English (generated): they held an assembly
+  - NT: NEH 8:18 *holdt de festforsamling*
+  - answers: festforsamling
+  - DFB word.
+  - agent:neh008, 2026-10-22
+<!-- store:end sha=fb38f06d -->

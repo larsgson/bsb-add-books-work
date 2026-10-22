@@ -1,0 +1,96 @@
+!!<Modenhed: Udkast>!!
+!!<Oversættelse: Maskinudkast fra grundteksten (orig/heb/ezr004.txt), sammenholdt med Berean Standard Bible>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Endnu ikke sket>!!
+!!<Dato for denne version: 22.10.2026>!!
+
+===Ezras Bog, kapitel 4===
+
+
+==Modstanderne hindrer arbejdet==
+
+v1 Da Judas og Benjamins fjender hørte at de bortførte byggede et
+tempel for HERREN, Israels Gud, v2 henvendte de sig til Zerubbabel og
+til overhovederne for fædrenehusene og sagde til dem: >>Lad os
+bygge sammen med jer! For vi søger jeres Gud ligesom I, og
+vi har ofret til ham siden Assyriens konge Asarhaddons dage, han
+som førte os hertil.<< v3 Men Zerubbabel, Josva og de andre
+overhoveder for Israels fædrenehuse svarede dem: >>Det er ikke
+jeres sag og vores at bygge et hus for vores Gud; nej,
+vi alene vil bygge det for HERREN, Israels Gud, sådan som kong
+Kyros, Persiens konge, har befalet os.<<
+
+v4 Så gav landets folk sig til at tage modet fra Judas folk og
+skræmme dem fra at bygge. v5 De lejede rådgivere imod dem for at
+forpurre deres planer hele Persiens konge Kyros' tid og frem til
+Persiens konge Dareios' regering.
+
+==Modstand under Ahasverus og Artaxerxes==
+
+v6 I Ahasverus'{T: Dvs. Xerxes (486-465 f.Kr.).} regering, i begyndelsen af hans
+regering, skrev de en anklage mod indbyggerne i Juda og Jerusalem.{E:
+Afsnittet 4,6-23 springer frem i tiden til Xerxes og Artaxerxes og handler vel om byens mur, ikke om
+templet; det står her som eksempel på modstanden. 4,24 vender tilbage til Dareios' tid.}
+
+v7 Og i Artaxerxes' dage skrev Bishlam, Mitredat, Tabe'el og resten af
+hans embedsbrødre til Persiens konge Artaxerxes. Brevet var
+skrevet på aramæisk og oversat. Aramæisk:{T: Ordret: >>og oversat. Aramæisk<<.
+Det sidste ord er måske en overskrift der angiver at teksten nu skifter til aramæisk; fra 4,8 til
+6,18 er teksten skrevet på aramæisk.}
+
+==Brevet til kong Artaxerxes==
+
+v8 Kommandanten Rehum og statsskriveren Shimshaj skrev et brev mod
+Jerusalem til kong Artaxerxes sålunde: v9 Fra kommandanten Rehum
+og statsskriveren Shimshaj og resten af deres embedsbrødre, dommerne,
+udsendingene, embedsmændene, perserne,{T: Betydningen af flere af disse
+aramæiske titler og folkenavne er usikker.} folkene fra Erek, babylonierne,
+folkene fra Susa, det vil sige elamitterne, v10 og resten af
+de folk som den store og ansete Osnappar{T: Formentlig den assyriske
+konge Assurbanipal (669-627 f.Kr.).} førte bort og bosatte i Samarias
+by og i resten af provinsen Hinsides Floden.{T: Dvs. området vest for
+Eufrat, set fra Persien.}
+
+v11 Dette er en afskrift af brevet som de sendte til ham:
+
+>>Til kong Artaxerxes fra dine tjenere, mændene i Hinsides Floden.
+v12 Det skal være kongen bekendt at de jøder som drog op
+fra dig til os, er kommet til Jerusalem. De bygger den
+oprørske og onde by op igen; de fuldender murene
+og udbedrer fundamenterne. v13 Nu skal det være kongen bekendt at
+hvis denne by bygges op, og murene fuldendes, vil de ikke
+betale skat, afgift eller told, og til sidst vil det skade
+kongerne.{T: Eller: >>kongens indtægter<<; ordet *ʔappᵊtōm* er usikkert.} v14 Nu da
+vi spiser paladsets salt,{T: Ordret: >>da vi salter med paladsets salt<<, dvs. står i
+kongens tjeneste.} og det ikke er passende for os at se på at
+kongen bliver vanæret, sender vi derfor bud og underretter
+kongen v15 om at der bør søges i dine fædres krønikebog. Dér
+vil du finde i krønikebogen og få at vide at denne
+by er en oprørsk by som har skadet konger og provinser, og
+at man har stiftet oprør i den fra ældgamle dage. Det var
+derfor denne by blev lagt øde. v16 Vi meddeler kongen at
+hvis denne by bygges op, og dens mure fuldendes, vil du
+derfor ikke have nogen del i Hinsides Floden.<<
+
+==Kongens svar==
+
+v17 Kongen sendte dette svar: >>Til kommandanten Rehum og
+statsskriveren Shimshaj og resten af deres embedsbrødre, som bor i
+Samaria og i resten af Hinsides Floden: Fred! v18 Det
+brev som I sendte til os, er blevet oversat og læst op for mig. v19
+Jeg har givet befaling, og man har søgt og fundet at denne
+by fra ældgamle dage har rejst sig mod konger, og at der
+er blevet stiftet oprør og opstand i den. v20 Der har også været
+mægtige konger over Jerusalem, som herskede over hele Hinsides
+Floden, og der blev betalt skat, afgift og told til dem.
+v21 Giv nu befaling til at disse mænd skal standse, så denne
+by ikke bliver bygget op igen, før der bliver givet befaling
+fra mig. v22 Vogt jer for at forsømme at gøre noget i denne sag!
+Hvorfor skal skaden vokse til fortræd for kongerne?<<
+
+v23 Da afskriften af kong Artaxerxes' brev var blevet læst op
+for Rehum og statsskriveren Shimshaj og deres embedsbrødre, gik de
+i hast til Jerusalem, til jøderne, og tvang dem til at
+standse med magt og vold. v24 Så standsede arbejdet på Guds
+hus i Jerusalem, og det lå stille indtil det andet år af
+Persiens konge Dareios' regering.

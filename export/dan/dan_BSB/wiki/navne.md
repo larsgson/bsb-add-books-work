@@ -46,6 +46,7 @@ samme navn står i DFB på begge måder (Kana'an 9×, Kana’an 32×). Åbent; i
   Potifar ≠ **Poti-Fera**, Asenat, Peres, Ismael, Abimelek.
 - Daniel: Nebukadnesar, **Belshassar** (kongen) ≠ **Beltshassar** (Daniel), Shadrak, Meshak, **Abed-Nego**,
   Darius, Kyros, Gabriel, Mikael.
+- Nehemias' Bog: hovedpersonen hedder **Nehemias** (traditionel dansk form), andre med samme navn **Nehemja** (Ezra 2,2; Neh 3,16; 7,7) – samme mønster som Zakarias/Zakarja. Modstanderne: **Sanballat fra Horon**, **Tobija, ammonitten i kongens tjeneste**, **araberen Geshem** (6,6 hebraisk *Gashmu*). Byggelisten i Neh 3 og listen i Neh 7 (= Ezra 2) bruger Ezra-udkastets navneformer (Parosh, Paseah, Hakkos, Meremot). Månedsnavne med lille: kislev, nisan, elul (som DFB »måneden ziv«).
 
 ## Åbne navne
 
@@ -287,11 +288,6 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
   - NT: JER 21:2 *Nebukadnesar*; JER 24:1 *Nebukadnesar*
   - answers: nebuchadnezzar
   - script:gloss.py, 2026-10-14, supersedes `name:nebuchadnezzar`
-- **`name:darius.gloss`** דָּרְיָוֶשׁ Darius → **Darius** [high, decided, attested]
-  - gloss: דָּרְיָוֶשׁ: דָרְיָ֖וֶשׁ (ZEC 7:1) [proposed] — English (generated): Darius
-  - NT: ZEC 7:1 *Darius*
-  - answers: darius
-  - script:gloss.py, 2026-10-14, supersedes `name:darius`
 - **`name:cyrus.gloss`** כּוֹרֶשׁ Cyrus → **Kyros** [high, decided, attested]
   - gloss: כּוֹרֶשׁ: כ֨וֹרֶשׁ֙ (ISA 44:28) [proposed] — English (generated): of Cyrus
   - NT: ISA 41:24 *Kyros*; ISA 44:28 *Kyros*
@@ -351,6 +347,151 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
   - answers: lamech
   - DFB 1 Mos 4-5; stilarket havde 'Lamek'.
   - script:gloss.py, 2026-10-14, supersedes `name:lamech`
+- **`name:sheshbazzar`** שֵׁשְׁבַּצַּר Sheshbazzar → **Sheshbassar** [medium, decided, attested]
+  - gloss: שֵׁשְׁבַּצַּר: שֵׁשְׁבַּצַּ֔ר (EZR 1:8) — English (generated): to Sheshbazzar
+  - NT: EZR 1:8 *Sheshbassar*
+  - answers: sheshbassar
+  - Judas fyrste (nasi).
+  - agent:ezr001, 2026-10-22
+- **`name:mithredath`** מִתְרְדָת Mithredath → **Mitredat** [medium, decided, attested]
+  - gloss: מִתְרְדָת: מִתְרְדָ֣ת (EZR 1:8) — English (generated): of Mithredath
+  - NT: EZR 1:8 *Mitredat*
+  - answers: mitredat
+  - Skatmesteren.
+  - agent:ezr001, 2026-10-22
+- **`name:zerubbabel`** זְרֻבָּבֶל Zerubbabel → **Zerubbabel** [medium, decided, attested]
+  - gloss: זְרֻבָּבֶל: זְרֻבָּבֶ֗ל (EZR 2:2) — English (generated): Zerubbabel
+  - NT: EZR 2:2 *Zerubbabel*
+  - answers: zerubbabel
+  - Som DFB Hag 1,1.
+  - agent:ezr002, 2026-10-22
+- **`name:jozadak`** יוֹצָדָק Jozadak → **Josadak** [medium, decided, attested]
+  - gloss: יוֹצָדָק: יֽוֹצָדָ֜ק (EZR 3:2) — English (generated): of Jozadak
+  - NT: EZR 3:2 *Josadaks*
+  - answers: josadak
+  - Jeshua, Josadaks søn; DFB Hag 1,1.
+  - agent:ezr003, 2026-10-22
+- **`name:shealtiel`** שְׁאַלְתִּיאֵל Shealtiel → **Shealtiel** [medium, decided, attested]
+  - gloss: שְׁאַלְתִּיאֵל: שְׁאַלְתִּיאֵל֙ (EZR 3:2) — English (generated): of Shealtiel
+  - NT: EZR 3:2 *Shealtiels*
+  - answers: shealtiel
+  - Zerubbabel, Shealtiels søn; DFB Hag 1,1.
+  - agent:ezr003, 2026-10-22
+- **`name:ahasuerus`** אֲחַשְׁוֵרוֹשׁ Ahasuerus → **Ahasverus** [medium, decided, attested]
+  - gloss: אֲחַשְׁוֵרוֹשׁ: אֲחַשְׁוֵר֔וֹשׁ (EZR 4:6) — English (generated): of Xerxes
+  - NT: EZR 4:6 *Ahasverus'*
+  - answers: ahasverus
+  - DFB form; {T:} Xerxes.
+  - agent:ezr004, 2026-10-22
+- **`name:artaxerxes`** אַרְתַּחְשַׁשְׂתְּא Artaxerxes → **Artaxerxes** [medium, decided, attested]
+  - gloss: אַרְתַּחְשַׁשְׂתְּא: אַרְתַּחְשַׁ֥שְׂתְּא (EZR 4:8)
+  - NT: EZR 4:8 *Artaxerxes*
+  - answers: artaxerxes
+  - Greek conventional form.
+  - agent:ezr004, 2026-10-22
+- **`name:haggai`** חַגַּי Haggai → **Haggaj** [medium, decided, attested]
+  - gloss: חַגַּי: חַגַּ֣י (EZR 5:1)
+  - NT: EZR 5:1 *Haggaj*
+  - answers: haggaj
+  - DFB Hag 1,1.
+  - agent:ezr005, 2026-10-22
+- **`name:zechariah_prophet`** זְכַרְיָה בַר עִדּוֹא Zechariah son of Iddo → **Zakarias** [medium, decided, attested]
+  - gloss: זְכַרְיָה: זְכַרְיָ֤ה (EZR 5:1)
+  - NT: EZR 5:1 *Zakarias, Iddos søn*
+  - answers: zakarias
+  - The prophet; DFB Zech 1:1 'Zakarias'.
+  - agent:ezr005, 2026-10-22
+- **`name:tattenai`** תַּתְּנַי Tattenai → **Tattenaj** [medium, decided, attested]
+  - gloss: תַּתְּנַי: תַּ֠תְּנַי (EZR 5:3)
+  - NT: EZR 5:3 *Tattenaj*
+  - answers: tattenaj
+  - Statholderen over Hinsides Floden.
+  - agent:ezr005, 2026-10-22
+- **`name:ezra`** עֶזְרָא Ezra → **Ezra** [medium, decided, attested]
+  - gloss: עֶזְרָא: עֶזְרָא֙ (EZR 7:1) — English (generated): Ezra
+  - NT: EZR 7:1 *Ezra*
+  - answers: ezra
+  - Bogens titel: Ezras Bog (åbent).
+  - agent:ezr007, 2026-10-22
+- **`name:ahava`** אַהֲוָא Ahava → **Ahava** [medium, decided, attested]
+  - gloss: אַהֲוָא: אַהֲוָ֔א (EZR 8:15) — English (generated): Ahava
+  - NT: EZR 8:15 *Ahava*
+  - answers: ahava
+  - Ahavakanalen (8,21.31).
+  - agent:ezr008, 2026-10-22
+- **`name:shecaniah`** שְׁכַנְיָה Shecaniah → **Shekanja** [medium, decided, attested]
+  - gloss: שְׁכַנְיָה: שְׁכַנְיָ֨ה (EZR 10:2) — English (generated): Shecaniah
+  - NT: EZR 10:2 *Shekanja*
+  - answers: shekanja
+  - Jehiels søn (Ezra 10,2); også 8,3.5.
+  - agent:ezr010, 2026-10-22
+- **`name:eliashib_ezr`** אֶלְיָשִׁיב Eliashib → **Eljashib** [medium, decided, attested]
+  - gloss: אֶלְיָשִׁיב: אֶלְיָשִׁ֑יב (EZR 10:6) — English (generated): of Eliashib
+  - NT: EZR 10:6 *Eljashibs*
+  - answers: eljashib
+  - Ezra 10,6.24.27.36.
+  - agent:ezr010, 2026-10-22
+- **`name:elijah_layman`** אֵלִיָּה Elijah (lægmand) → **Elija** [medium, decided, attested]
+  - gloss: אֵלִיָּה: אֵֽלִיָּה֙ (EZR 10:21) — English (generated): Elijah
+  - NT: EZR 10:21 *Elija*
+  - answers: elija
+  - Lægfolk i Ezra 10,21.26; DFB har Elias om profeten (åbent).
+  - agent:ezr010, 2026-10-22
+- **`name:dareios`** דָּרְיָוֶשׁ Darius → **Dareios** [high, decided, attested]
+  - gloss: דָּרְיָוֶשׁ: דָּרְיָ֥וֶשׁ (EZR 4:5) — English (generated): of Darius
+  - NT: HAG 1:1 *Dareios’*; ZEC 1:1 *Dareios'*; EZR 4:5 *Dareios'*
+  - answers: dareios
+  - User decision 2026-10-22: names follow DFB where it has the person (Hag, Zec: Dareios). Daniel drafts still have Darius and need the same change later.
+  - agent:ezr010, 2026-10-22, supersedes `name:darius.gloss`
+- **`name:joshua_highpriest`** יֵשׁוּעַ בֶּן־יוֹצָדָק Jeshua son of Jozadak (high priest) → **Josva** [high, decided, attested]
+  - gloss: יֵשׁוּעַ: יֵשׁ֨וּעַ (EZR 3:2) — English (generated): Then Jeshua
+  - NT: HAG 1:1 *Josva, Josadaks søn*; EZR 3:2 *Josva*
+  - answers: josva
+  - User decision 2026-10-22: only the high priest; other men named yēšûaʕ keep Jeshua (Ezra 2:6.36.40; 3:9; 8:33).
+  - agent:ezr010, 2026-10-22, supersedes `name:jeshua_hp`
+- **`name:nehemiah_governor`** נְחֶמְיָה Nehemiah (the governor, the book's narrator) → **Nehemias** [high, decided, attested]
+  - gloss: נְחֶמְיָה: נְחֶמְיָ֖ה (NEH 1:1) — English (generated): of Nehemiah
+  - NT: NEH 1:1 *Nehemias', Hakaljas søns, ord*
+  - answers: nehemias
+  - Traditional Danish form for the book's hero; other men of this name (Ezra 2:2, Neh 3:16, 7:7) are Nehemja, as Zakarias/Zakarja.
+  - agent:neh001, 2026-10-22
+- **`name:kislev`** כִּסְלֵו month name → **kislev** [high, decided, attested]
+  - gloss: כִּסְלֵו: כִּסְלֵיו֙ (NEH 1:1) — English (generated): of Chislev
+  - NT: NEH 1:1 *måneden kislev*
+  - answers: kislev
+  - Month names in lower case as DFB (1KI 6:1 måneden ziv), with a T note on first use.
+  - agent:neh001, 2026-10-22
+- **`name:sanballat`** סַנְבַלַּט הַחֹרֹנִי Sanballat the Horonite → **Sanballat fra Horon** [high, decided, attested]
+  - gloss: סַנְבַלַּט: סַנְבַלַּ֣ט (NEH 2:10) — English (generated): But when Sanballat
+  - gloss: חֹרֹנִי: חֹרֹנִ֗י (NEH 2:10) — English (generated): the Horonite
+  - NT: NEH 2:10 *Sanballat fra Horon*; NEH 2:19 *Sanballat fra Horon*
+  - answers: sanballat, horon
+  - First mention with 'fra Horon'; later chapters may say just Sanballat.
+  - agent:neh002, 2026-10-22
+- **`name:tobiah_ammonite`** טוֹבִיָּה הָעֶבֶד הָעַמֹּנִי Tobiah the Ammonite official → **Tobija, ammonitten i kongens tjeneste** [high, decided, attested]
+  - gloss: טֹובִיָּה: טֽוֹבִיָּה֙ (NEH 2:10) — English (generated): and Tobiah
+  - gloss: עֶבֶד: עֶ֣בֶד (NEH 2:10) — English (generated): official
+  - NT: NEH 2:10 *Tobija, ammonitten i kongens tjeneste*; NEH 2:19 *Tobija, ammonitten i kongens tjeneste*
+  - answers: tobija, ammonitten
+  - Tobija is the DFB form of the name. hāʕebed read as an official.
+  - agent:neh002, 2026-10-22
+- **`name:geshem_arab`** גֶּשֶׁם הָעַרְבִי Geshem the Arab → **araberen Geshem** [high, decided, attested]
+  - gloss: גֶּשֶׁם: גֶ֨שֶׁם֙ (NEH 2:19) — English (generated): and Geshem
+  - NT: NEH 2:19 *araberen Geshem*
+  - answers: araberen, geshem
+  - agent:neh002, 2026-10-22
+- **`name:nisan`** נִיסָן month name → **nisan** [high, decided, attested]
+  - gloss: נִיסָן: נִיסָ֗ן (NEH 2:1) — English (generated): of Nisan
+  - NT: NEH 2:1 *måneden nisan*
+  - answers: nisan
+  - Lower case as DFB month names; T note on first use.
+  - agent:neh006, 2026-10-22
+- **`name:elul`** אֱלוּל month name → **elul** [high, decided, attested]
+  - gloss: אֱלוּל: אֱל֑וּל (NEH 6:15) — English (generated): of Elul
+  - NT: NEH 6:15 *den 25. elul*
+  - answers: elul
+  - Lower case as DFB month names; T note on first use.
+  - agent:neh006, 2026-10-22
 - **`letter:shin`** **šin → sh** [high, observed]
   - NT: GEN 20:1 *Kadesh*; GEN 30:13 *Asher*; GEN 35:26 *Asher*
   - Bashan, Shilo, Shittim, Kadesh, Asher; men husformer går forud (Sinear, Sikem).
@@ -395,4 +536,4 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
 - **`letter:known_forms`** **indarbejdede danske former bruges uændret: Jerusalem, Betlehem, Jordan, Libanon, Egypten, Gilead, Efraim, Manasse, Juda, Ruben, Gad, Zebulon, Issakar, Asher, Naftali, Dan, Benjamin, Simeon, Levi** [high, decided]
   - NT: DAN 1:1 *Jerusalem*; DAN 5:2 *Jerusalem*
   - agent:memory-setup, 2026-10-14
-<!-- store:end sha=6c0218e0 -->
+<!-- store:end sha=6b915a0a -->

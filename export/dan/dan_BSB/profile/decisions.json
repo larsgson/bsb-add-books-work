@@ -8211,6 +8211,2036 @@
      "proposed": true
     }
    ]
+  },
+  {
+   "id": "formula:melek_paras",
+   "kind": "formula",
+   "source": "מֶלֶךְ פָּרַס",
+   "value": "Persiens konge",
+   "attested": "attested",
+   "words": [
+    "persiens",
+    "konge"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 1:1",
+     "form": "Persiens konge"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מֶ֣לֶךְ",
+     "lemma": "מֶלֶךְ",
+     "ref": "EZR 1:1"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "King of Persia: 'Persiens konge X'."
+  },
+  {
+   "id": "term:elohe_hashamayim",
+   "kind": "term",
+   "source": "אֱלֹהֵי הַשָּׁמַיִם",
+   "value": "himlens Gud",
+   "attested": "attested",
+   "words": [
+    "himlens",
+    "gud"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 1:2",
+     "form": "himlens Gud"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֱלֹהֵ֣י",
+     "lemma": "אֱלֹהִים",
+     "ref": "EZR 1:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "God of heaven, as DFB Ps 136:26."
+  },
+  {
+   "id": "term:nedavah_ezr",
+   "kind": "term",
+   "source": "נְדָבָה",
+   "value": "frivillig gave",
+   "attested": "attested",
+   "words": [
+    "frivillig",
+    "gave"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 1:4",
+     "form": "den frivillige gave"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְּדָבָה",
+     "lemma": "נְדָבָה",
+     "ref": "EZR 1:4"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Freewill offering, as DFB Exod 35:29."
+  },
+  {
+   "id": "formula:rashe_avot",
+   "kind": "formula",
+   "source": "רָאשֵׁי הָאָבוֹת",
+   "value": "overhovederne for fædrenehusene",
+   "attested": "attested",
+   "words": [
+    "overhovederne",
+    "for",
+    "fædrenehusene"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 1:5",
+     "form": "overhovederne for fædrenehusene"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רָאשֵׁ֣י",
+     "lemma": "רֹאשׁ",
+     "ref": "EZR 1:5"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Family heads, as DFB Num 31:26."
+  },
+  {
+   "id": "term:golah",
+   "kind": "term",
+   "source": "הַגּוֹלָה",
+   "value": "de bortførte",
+   "attested": "attested",
+   "words": [
+    "de",
+    "bortførte"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 1:11",
+     "form": "de bortførte"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גּוֹלָ֔ה",
+     "lemma": "גּוֹלָה",
+     "ref": "EZR 1:11"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "The exiles; DFB 'bortførte'."
+  },
+  {
+   "id": "name:sheshbazzar",
+   "kind": "name",
+   "source": "שֵׁשְׁבַּצַּר Sheshbazzar",
+   "value": "Sheshbassar",
+   "attested": "attested",
+   "words": [
+    "sheshbassar"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 1:8",
+     "form": "Sheshbassar"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שֵׁשְׁבַּצַּ֔ר",
+     "lemma": "שֵׁשְׁבַּצַּר",
+     "ref": "EZR 1:8"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Judas fyrste (nasi)."
+  },
+  {
+   "id": "name:mithredath",
+   "kind": "name",
+   "source": "מִתְרְדָת Mithredath",
+   "value": "Mitredat",
+   "attested": "attested",
+   "words": [
+    "mitredat"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 1:8",
+     "form": "Mitredat"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִתְרְדָ֣ת",
+     "lemma": "מִתְרְדָת",
+     "ref": "EZR 1:8"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Skatmesteren."
+  },
+  {
+   "id": "name:zerubbabel",
+   "kind": "name",
+   "source": "זְרֻבָּבֶל Zerubbabel",
+   "value": "Zerubbabel",
+   "attested": "attested",
+   "words": [
+    "zerubbabel"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 2:2",
+     "form": "Zerubbabel"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זְרֻבָּבֶ֗ל",
+     "lemma": "זְרֻבָּבֶל",
+     "ref": "EZR 2:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Som DFB Hag 1,1."
+  },
+  {
+   "id": "name:jeshua_hp",
+   "kind": "name",
+   "source": "יֵשׁוּעַ Jeshua",
+   "value": "Jeshua",
+   "attested": "attested",
+   "words": [
+    "jeshua"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 2:40",
+     "form": "Jeshuas"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֵשׁ֡וּעַ",
+     "lemma": "יֵשׁוּעַ",
+     "ref": "EZR 2:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr002",
+   "date": "2026-10-22",
+   "status": "superseded",
+   "note": "Superseded 2026-10-22 by name:joshua_highpriest (Josva for the high priest); Jeshua stays for other men (Ezra 2:40 levitten)."
+  },
+  {
+   "id": "term:netinim",
+   "kind": "term",
+   "source": "הַנְּתִינִים",
+   "value": "tempeltjenerne",
+   "attested": "attested",
+   "words": [
+    "tempeltjenerne"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 2:43",
+     "form": "tempeltjenerne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְּתִינִ֑ים",
+     "lemma": "נָתִין",
+     "ref": "EZR 2:43"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Temple servants."
+  },
+  {
+   "id": "term:tirshatha",
+   "kind": "term",
+   "source": "הַתִּרְשָׁתָא",
+   "value": "statholderen",
+   "attested": "attested",
+   "words": [
+    "statholderen"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 2:63",
+     "form": "statholderen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תִּרְשָׁ֨תָא֙",
+     "lemma": "תִּרְשָׁתָא",
+     "ref": "EZR 2:63"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Persian title."
+  },
+  {
+   "id": "term:avde_shelomo",
+   "kind": "term",
+   "source": "עַבְדֵי שְׁלֹמֹה",
+   "value": "Salomos trælle",
+   "attested": "attested",
+   "words": [
+    "salomos",
+    "trælle"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 2:55",
+     "form": "Salomos trælle"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַבְדֵ֣י",
+     "lemma": "עֶבֶד",
+     "ref": "EZR 2:55"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Servants of Solomon."
+  },
+  {
+   "id": "name:jozadak",
+   "kind": "name",
+   "source": "יוֹצָדָק Jozadak",
+   "value": "Josadak",
+   "attested": "attested",
+   "words": [
+    "josadak"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 3:2",
+     "form": "Josadaks"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֽוֹצָדָ֜ק",
+     "lemma": "יוֹצָדָק",
+     "ref": "EZR 3:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Jeshua, Josadaks søn; DFB Hag 1,1."
+  },
+  {
+   "id": "name:shealtiel",
+   "kind": "name",
+   "source": "שְׁאַלְתִּיאֵל Shealtiel",
+   "value": "Shealtiel",
+   "attested": "attested",
+   "words": [
+    "shealtiel"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 3:2",
+     "form": "Shealtiels"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְׁאַלְתִּיאֵל֙",
+     "lemma": "שְׁאַלְתִּיאֵל",
+     "ref": "EZR 3:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Zerubbabel, Shealtiels søn; DFB Hag 1,1."
+  },
+  {
+   "id": "formula:amme_haaratsot",
+   "kind": "formula",
+   "source": "עַמֵּי הָאֲרָצוֹת",
+   "value": "landenes folk",
+   "attested": "attested",
+   "words": [
+    "landenes",
+    "folk"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 3:3",
+     "form": "landenes folk"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַמֵּ֖י",
+     "lemma": "עַם",
+     "ref": "EZR 3:3"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "The peoples of the lands (opponents)."
+  },
+  {
+   "id": "name:ahasuerus",
+   "kind": "name",
+   "source": "אֲחַשְׁוֵרוֹשׁ Ahasuerus",
+   "value": "Ahasverus",
+   "attested": "attested",
+   "words": [
+    "ahasverus"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 4:6",
+     "form": "Ahasverus'"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲחַשְׁוֵר֔וֹשׁ",
+     "lemma": "אֲחַשְׁוֵרוֹשׁ",
+     "ref": "EZR 4:6"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr004",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "DFB form; {T:} Xerxes."
+  },
+  {
+   "id": "name:artaxerxes",
+   "kind": "name",
+   "source": "אַרְתַּחְשַׁשְׂתְּא Artaxerxes",
+   "value": "Artaxerxes",
+   "attested": "attested",
+   "words": [
+    "artaxerxes"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 4:8",
+     "form": "Artaxerxes"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַרְתַּחְשַׁ֥שְׂתְּא",
+     "lemma": "אַרְתַּחְשַׁשְׂתְּא",
+     "ref": "EZR 4:8"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr004",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Greek conventional form."
+  },
+  {
+   "id": "term:baal_teem",
+   "kind": "term",
+   "source": "בְּעֵל טְעֵם (aram.)",
+   "value": "kommandanten",
+   "attested": "attested",
+   "words": [
+    "kommandanten"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 4:8",
+     "form": "Kommandanten"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בְּעֵל",
+     "lemma": "בְּעֵל",
+     "ref": "EZR 4:8"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr004",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Rehum's title."
+  },
+  {
+   "id": "term:avar_nahara",
+   "kind": "term",
+   "source": "עֲבַר נַהֲרָה (aram.)",
+   "value": "Hinsides Floden",
+   "attested": "attested",
+   "words": [
+    "hinsides",
+    "floden"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 4:10",
+     "form": "Hinsides Floden"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲבַֽר",
+     "lemma": "עֲבַר",
+     "ref": "EZR 4:10"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr004",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Province west of the Euphrates."
+  },
+  {
+   "id": "formula:mindah_belo_halak",
+   "kind": "formula",
+   "source": "מִנְדָּה בְלוֹ וַהֲלָךְ (aram.)",
+   "value": "skat, afgift og told",
+   "attested": "attested",
+   "words": [
+    "skat,",
+    "afgift",
+    "og"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 4:13",
+     "form": "skat, afgift eller told"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִנְדָּֽה",
+     "lemma": "מִדָּה",
+     "ref": "EZR 4:13"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr004",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Tribute, duty, toll."
+  },
+  {
+   "id": "name:haggai",
+   "kind": "name",
+   "source": "חַגַּי Haggai",
+   "value": "Haggaj",
+   "attested": "attested",
+   "words": [
+    "haggaj"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 5:1",
+     "form": "Haggaj"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַגַּ֣י",
+     "lemma": "חַגַּי",
+     "ref": "EZR 5:1"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr005",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "DFB Hag 1,1."
+  },
+  {
+   "id": "name:zechariah_prophet",
+   "kind": "name",
+   "source": "זְכַרְיָה בַר עִדּוֹא Zechariah son of Iddo",
+   "value": "Zakarias",
+   "attested": "attested",
+   "words": [
+    "zakarias"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 5:1",
+     "form": "Zakarias, Iddos søn"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זְכַרְיָ֤ה",
+     "lemma": "זְכַרְיָה",
+     "ref": "EZR 5:1"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr005",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "The prophet; DFB Zech 1:1 'Zakarias'."
+  },
+  {
+   "id": "name:tattenai",
+   "kind": "name",
+   "source": "תַּתְּנַי Tattenai",
+   "value": "Tattenaj",
+   "attested": "attested",
+   "words": [
+    "tattenaj"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 5:3",
+     "form": "Tattenaj"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תַּ֠תְּנַי",
+     "lemma": "תַּתְּנַי",
+     "ref": "EZR 5:3"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr005",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Statholderen over Hinsides Floden."
+  },
+  {
+   "id": "term:pehah",
+   "kind": "term",
+   "source": "פֶּחָה / פַּחַת",
+   "value": "statholder",
+   "attested": "attested",
+   "words": [
+    "statholder"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 5:3",
+     "form": "statholderen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פַּחַ֧ת",
+     "lemma": "פֶּחָה",
+     "ref": "EZR 5:3"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr005",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Persian governor; as tirshatha."
+  },
+  {
+   "id": "term:hag_matsot",
+   "kind": "term",
+   "source": "חַג מַצּוֹת",
+   "value": "de usyrede brøds fest",
+   "attested": "attested",
+   "words": [
+    "de",
+    "usyrede",
+    "brøds"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 6:22",
+     "form": "de usyrede brøds fest"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַצּ֛וֹת",
+     "lemma": "מַצָּה",
+     "ref": "EZR 6:22"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr006",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Feast of Unleavened Bread, DFB."
+  },
+  {
+   "id": "term:hanukkah_ezr",
+   "kind": "term",
+   "source": "חֲנֻכָּה (aram.)",
+   "value": "indvielsen",
+   "attested": "attested",
+   "words": [
+    "indvielsen"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 6:16",
+     "form": "indvielsen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲנֻכַּ֛ת",
+     "lemma": "חֲנֻכָּה",
+     "ref": "EZR 6:16"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr006",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Dedication of the house."
+  },
+  {
+   "id": "name:ezra",
+   "kind": "name",
+   "source": "עֶזְרָא Ezra",
+   "value": "Ezra",
+   "attested": "attested",
+   "words": [
+    "ezra"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 7:1",
+     "form": "Ezra"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֶזְרָא֙",
+     "lemma": "עֶזְרָא",
+     "ref": "EZR 7:1"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr007",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Bogens titel: Ezras Bog (åbent)."
+  },
+  {
+   "id": "term:sofer_ezra",
+   "kind": "term",
+   "source": "סֹפֵר (om Ezra)",
+   "value": "skriftlærd",
+   "attested": "attested",
+   "words": [
+    "skriftlærd"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 7:6",
+     "form": "skriftlærd"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סֹפֵ֤ר",
+     "lemma": "סֹפֵר",
+     "ref": "EZR 7:6"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr007",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Ezra the scribe; Persian official sāfrāʔ = statsskriver."
+  },
+  {
+   "id": "formula:yad_yhwh_alav",
+   "kind": "formula",
+   "source": "כְּיַד־יְהוָה אֱלֹהָיו עָלָיו",
+   "value": "for HERREN hans Guds hånd var over ham",
+   "attested": "attested",
+   "words": [
+    "for",
+    "herren",
+    "hans"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 7:6",
+     "form": "HERREN hans Guds hånd var over ham"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַד",
+     "lemma": "יָד",
+     "ref": "EZR 7:6"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr007",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Ezra formula 7:6.9.28; 8:18.22.31."
+  },
+  {
+   "id": "term:adarkonim",
+   "kind": "term",
+   "source": "אֲדַרְכֹנִים",
+   "value": "dariker",
+   "attested": "attested",
+   "words": [
+    "dariker"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 8:27",
+     "form": "dariker"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲדַרְכֹנִ֖ים",
+     "lemma": "אֲדַרְכֹּון",
+     "ref": "EZR 8:27"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr008",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Persian gold coin."
+  },
+  {
+   "id": "name:ahava",
+   "kind": "name",
+   "source": "אַהֲוָא Ahava",
+   "value": "Ahava",
+   "attested": "attested",
+   "words": [
+    "ahava"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 8:15",
+     "form": "Ahava"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַהֲוָ֔א",
+     "lemma": "אַהֲוָא",
+     "ref": "EZR 8:15"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr008",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Ahavakanalen (8,21.31)."
+  },
+  {
+   "id": "term:maal_ezr",
+   "kind": "term",
+   "source": "מַעַל",
+   "value": "troløshed",
+   "attested": "attested",
+   "words": [
+    "troløshed"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 9:2",
+     "form": "troløshed"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַּ֥עַל",
+     "lemma": "מַעַל",
+     "ref": "EZR 9:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr009",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Unfaithfulness (mixed marriages), Ezra 9-10."
+  },
+  {
+   "id": "term:toevot_ezr",
+   "kind": "term",
+   "source": "תּוֹעֵבוֹת",
+   "value": "vederstyggeligheder",
+   "attested": "attested",
+   "words": [
+    "vederstyggeligheder"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 9:1",
+     "form": "vederstyggeligheder"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תוֹעֲבֹֽתֵי",
+     "lemma": "תּוֹעֵבַה",
+     "ref": "EZR 9:1"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr009",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Abominations, DFB word."
+  },
+  {
+   "id": "name:shecaniah",
+   "kind": "name",
+   "source": "שְׁכַנְיָה Shecaniah",
+   "value": "Shekanja",
+   "attested": "attested",
+   "words": [
+    "shekanja"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 10:2",
+     "form": "Shekanja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְׁכַנְיָ֨ה",
+     "lemma": "שְׁכַנְיָה",
+     "ref": "EZR 10:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr010",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Jehiels søn (Ezra 10,2); også 8,3.5."
+  },
+  {
+   "id": "formula:marry_foreign_women",
+   "kind": "formula",
+   "source": "הֹשִׁיב נָשִׁים נָכְרִיּוֹת marry foreign women",
+   "value": "giftet sig med fremmede kvinder",
+   "attested": "attested",
+   "words": [
+    "giftet",
+    "fremmede",
+    "kvinder"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 10:10",
+     "form": "giftet jer med fremmede kvinder"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תֹּשִׁ֖יבוּ",
+     "lemma": "יָשַׁב",
+     "ref": "EZR 10:10"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr010",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Ezra 10,2.10.14.17.18.44; hifil af yšb."
+  },
+  {
+   "id": "name:eliashib_ezr",
+   "kind": "name",
+   "source": "אֶלְיָשִׁיב Eliashib",
+   "value": "Eljashib",
+   "attested": "attested",
+   "words": [
+    "eljashib"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 10:6",
+     "form": "Eljashibs"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶלְיָשִׁ֑יב",
+     "lemma": "אֶלְיָשִׁיב",
+     "ref": "EZR 10:6"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr010",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Ezra 10,6.24.27.36."
+  },
+  {
+   "id": "name:elijah_layman",
+   "kind": "name",
+   "source": "אֵלִיָּה Elijah (lægmand)",
+   "value": "Elija",
+   "attested": "attested",
+   "words": [
+    "elija"
+   ],
+   "evidence": [
+    {
+     "ref": "EZR 10:21",
+     "form": "Elija"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֵֽלִיָּה֙",
+     "lemma": "אֵלִיָּה",
+     "ref": "EZR 10:21"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:ezr010",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Lægfolk i Ezra 10,21.26; DFB har Elias om profeten (åbent)."
+  },
+  {
+   "id": "name:dareios",
+   "kind": "name",
+   "source": "דָּרְיָוֶשׁ Darius",
+   "value": "Dareios",
+   "words": [
+    "dareios"
+   ],
+   "evidence": [
+    {
+     "ref": "HAG 1:1",
+     "form": "Dareios’"
+    },
+    {
+     "ref": "ZEC 1:1",
+     "form": "Dareios'"
+    },
+    {
+     "ref": "EZR 4:5",
+     "form": "Dareios'"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דָּרְיָ֥וֶשׁ",
+     "lemma": "דָּרְיָוֶשׁ",
+     "ref": "EZR 4:5"
+    }
+   ],
+   "supersedes": "name:darius.gloss",
+   "note": "User decision 2026-10-22: names follow DFB where it has the person (Hag, Zec: Dareios). Daniel drafts still have Darius and need the same change later.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ezr010",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:joshua_highpriest",
+   "kind": "name",
+   "source": "יֵשׁוּעַ בֶּן־יוֹצָדָק Jeshua son of Jozadak (high priest)",
+   "value": "Josva",
+   "words": [
+    "josva"
+   ],
+   "evidence": [
+    {
+     "ref": "HAG 1:1",
+     "form": "Josva, Josadaks søn"
+    },
+    {
+     "ref": "EZR 3:2",
+     "form": "Josva"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֵשׁ֨וּעַ",
+     "lemma": "יֵשׁוּעַ",
+     "ref": "EZR 3:2"
+    }
+   ],
+   "note": "User decision 2026-10-22: only the high priest; other men named yēšûaʕ keep Jeshua (Ezra 2:6.36.40; 3:9; 8:33).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ezr010",
+   "date": "2026-10-22",
+   "status": "decided",
+   "supersedes": "name:jeshua_hp"
+  },
+  {
+   "id": "name:nehemiah_governor",
+   "kind": "name",
+   "source": "נְחֶמְיָה Nehemiah (the governor, the book's narrator)",
+   "value": "Nehemias",
+   "words": [
+    "nehemias"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 1:1",
+     "form": "Nehemias', Hakaljas søns, ord"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְחֶמְיָ֖ה",
+     "lemma": "נְחֶמְיָה",
+     "ref": "NEH 1:1"
+    }
+   ],
+   "note": "Traditional Danish form for the book's hero; other men of this name (Ezra 2:2, Neh 3:16, 7:7) are Nehemja, as Zakarias/Zakarja.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh001",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:great_awesome_god_keeps_covenant",
+   "kind": "formula",
+   "source": "הָאֵל הַגָּדוֹל וְהַנּוֹרָא שֹׁמֵר הַבְּרִית וָחֶסֶד",
+   "value": "du store og frygtindgydende Gud, som holder pagten og trofastheden",
+   "words": [
+    "du",
+    "store",
+    "og",
+    "frygtindgydende",
+    "gud",
+    "som",
+    "holder",
+    "pagten",
+    "og",
+    "trofastheden"
+   ],
+   "evidence": [
+    {
+     "ref": "DAN 9:4",
+     "form": "du store og frygtindgydende Gud, som holder pagten og trofastheden"
+    },
+    {
+     "ref": "NEH 1:5",
+     "form": "du store og frygtindgydende Gud, som holder pagten og trofastheden"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שֹׁמֵ֤ר",
+     "lemma": "שָׁמַר",
+     "ref": "NEH 1:5"
+    },
+    {
+     "lang": "hbo",
+     "form": "חֶ֔סֶד",
+     "lemma": "חֶסֶד",
+     "ref": "NEH 1:5"
+    }
+   ],
+   "note": "Same wording in Neh 9:32.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh001",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:kislev",
+   "kind": "name",
+   "source": "כִּסְלֵו month name",
+   "value": "kislev",
+   "words": [
+    "kislev"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 1:1",
+     "form": "måneden kislev"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כִּסְלֵיו֙",
+     "lemma": "כִּסְלֵו",
+     "ref": "NEH 1:1"
+    }
+   ],
+   "note": "Month names in lower case as DFB (1KI 6:1 måneden ziv), with a T note on first use.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh001",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:sanballat",
+   "kind": "name",
+   "source": "סַנְבַלַּט הַחֹרֹנִי Sanballat the Horonite",
+   "value": "Sanballat fra Horon",
+   "words": [
+    "sanballat",
+    "horon"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 2:10",
+     "form": "Sanballat fra Horon"
+    },
+    {
+     "ref": "NEH 2:19",
+     "form": "Sanballat fra Horon"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סַנְבַלַּ֣ט",
+     "lemma": "סַנְבַלַּט",
+     "ref": "NEH 2:10"
+    },
+    {
+     "lang": "hbo",
+     "form": "חֹרֹנִ֗י",
+     "lemma": "חֹרֹנִי",
+     "ref": "NEH 2:10"
+    }
+   ],
+   "note": "First mention with 'fra Horon'; later chapters may say just Sanballat.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh002",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:tobiah_ammonite",
+   "kind": "name",
+   "source": "טוֹבִיָּה הָעֶבֶד הָעַמֹּנִי Tobiah the Ammonite official",
+   "value": "Tobija, ammonitten i kongens tjeneste",
+   "words": [
+    "tobija",
+    "ammonitten"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 2:10",
+     "form": "Tobija, ammonitten i kongens tjeneste"
+    },
+    {
+     "ref": "NEH 2:19",
+     "form": "Tobija, ammonitten i kongens tjeneste"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "טֽוֹבִיָּה֙",
+     "lemma": "טֹובִיָּה",
+     "ref": "NEH 2:10"
+    },
+    {
+     "lang": "hbo",
+     "form": "עֶ֣בֶד",
+     "lemma": "עֶבֶד",
+     "ref": "NEH 2:10"
+    }
+   ],
+   "note": "Tobija is the DFB form of the name. hāʕebed read as an official.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh002",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:geshem_arab",
+   "kind": "name",
+   "source": "גֶּשֶׁם הָעַרְבִי Geshem the Arab",
+   "value": "araberen Geshem",
+   "words": [
+    "araberen",
+    "geshem"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 2:19",
+     "form": "araberen Geshem"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גֶ֨שֶׁם֙",
+     "lemma": "גֶּשֶׁם",
+     "ref": "NEH 2:19"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh002",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:if_it_pleases_the_king",
+   "kind": "formula",
+   "source": "אִם־עַל־הַמֶּלֶךְ טוֹב If it pleases the king",
+   "value": "Hvis kongen synes om det",
+   "words": [
+    "hvis",
+    "kongen",
+    "synes",
+    "om",
+    "det"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 2:5",
+     "form": "Hvis kongen synes om det"
+    },
+    {
+     "ref": "NEH 2:7",
+     "form": "Hvis kongen synes om det"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "ט֔וֹב",
+     "lemma": "טוֹב",
+     "ref": "NEH 2:5"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh002",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:next_to_him_repaired",
+   "kind": "formula",
+   "source": "וְעַל־יָדוֹ הֶחֱזִיק / אַחֲרָיו הֶחֱזִיק (Neh 3)",
+   "value": "Ved siden af ham udbedrede X / Efter ham udbedrede X",
+   "words": [
+    "ved",
+    "siden",
+    "af",
+    "udbedrede",
+    "efter"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 3:4",
+     "form": "Ved siden af dem udbedrede Meremot"
+    },
+    {
+     "ref": "NEH 3:16",
+     "form": "Efter ham udbedrede Nehemja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הֶחֱזִ֗יק",
+     "lemma": "חָזַק",
+     "ref": "NEH 3:4"
+    }
+   ],
+   "note": "hiphil of chazaq for repairing the wall: udbedre.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh003",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:doors_bolts_bars",
+   "kind": "formula",
+   "source": "וַיַּעֲמִידוּ דַּלְתֹתָיו מַנְעוּלָיו וּבְרִיחָיו",
+   "value": "satte dens døre, dens låse og dens slåer i",
+   "words": [
+    "satte",
+    "dens",
+    "døre",
+    "dens",
+    "låse",
+    "og",
+    "dens",
+    "slåer",
+    "i"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 3:3",
+     "form": "satte dens døre, dens låse og dens slåer i"
+    },
+    {
+     "ref": "NEH 3:6",
+     "form": "satte dens døre, dens låse og dens slåer i"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דַּלְתֹתָ֔י",
+     "lemma": "דֶּלֶת",
+     "ref": "NEH 3:3"
+    },
+    {
+     "lang": "hbo",
+     "form": "בְרִיחָֽי",
+     "lemma": "בְּרִיחַ",
+     "ref": "NEH 3:3"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh003",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:ruler_of_district",
+   "kind": "term",
+   "source": "שַׂר (חֲצִי) פֶּלֶךְ",
+   "value": "leder af (den ene halvdel af) X's distrikt",
+   "words": [
+    "leder",
+    "distrikt",
+    "halvdel"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 3:9",
+     "form": "leder af den ene halvdel af Jerusalems distrikt"
+    },
+    {
+     "ref": "NEH 3:14",
+     "form": "leder af Bet-Hakkerems distrikt"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פֶּ֥לֶךְ",
+     "lemma": "פֶּלֶךְ",
+     "ref": "NEH 3:9"
+    },
+    {
+     "lang": "hbo",
+     "form": "שַׂ֕ר",
+     "lemma": "שַׂר",
+     "ref": "NEH 3:9"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh003",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:another_section",
+   "kind": "term",
+   "source": "מִדָּה שֵׁנִית",
+   "value": "et andet stykke",
+   "words": [
+    "andet",
+    "stykke"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 3:11",
+     "form": "Et andet stykke udbedrede Malkija"
+    },
+    {
+     "ref": "NEH 3:19",
+     "form": "et andet stykke"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִדָּ֣ה",
+     "lemma": "מִדָּה",
+     "ref": "NEH 3:11"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh003",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:nobles_officials_rest",
+   "kind": "formula",
+   "source": "הַחֹרִים וְהַסְּגָנִים וְיֶתֶר הָעָם",
+   "value": "stormændene, forstanderne og resten af folket",
+   "words": [
+    "stormændene",
+    "forstanderne",
+    "resten",
+    "folket"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 4:8",
+     "form": "til stormændene og til forstanderne og til resten af folket"
+    },
+    {
+     "ref": "NEH 4:13",
+     "form": "til stormændene og til forstanderne og til resten af folket"
+    },
+    {
+     "ref": "NEH 2:16",
+     "form": "stormændene … forstanderne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֹרִ֤ים",
+     "lemma": "חֹר",
+     "ref": "NEH 4:8"
+    },
+    {
+     "lang": "hbo",
+     "form": "סְּגָנִים֙",
+     "lemma": "סָגָן",
+     "ref": "NEH 4:8"
+    }
+   ],
+   "note": "chorim = stormænd (nobles), seganim = forstandere (officials), as Ezra 9:2.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh004",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:remember_me_my_god",
+   "kind": "formula",
+   "source": "זָכְרָה־לִּי אֱלֹהַי לְטוֹבָה",
+   "value": "Husk mig, min Gud, til gode",
+   "words": [
+    "husk",
+    "mig",
+    "min",
+    "gud",
+    "til",
+    "gode"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 5:19",
+     "form": "Husk mig, min Gud, til gode for alt hvad jeg har gjort for dette folk!"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זָכְרָ",
+     "lemma": "זָכַר",
+     "ref": "NEH 5:19"
+    }
+   ],
+   "note": "Recurs Neh 13:14.22.31.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh005",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:massa_usury",
+   "kind": "term",
+   "source": "מַשָּׁא (Neh 5) usury, exaction",
+   "value": "åger",
+   "words": [
+    "åger"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 5:7",
+     "form": "I tager åger hver af sin bror!"
+    },
+    {
+     "ref": "NEH 5:10",
+     "form": "denne åger"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַשָּׁ֥א",
+     "lemma": "מַשָּׁא",
+     "ref": "NEH 5:7"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh005",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:nisan",
+   "kind": "name",
+   "source": "נִיסָן month name",
+   "value": "nisan",
+   "words": [
+    "nisan"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 2:1",
+     "form": "måneden nisan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נִיסָ֗ן",
+     "lemma": "נִיסָן",
+     "ref": "NEH 2:1"
+    }
+   ],
+   "note": "Lower case as DFB month names; T note on first use.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh006",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:elul",
+   "kind": "name",
+   "source": "אֱלוּל month name",
+   "value": "elul",
+   "words": [
+    "elul"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 6:15",
+     "form": "den 25. elul"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֱל֑וּל",
+     "lemma": "אֱלוּל",
+     "ref": "NEH 6:15"
+    }
+   ],
+   "note": "Lower case as DFB month names; T note on first use.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh006",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:sar_habbira",
+   "kind": "term",
+   "source": "שַׂר הַבִּירָה commander of the fortress",
+   "value": "kommandanten for borgen",
+   "words": [
+    "kommandanten",
+    "borgen"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 7:2",
+     "form": "Hananja, kommandanten for borgen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שַׂ֥ר",
+     "lemma": "שַׂר",
+     "ref": "NEH 7:2"
+    },
+    {
+     "lang": "hbo",
+     "form": "בִּירָ֖ה",
+     "lemma": "בִּירָה",
+     "ref": "NEH 7:2"
+    }
+   ],
+   "note": "bira = borgen (also Neh 1:1 borgen Susa, 2:8 borgen ved templet).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh007",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:book_of_law_of_moses",
+   "kind": "formula",
+   "source": "סֵפֶר תּוֹרַת מֹשֶׁה",
+   "value": "Moses' lovbog",
+   "words": [
+    "moses",
+    "lovbog"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 8:1",
+     "form": "Moses' lovbog"
+    },
+    {
+     "ref": "NEH 8:18",
+     "form": "Guds lovbog"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תּוֹרַ֣ת",
+     "lemma": "תּוֹרָה",
+     "ref": "NEH 8:1"
+    }
+   ],
+   "note": "sefer torat = lovbog (DFB word); also 'lovbogen', 'Guds lovbog'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh008",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:sukkot_booths",
+   "kind": "term",
+   "source": "סֻכּוֹת booths",
+   "value": "løvhytter",
+   "words": [
+    "løvhytter",
+    "løvhytterne"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 8:14",
+     "form": "bo i løvhytter"
+    },
+    {
+     "ref": "EZR 3:4",
+     "form": "løvhyttefesten"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סֻּכּ֛וֹת",
+     "lemma": "סֻכָּה",
+     "ref": "NEH 8:14"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh008",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:atseret",
+   "kind": "term",
+   "source": "עֲצֶרֶת solemn assembly",
+   "value": "festforsamling",
+   "words": [
+    "festforsamling"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 8:18",
+     "form": "holdt de festforsamling"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲצֶ֖רֶת",
+     "lemma": "עֲצֶרֶת",
+     "ref": "NEH 8:18"
+    }
+   ],
+   "note": "DFB word.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh008",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:gracious_compassionate_slow_to_anger",
+   "kind": "formula",
+   "source": "חַנּוּן וְרַחוּם אֶרֶךְ אַפַּיִם וְרַב חֶסֶד",
+   "value": "nådig og barmhjertig, sen til vrede og rig på trofasthed",
+   "words": [
+    "nådig",
+    "barmhjertig",
+    "sen",
+    "vrede",
+    "rig",
+    "trofasthed"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 9:17",
+     "form": "nådig og barmhjertig, sen til vrede og rig på trofasthed"
+    },
+    {
+     "ref": "EXO 34:6",
+     "form": "en barmhjertig og nådig Gud, sen til vrede"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַנּ֧וּן",
+     "lemma": "חַנּוּן",
+     "ref": "NEH 9:17"
+    },
+    {
+     "lang": "hbo",
+     "form": "רַח֛וּם",
+     "lemma": "רַחוּם",
+     "ref": "NEH 9:17"
+    },
+    {
+     "lang": "hbo",
+     "form": "חֶ֖סֶד",
+     "lemma": "חֶסֶד",
+     "ref": "NEH 9:17"
+    }
+   ],
+   "note": "hesed = trofasthed with {N: nåde}, as Neh 1:5; 'el channun verachum' = en nådig og barmhjertig Gud (9:31).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh009",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:stiffened_neck",
+   "kind": "formula",
+   "source": "וַיַּקְשׁוּ אֶת־עָרְפָּם",
+   "value": "gjorde deres nakke stiv",
+   "words": [
+    "gjorde",
+    "nakke",
+    "stiv"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 9:16",
+     "form": "gjorde deres nakke stiv"
+    },
+    {
+     "ref": "NEH 9:29",
+     "form": "gjorde deres nakke stiv"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַּקְשׁוּ֙",
+     "lemma": "קָשָׁה",
+     "ref": "NEH 9:16"
+    },
+    {
+     "lang": "hbo",
+     "form": "עָרְפָּ֔",
+     "lemma": "עֹרֶף",
+     "ref": "NEH 9:16"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh009",
+   "date": "2026-10-22",
+   "status": "decided"
   }
  ]
 }

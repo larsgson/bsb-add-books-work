@@ -30,6 +30,7 @@ Tilbagevendende vendinger og deres faste danske form. `<…>` er pladser der udf
 - »**påkaldte HERRENS navn**« (DFB 1 Mos 12,8; udkast 21,33; 26,25); »**fandt nåde** for … øjne«.
 - **Krig:** »slog <dem> ned med sværd« (DFB Dom 1,8.25; 18,27; 20,48) mod Josva-udkastenes »huggede ned
   med sværd« (6×) – åbent, DFB peger på »slog«. »Derefter fik landet ro for krig« (Jos 11,23; 14,15).
+- **Nehemias' Bog:** byggelisten (Neh 3) »Ved siden af ham udbedrede X« / »Efter ham udbedrede X«, »et andet stykke«, »satte dens døre, dens låse og dens slåer i«; »Husk mig, min Gud, til gode« (5,19; 13,14.22.31); bønnerne genbruger Dan 9,4: »du store og frygtindgydende Gud, som holder pagten og trofastheden« (Neh 1,5; 9,32 + »vældige«); 2 Mos 34,6-formlen »nådig og barmhjertig, sen til vrede og rig på trofasthed« (Neh 9,17). Lange bønner gengives som prosa (Ezra 9, Neh 9).
 - **Lovprisning:** »Lovet være HERREN« (DFB 15×; 1 Mos 24,27) eller »Velsignet være« (DFB 9×; Dan 3,28) – åbent.
 
 ## Skabelse og velsignelse
@@ -149,4 +150,97 @@ Tilbagevendende vendinger og deres faste danske form. `<…>` er pladser der udf
   - answers: found favor in the eyes of, find favor
   - DFB 1 Mos 6,8 'fandt nåde'; udkast 39,21 'finde nåde for … øjne'.
   - script:gloss.py, 2026-10-14, supersedes `formula:find_favor`
-<!-- store:end sha=dbe3a9c4 -->
+- **`formula:melek_paras`** מֶלֶךְ פָּרַס → **Persiens konge** [medium, decided, attested]
+  - gloss: מֶלֶךְ: מֶ֣לֶךְ (EZR 1:1) — English (generated): king
+  - NT: EZR 1:1 *Persiens konge*
+  - answers: persiens, konge
+  - King of Persia: 'Persiens konge X'.
+  - agent:ezr001, 2026-10-22
+- **`formula:rashe_avot`** רָאשֵׁי הָאָבוֹת → **overhovederne for fædrenehusene** [medium, decided, attested]
+  - gloss: רֹאשׁ: רָאשֵׁ֣י (EZR 1:5) — English (generated): heads
+  - NT: EZR 1:5 *overhovederne for fædrenehusene*
+  - answers: overhovederne, for, fædrenehusene
+  - Family heads, as DFB Num 31:26.
+  - agent:ezr001, 2026-10-22
+- **`formula:amme_haaratsot`** עַמֵּי הָאֲרָצוֹת → **landenes folk** [medium, decided, attested]
+  - gloss: עַם: עַמֵּ֖י (EZR 3:3) — English (generated): the people
+  - NT: EZR 3:3 *landenes folk*
+  - answers: landenes, folk
+  - The peoples of the lands (opponents).
+  - agent:ezr003, 2026-10-22
+- **`formula:mindah_belo_halak`** מִנְדָּה בְלוֹ וַהֲלָךְ (aram.) → **skat, afgift og told** [medium, decided, attested]
+  - gloss: מִדָּה: מִנְדָּֽה (EZR 4:13)
+  - NT: EZR 4:13 *skat, afgift eller told*
+  - answers: skat,, afgift, og
+  - Tribute, duty, toll.
+  - agent:ezr004, 2026-10-22
+- **`formula:yad_yhwh_alav`** כְּיַד־יְהוָה אֱלֹהָיו עָלָיו → **for HERREN hans Guds hånd var over ham** [medium, decided, attested]
+  - gloss: יָד: יַד (EZR 7:6) — English (generated): for the hand
+  - NT: EZR 7:6 *HERREN hans Guds hånd var over ham*
+  - answers: for, herren, hans
+  - Ezra formula 7:6.9.28; 8:18.22.31.
+  - agent:ezr007, 2026-10-22
+- **`formula:marry_foreign_women`** הֹשִׁיב נָשִׁים נָכְרִיּוֹת marry foreign women → **giftet sig med fremmede kvinder** [medium, decided, attested]
+  - gloss: יָשַׁב: תֹּשִׁ֖יבוּ (EZR 10:10) — English (generated): by marrying
+  - NT: EZR 10:10 *giftet jer med fremmede kvinder*
+  - answers: giftet, fremmede, kvinder
+  - Ezra 10,2.10.14.17.18.44; hifil af yšb.
+  - agent:ezr010, 2026-10-22
+- **`formula:great_awesome_god_keeps_covenant`** הָאֵל הַגָּדוֹל וְהַנּוֹרָא שֹׁמֵר הַבְּרִית וָחֶסֶד → **du store og frygtindgydende Gud, som holder pagten og trofastheden** [high, decided, attested]
+  - gloss: שָׁמַר: שֹׁמֵ֤ר (NEH 1:5) — English (generated): who keeps
+  - gloss: חֶסֶד: חֶ֔סֶד (NEH 1:5) — English (generated): of loving devotion
+  - NT: DAN 9:4 *du store og frygtindgydende Gud, som holder pagten og trofastheden*; NEH 1:5 *du store og frygtindgydende Gud, som holder pagten og trofastheden*
+  - answers: du, store, og, frygtindgydende, gud, som, holder, pagten, og, trofastheden
+  - Same wording in Neh 9:32.
+  - agent:neh001, 2026-10-22
+- **`formula:if_it_pleases_the_king`** אִם־עַל־הַמֶּלֶךְ טוֹב If it pleases the king → **Hvis kongen synes om det** [high, decided, attested]
+  - gloss: טוֹב: ט֔וֹב (NEH 2:5) — English (generated): it pleases
+  - NT: NEH 2:5 *Hvis kongen synes om det*; NEH 2:7 *Hvis kongen synes om det*
+  - answers: hvis, kongen, synes, om, det
+  - agent:neh002, 2026-10-22
+- **`formula:next_to_him_repaired`** וְעַל־יָדוֹ הֶחֱזִיק / אַחֲרָיו הֶחֱזִיק (Neh 3) → **Ved siden af ham udbedrede X / Efter ham udbedrede X** [high, decided, attested]
+  - gloss: חָזַק: הֶחֱזִ֗יק (NEH 3:4) — English (generated): made repairs
+  - NT: NEH 3:4 *Ved siden af dem udbedrede Meremot*; NEH 3:16 *Efter ham udbedrede Nehemja*
+  - answers: ved, siden, af, udbedrede, efter
+  - hiphil of chazaq for repairing the wall: udbedre.
+  - agent:neh003, 2026-10-22
+- **`formula:doors_bolts_bars`** וַיַּעֲמִידוּ דַּלְתֹתָיו מַנְעוּלָיו וּבְרִיחָיו → **satte dens døre, dens låse og dens slåer i** [high, decided, attested]
+  - gloss: דֶּלֶת: דַּלְתֹתָ֔י (NEH 3:3) — English (generated): its doors
+  - gloss: בְּרִיחַ: בְרִיחָֽי (NEH 3:3) — English (generated): and bars
+  - NT: NEH 3:3 *satte dens døre, dens låse og dens slåer i*; NEH 3:6 *satte dens døre, dens låse og dens slåer i*
+  - answers: satte, dens, døre, dens, låse, og, dens, slåer, i
+  - agent:neh003, 2026-10-22
+- **`formula:nobles_officials_rest`** הַחֹרִים וְהַסְּגָנִים וְיֶתֶר הָעָם → **stormændene, forstanderne og resten af folket** [high, decided, attested]
+  - gloss: חֹר: חֹרִ֤ים (NEH 4:8) — English (generated): the nobles
+  - gloss: סָגָן: סְּגָנִים֙ (NEH 4:8) — English (generated): the officials
+  - NT: NEH 4:8 *til stormændene og til forstanderne og til resten af folket*; NEH 4:13 *til stormændene og til forstanderne og til resten af folket*; NEH 2:16 *stormændene … forstanderne*
+  - answers: stormændene, forstanderne, resten, folket
+  - chorim = stormænd (nobles), seganim = forstandere (officials), as Ezra 9:2.
+  - agent:neh004, 2026-10-22
+- **`formula:remember_me_my_god`** זָכְרָה־לִּי אֱלֹהַי לְטוֹבָה → **Husk mig, min Gud, til gode** [high, decided, attested]
+  - gloss: זָכַר: זָכְרָ (NEH 5:19) — English (generated): Remember
+  - NT: NEH 5:19 *Husk mig, min Gud, til gode for alt hvad jeg har gjort for dette folk!*
+  - answers: husk, mig, min, gud, til, gode
+  - Recurs Neh 13:14.22.31.
+  - agent:neh005, 2026-10-22
+- **`formula:book_of_law_of_moses`** סֵפֶר תּוֹרַת מֹשֶׁה → **Moses' lovbog** [high, decided, attested]
+  - gloss: תּוֹרָה: תּוֹרַ֣ת (NEH 8:1) — English (generated): of the Law
+  - NT: NEH 8:1 *Moses' lovbog*; NEH 8:18 *Guds lovbog*
+  - answers: moses, lovbog
+  - sefer torat = lovbog (DFB word); also 'lovbogen', 'Guds lovbog'.
+  - agent:neh008, 2026-10-22
+- **`formula:gracious_compassionate_slow_to_anger`** חַנּוּן וְרַחוּם אֶרֶךְ אַפַּיִם וְרַב חֶסֶד → **nådig og barmhjertig, sen til vrede og rig på trofasthed** [high, decided, attested]
+  - gloss: חַנּוּן: חַנּ֧וּן (NEH 9:17) — English (generated): gracious
+  - gloss: רַחוּם: רַח֛וּם (NEH 9:17) — English (generated): and compassionate
+  - gloss: חֶסֶד: חֶ֖סֶד (NEH 9:17) — English (generated): in loving devotion
+  - NT: NEH 9:17 *nådig og barmhjertig, sen til vrede og rig på trofasthed*; EXO 34:6 *en barmhjertig og nådig Gud, sen til vrede*
+  - answers: nådig, barmhjertig, sen, vrede, rig, trofasthed
+  - hesed = trofasthed with {N: nåde}, as Neh 1:5; 'el channun verachum' = en nådig og barmhjertig Gud (9:31).
+  - agent:neh009, 2026-10-22
+- **`formula:stiffened_neck`** וַיַּקְשׁוּ אֶת־עָרְפָּם → **gjorde deres nakke stiv** [high, decided, attested]
+  - gloss: קָשָׁה: יַּקְשׁוּ֙ (NEH 9:16) — English (generated): and stiff necked
+  - gloss: עֹרֶף: עָרְפָּ֔ (NEH 9:16)
+  - NT: NEH 9:16 *gjorde deres nakke stiv*; NEH 9:29 *gjorde deres nakke stiv*
+  - answers: gjorde, nakke, stiv
+  - agent:neh009, 2026-10-22
+<!-- store:end sha=22303e9a -->
