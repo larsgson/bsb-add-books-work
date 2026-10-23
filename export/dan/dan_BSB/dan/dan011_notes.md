@@ -115,3 +115,7 @@ Dato: 09.10.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 7. Antal `{T:}` (10) er i øvre ende; kandidater til at flytte til noterne: v13, v40.
 
 *Original text in these notes: Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew (CC BY 4.0, Clear Bible), filled in by scripts/notes_hebrew.py.*
+
+## Konsistensgennemgang 22.10.2026
+
+- Darius → Dareios (projektregel 22.10.2026: Den Frie Bibels form, som Ezra 4-6, Neh 12,22, Hag og Sak). Mekanisk rettelse; alignment uændret.

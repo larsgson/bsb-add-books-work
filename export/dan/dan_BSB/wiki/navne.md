@@ -47,6 +47,7 @@ samme navn står i DFB på begge måder (Kana'an 9×, Kana’an 32×). Åbent; i
 - Daniel: Nebukadnesar, **Belshassar** (kongen) ≠ **Beltshassar** (Daniel), Shadrak, Meshak, **Abed-Nego**,
   Darius, Kyros, Gabriel, Mikael.
 - Nehemias' Bog: hovedpersonen hedder **Nehemias** (traditionel dansk form), andre med samme navn **Nehemja** (Ezra 2,2; Neh 3,16; 7,7) – samme mønster som Zakarias/Zakarja. Modstanderne: **Sanballat fra Horon**, **Tobija, ammonitten i kongens tjeneste**, **araberen Geshem** (6,6 hebraisk *Gashmu*). Byggelisten i Neh 3 og listen i Neh 7 (= Ezra 2) bruger Ezra-udkastets navneformer (Parosh, Paseah, Hakkos, Meremot). Månedsnavne med lille: kislev, nisan, elul (som DFB »måneden ziv«).
+- Esters Bog: heltinden hedder **Ester** (traditionel dansk form; DFB har ikke bogen), titlen **Esters Bog**; kongen **Ahasverus** (som Ezra 4,6), dronning **Vashti**, **borgen Susa**; persiske navne translittereres med sh/k/z (Karshena, Memukan, Bizta).
 
 ## Åbne navne
 
@@ -492,6 +493,89 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
   - answers: elul
   - Lower case as DFB month names; T note on first use.
   - agent:neh006, 2026-10-22
+- **`name:vagtporten`** שַׁעַר הַמַּטָּרָה → **Vagtporten** [high, decided, attested]
+  - gloss: מַטָּרָה: מַּטָּרָֽה (NEH 12:39) — English (generated): of the Guard
+  - NT: NEH 12:39 *ved Vagtporten*
+  - answers: Vagtporten
+  - agent:neh012, 2026-10-22
+- **`name:memucan`** מְמוּכָן → **Memukan** [medium, decided, attested]
+  - gloss: מְמוּכָן: מְמוּכָ֑ן (EST 1:14) — English (generated): and Memucan
+  - NT: EST 1:14 *Memukan*
+  - answers: memukan
+  - One of the seven princes.
+  - agent:est001, 2026-10-22
+- **`name:vashti`** וַשְׁתִּי → **Vashti** [medium, decided, attested]
+  - gloss: וַשְׁתִּי: וַשְׁתִּ֣י (EST 1:9) — English (generated): Vashti
+  - NT: EST 1:9 *dronning Vashti*
+  - answers: vashti
+  - Queen Vashti.
+  - agent:est001, 2026-10-22
+- **`name:shushan-habira`** שׁוּשַׁן → **borgen Susa** [medium, decided, attested]
+  - gloss: שׁוּשַׁן: שׁוּשַׁ֥ן (EST 1:2) — English (generated): of Susa
+  - NT: EST 1:2 *borgen Susa*
+  - answers: borgen, susa
+  - As NEH 1:1.
+  - agent:est001, 2026-10-22
+- **`name:esther`** אֶסְתֵּר → **Ester** [medium, decided, attested]
+  - gloss: אֶסְתֵּר: אֶסְתֵּר֙ (EST 2:7) — English (generated): Esther
+  - NT: EST 2:7 *Ester*
+  - answers: ester
+  - Traditional Danish form; book title Esters Bog.
+  - agent:est002, 2026-10-22
+- **`name:mordecai`** מׇרְדֳּכַי → **Mordokaj** [medium, decided, attested]
+  - gloss: מׇרְדֳּכַי: מָרְדֳּכַ֗י (EST 2:5) — English (generated): Mordecai
+  - NT: EST 2:5 *Mordokaj*
+  - answers: mordokaj
+  - As EZR 2:2 in this project.
+  - agent:est002, 2026-10-22
+- **`name:tebet`** טֵבֶת → **tebet** [medium, decided, attested]
+  - gloss: טֵבֶת: טֵבֵ֑ת (EST 2:16) — English (generated): of Tebeth
+  - NT: EST 2:16 *tebet*
+  - answers: tebet
+  - Month name, lower case like kislev.
+  - agent:est002, 2026-10-22
+- **`name:hegai`** הֵגַי → **Hegaj** [medium, decided, attested]
+  - gloss: הֵגַי: הֵגֶ֛א (EST 2:3) — English (generated): of Hegai
+  - NT: EST 2:3 *Hegaj*
+  - answers: hegaj
+  - Eunuch over the women.
+  - agent:est002, 2026-10-22
+- **`name:haman`** הָמָן → **Haman** [medium, decided, attested]
+  - gloss: הָמָן: הָמָ֧ן (EST 3:1) — English (generated): Haman
+  - NT: EST 3:1 *Haman, Hammedatas søn, agagitten*
+  - answers: haman
+  - Haman son of Hammedatha, the Agagite.
+  - agent:est003, 2026-10-22
+- **`name:adar`** אֲדָר → **adar** [medium, decided, attested]
+  - gloss: אֲדָר: אֲדָֽר (EST 3:7) — English (generated): the month of Adar
+  - NT: EST 3:7 *adar*
+  - answers: adar
+  - Month name, lower case as Ezra 6:15.
+  - agent:est003, 2026-10-22
+- **`name:hathach`** הֲתָךְ → **Hatak** [medium, decided, attested]
+  - gloss: הֲתָךְ: הֲתָ֜ךְ (EST 4:5) — English (generated): Hathach
+  - NT: EST 4:5 *Hatak*
+  - answers: hatak
+  - Esther's eunuch.
+  - agent:est004, 2026-10-22
+- **`name:zeresh`** זֶרֶשׁ → **Zeresh** [medium, decided, attested]
+  - gloss: זֶרֶשׁ: זֶ֥רֶשׁ (EST 5:10) — English (generated): Zeresh
+  - NT: EST 5:10 *Zeresh*
+  - answers: zeresh
+  - Haman's wife.
+  - agent:est005, 2026-10-22
+- **`name:sivan`** סִיוָן → **sivan** [medium, decided, attested]
+  - gloss: סִיוָן: סִיוָ֗ן (EST 8:9) — English (generated): of Sivan
+  - NT: EST 8:9 *sivan*
+  - answers: sivan
+  - Month name, lower case.
+  - agent:est008, 2026-10-22
+- **`name:purim`** פּוּר → **purim** [medium, decided, attested]
+  - gloss: פּוּר: פוּרִים֙ (EST 9:26) — English (generated): Purim
+  - NT: EST 9:26 *purim*
+  - answers: purim
+  - Festival name (plural of pur), lower case; {E:} at 9:26.
+  - agent:est009, 2026-10-22
 - **`letter:shin`** **šin → sh** [high, observed]
   - NT: GEN 20:1 *Kadesh*; GEN 30:13 *Asher*; GEN 35:26 *Asher*
   - Bashan, Shilo, Shittim, Kadesh, Asher; men husformer går forud (Sinear, Sikem).
@@ -536,4 +620,4 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
 - **`letter:known_forms`** **indarbejdede danske former bruges uændret: Jerusalem, Betlehem, Jordan, Libanon, Egypten, Gilead, Efraim, Manasse, Juda, Ruben, Gad, Zebulon, Issakar, Asher, Naftali, Dan, Benjamin, Simeon, Levi** [high, decided]
   - NT: DAN 1:1 *Jerusalem*; DAN 5:2 *Jerusalem*
   - agent:memory-setup, 2026-10-14
-<!-- store:end sha=6b915a0a -->
+<!-- store:end sha=3b2a4304 -->

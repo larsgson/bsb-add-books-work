@@ -43,3 +43,7 @@ Dato: 22.10.2026 · Status: **Udkast**
 2. v13 *ʕên hattannîn* »Dragekilden« eller »Sjakalkilden«.
 
 *Original text in these notes: Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew (CC BY 4.0, Clear Bible), filled in by scripts/notes_hebrew.py.*
+
+## Konsistensgennemgang 22.10.2026
+
+- v. 17: et kolon stod først på en linje (»i : Jerusalem«); flyttet op efter »i«. Kun formatering.

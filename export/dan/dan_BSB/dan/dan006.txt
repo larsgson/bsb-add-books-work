@@ -9,15 +9,15 @@
 
 ==Daniels modstandere søger et påskud mod ham==
 
-v1 Og Darius mederen overtog kongeriget, da han var omkring 62 år gammel.{T: I engelske og mange
-andre oversættelser står dette vers som 5,31, så v. 2-29 her svarer til 6,1-28 dér.}{E: En >>Darius
+v1 Og Dareios mederen overtog kongeriget, da han var omkring 62 år gammel.{T: I engelske og mange
+andre oversættelser står dette vers som 5,31, så v. 2-29 her svarer til 6,1-28 dér.}{E: En >>Dareios
 mederen<< kendes ikke fra andre kilder; ifølge de historiske kilder blev Babylon indtaget af
 perserkongen Kyros i 539 f.Kr. Nogle forstår navnet som et andet navn for Kyros (jf. v. 29) eller
 for hans statholder Gubaru; andre ser det som et udtryk for bogens skema med rigerne efter hinanden
 (jf. 5,28 *pᵊrês*, >>medere og persere<<). Teksten selv kalder ham søn af Ahasverus og >>af medisk
 afstamning<< (9,1).}
 
-v2 Darius fandt det godt at indsætte 120 satrapper over kongeriget, som skulle være fordelt over
+v2 Dareios fandt det godt at indsætte 120 satrapper over kongeriget, som skulle være fordelt over
 hele kongeriget, v3 og over dem tre overembedsmænd, og Daniel var en af dem. Satrapperne skulle
 aflægge regnskab over for dem, så kongen ikke led noget tab. v4 Men denne Daniel udmærkede sig frem
 for overembedsmændene og satrapperne, fordi der var en usædvanlig ånd i ham, og kongen tænkte på at
@@ -32,14 +32,14 @@ lov.<<{T: Det aramæiske ord for >>lov<< (*dāt*) er det samme som i >>medernes 
 
 v7 Så kom disse overembedsmænd og satrapper stormende{T: Verbet *hargišû* (også v. 12.16) betyder at
 komme larmende eller i flok; det kan også forstås >>kom sammen<< eller >>konspirerede<<.} til kongen
-og sagde til ham: >>Kong Darius, må du leve evigt! v8 Alle kongerigets overembedsmænd, præfekterne
+og sagde til ham: >>Kong Dareios, må du leve evigt! v8 Alle kongerigets overembedsmænd, præfekterne
 og satrapperne, rådgiverne og statholderne, er blevet enige om at kongen bør udstede en forordning
 og håndhæve et forbud: Enhver som i 30 dage beder en bøn til nogen gud eller noget menneske undtagen
 til dig, konge, skal kastes i løvekulen. v9 Udsted nu forbuddet, konge, og underskriv skrivelsen, så
 den ikke kan forandres, efter medernes og persernes lov, som ikke kan ændres.<<{E: At en lov fra
 medere og persere ikke kunne ophæves, nævnes også i Est 1,19 og 8,8, men kendes ikke fra persiske
 kilder. I fortællingen bliver kongen fanget af sin egen lov, mens Daniel holder fast ved sin Guds
-lov (v. 6).} v10 Derfor underskrev kong Darius skrivelsen med forbuddet.
+lov (v. 6).} v10 Derfor underskrev kong Dareios skrivelsen med forbuddet.
 
 ==Daniel bliver kastet i løvekulen==
 
@@ -89,9 +89,9 @@ anklagedes familier, som det kendes fra oldtidens riger. Moseloven forbyder at b
 fædrenes synd (5 Mos 24,16; jf. 2 Kong 14,6).} De var endnu ikke nået ned til bunden af kulen, før
 løverne fik magt over dem og knuste alle deres knogler.
 
-==Darius ærer Daniels Gud==
+==Dareios ærer Daniels Gud==
 
-v26 Så skrev kong Darius til alle folk, nationer og tungemål som boede på hele jorden: >>Fred og
+v26 Så skrev kong Dareios til alle folk, nationer og tungemål som boede på hele jorden: >>Fred og
 lykke være med jer i rigt mål! v27 Hermed udsteder jeg en befaling: Overalt i mit kongerige skal man
 skælve og frygte for Daniels Gud.
 
@@ -113,6 +113,6 @@ skælve og frygte for Daniels Gud.
 
 //2 fra løvernes magt.<<
 
-v29 Og denne Daniel havde lykken med sig under Darius' regering og under perseren Kyros'
-regering.{T: Eller: >>under Darius' regering, det vil sige perseren Kyros' regering<<, hvis det
+v29 Og denne Daniel havde lykken med sig under Dareios' regering og under perseren Kyros'
+regering.{T: Eller: >>under Dareios' regering, det vil sige perseren Kyros' regering<<, hvis det
 aramæiske >>og<< er forklarende; jf. v. 1.}

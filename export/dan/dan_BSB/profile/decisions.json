@@ -10241,6 +10241,1630 @@
    "by": "agent:neh009",
    "date": "2026-10-22",
    "status": "decided"
+  },
+  {
+   "id": "term:amanah_fast_aftale",
+   "kind": "term",
+   "source": "אֲמָנָה",
+   "value": "fast aftale",
+   "words": [
+    "fast",
+    "aftale"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 10:1",
+     "form": "en fast aftale"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲמָנָ֖ה",
+     "lemma": "אֲמָנָה",
+     "ref": "NEH 10:1"
+    }
+   ],
+   "note": "Not 'pagt' (berit); also Neh 11:23.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh010",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:addirim_fornemme",
+   "kind": "term",
+   "source": "אַדִּירִים",
+   "value": "fornemme",
+   "words": [
+    "fornemme"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 10:30",
+     "form": "deres brødre, deres fornemme"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַדִּירֵי",
+     "lemma": "אַדִּיר",
+     "ref": "NEH 10:30"
+    }
+   ],
+   "note": "Kept apart from 'stormændene' (horim).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh010",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:leshakot_kamrene",
+   "kind": "term",
+   "source": "לִשְׁכָּה",
+   "value": "kamrene",
+   "words": [
+    "kamrene"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 10:38",
+     "form": "til kamrene ved vores Guds hus"
+    },
+    {
+     "ref": "NEH 10:40",
+     "form": "til kamrene"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "לִשְׁכ֣וֹת",
+     "lemma": "לִשְׁכָּה",
+     "ref": "NEH 10:38"
+    }
+   ],
+   "note": "Temple storerooms; Neh 13 too.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh010",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:terumah_offerydelse",
+   "kind": "term",
+   "source": "תְּרוּמָה",
+   "value": "offerydelse",
+   "words": [
+    "offerydelse"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 10:38",
+     "form": "vores offerydelser"
+    },
+    {
+     "ref": "NEH 10:40",
+     "form": "offerydelsen af kornet"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תְּרוּמַ֣ת",
+     "lemma": "תְּרוּמָה",
+     "ref": "NEH 10:40"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh010",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:maaser_tiende",
+   "kind": "term",
+   "source": "מַעֲשֵׂר",
+   "value": "tiende",
+   "words": [
+    "tiende"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 10:38",
+     "form": "tienden af vores jord"
+    },
+    {
+     "ref": "NEH 10:39",
+     "form": "en tiendedel af tienden"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַעְשַׂ֥ר",
+     "lemma": "מַעֲשֵׂר",
+     "ref": "NEH 10:38"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh010",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:son_of_chain",
+   "kind": "formula",
+   "source": "X בֶּן Y בֶּן Z",
+   "value": "X, søn af Y, søn af Z",
+   "words": [
+    "X,",
+    "søn",
+    "af",
+    "Y,",
+    "søn",
+    "af",
+    "Z"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 11:4",
+     "form": "Ataja, søn af Uzzija, søn af Zakarja"
+    },
+    {
+     "ref": "EZR 7:1",
+     "form": "Ezra, søn af Seraja, søn af Azarja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בְּנֵ֥י",
+     "lemma": "בֵּן",
+     "ref": "NEH 11:4"
+    }
+   ],
+   "note": "Genealogical chains; a single patronym stays 'Ys søn'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh011",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:benoteha_tilhoerende_byer",
+   "kind": "term",
+   "source": "בְּנֹתֶיהָ",
+   "value": "med tilhørende byer",
+   "words": [
+    "med",
+    "tilhørende",
+    "byer"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 11:25",
+     "form": "Kirjat-Arba med tilhørende byer"
+    },
+    {
+     "ref": "NUM 32:42",
+     "form": "Kenat med dens tilhørende byer"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בְנֹתֶ֔י",
+     "lemma": "בַּת",
+     "ref": "NEH 11:25"
+    }
+   ],
+   "note": "Daughter towns of a city.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh011",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:gibbore_hayil_krigere",
+   "kind": "term",
+   "source": "גִּבּוֹרֵי חַיִל",
+   "value": "tapre krigere",
+   "words": [
+    "tapre",
+    "krigere"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 11:14",
+     "form": "tapre krigere"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גִּבּ֣וֹרֵי",
+     "lemma": "גִּבּוֹר",
+     "ref": "NEH 11:14"
+    }
+   ],
+   "note": "anshe hayil (11:6) 'krigere' as DFB Judg 18:2.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh011",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:todah_takkekor",
+   "kind": "term",
+   "source": "תּוֹדָה",
+   "value": "takkekor",
+   "words": [
+    "takkekor"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 12:31",
+     "form": "to store takkekor"
+    },
+    {
+     "ref": "NEH 12:38",
+     "form": "Det andet takkekor"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תּוֹדָ֧ה",
+     "lemma": "תּוֹדָה",
+     "ref": "NEH 12:38"
+    }
+   ],
+   "note": "Processional choirs at the wall's dedication.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh012",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:man_of_god_david",
+   "kind": "formula",
+   "source": "דָּוִיד אִישׁ הָאֱלֹהִים",
+   "value": "David, Guds mand",
+   "words": [
+    "David,",
+    "Guds",
+    "mand"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 12:24",
+     "form": "David, Guds mand"
+    },
+    {
+     "ref": "NEH 12:36",
+     "form": "David, Guds mand"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אִישׁ",
+     "lemma": "אִישׁ",
+     "ref": "NEH 12:24"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh012",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:vagtporten",
+   "kind": "name",
+   "source": "שַׁעַר הַמַּטָּרָה",
+   "value": "Vagtporten",
+   "words": [
+    "Vagtporten"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 12:39",
+     "form": "ved Vagtporten"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַּטָּרָֽה",
+     "lemma": "מַטָּרָה",
+     "ref": "NEH 12:39"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh012",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:daily_portion",
+   "kind": "formula",
+   "source": "דְּבַר יוֹם בְּיוֹמוֹ",
+   "value": "hvad de skulle have dag for dag",
+   "words": [
+    "hvad",
+    "de",
+    "skulle",
+    "have",
+    "dag",
+    "for",
+    "dag"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 11:23",
+     "form": "hvad de skulle have dag for dag"
+    },
+    {
+     "ref": "NEH 12:47",
+     "form": "hvad de skulle have dag for dag"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "ימֵ֨י",
+     "lemma": "יוֹם",
+     "ref": "NEH 12:47"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh012",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "formula:remember_me_for_this",
+   "kind": "formula",
+   "source": "זָכְרָה לִּי אֱלֹהַי עַל־זֹאת",
+   "value": "Husk mig, min Gud, for dette",
+   "words": [
+    "Husk",
+    "mig,",
+    "min",
+    "Gud,",
+    "for",
+    "dette"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 13:14",
+     "form": "Husk mig, min Gud, for dette"
+    },
+    {
+     "ref": "NEH 13:22",
+     "form": "Husk mig også for dette, min Gud"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זָכְרָ",
+     "lemma": "זָכַר",
+     "ref": "NEH 13:14"
+    }
+   ],
+   "note": "Companion of 'Husk mig, min Gud, til gode' (5:19; 13:31).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh013",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:rib_gaa_i_rette",
+   "kind": "term",
+   "source": "רִיב",
+   "value": "gik i rette med",
+   "words": [
+    "gik",
+    "i",
+    "rette",
+    "med"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 13:11",
+     "form": "Jeg gik i rette med forstanderne"
+    },
+    {
+     "ref": "NEH 13:17",
+     "form": "Jeg gik i rette med Judas stormænd"
+    },
+    {
+     "ref": "NEH 13:25",
+     "form": "Jeg gik i rette med dem"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אָרִ֨יבָ",
+     "lemma": "רִיב",
+     "ref": "NEH 13:11"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh013",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "term:azab_svigte",
+   "kind": "term",
+   "source": "עָזַב",
+   "value": "svigte",
+   "words": [
+    "svigte"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 10:40",
+     "form": "Vi vil ikke svigte vores Guds hus"
+    },
+    {
+     "ref": "NEH 13:11",
+     "form": "blevet svigtet"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נַעֲזֹ֖ב",
+     "lemma": "עָזַב",
+     "ref": "NEH 10:40"
+    }
+   ],
+   "note": "Of neglecting the temple.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:neh013",
+   "date": "2026-10-22",
+   "status": "decided"
+  },
+  {
+   "id": "name:memucan",
+   "kind": "name",
+   "source": "מְמוּכָן",
+   "value": "Memukan",
+   "attested": "attested",
+   "words": [
+    "memukan"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 1:14",
+     "form": "Memukan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְמוּכָ֑ן",
+     "lemma": "מְמוּכָן",
+     "ref": "EST 1:14"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "One of the seven princes."
+  },
+  {
+   "id": "term:saris-est",
+   "kind": "term",
+   "source": "סָרִיס",
+   "value": "hofmænd",
+   "attested": "attested",
+   "words": [
+    "hofmænd"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 1:10",
+     "form": "hofmænd"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סָּ֣רִיסִ֔ים",
+     "lemma": "סָרִיס",
+     "ref": "EST 1:10"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Eunuchs at the Persian court; {E:} at first mention."
+  },
+  {
+   "id": "name:vashti",
+   "kind": "name",
+   "source": "וַשְׁתִּי",
+   "value": "Vashti",
+   "attested": "attested",
+   "words": [
+    "vashti"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 1:9",
+     "form": "dronning Vashti"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "וַשְׁתִּ֣י",
+     "lemma": "וַשְׁתִּי",
+     "ref": "EST 1:9"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Queen Vashti."
+  },
+  {
+   "id": "term:mishteh-est",
+   "kind": "term",
+   "source": "מִשְׁתֶּה",
+   "value": "gilde",
+   "attested": "attested",
+   "words": [
+    "gilde"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 1:3",
+     "form": "et gilde"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִשְׁתֶּ֔ה",
+     "lemma": "מִשְׁתֶּה",
+     "ref": "EST 1:3"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Feast/banquet in Esther."
+  },
+  {
+   "id": "name:shushan-habira",
+   "kind": "name",
+   "source": "שׁוּשַׁן",
+   "value": "borgen Susa",
+   "attested": "attested",
+   "words": [
+    "borgen",
+    "susa"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 1:2",
+     "form": "borgen Susa"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שׁוּשַׁ֥ן",
+     "lemma": "שׁוּשַׁן",
+     "ref": "EST 1:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "As NEH 1:1."
+  },
+  {
+   "id": "term:dat-est",
+   "kind": "term",
+   "source": "דָּת",
+   "value": "forordning",
+   "attested": "attested",
+   "words": [
+    "forordning"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 1:19",
+     "form": "forordning"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דָתֵ֥י",
+     "lemma": "דָּת",
+     "ref": "EST 1:19"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Persian law/decree; plural laws: love."
+  },
+  {
+   "id": "term:sarot",
+   "kind": "term",
+   "source": "שָׂרָה",
+   "value": "fyrstinderne",
+   "attested": "attested",
+   "words": [
+    "fyrstinderne"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 1:18",
+     "form": "fyrstinderne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָׂר֣וֹת",
+     "lemma": "שָׂרָה",
+     "ref": "EST 1:18"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est001",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Noble women."
+  },
+  {
+   "id": "name:esther",
+   "kind": "name",
+   "source": "אֶסְתֵּר",
+   "value": "Ester",
+   "attested": "attested",
+   "words": [
+    "ester"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 2:7",
+     "form": "Ester"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶסְתֵּר֙",
+     "lemma": "אֶסְתֵּר",
+     "ref": "EST 2:7"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Traditional Danish form; book title Esters Bog."
+  },
+  {
+   "id": "name:mordecai",
+   "kind": "name",
+   "source": "מׇרְדֳּכַי",
+   "value": "Mordokaj",
+   "attested": "attested",
+   "words": [
+    "mordokaj"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 2:5",
+     "form": "Mordokaj"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מָרְדֳּכַ֗י",
+     "lemma": "מׇרְדֳּכַי",
+     "ref": "EST 2:5"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "As EZR 2:2 in this project."
+  },
+  {
+   "id": "term:tamruq",
+   "kind": "term",
+   "source": "תַּמְרוּק",
+   "value": "skønhedsmidler",
+   "attested": "attested",
+   "words": [
+    "skønhedsmidler"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 2:3",
+     "form": "skønhedsmidler"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תַּמְרוּקֵי",
+     "lemma": "תַּמְרוּק",
+     "ref": "EST 2:3"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Beauty treatments."
+  },
+  {
+   "id": "name:tebet",
+   "kind": "name",
+   "source": "טֵבֶת",
+   "value": "tebet",
+   "attested": "attested",
+   "words": [
+    "tebet"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 2:16",
+     "form": "tebet"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "טֵבֵ֑ת",
+     "lemma": "טֵבֶת",
+     "ref": "EST 2:16"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Month name, lower case like kislev."
+  },
+  {
+   "id": "term:shaar-hamelek",
+   "kind": "term",
+   "source": "שַׁעַר",
+   "value": "kongens port",
+   "attested": "attested",
+   "words": [
+    "kongens",
+    "port"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 2:19",
+     "form": "kongens port"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שַֽׁעַר",
+     "lemma": "שַׁעַר",
+     "ref": "EST 2:19"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Court office; {E:} at 2:19."
+  },
+  {
+   "id": "name:hegai",
+   "kind": "name",
+   "source": "הֵגַי",
+   "value": "Hegaj",
+   "attested": "attested",
+   "words": [
+    "hegaj"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 2:3",
+     "form": "Hegaj"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הֵגֶ֛א",
+     "lemma": "הֵגַי",
+     "ref": "EST 2:3"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Eunuch over the women."
+  },
+  {
+   "id": "term:bet-hannashim",
+   "kind": "term",
+   "source": "בַּיִת",
+   "value": "kvindehuset",
+   "attested": "attested",
+   "words": [
+    "kvindehuset"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 2:3",
+     "form": "kvindehuset"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בֵּ֣ית",
+     "lemma": "בַּיִת",
+     "ref": "EST 2:3"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est002",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "The harem (bet hannashim)."
+  },
+  {
+   "id": "name:haman",
+   "kind": "name",
+   "source": "הָמָן",
+   "value": "Haman",
+   "attested": "attested",
+   "words": [
+    "haman"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 3:1",
+     "form": "Haman, Hammedatas søn, agagitten"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הָמָ֧ן",
+     "lemma": "הָמָן",
+     "ref": "EST 3:1"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Haman son of Hammedatha, the Agagite."
+  },
+  {
+   "id": "term:tsorer-hayehudim",
+   "kind": "formula",
+   "source": "צָרַר",
+   "value": "jødernes fjende",
+   "attested": "attested",
+   "words": [
+    "jødernes",
+    "fjende"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 3:10",
+     "form": "jødernes fjende"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צֹרֵ֥ר",
+     "lemma": "צָרַר",
+     "ref": "EST 3:10"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Epithet of Haman."
+  },
+  {
+   "id": "term:pur",
+   "kind": "term",
+   "source": "פּוּר",
+   "value": "pur",
+   "attested": "attested",
+   "words": [
+    "pur"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 3:7",
+     "form": "pur – det er lod"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פּוּר֩",
+     "lemma": "פּוּר",
+     "ref": "EST 3:7"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Pur = lot; cf. 9:24-26 purim."
+  },
+  {
+   "id": "term:hishmid-harog-abbed",
+   "kind": "formula",
+   "source": "שָׁמַד",
+   "value": "udrydde, dræbe og tilintetgøre",
+   "attested": "attested",
+   "words": [
+    "udrydde,",
+    "dræbe",
+    "og"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 3:13",
+     "form": "udrydde, dræbe og tilintetgøre"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הַשְׁמִ֡יד",
+     "lemma": "שָׁמַד",
+     "ref": "EST 3:13"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Triple formula, recurs 7:4; 8:11."
+  },
+  {
+   "id": "term:razim",
+   "kind": "term",
+   "source": "רוּץ",
+   "value": "ilbudene",
+   "attested": "attested",
+   "words": [
+    "ilbudene"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 3:13",
+     "form": "ilbudene"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רָצִים֮",
+     "lemma": "רוּץ",
+     "ref": "EST 3:13"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Royal couriers."
+  },
+  {
+   "id": "name:adar",
+   "kind": "name",
+   "source": "אֲדָר",
+   "value": "adar",
+   "attested": "attested",
+   "words": [
+    "adar"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 3:7",
+     "form": "adar"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲדָֽר",
+     "lemma": "אֲדָר",
+     "ref": "EST 3:7"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est003",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Month name, lower case as Ezra 6:15."
+  },
+  {
+   "id": "name:hathach",
+   "kind": "name",
+   "source": "הֲתָךְ",
+   "value": "Hatak",
+   "attested": "attested",
+   "words": [
+    "hatak"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 4:5",
+     "form": "Hatak"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הֲתָ֜ךְ",
+     "lemma": "הֲתָךְ",
+     "ref": "EST 4:5"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est004",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Esther's eunuch."
+  },
+  {
+   "id": "term:sharbit",
+   "kind": "term",
+   "source": "שַׁרְבִיט",
+   "value": "guldscepter",
+   "attested": "attested",
+   "words": [
+    "guldscepter"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 4:11",
+     "form": "guldscepter"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שַׁרְבִ֥יט",
+     "lemma": "שַׁרְבִיט",
+     "ref": "EST 4:11"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est004",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "The gold scepter; recurs 5:2; 8:4."
+  },
+  {
+   "id": "term:saq-vaefer",
+   "kind": "formula",
+   "source": "אֵפֶר",
+   "value": "sæk og aske",
+   "attested": "attested",
+   "words": [
+    "sæk",
+    "og",
+    "aske"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 4:1",
+     "form": "sæk og aske"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֵ֑פֶר",
+     "lemma": "אֵפֶר",
+     "ref": "EST 4:1"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est004",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Mourning formula."
+  },
+  {
+   "id": "name:zeresh",
+   "kind": "name",
+   "source": "זֶרֶשׁ",
+   "value": "Zeresh",
+   "attested": "attested",
+   "words": [
+    "zeresh"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 5:10",
+     "form": "Zeresh"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זֶ֥רֶשׁ",
+     "lemma": "זֶרֶשׁ",
+     "ref": "EST 5:10"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est005",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Haman's wife."
+  },
+  {
+   "id": "term:ad-hatsi-hammalkut",
+   "kind": "formula",
+   "source": "חֲצִי",
+   "value": "det halve kongerige",
+   "attested": "attested",
+   "words": [
+    "det",
+    "halve",
+    "kongerige"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 5:3",
+     "form": "Selv om det er det halve kongerige"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲצִ֥י",
+     "lemma": "חֲצִי",
+     "ref": "EST 5:3"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est005",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Even up to half the kingdom; recurs 5:6; 7:2."
+  },
+  {
+   "id": "term:shealah-baqqashah",
+   "kind": "term",
+   "source": "שְׁאֵלָה",
+   "value": "ønske",
+   "attested": "attested",
+   "words": [
+    "ønske"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 5:6",
+     "form": "Hvad er dit ønske?"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְּׁאֵלָתֵ֖",
+     "lemma": "שְׁאֵלָה",
+     "ref": "EST 5:6"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est005",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Petition (shealah) = ønske; request (baqqashah) = bøn / beder om."
+  },
+  {
+   "id": "term:ets-est",
+   "kind": "term",
+   "source": "עֵץ",
+   "value": "pæl",
+   "attested": "attested",
+   "words": [
+    "pæl"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 5:14",
+     "form": "en pæl, 50 alen høj"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֵץ֮",
+     "lemma": "עֵץ",
+     "ref": "EST 5:14"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est005",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "The gallows (ets) = pæl, as 2:23."
+  },
+  {
+   "id": "term:haish-asher-hammelek-hafets",
+   "kind": "formula",
+   "source": "חָפֵץ",
+   "value": "den mand som kongen gerne vil ære",
+   "attested": "attested",
+   "words": [
+    "den",
+    "mand",
+    "som"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 6:6",
+     "form": "den mand som kongen gerne vil ære"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חָפֵ֣ץ",
+     "lemma": "חָפֵץ",
+     "ref": "EST 6:6"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est006",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Refrain, 6:6.7.9.11."
+  },
+  {
+   "id": "term:mordokay-hayehudi",
+   "kind": "formula",
+   "source": "יְהוּדִי",
+   "value": "jøden Mordokaj",
+   "attested": "attested",
+   "words": [
+    "jøden",
+    "mordokaj"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 6:10",
+     "form": "jøden Mordokaj"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְּהוּדִ֔י",
+     "lemma": "יְהוּדִי",
+     "ref": "EST 6:10"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est006",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Mordecai the Jew."
+  },
+  {
+   "id": "name:sivan",
+   "kind": "name",
+   "source": "סִיוָן",
+   "value": "sivan",
+   "attested": "attested",
+   "words": [
+    "sivan"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 8:9",
+     "form": "sivan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סִיוָ֗ן",
+     "lemma": "סִיוָן",
+     "ref": "EST 8:9"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est008",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Month name, lower case."
+  },
+  {
+   "id": "term:simha-sason",
+   "kind": "formula",
+   "source": "שָׂשׂוֹן",
+   "value": "glæde og fryd",
+   "attested": "attested",
+   "words": [
+    "glæde",
+    "og",
+    "fryd"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 8:17",
+     "form": "glæde og fryd"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָׂשׂוֹן֙",
+     "lemma": "שָׂשׂוֹן",
+     "ref": "EST 8:17"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est008",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "simha = glæde, sason = fryd; recurs 8:16; 9:17-22."
+  },
+  {
+   "id": "term:yom-tov",
+   "kind": "term",
+   "source": "טוֹב",
+   "value": "festdag",
+   "attested": "attested",
+   "words": [
+    "festdag"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 8:17",
+     "form": "gilde og festdag"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "ט֑וֹב",
+     "lemma": "טוֹב",
+     "ref": "EST 8:17"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est008",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "yom tov = festdag; recurs 9:19.22."
+  },
+  {
+   "id": "name:purim",
+   "kind": "name",
+   "source": "פּוּר",
+   "value": "purim",
+   "attested": "attested",
+   "words": [
+    "purim"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 9:26",
+     "form": "purim"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פוּרִים֙",
+     "lemma": "פּוּר",
+     "ref": "EST 9:26"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est009",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Festival name (plural of pur), lower case; {E:} at 9:26."
+  },
+  {
+   "id": "term:lo-shalhu-yadam-babizza",
+   "kind": "formula",
+   "source": "בִּזָּה",
+   "value": "lagde ikke hånd på byttet",
+   "attested": "attested",
+   "words": [
+    "lagde",
+    "ikke",
+    "hånd"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 9:10",
+     "form": "Men de lagde ikke hånd på byttet"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בִּזָּ֔ה",
+     "lemma": "בִּזָּה",
+     "ref": "EST 9:10"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est009",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Refrain 9:10.15.16."
+  },
+  {
+   "id": "term:mishloah-manot",
+   "kind": "formula",
+   "source": "מָנָה",
+   "value": "sender hinanden gaver",
+   "attested": "attested",
+   "words": [
+    "sender",
+    "hinanden",
+    "gaver"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 9:19",
+     "form": "sender hinanden gaver"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מָנ֖וֹת",
+     "lemma": "מָנָה",
+     "ref": "EST 9:19"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est009",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Sending portions; {T:} at 9:19."
+  },
+  {
+   "id": "term:sefer-divre-hayamim-malke",
+   "kind": "formula",
+   "source": "סֵפֶר",
+   "value": "Krønikebogen for Mediens og Persiens konger",
+   "attested": "attested",
+   "words": [
+    "krønikebogen",
+    "for",
+    "mediens"
+   ],
+   "evidence": [
+    {
+     "ref": "EST 10:2",
+     "form": "står det ikke skrevet i Krønikebogen for Mediens og Persiens konger"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סֵ֨פֶר֙",
+     "lemma": "סֵפֶר",
+     "ref": "EST 10:2"
+    }
+   ],
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:est010",
+   "date": "2026-10-22",
+   "status": "decided",
+   "note": "Closing formula modelled on Kings."
   }
  ]
 }

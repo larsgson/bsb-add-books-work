@@ -41,7 +41,7 @@ Rækkefølge: husform i `import/CC0/dan/den-frie-bibel/text/` → tidligere Dani
 |---|---|---|
 | נְבוּכַדְנֶאצַּר | Nebukadnesar | `import/CC0/dan/den-frie-bibel/text/` (29×) |
 | בֵּלְשַׁאצַּר (kongen) / בֵּלְטְשַׁאצַּר (Daniel) | Belshassar / Beltshassar (kontrollér husform) | regel |
-| דָּרְיָוֶשׁ, כּוֹרֶשׁ | Darius, Kyros | `import/CC0/dan/den-frie-bibel/text/` |
+| דָּרְיָוֶשׁ, כּוֹרֶשׁ | Dareios, Kyros | `import/CC0/dan/den-frie-bibel/text/` |
 | דָּנִיֵּאל, חֲנַנְיָה, מִישָׁאֵל, עֲזַרְיָה | Daniel, Hananja, Mishael, Azarja | `import/CC0/dan/den-frie-bibel/text/` |
 | שַׁדְרַךְ, מֵישַׁךְ, עֲבֵד נְגוֹ | Shadrak, Meshak, Abed-Nego | regel |
 | גַּבְרִיאֵל, מִיכָאֵל | Gabriel, Mikael | `import/CC0/dan/den-frie-bibel/text/` |

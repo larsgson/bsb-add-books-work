@@ -243,4 +243,26 @@ Tilbagevendende vendinger og deres faste danske form. `<…>` er pladser der udf
   - NT: NEH 9:16 *gjorde deres nakke stiv*; NEH 9:29 *gjorde deres nakke stiv*
   - answers: gjorde, nakke, stiv
   - agent:neh009, 2026-10-22
-<!-- store:end sha=22303e9a -->
+- **`formula:son_of_chain`** X בֶּן Y בֶּן Z → **X, søn af Y, søn af Z** [high, decided, attested]
+  - gloss: בֵּן: בְּנֵ֥י (NEH 11:4) — English (generated): while some of the descendants
+  - NT: NEH 11:4 *Ataja, søn af Uzzija, søn af Zakarja*; EZR 7:1 *Ezra, søn af Seraja, søn af Azarja*
+  - answers: X,, søn, af, Y,, søn, af, Z
+  - Genealogical chains; a single patronym stays 'Ys søn'.
+  - agent:neh011, 2026-10-22
+- **`formula:man_of_god_david`** דָּוִיד אִישׁ הָאֱלֹהִים → **David, Guds mand** [high, decided, attested]
+  - gloss: אִישׁ: אִישׁ (NEH 12:24) — English (generated): the man
+  - NT: NEH 12:24 *David, Guds mand*; NEH 12:36 *David, Guds mand*
+  - answers: David,, Guds, mand
+  - agent:neh012, 2026-10-22
+- **`formula:daily_portion`** דְּבַר יוֹם בְּיוֹמוֹ → **hvad de skulle have dag for dag** [high, decided, attested]
+  - gloss: יוֹם: ימֵ֨י (NEH 12:47) — English (generated): So in the days
+  - NT: NEH 11:23 *hvad de skulle have dag for dag*; NEH 12:47 *hvad de skulle have dag for dag*
+  - answers: hvad, de, skulle, have, dag, for, dag
+  - agent:neh012, 2026-10-22
+- **`formula:remember_me_for_this`** זָכְרָה לִּי אֱלֹהַי עַל־זֹאת → **Husk mig, min Gud, for dette** [high, decided, attested]
+  - gloss: זָכַר: זָכְרָ (NEH 13:14) — English (generated): Remember
+  - NT: NEH 13:14 *Husk mig, min Gud, for dette*; NEH 13:22 *Husk mig også for dette, min Gud*
+  - answers: Husk, mig,, min, Gud,, for, dette
+  - Companion of 'Husk mig, min Gud, til gode' (5:19; 13:31).
+  - agent:neh013, 2026-10-22
+<!-- store:end sha=3d1268d2 -->

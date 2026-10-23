@@ -492,4 +492,199 @@ Daniel-stilarkene og de ensretninger review-oversigterne har gennemført.
   - answers: festforsamling
   - DFB word.
   - agent:neh008, 2026-10-22
-<!-- store:end sha=fb38f06d -->
+- **`term:amanah_fast_aftale`** אֲמָנָה → **fast aftale** [high, decided, attested]
+  - gloss: אֲמָנָה: אֲמָנָ֖ה (NEH 10:1) — English (generated): a binding agreement
+  - NT: NEH 10:1 *en fast aftale*
+  - answers: fast, aftale
+  - Not 'pagt' (berit); also Neh 11:23.
+  - agent:neh010, 2026-10-22
+- **`term:addirim_fornemme`** אַדִּירִים → **fornemme** [high, decided, attested]
+  - gloss: אַדִּיר: אַדִּירֵי (NEH 10:30) — English (generated): their noble
+  - NT: NEH 10:30 *deres brødre, deres fornemme*
+  - answers: fornemme
+  - Kept apart from 'stormændene' (horim).
+  - agent:neh010, 2026-10-22
+- **`term:leshakot_kamrene`** לִשְׁכָּה → **kamrene** [high, decided, attested]
+  - gloss: לִשְׁכָּה: לִשְׁכ֣וֹת (NEH 10:38) — English (generated): the storerooms
+  - NT: NEH 10:38 *til kamrene ved vores Guds hus*; NEH 10:40 *til kamrene*
+  - answers: kamrene
+  - Temple storerooms; Neh 13 too.
+  - agent:neh010, 2026-10-22
+- **`term:terumah_offerydelse`** תְּרוּמָה → **offerydelse** [high, decided, attested]
+  - gloss: תְּרוּמָה: תְּרוּמַ֣ת (NEH 10:40) — English (generated): the contributions
+  - NT: NEH 10:38 *vores offerydelser*; NEH 10:40 *offerydelsen af kornet*
+  - answers: offerydelse
+  - agent:neh010, 2026-10-22
+- **`term:maaser_tiende`** מַעֲשֵׂר → **tiende** [high, decided, attested]
+  - gloss: מַעֲשֵׂר: מַעְשַׂ֥ר (NEH 10:38) — English (generated): A tenth
+  - NT: NEH 10:38 *tienden af vores jord*; NEH 10:39 *en tiendedel af tienden*
+  - answers: tiende
+  - agent:neh010, 2026-10-22
+- **`term:benoteha_tilhoerende_byer`** בְּנֹתֶיהָ → **med tilhørende byer** [high, decided, attested]
+  - gloss: בַּת: בְנֹתֶ֔י (NEH 11:25)
+  - NT: NEH 11:25 *Kirjat-Arba med tilhørende byer*; NUM 32:42 *Kenat med dens tilhørende byer*
+  - answers: med, tilhørende, byer
+  - Daughter towns of a city.
+  - agent:neh011, 2026-10-22
+- **`term:gibbore_hayil_krigere`** גִּבּוֹרֵי חַיִל → **tapre krigere** [high, decided, attested]
+  - gloss: גִּבּוֹר: גִּבּ֣וֹרֵי (NEH 11:14) — English (generated): mighty men
+  - NT: NEH 11:14 *tapre krigere*
+  - answers: tapre, krigere
+  - anshe hayil (11:6) 'krigere' as DFB Judg 18:2.
+  - agent:neh011, 2026-10-22
+- **`term:todah_takkekor`** תּוֹדָה → **takkekor** [high, decided, attested]
+  - gloss: תּוֹדָה: תּוֹדָ֧ה (NEH 12:38) — English (generated): thanksgiving
+  - NT: NEH 12:31 *to store takkekor*; NEH 12:38 *Det andet takkekor*
+  - answers: takkekor
+  - Processional choirs at the wall's dedication.
+  - agent:neh012, 2026-10-22
+- **`term:rib_gaa_i_rette`** רִיב → **gik i rette med** [high, decided, attested]
+  - gloss: רִיב: אָרִ֨יבָ (NEH 13:11) — English (generated): So I rebuked
+  - NT: NEH 13:11 *Jeg gik i rette med forstanderne*; NEH 13:17 *Jeg gik i rette med Judas stormænd*; NEH 13:25 *Jeg gik i rette med dem*
+  - answers: gik, i, rette, med
+  - agent:neh013, 2026-10-22
+- **`term:azab_svigte`** עָזַב → **svigte** [high, decided, attested]
+  - gloss: עָזַב: נַעֲזֹ֖ב (NEH 10:40) — English (generated): neglect
+  - NT: NEH 10:40 *Vi vil ikke svigte vores Guds hus*; NEH 13:11 *blevet svigtet*
+  - answers: svigte
+  - Of neglecting the temple.
+  - agent:neh013, 2026-10-22
+- **`term:saris-est`** סָרִיס → **hofmænd** [medium, decided, attested]
+  - gloss: סָרִיס: סָּ֣רִיסִ֔ים (EST 1:10) — English (generated): eunuchs
+  - NT: EST 1:10 *hofmænd*
+  - answers: hofmænd
+  - Eunuchs at the Persian court; {E:} at first mention.
+  - agent:est001, 2026-10-22
+- **`term:mishteh-est`** מִשְׁתֶּה → **gilde** [medium, decided, attested]
+  - gloss: מִשְׁתֶּה: מִשְׁתֶּ֔ה (EST 1:3) — English (generated): a feast
+  - NT: EST 1:3 *et gilde*
+  - answers: gilde
+  - Feast/banquet in Esther.
+  - agent:est001, 2026-10-22
+- **`term:dat-est`** דָּת → **forordning** [medium, decided, attested]
+  - gloss: דָּת: דָתֵ֥י (EST 1:19) — English (generated): in the laws
+  - NT: EST 1:19 *forordning*
+  - answers: forordning
+  - Persian law/decree; plural laws: love.
+  - agent:est001, 2026-10-22
+- **`term:sarot`** שָׂרָה → **fyrstinderne** [medium, decided, attested]
+  - gloss: שָׂרָה: שָׂר֣וֹת (EST 1:18) — English (generated): the noble women
+  - NT: EST 1:18 *fyrstinderne*
+  - answers: fyrstinderne
+  - Noble women.
+  - agent:est001, 2026-10-22
+- **`term:tamruq`** תַּמְרוּק → **skønhedsmidler** [medium, decided, attested]
+  - gloss: תַּמְרוּק: תַּמְרוּקֵי (EST 2:3) — English (generated): beauty treatments
+  - NT: EST 2:3 *skønhedsmidler*
+  - answers: skønhedsmidler
+  - Beauty treatments.
+  - agent:est002, 2026-10-22
+- **`term:shaar-hamelek`** שַׁעַר → **kongens port** [medium, decided, attested]
+  - gloss: שַׁעַר: שַֽׁעַר (EST 2:19) — English (generated): gate
+  - NT: EST 2:19 *kongens port*
+  - answers: kongens, port
+  - Court office; {E:} at 2:19.
+  - agent:est002, 2026-10-22
+- **`term:bet-hannashim`** בַּיִת → **kvindehuset** [medium, decided, attested]
+  - gloss: בַּיִת: בֵּ֣ית (EST 2:3) — English (generated): the harem
+  - NT: EST 2:3 *kvindehuset*
+  - answers: kvindehuset
+  - The harem (bet hannashim).
+  - agent:est002, 2026-10-22
+- **`term:tsorer-hayehudim`** צָרַר → **jødernes fjende** [medium, decided, attested]
+  - gloss: צָרַר: צֹרֵ֥ר (EST 3:10) — English (generated): the enemy
+  - NT: EST 3:10 *jødernes fjende*
+  - answers: jødernes, fjende
+  - Epithet of Haman.
+  - agent:est003, 2026-10-22
+- **`term:pur`** פּוּר → **pur** [medium, decided, attested]
+  - gloss: פּוּר: פּוּר֩ (EST 3:7) — English (generated): the Pur
+  - NT: EST 3:7 *pur – det er lod*
+  - answers: pur
+  - Pur = lot; cf. 9:24-26 purim.
+  - agent:est003, 2026-10-22
+- **`term:hishmid-harog-abbed`** שָׁמַד → **udrydde, dræbe og tilintetgøre** [medium, decided, attested]
+  - gloss: שָׁמַד: הַשְׁמִ֡יד (EST 3:13) — English (generated): with the order to destroy
+  - NT: EST 3:13 *udrydde, dræbe og tilintetgøre*
+  - answers: udrydde,, dræbe, og
+  - Triple formula, recurs 7:4; 8:11.
+  - agent:est003, 2026-10-22
+- **`term:razim`** רוּץ → **ilbudene** [medium, decided, attested]
+  - gloss: רוּץ: רָצִים֮ (EST 3:13) — English (generated): couriers
+  - NT: EST 3:13 *ilbudene*
+  - answers: ilbudene
+  - Royal couriers.
+  - agent:est003, 2026-10-22
+- **`term:sharbit`** שַׁרְבִיט → **guldscepter** [medium, decided, attested]
+  - gloss: שַׁרְבִיט: שַׁרְבִ֥יט (EST 4:11) — English (generated): scepter
+  - NT: EST 4:11 *guldscepter*
+  - answers: guldscepter
+  - The gold scepter; recurs 5:2; 8:4.
+  - agent:est004, 2026-10-22
+- **`term:saq-vaefer`** אֵפֶר → **sæk og aske** [medium, decided, attested]
+  - gloss: אֵפֶר: אֵ֑פֶר (EST 4:1) — English (generated): and ashes
+  - NT: EST 4:1 *sæk og aske*
+  - answers: sæk, og, aske
+  - Mourning formula.
+  - agent:est004, 2026-10-22
+- **`term:ad-hatsi-hammalkut`** חֲצִי → **det halve kongerige** [medium, decided, attested]
+  - gloss: חֲצִי: חֲצִ֥י (EST 5:3) — English (generated): half
+  - NT: EST 5:3 *Selv om det er det halve kongerige*
+  - answers: det, halve, kongerige
+  - Even up to half the kingdom; recurs 5:6; 7:2.
+  - agent:est005, 2026-10-22
+- **`term:shealah-baqqashah`** שְׁאֵלָה → **ønske** [medium, decided, attested]
+  - gloss: שְׁאֵלָה: שְּׁאֵלָתֵ֖ (EST 5:6) — English (generated): is your petition
+  - NT: EST 5:6 *Hvad er dit ønske?*
+  - answers: ønske
+  - Petition (shealah) = ønske; request (baqqashah) = bøn / beder om.
+  - agent:est005, 2026-10-22
+- **`term:ets-est`** עֵץ → **pæl** [medium, decided, attested]
+  - gloss: עֵץ: עֵץ֮ (EST 5:14) — English (generated): a gallows
+  - NT: EST 5:14 *en pæl, 50 alen høj*
+  - answers: pæl
+  - The gallows (ets) = pæl, as 2:23.
+  - agent:est005, 2026-10-22
+- **`term:haish-asher-hammelek-hafets`** חָפֵץ → **den mand som kongen gerne vil ære** [medium, decided, attested]
+  - gloss: חָפֵץ: חָפֵ֣ץ (EST 6:6) — English (generated): is delighted
+  - NT: EST 6:6 *den mand som kongen gerne vil ære*
+  - answers: den, mand, som
+  - Refrain, 6:6.7.9.11.
+  - agent:est006, 2026-10-22
+- **`term:mordokay-hayehudi`** יְהוּדִי → **jøden Mordokaj** [medium, decided, attested]
+  - gloss: יְהוּדִי: יְּהוּדִ֔י (EST 6:10) — English (generated): the Jew
+  - NT: EST 6:10 *jøden Mordokaj*
+  - answers: jøden, mordokaj
+  - Mordecai the Jew.
+  - agent:est006, 2026-10-22
+- **`term:simha-sason`** שָׂשׂוֹן → **glæde og fryd** [medium, decided, attested]
+  - gloss: שָׂשׂוֹן: שָׂשׂוֹן֙ (EST 8:17) — English (generated): and gladness
+  - NT: EST 8:17 *glæde og fryd*
+  - answers: glæde, og, fryd
+  - simha = glæde, sason = fryd; recurs 8:16; 9:17-22.
+  - agent:est008, 2026-10-22
+- **`term:yom-tov`** טוֹב → **festdag** [medium, decided, attested]
+  - gloss: טוֹב: ט֑וֹב (EST 8:17)
+  - NT: EST 8:17 *gilde og festdag*
+  - answers: festdag
+  - yom tov = festdag; recurs 9:19.22.
+  - agent:est008, 2026-10-22
+- **`term:lo-shalhu-yadam-babizza`** בִּזָּה → **lagde ikke hånd på byttet** [medium, decided, attested]
+  - gloss: בִּזָּה: בִּזָּ֔ה (EST 9:10) — English (generated): on the plunder
+  - NT: EST 9:10 *Men de lagde ikke hånd på byttet*
+  - answers: lagde, ikke, hånd
+  - Refrain 9:10.15.16.
+  - agent:est009, 2026-10-22
+- **`term:mishloah-manot`** מָנָה → **sender hinanden gaver** [medium, decided, attested]
+  - gloss: מָנָה: מָנ֖וֹת (EST 9:19) — English (generated): gifts
+  - NT: EST 9:19 *sender hinanden gaver*
+  - answers: sender, hinanden, gaver
+  - Sending portions; {T:} at 9:19.
+  - agent:est009, 2026-10-22
+- **`term:sefer-divre-hayamim-malke`** סֵפֶר → **Krønikebogen for Mediens og Persiens konger** [medium, decided, attested]
+  - gloss: סֵפֶר: סֵ֨פֶר֙ (EST 10:2) — English (generated): the Book
+  - NT: EST 10:2 *står det ikke skrevet i Krønikebogen for Mediens og Persiens konger*
+  - answers: krønikebogen, for, mediens
+  - Closing formula modelled on Kings.
+  - agent:est010, 2026-10-22
+<!-- store:end sha=0cf438d5 -->

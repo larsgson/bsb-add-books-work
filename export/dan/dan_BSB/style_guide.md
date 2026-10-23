@@ -84,6 +84,56 @@ Bogspecifikke stilark ligger i bogmapperne (fx `jos/jos_style_guide.md`). Denne 
 | חַנּוּן וְרַחוּם אֶרֶךְ אַפַּיִם וְרַב חֶסֶד | nådig og barmhjertig, sen til vrede og rig på trofasthed | Neh 9 |
 | הִקְשׁוּ אֶת־עָרְפָּם | gjorde deres nakke stiv | Neh 9 |
 | הָאֵל הַגָּדוֹל הַגִּבּוֹר וְהַנּוֹרָא | den store, vældige og frygtindgydende Gud | Neh 9 |
+| אֲמָנָה | fast aftale | Neh 10 |
+| אַדִּירִים | fornemme | Neh 10 |
+| לִשְׁכָּה | kamrene | Neh 10 |
+| תְּרוּמָה | offerydelse | Neh 10 |
+| מַעֲשֵׂר | tiende | Neh 10 |
+| X בֶּן Y בֶּן Z | X, søn af Y, søn af Z | Neh 11 |
+| בְּנֹתֶיהָ | med tilhørende byer | Neh 11 |
+| גִּבּוֹרֵי חַיִל | tapre krigere | Neh 11 |
+| תּוֹדָה | takkekor | Neh 12 |
+| דָּוִיד אִישׁ הָאֱלֹהִים | David, Guds mand | Neh 12 |
+| שַׁעַר הַמַּטָּרָה | Vagtporten | Neh 12 |
+| דְּבַר יוֹם בְּיוֹמוֹ | hvad de skulle have dag for dag | Neh 12 |
+| זָכְרָה לִּי אֱלֹהַי עַל־זֹאת | Husk mig, min Gud, for dette | Neh 13 |
+| רִיב | gik i rette med | Neh 13 |
+| עָזַב | svigte | Neh 13 |
+| וַשְׁתִּי / אֶסְתֵּר | Vashti / Ester | Est 1 |
+| שׁוּשַׁן הַבִּירָה | borgen Susa | Neh 1, Est 1 |
+| מִשְׁתֶּה | gilde | Est 1 |
+| סָרִיס | hofmand | Est 1 |
+| שָׂרִים (Est) | stormænd | Est 1 |
+| דָּתֵי פָרַס וּמָדַי | Persiens og Mediens love | Est 1 |
+| מִגָּדוֹל וְעַד־קָטָן | fra den største til den mindste | Est 1 |
+| מָרְדֳּכַי | Mordokaj | Ezra 2, Est 2 |
+| בֵּית הַנָּשִׁים | kvindehuset | Est 2 |
+| תַּמְרוּקִים | skønhedsmidler | Est 2 |
+| שַׁעַר הַמֶּלֶךְ | kongens port | Est 2 |
+| טֵבֵת | tebet (måned, lille) | Est 2 |
+| סֵפֶר דִּבְרֵי הַיָּמִים | krønikebogen | Est 2 |
+| הָמָן בֶּן־הַמְּדָתָא הָאֲגָגִי | Haman, Hammedatas søn, agagitten | Est 3 |
+| צֹרֵר הַיְּהוּדִים | jødernes fjende | Est 3 |
+| פּוּר | pur | Est 3 |
+| לְהַשְׁמִיד לַהֲרֹג וּלְאַבֵּד | udrydde, dræbe og tilintetgøre | Est 3 |
+| אֲדָר | adar (måned, lille) | Ezra 6, Est 3 |
+| הָרָצִים | ilbudene | Est 3 |
+| שַׂק וָאֵפֶר | sæk og aske | Est 4 |
+| שַׁרְבִיט הַזָּהָב | guldscepter | Est 4 |
+| הֶחָצֵר הַפְּנִימִית | den inderste forgård | Est 4 |
+| עַד־חֲצִי הַמַּלְכוּת | selv om det er det halve kongerige | Est 5 |
+| שְׁאֵלָה / בַּקָּשָׁה | ønske / bøn (beder om) | Est 5 |
+| אִם־מָצָאתִי חֵן בְּעֵינֵי הַמֶּלֶךְ | Hvis jeg har fundet nåde for kongens øjne | Est 5 |
+| עֵץ (Est) | pæl | Est 2, 5 |
+| הָאִישׁ אֲשֶׁר הַמֶּלֶךְ חָפֵץ בִּיקָרוֹ | den mand som kongen gerne vil ære | Est 6 |
+| מָרְדֳּכַי הַיְּהוּדִי | jøden Mordokaj | Est 5, 6 |
+| סִיוָן | sivan (måned, lille) | Est 8 |
+| שִׂמְחָה וְשָׂשׂוֹן | glæde og fryd | Est 8 |
+| יוֹם טוֹב | festdag | Est 8 |
+| פּוּרִים | purim (lille) | Est 9 |
+| וּבַבִּזָּה לֹא שָׁלְחוּ אֶת־יָדָם | Men de lagde ikke hånd på byttet | Est 9 |
+| מִשְׁלוֹחַ מָנוֹת אִישׁ לְרֵעֵהוּ | sender hinanden gaver | Est 9 |
+| סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי מָדַי וּפָרָס | Krønikebogen for Mediens og Persiens konger | Est 10 |
 
 ## Projektregler (bindende, 22.10.2026)
 

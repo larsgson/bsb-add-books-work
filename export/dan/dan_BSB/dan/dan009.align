@@ -1,5 +1,5 @@
 # full alignment, bcv-commons compact-alignments format (scripts/full_align.py)
-# text 5a719fb6c06bf1e350b10f8fb083155f68e7784377c2c408eb2013e3203eefc9
+# text 3ee33ba510763b8e2caf1f3bdbe3ebf17bcb39fbe8b72639cbce8fcb3f4bfb9d
 1	0:5 1:7 2:9 3:12 6:1,11,16,18,20 7:23 8:22	1:2,4 2:19 4:10 5:21	a
 2	1:12 2:6 4:13 5:11 6:14 8:17 9:16 10:20 13:28 14:24 15:30	1:0,2,7,27 2:1 3:5 7:15 8:10,18,29,32 9:19 10:25 12:31	a
 3	0:1-3 1:4 2:6 5:13 6:15 7:17 8:19 9:21	0:0 5:7 7:8-11 8:14 9:12,18 11:20	a
