@@ -181,3 +181,17 @@ title: Log
 - 2026-10-28 agent:mal001: Malakias' Bog 1 oversat; store: Malakias, Jakob/Esau (DFB Rom 9,13), statholder.
 - 2026-10-28 agent:mal002: Malakias' Bog 2 oversat; store: Levis pagt, ungdoms hustru, skilsmisse.
 - 2026-10-28 agent:mal003: Malakias' Bog 3 oversat; bogen og løbet færdigt; store: budbringer, Elias, ejendomsfolk.
+- 2026-10-29 agent:ecc006: Prædikerens Bog 6 oversat (run resumed); store: en slem lidelse, det dødfødte foster, »Alle går til det samme sted«.
+- 2026-10-29 agent:ecc007: Prædikerens Bog 7 oversat; store: sorgens hus, forklaring/påfund, rette ud det krogede.
+- 2026-10-29 agent:ecc009: Prædikerens Bog 9 oversat; store: tid og tilfælde, snare; hebel »tomhed« (DFB 8) vs »flygtig« åbent.
+- 2026-10-29 agent:ecc010: Prædikerens Bog 10 oversat (poesi); store: tåbelig (sakal), fejltagelse.
+- 2026-10-29 agent:ecc011: Prædikerens Bog 11 oversat (poesi); store: Guds værk.
+- 2026-10-29 agent:ecc012: Prædikerens Bog 12 oversat; bogen færdig (1-2, 4-7, 9-12; DFB 3 og 8); store: din skaber, »Frygt Gud, og hold hans bud«.
+- 2026-10-29 agent:sng001: Højsangen 1 oversat; store: Sangenes sang, min elskede, min veninde, Jerusalems døtre, faste formler.
+- 2026-10-29 agent:sng002: Højsangen 2 oversat; store: omkvædet »Jeg besværger jer«, »Min elskede er min«, »Rejs dig, min veninde«.
+- 2026-10-29 agent:sng003: Højsangen 3 oversat; omkvædet som 2,7; store: »Hvem er hun, der kommer op fra ørkenen«.
+- 2026-10-29 agent:sng004: Højsangen 4 oversat; store: min søster, min brud; Senir, Amana.
+- 2026-10-29 agent:sng005: Højsangen 5 oversat; store: min due, min fuldkomne; min ven.
+- 2026-10-29 agent:sng006: Højsangen 6 oversat (12 vers, hebraisk nummerering); store: »frygtindgydende som hære under bannere«.
+- 2026-10-29 agent:sng007: Højsangen 7 oversat (hebraisk 7,1 = BSB 6,13); store: Shulamit, Bat-Rabbim.
+- 2026-10-29 agent:sng008: Højsangen 8 oversat; bogen og visdomsløbet færdigt; store: »Sæt mig som et segl«, Baal-Hamon.

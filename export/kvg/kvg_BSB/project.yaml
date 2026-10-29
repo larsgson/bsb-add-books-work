@@ -17,6 +17,7 @@ school_language: English        # the team's working language: wiki, store notes
 based_on: null
 style_from: [KVG-KuNT]
 nt_basis: critical
+book_order: protestant               # the reading order: kept Genesis … Malachi, as before v0.2.0 (docs/configuration.md)
 
 # Ruth and Jonah were held out as the test set of the Ruth drafting test until 2026-10-14 (reports and the
 # test drafts in _eval/); now they are part of the corpus, and _eval/ is open to the agents.

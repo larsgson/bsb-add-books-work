@@ -786,4 +786,87 @@ Tilbagevendende vendinger og deres faste danske form. `<…>` er pladser der udf
   - answers: din, ungdoms, hustru
   - Mal 2:14-15.
   - agent:mal002, 2026-10-28
-<!-- store:end sha=93d5af65 -->
+- **`formula:el_maqom_echad`** אֶל־מָקוֹם אֶחָד הַכֹּל הוֹלֵךְ → **Alle går til det samme sted** [high, decided, attested]
+  - gloss: מָקוֹם: מָק֥וֹם (ECC 6:6) — English (generated): place
+  - NT: ECC 6:6 *samme*
+  - answers: Alle, går, til, det, samme, sted
+  - As DFB Eccl 3:20.
+  - agent:ecc006, 2026-10-29
+- **`formula:me_uwwat`** מְעֻוָּת / עִוְּת … תַקֵּן → **rette ud det krogede** [high, decided, attested]
+  - gloss: עָוַת: עִוְּתֽ (ECC 7:13) — English (generated): He has bent
+  - NT: ECC 7:13 *kroget*
+  - answers: rette, ud, det, krogede
+  - 1:15 'Det krogede kan ikke rettes ud'; 7:13 'hvem kan rette ud det, som han har gjort kroget?'
+  - agent:ecc007, 2026-10-29
+- **`formula:et_wafega`** עֵת וָפֶגַע → **tid og tilfælde** [high, decided, attested]
+  - gloss: פֶּגַע: פֶ֖גַע (ECC 9:11) — English (generated): and chance
+  - NT: ECC 9:11 *tilfælde*
+  - answers: tid, og, tilfælde
+  - agent:ecc009, 2026-10-29
+- **`formula:maaseh_haelohim`** מַעֲשֵׂה הָאֱלֹהִים → **Guds værk** [high, decided, attested]
+  - gloss: מַעֲשֶׂה: מַעֲשֵׂ֣ה (ECC 11:5) — English (generated): the work
+  - NT: ECC 11:5 *værk*
+  - answers: Guds, værk
+  - As DFB Eccl 3:11; also 7:13; 11:5.
+  - agent:ecc011, 2026-10-29
+- **`formula:yera_shemor`** אֶת־הָאֱלֹהִים יְרָא וְאֶת־מִצְוֺתָיו שְׁמוֹר → **Frygt Gud, og hold hans bud** [high, decided, attested]
+  - gloss: יָרֵא: יְרָא֙ (ECC 12:13) — English (generated): Fear
+  - NT: ECC 12:13 *Frygt*
+  - answers: Frygt, Gud,, og, hold, hans, bud
+  - Also the heading of 12:9-14.
+  - agent:ecc012, 2026-10-29
+- **`formula:sheahavah_nafshi`** שֶׁאָהֲבָה נַפְשִׁי → **du som min sjæl elsker** [high, decided, attested]
+  - gloss: אָהֵב: אָהֲבָה֙ (SNG 1:7) — English (generated): love
+  - NT: SNG 1:7 *elsker*
+  - answers: du, som, min, sjæl, elsker
+  - 3:1-4: 'ham som min sjæl elsker'.
+  - agent:sng001, 2026-10-29
+- **`formula:hayafah_banashim`** הַיָּפָה בַּנָּשִׁים → **du smukkeste blandt kvinder** [high, decided, attested]
+  - gloss: יָפֶה: יָּפָ֖ה (SNG 1:8) — English (generated): O fairest
+  - NT: SNG 1:8 *smukkeste*
+  - answers: du, smukkeste, blandt, kvinder
+  - Also 5:9; 6:1.
+  - agent:sng001, 2026-10-29
+- **`formula:hishbati_etkhem`** הִשְׁבַּעְתִּי אֶתְכֶם בְּנוֹת יְרוּשָׁלִַם → **Jeg besværger jer, Jerusalems døtre … at I ikke vækker og ikke opvækker kærligheden, før den selv vil** [high, decided, attested]
+  - gloss: שָׁבַע: הִשְׁבַּ֨עְתִּי (SNG 2:7) — English (generated): I adjure
+  - NT: SNG 2:7 *besværger*
+  - answers: Jeg, besværger, jer,, Jerusalems, døtre, …, at, I, ikke, vækker, og, ikke, opvækker, kærligheden,, før, den, selv, vil
+  - Refrain 2:7; 3:5; 8:4 (8:4 without the gazelles).
+  - agent:sng002, 2026-10-29
+- **`formula:dodi_li`** דּוֹדִי לִי וַאֲנִי לוֹ → **Min elskede er min, og jeg er hans** [high, decided, attested]
+  - gloss: דּוֹד: דּוֹדִ֥ (SNG 2:16) — English (generated): My beloved
+  - NT: SNG 2:16 *elskede*
+  - answers: Min, elskede, er, min,, og, jeg, er, hans
+  - 6:3 reversed: 'Jeg er min elskedes, og min elskede er min'; 7:11.
+  - agent:sng002, 2026-10-29
+- **`formula:kumi_lakh`** קוּמִי לָךְ רַעְיָתִי יָפָתִי וּלְכִי־לָךְ → **Rejs dig, min veninde, min smukke, og kom af sted** [high, decided, attested]
+  - gloss: קוּם: ק֥וּמִי (SNG 2:10) — English (generated): Arise
+  - NT: SNG 2:10 *Rejs*
+  - answers: Rejs, dig,, min, veninde,, min, smukke,, og, kom, af, sted
+  - 2:10.13.
+  - agent:sng002, 2026-10-29
+- **`formula:mi_zot_olah`** מִי זֹאת עֹלָה מִן־הַמִּדְבָּר → **Hvem er hun, der kommer op fra ørkenen** [high, decided, attested]
+  - gloss: זֹאת: זֹ֗את (SNG 3:6) — English (generated): is this
+  - NT: SNG 3:6 *Hvem*
+  - answers: Hvem, er, hun,, der, kommer, op, fra, ørkenen
+  - Also 8:5; cf. 6:10 'Hvem er hun …'.
+  - agent:sng003, 2026-10-29
+- **`formula:ahoti_kallah`** אֲחֹתִי כַלָּה → **min søster, min brud** [high, decided, attested]
+  - gloss: אָחוֹת: אֲחֹתִ֣ (SNG 4:9) — English (generated): my sister
+  - NT: SNG 4:9 *søster*
+  - answers: min, søster,, min, brud
+  - 4:9.10.12; 5:1; kallah alone (4:8.11) = 'min brud' (Danish adds 'min').
+  - agent:sng004, 2026-10-29
+- **`formula:ayummah_kannidgalot`** אֲיֻמָּה כַּנִּדְגָּלוֹת → **frygtindgydende som hære under bannere** [high, decided, attested]
+  - gloss: אָיֹם: אֲיֻמָּ֖ה (SNG 6:4) — English (generated): as majestic
+  - NT: SNG 6:4 *frygtindgydende*
+  - answers: frygtindgydende, som, hære, under, bannere
+  - 6:4.10.
+  - agent:sng006, 2026-10-29
+- **`formula:simeni_kahotam`** שִׂימֵנִי כַחוֹתָם עַל־לִבֶּךָ → **Sæt mig som et segl på dit hjerte** [high, decided, attested]
+  - gloss: חֹותָם: חוֹתָ֜ם (SNG 8:6) — English (generated): as a seal
+  - NT: SNG 8:6 *segl*
+  - answers: Sæt, mig, som, et, segl, på, dit, hjerte
+  - With 'kærligheden er stærk som døden' (8:6).
+  - agent:sng008, 2026-10-29
+<!-- store:end sha=da077534 -->

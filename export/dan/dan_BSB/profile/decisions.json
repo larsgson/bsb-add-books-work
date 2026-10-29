@@ -28090,6 +28090,1087 @@
    "by": "agent:mal003",
    "date": "2026-10-28",
    "status": "decided"
+  },
+  {
+   "id": "term:choli_ra",
+   "kind": "term",
+   "source": "חֳלִי רָע",
+   "value": "en slem lidelse",
+   "words": [
+    "en",
+    "slem",
+    "lidelse"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 6:2",
+     "form": "lidelse"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֳלִ֥י",
+     "lemma": "חֳלִי",
+     "ref": "ECC 6:2"
+    }
+   ],
+   "note": "Kept apart from ra'ah cholah 'et slemt onde' (5:12.15).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc006",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:nefel",
+   "kind": "term",
+   "source": "נֵפֶל",
+   "value": "det dødfødte foster",
+   "words": [
+    "det",
+    "dødfødte",
+    "foster"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 6:3",
+     "form": "dødfødte"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נָּֽפֶל",
+     "lemma": "נֵפֶל",
+     "ref": "ECC 6:3"
+    }
+   ],
+   "note": "Cf. Job 3:16; Ps 58:9.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc006",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:el_maqom_echad",
+   "kind": "formula",
+   "source": "אֶל־מָקוֹם אֶחָד הַכֹּל הוֹלֵךְ",
+   "value": "Alle går til det samme sted",
+   "words": [
+    "Alle",
+    "går",
+    "til",
+    "det",
+    "samme",
+    "sted"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 6:6",
+     "form": "samme"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מָק֥וֹם",
+     "lemma": "מָקוֹם",
+     "ref": "ECC 6:6"
+    }
+   ],
+   "note": "As DFB Eccl 3:20.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc006",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:bet_ebel",
+   "kind": "term",
+   "source": "בֵּית אֵבֶל",
+   "value": "sorgens hus",
+   "words": [
+    "sorgens",
+    "hus"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 7:2",
+     "form": "sorgens"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֵ֗בֶל",
+     "lemma": "אֵבֶל",
+     "ref": "ECC 7:2"
+    }
+   ],
+   "note": "Also 7:4; with gildets hus (mishteh) and glædens hus (simchah).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc007",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:heshbon",
+   "kind": "term",
+   "source": "חֶשְׁבּוֹן",
+   "value": "forklaring",
+   "words": [
+    "forklaring"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 7:25",
+     "form": "forklaring"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֶשְׁבּ֑וֹן",
+     "lemma": "חֶשְׁבּוֹן",
+     "ref": "ECC 7:25"
+    }
+   ],
+   "note": "7:25.27 forklaring; 9:10 overvejelse (planning, in a list with gerning, kundskab, visdom). The plural chishshevonot (7:29) = påfund (wordplay).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc007",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:me_uwwat",
+   "kind": "formula",
+   "source": "מְעֻוָּת / עִוְּת … תַקֵּן",
+   "value": "rette ud det krogede",
+   "words": [
+    "rette",
+    "ud",
+    "det",
+    "krogede"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 7:13",
+     "form": "kroget"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עִוְּתֽ",
+     "lemma": "עָוַת",
+     "ref": "ECC 7:13"
+    }
+   ],
+   "note": "1:15 'Det krogede kan ikke rettes ud'; 7:13 'hvem kan rette ud det, som han har gjort kroget?'",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc007",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:et_wafega",
+   "kind": "formula",
+   "source": "עֵת וָפֶגַע",
+   "value": "tid og tilfælde",
+   "words": [
+    "tid",
+    "og",
+    "tilfælde"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 9:11",
+     "form": "tilfælde"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פֶ֖גַע",
+     "lemma": "פֶּגַע",
+     "ref": "ECC 9:11"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc009",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:pach",
+   "kind": "term",
+   "source": "פַּח",
+   "value": "snare",
+   "words": [
+    "snare"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 9:12",
+     "form": "snare"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פָּ֑ח",
+     "lemma": "פַּח",
+     "ref": "ECC 9:12"
+    }
+   ],
+   "note": "As DFB Ps 124:7; metsodah (9:12) = net.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc009",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:sakal",
+   "kind": "term",
+   "source": "סָכָל",
+   "value": "tåbelig",
+   "words": [
+    "tåbelig"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 10:3",
+     "form": "tåbelige"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סָּכָ֥ל",
+     "lemma": "סָכָל",
+     "ref": "ECC 10:3"
+    }
+   ],
+   "note": "Ecclesiastes' sakal (2:19; 7:17; 10:3.14): 'tåbelig' / 'den tåbelige', kept apart from kesil 'tåbe'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc010",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:shegagah",
+   "kind": "term",
+   "source": "שְׁגָגָה",
+   "value": "fejltagelse",
+   "words": [
+    "fejltagelse"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 10:5",
+     "form": "fejltagelse"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְׁגָגָ֕ה",
+     "lemma": "שְׁגָגָה",
+     "ref": "ECC 10:5"
+    }
+   ],
+   "note": "Eccl 5:5; 10:5 (in the Law: 'af vanvare').",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc010",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:maaseh_haelohim",
+   "kind": "formula",
+   "source": "מַעֲשֵׂה הָאֱלֹהִים",
+   "value": "Guds værk",
+   "words": [
+    "Guds",
+    "værk"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 11:5",
+     "form": "værk"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַעֲשֵׂ֣ה",
+     "lemma": "מַעֲשֶׂה",
+     "ref": "ECC 11:5"
+    }
+   ],
+   "note": "As DFB Eccl 3:11; also 7:13; 11:5.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc011",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:bore_ecc",
+   "kind": "term",
+   "source": "בּוֹרְאֶיךָ",
+   "value": "din skaber",
+   "words": [
+    "din",
+    "skaber"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 12:1",
+     "form": "skaber"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בּ֣וֹרְאֶ֔י",
+     "lemma": "בָּרָא",
+     "ref": "ECC 12:1"
+    }
+   ],
+   "note": "Participle of bara as a title of God; lower case 'skaber'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc012",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:yera_shemor",
+   "kind": "formula",
+   "source": "אֶת־הָאֱלֹהִים יְרָא וְאֶת־מִצְוֺתָיו שְׁמוֹר",
+   "value": "Frygt Gud, og hold hans bud",
+   "words": [
+    "Frygt",
+    "Gud,",
+    "og",
+    "hold",
+    "hans",
+    "bud"
+   ],
+   "evidence": [
+    {
+     "ref": "ECC 12:13",
+     "form": "Frygt"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְרָא֙",
+     "lemma": "יָרֵא",
+     "ref": "ECC 12:13"
+    }
+   ],
+   "note": "Also the heading of 12:9-14.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:ecc012",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:shir_hashirim",
+   "kind": "term",
+   "source": "שִׁיר הַשִּׁירִים",
+   "value": "Sangenes sang",
+   "words": [
+    "Sangenes",
+    "sang"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 1:1",
+     "form": "Sangenes"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שִׁ֥יר",
+     "lemma": "שִׁיר",
+     "ref": "SNG 1:1"
+    }
+   ],
+   "note": "Book title: Højsangen (traditional Danish).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng001",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:dodi",
+   "kind": "term",
+   "source": "דּוֹדִי",
+   "value": "min elskede",
+   "words": [
+    "min",
+    "elskede"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 1:13",
+     "form": "elskede"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דּוֹדִ",
+     "lemma": "דּוֹד",
+     "ref": "SNG 1:13"
+    }
+   ],
+   "note": "The bride's word for the groom throughout the Song; plural dodim = elskov (Prov 7:18).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng001",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:rayati",
+   "kind": "term",
+   "source": "רַעְיָתִי",
+   "value": "min veninde",
+   "words": [
+    "min",
+    "veninde"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 1:9",
+     "form": "veninde"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רַעְיָתִֽ",
+     "lemma": "רַעְיָה",
+     "ref": "SNG 1:9"
+    }
+   ],
+   "note": "The groom's word for the bride throughout the Song.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng001",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:benot_yerushalayim",
+   "kind": "term",
+   "source": "בְּנוֹת יְרוּשָׁלִַם",
+   "value": "Jerusalems døtre",
+   "words": [
+    "Jerusalems",
+    "døtre"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 1:5",
+     "form": "døtre"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בְּנ֖וֹת",
+     "lemma": "בַּת",
+     "ref": "SNG 1:5"
+    }
+   ],
+   "note": "Address in the Song (1:5; 2:7; 3:5; 5:8.16; 8:4).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng001",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:sheahavah_nafshi",
+   "kind": "formula",
+   "source": "שֶׁאָהֲבָה נַפְשִׁי",
+   "value": "du som min sjæl elsker",
+   "words": [
+    "du",
+    "som",
+    "min",
+    "sjæl",
+    "elsker"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 1:7",
+     "form": "elsker"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אָהֲבָה֙",
+     "lemma": "אָהֵב",
+     "ref": "SNG 1:7"
+    }
+   ],
+   "note": "3:1-4: 'ham som min sjæl elsker'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng001",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:hayafah_banashim",
+   "kind": "formula",
+   "source": "הַיָּפָה בַּנָּשִׁים",
+   "value": "du smukkeste blandt kvinder",
+   "words": [
+    "du",
+    "smukkeste",
+    "blandt",
+    "kvinder"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 1:8",
+     "form": "smukkeste"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יָּפָ֖ה",
+     "lemma": "יָפֶה",
+     "ref": "SNG 1:8"
+    }
+   ],
+   "note": "Also 5:9; 6:1.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng001",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:hishbati_etkhem",
+   "kind": "formula",
+   "source": "הִשְׁבַּעְתִּי אֶתְכֶם בְּנוֹת יְרוּשָׁלִַם",
+   "value": "Jeg besværger jer, Jerusalems døtre … at I ikke vækker og ikke opvækker kærligheden, før den selv vil",
+   "words": [
+    "Jeg",
+    "besværger",
+    "jer,",
+    "Jerusalems",
+    "døtre",
+    "…",
+    "at",
+    "I",
+    "ikke",
+    "vækker",
+    "og",
+    "ikke",
+    "opvækker",
+    "kærligheden,",
+    "før",
+    "den",
+    "selv",
+    "vil"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 2:7",
+     "form": "besværger"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הִשְׁבַּ֨עְתִּי",
+     "lemma": "שָׁבַע",
+     "ref": "SNG 2:7"
+    }
+   ],
+   "note": "Refrain 2:7; 3:5; 8:4 (8:4 without the gazelles).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng002",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:dodi_li",
+   "kind": "formula",
+   "source": "דּוֹדִי לִי וַאֲנִי לוֹ",
+   "value": "Min elskede er min, og jeg er hans",
+   "words": [
+    "Min",
+    "elskede",
+    "er",
+    "min,",
+    "og",
+    "jeg",
+    "er",
+    "hans"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 2:16",
+     "form": "elskede"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דּוֹדִ֥",
+     "lemma": "דּוֹד",
+     "ref": "SNG 2:16"
+    }
+   ],
+   "note": "6:3 reversed: 'Jeg er min elskedes, og min elskede er min'; 7:11.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng002",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:kumi_lakh",
+   "kind": "formula",
+   "source": "קוּמִי לָךְ רַעְיָתִי יָפָתִי וּלְכִי־לָךְ",
+   "value": "Rejs dig, min veninde, min smukke, og kom af sted",
+   "words": [
+    "Rejs",
+    "dig,",
+    "min",
+    "veninde,",
+    "min",
+    "smukke,",
+    "og",
+    "kom",
+    "af",
+    "sted"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 2:10",
+     "form": "Rejs"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "ק֥וּמִי",
+     "lemma": "קוּם",
+     "ref": "SNG 2:10"
+    }
+   ],
+   "note": "2:10.13.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng002",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:mi_zot_olah",
+   "kind": "formula",
+   "source": "מִי זֹאת עֹלָה מִן־הַמִּדְבָּר",
+   "value": "Hvem er hun, der kommer op fra ørkenen",
+   "words": [
+    "Hvem",
+    "er",
+    "hun,",
+    "der",
+    "kommer",
+    "op",
+    "fra",
+    "ørkenen"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 3:6",
+     "form": "Hvem"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זֹ֗את",
+     "lemma": "זֹאת",
+     "ref": "SNG 3:6"
+    }
+   ],
+   "note": "Also 8:5; cf. 6:10 'Hvem er hun …'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng003",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ahoti_kallah",
+   "kind": "formula",
+   "source": "אֲחֹתִי כַלָּה",
+   "value": "min søster, min brud",
+   "words": [
+    "min",
+    "søster,",
+    "min",
+    "brud"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 4:9",
+     "form": "søster"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲחֹתִ֣",
+     "lemma": "אָחוֹת",
+     "ref": "SNG 4:9"
+    }
+   ],
+   "note": "4:9.10.12; 5:1; kallah alone (4:8.11) = 'min brud' (Danish adds 'min').",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng004",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "name:senir",
+   "kind": "name",
+   "source": "שְׂנִיר",
+   "value": "Senir",
+   "words": [
+    "Senir"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 4:8",
+     "form": "Senir"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְׂנִיר֙",
+     "lemma": "שְׂנִיר",
+     "ref": "SNG 4:8"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng004",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "name:amana",
+   "kind": "name",
+   "source": "אֲמָנָה",
+   "value": "Amana",
+   "words": [
+    "Amana"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 4:8",
+     "form": "Amanas"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲמָנָ֗ה",
+     "lemma": "אֲמָנָה",
+     "ref": "SNG 4:8"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng004",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:yonati_tammati",
+   "kind": "term",
+   "source": "יוֹנָתִי תַמָּתִי",
+   "value": "min due, min fuldkomne",
+   "words": [
+    "min",
+    "due,",
+    "min",
+    "fuldkomne"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 5:2",
+     "form": "fuldkomne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תַמָּתִ֔",
+     "lemma": "תָּם",
+     "ref": "SNG 5:2"
+    }
+   ],
+   "note": "5:2; 6:9 (yonati 2:14 'min due').",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng005",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "term:reai",
+   "kind": "term",
+   "source": "רֵעִי",
+   "value": "min ven",
+   "words": [
+    "min",
+    "ven"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 5:16",
+     "form": "ven"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רֵעִ֔",
+     "lemma": "רֵעַ",
+     "ref": "SNG 5:16"
+    }
+   ],
+   "note": "The bride of the groom, beside dodi 'min elskede'; re'im (5:1) = venner.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng005",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ayummah_kannidgalot",
+   "kind": "formula",
+   "source": "אֲיֻמָּה כַּנִּדְגָּלוֹת",
+   "value": "frygtindgydende som hære under bannere",
+   "words": [
+    "frygtindgydende",
+    "som",
+    "hære",
+    "under",
+    "bannere"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 6:4",
+     "form": "frygtindgydende"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲיֻמָּ֖ה",
+     "lemma": "אָיֹם",
+     "ref": "SNG 6:4"
+    }
+   ],
+   "note": "6:4.10.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng006",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "name:shulammit",
+   "kind": "name",
+   "source": "הַשּׁוּלַמִּית",
+   "value": "Shulamit",
+   "words": [
+    "Shulamit"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 7:1",
+     "form": "Shulamit"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שּׁ֣וּלַמִּ֔ית",
+     "lemma": "שׁוּלַמִּי",
+     "ref": "SNG 7:1"
+    }
+   ],
+   "note": "Hebrew 7:1 = BSB 6:13; sh as in the project's names (Heshbon).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng007",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "name:bat_rabbim",
+   "kind": "name",
+   "source": "בַּת־רַבִּים",
+   "value": "Bat-Rabbim",
+   "words": [
+    "Bat-Rabbim"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 7:5",
+     "form": "Bat-Rabbims"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בַּת",
+     "lemma": "בַּת רַבִּים",
+     "ref": "SNG 7:5"
+    }
+   ],
+   "note": "Hyphen as DFB Bat-Gallim.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng007",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "formula:simeni_kahotam",
+   "kind": "formula",
+   "source": "שִׂימֵנִי כַחוֹתָם עַל־לִבֶּךָ",
+   "value": "Sæt mig som et segl på dit hjerte",
+   "words": [
+    "Sæt",
+    "mig",
+    "som",
+    "et",
+    "segl",
+    "på",
+    "dit",
+    "hjerte"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 8:6",
+     "form": "segl"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חוֹתָ֜ם",
+     "lemma": "חֹותָם",
+     "ref": "SNG 8:6"
+    }
+   ],
+   "note": "With 'kærligheden er stærk som døden' (8:6).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng008",
+   "date": "2026-10-29",
+   "status": "decided"
+  },
+  {
+   "id": "name:baal_hamon",
+   "kind": "name",
+   "source": "בַּעַל הָמוֹן",
+   "value": "Baal-Hamon",
+   "words": [
+    "Baal-Hamon"
+   ],
+   "evidence": [
+    {
+     "ref": "SNG 8:11",
+     "form": "Baal-Hamon"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בַ֣עַל",
+     "lemma": "בַּעַל הָמוֹן",
+     "ref": "SNG 8:11"
+    }
+   ],
+   "note": "",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:sng008",
+   "date": "2026-10-29",
+   "status": "decided"
   }
  ]
 }

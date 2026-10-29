@@ -360,6 +360,46 @@ Bogspecifikke stilark ligger i bogmapperne (fx `jos/jos_style_guide.md`). Denne 
 | טוֹבִים הַשְּׁנַיִם מִן־הָאֶחָד | To er bedre end én | Præd 4 |
 | רָעָה חוֹלָה | et slemt onde | Præd 5 |
 | מַתַּת אֱלֹהִים | en gave fra Gud | Præd 5 (DFB 3,13) |
+| חֳלִי רָע | en slem lidelse | Præd 6 |
+| נֵפֶל | det dødfødte foster | Præd 6 |
+| אֶל־מָקוֹם אֶחָד הַכֹּל הוֹלֵךְ | Alle går til det samme sted | Præd 6 (DFB 3,20) |
+| בֵּית אֵבֶל / בֵּית מִשְׁתֶּה | sorgens hus / gildets hus | Præd 7 |
+| חֶשְׁבּוֹן / חִשְּׁבֹנוֹת | forklaring / påfund | Præd 7 |
+| כַּעַס (Præd) | ærgrelse (7,3 bedrøvelse; 7,9 vrede) | Præd 1, 7 |
+| עֵת וָפֶגַע | tid og tilfælde | Præd 9 |
+| פַּח | snare (DFB Sl 124,7) | Præd 9 |
+| חֶשְׁבּוֹן (9,10) | overvejelse | Præd 9 |
+| סָכָל (Præd) | tåbelig / den tåbelige | Præd 2, 7, 10 |
+| שְׁגָגָה (Præd) | fejltagelse | Præd 5, 10 |
+| מַעֲשֵׂה הָאֱלֹהִים | Guds værk | Præd 7, 11 (DFB 3,11) |
+| בּוֹרְאֶיךָ | din skaber | Præd 12 |
+| אֶת־הָאֱלֹהִים יְרָא וְאֶת־מִצְוֺתָיו שְׁמוֹר | Frygt Gud, og hold hans bud! | Præd 12 |
+| (bogtitel) | Højsangen | Højs 1 |
+| שִׁיר הַשִּׁירִים | Sangenes sang | Højs 1 |
+| דּוֹדִי | min elskede | Højs 1 |
+| רַעְיָתִי | min veninde | Højs 1 |
+| בְּנוֹת יְרוּשָׁלִַם | Jerusalems døtre | Højs 1 |
+| שֶׁאָהֲבָה נַפְשִׁי | du (ham) som min sjæl elsker | Højs 1 |
+| הַיָּפָה בַּנָּשִׁים | du smukkeste blandt kvinder | Højs 1 |
+| (taleroverskrifter) | Bruden / Brudgommen / Vennerne | Højs 1 |
+| הִשְׁבַּעְתִּי אֶתְכֶם … אִם־תָּעִירוּ … | Jeg besværger jer, Jerusalems døtre … at I ikke vækker og ikke opvækker kærligheden, før den selv vil! | Højs 2 (= 3,5; 8,4) |
+| דּוֹדִי לִי וַאֲנִי לוֹ | Min elskede er min, og jeg er hans | Højs 2 |
+| קוּמִי לָךְ רַעְיָתִי יָפָתִי | Rejs dig, min veninde, min smukke, og kom af sted! | Højs 2 |
+| אַהֲבָה (Højs) | kærlighed (dōdîm: elskov) | Højs 2 |
+| מִי זֹאת עֹלָה מִן־הַמִּדְבָּר | Hvem er hun, der kommer op fra ørkenen | Højs 3 (= 8,5) |
+| מִטָּה / אַפִּרְיוֹן | bærestol | Højs 3 |
+| אֲחֹתִי כַלָּה / כַּלָּה | min søster, min brud / min brud | Højs 4 |
+| שְׂנִיר / אֲמָנָה | Senir / Amana | Højs 4 |
+| מַיִם חַיִּים | levende vand | Højs 4 |
+| יוֹנָתִי תַמָּתִי | min due, min fuldkomne | Højs 5 |
+| רֵעִי / רֵעִים | min ven / venner | Højs 5 |
+| דּוֹדִים (tiltale, 5,1) | I elskende | Højs 5 |
+| אֲיֻמָּה כַּנִּדְגָּלוֹת | frygtindgydende som hære under bannere | Højs 6 |
+| הַשּׁוּלַמִּית | Shulamit | Højs 7 (BSB 6,13) |
+| בַּת־רַבִּים / מַחֲנָיִם | Bat-Rabbim / Mahanajim (DFB) | Højs 7 |
+| שִׂימֵנִי כַחוֹתָם עַל־לִבֶּךָ | Sæt mig som et segl på dit hjerte | Højs 8 |
+| כִּי־עַזָּה כַמָּוֶת אַהֲבָה | kærligheden er stærk som døden | Højs 8 |
+| בַּעַל הָמוֹן | Baal-Hamon | Højs 8 |
 | (bogtitel) | Hoseas' Bog (profeten Hoseas, DFB Rom 9,25; kongen: Hosea) | Hos 1 |
 | זְנוּנִים / אֵשֶׁת זְנוּנִים | utugt / en utugtig kvinde | Hos 1 |
 | זָנָה (billedligt) | hore | Hos 1 |

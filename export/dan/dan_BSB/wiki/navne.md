@@ -1714,6 +1714,33 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
   - answers: profeten, Elias
   - As DFB.
   - agent:mal003, 2026-10-28
+- **`name:senir`** שְׂנִיר → **Senir** [high, decided, attested]
+  - gloss: שְׂנִיר: שְׂנִיר֙ (SNG 4:8) — English (generated): of Senir
+  - NT: SNG 4:8 *Senir*
+  - answers: Senir
+  - agent:sng004, 2026-10-29
+- **`name:amana`** אֲמָנָה → **Amana** [high, decided, attested]
+  - gloss: אֲמָנָה: אֲמָנָ֗ה (SNG 4:8) — English (generated): of Amana
+  - NT: SNG 4:8 *Amanas*
+  - answers: Amana
+  - agent:sng004, 2026-10-29
+- **`name:shulammit`** הַשּׁוּלַמִּית → **Shulamit** [high, decided, attested]
+  - gloss: שׁוּלַמִּי: שּׁ֣וּלַמִּ֔ית (SNG 7:1) — English (generated): O Shulammite
+  - NT: SNG 7:1 *Shulamit*
+  - answers: Shulamit
+  - Hebrew 7:1 = BSB 6:13; sh as in the project's names (Heshbon).
+  - agent:sng007, 2026-10-29
+- **`name:bat_rabbim`** בַּת־רַבִּים → **Bat-Rabbim** [high, decided, attested]
+  - gloss: בַּת רַבִּים: בַּת (SNG 7:5) — English (generated): of Bath rabbim
+  - NT: SNG 7:5 *Bat-Rabbims*
+  - answers: Bat-Rabbim
+  - Hyphen as DFB Bat-Gallim.
+  - agent:sng007, 2026-10-29
+- **`name:baal_hamon`** בַּעַל הָמוֹן → **Baal-Hamon** [high, decided, attested]
+  - gloss: בַּעַל הָמוֹן: בַ֣עַל (SNG 8:11) — English (generated): in Baal hamon
+  - NT: SNG 8:11 *Baal-Hamon*
+  - answers: Baal-Hamon
+  - agent:sng008, 2026-10-29
 - **`letter:shin`** **šin → sh** [high, observed]
   - NT: GEN 20:1 *Kadesh*; GEN 30:13 *Asher*; GEN 35:26 *Asher*
   - Bashan, Shilo, Shittim, Kadesh, Asher; men husformer går forud (Sinear, Sikem).
@@ -1758,4 +1785,4 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
 - **`letter:known_forms`** **indarbejdede danske former bruges uændret: Jerusalem, Betlehem, Jordan, Libanon, Egypten, Gilead, Efraim, Manasse, Juda, Ruben, Gad, Zebulon, Issakar, Asher, Naftali, Dan, Benjamin, Simeon, Levi** [high, decided]
   - NT: DAN 1:1 *Jerusalem*; DAN 5:2 *Jerusalem*
   - agent:memory-setup, 2026-10-14
-<!-- store:end sha=b14de40a -->
+<!-- store:end sha=b5e6a211 -->

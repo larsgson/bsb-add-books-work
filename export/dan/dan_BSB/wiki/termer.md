@@ -53,6 +53,17 @@ Daniel-stilarkene og de ensretninger review-oversigterne har gennemført.
 - Tåberne: *petî* = **enfoldig** (DFB Sl 19,8), *ʔĕwîl* = **dåre** (DFB har »tåbe«; åbent, Ordsp 1), *kᵊsîl* = **tåbe**,
   *lēṣ* = **spotter** (DFB Sl 1,1).
 - *tôkaḥat* = **irettesættelse**; forældrenes *tôrāh* = **vejledning**; »min søn«; »Frygt for HERREN« (DFB Sl 111,10).
+- Prædikeren: *hebel* = **flygtig/flygtigt** (DFB 3,19), *yitrôn* / *yôtēr* = **fordel**, *ʕāmāl* = **slid**; *rāʕāh ḥôlāh* =
+  **et slemt onde** (5,12), men *ḥŏlî rāʕ* = **en slem lidelse** (6,2); *nēfel* = **det dødfødte foster** (6,3); »Alle går til
+  det samme sted« (DFB 3,20; 6,6).
+- Prædikeren 7: »sorgens hus« / »gildets hus«; *ḥešbôn* = **forklaring**, *ḥiššᵊbōnôt* = **påfund** (ordspil); *kaʕas* ellers
+  »ærgrelse«, men »bedrøvelse« (7,3) og »vrede« (7,9), hvor »ærgrelse« ikke giver mening.
+- Prædikeren 9: »tid og tilfælde«; *paḥ* = **snare** (DFB Sl 124,7); *ḥešbôn* = »overvejelse« i 9,10. DFB's Præd 8 har »tomhed« for
+  *hebel*, projektet »flygtig« (DFB 3,19) – åbent spørgsmål til en samlet afgørelse.
+- Prædikeren 10: *sākāl* = **tåbelig / den tåbelige** (2,19; 7,17; 10,3.14), holdt adskilt fra *kᵊsîl* »tåbe«;
+  *šᵊgāgāh* = **fejltagelse** (5,5; 10,5).
+- Højsangen: *dôdî* = **min elskede**, *raʕyātî* = **min veninde**, *dōdîm* = **elskov** (Ordsp 7,18); »Jerusalems døtre«;
+  »du som min sjæl elsker«; »du smukkeste blandt kvinder«. Taleroverskrifter »Bruden«, »Brudgommen«, »Vennerne« efter BSB (åbent).
 
 ## 1 Mosebog 20-50
 
@@ -1984,4 +1995,88 @@ Daniel-stilarkene og de ensretninger review-oversigterne har gennemført.
   - answers: ejendomsfolk
   - Cf. DFB 1 Pet 2:9.
   - agent:mal003, 2026-10-28
-<!-- store:end sha=21333482 -->
+- **`term:choli_ra`** חֳלִי רָע → **en slem lidelse** [high, decided, attested]
+  - gloss: חֳלִי: חֳלִ֥י (ECC 6:2) — English (generated): and a grievous
+  - NT: ECC 6:2 *lidelse*
+  - answers: en, slem, lidelse
+  - Kept apart from ra'ah cholah 'et slemt onde' (5:12.15).
+  - agent:ecc006, 2026-10-29
+- **`term:nefel`** נֵפֶל → **det dødfødte foster** [high, decided, attested]
+  - gloss: נֵפֶל: נָּֽפֶל (ECC 6:3) — English (generated): that a stillborn child
+  - NT: ECC 6:3 *dødfødte*
+  - answers: det, dødfødte, foster
+  - Cf. Job 3:16; Ps 58:9.
+  - agent:ecc006, 2026-10-29
+- **`term:bet_ebel`** בֵּית אֵבֶל → **sorgens hus** [high, decided, attested]
+  - gloss: אֵבֶל: אֵ֗בֶל (ECC 7:2) — English (generated): of mourning
+  - NT: ECC 7:2 *sorgens*
+  - answers: sorgens, hus
+  - Also 7:4; with gildets hus (mishteh) and glædens hus (simchah).
+  - agent:ecc007, 2026-10-29
+- **`term:heshbon`** חֶשְׁבּוֹן → **forklaring** [high, decided, attested]
+  - gloss: חֶשְׁבּוֹן: חֶשְׁבּ֑וֹן (ECC 7:25) — English (generated): and explanations
+  - NT: ECC 7:25 *forklaring*
+  - answers: forklaring
+  - 7:25.27 forklaring; 9:10 overvejelse (planning, in a list with gerning, kundskab, visdom). The plural chishshevonot (7:29) = påfund (wordplay).
+  - agent:ecc007, 2026-10-29
+- **`term:pach`** פַּח → **snare** [high, decided, attested]
+  - gloss: פַּח: פָּ֑ח (ECC 9:12) — English (generated): in a snare
+  - NT: ECC 9:12 *snare*
+  - answers: snare
+  - As DFB Ps 124:7; metsodah (9:12) = net.
+  - agent:ecc009, 2026-10-29
+- **`term:sakal`** סָכָל → **tåbelig** [high, decided, attested]
+  - gloss: סָכָל: סָּכָ֥ל (ECC 10:3) — English (generated): as the fool
+  - NT: ECC 10:3 *tåbelige*
+  - answers: tåbelig
+  - Ecclesiastes' sakal (2:19; 7:17; 10:3.14): 'tåbelig' / 'den tåbelige', kept apart from kesil 'tåbe'.
+  - agent:ecc010, 2026-10-29
+- **`term:shegagah`** שְׁגָגָה → **fejltagelse** [high, decided, attested]
+  - gloss: שְׁגָגָה: שְׁגָגָ֕ה (ECC 10:5) — English (generated): an error
+  - NT: ECC 10:5 *fejltagelse*
+  - answers: fejltagelse
+  - Eccl 5:5; 10:5 (in the Law: 'af vanvare').
+  - agent:ecc010, 2026-10-29
+- **`term:bore_ecc`** בּוֹרְאֶיךָ → **din skaber** [high, decided, attested]
+  - gloss: בָּרָא: בּ֣וֹרְאֶ֔י (ECC 12:1) — English (generated): your Creator
+  - NT: ECC 12:1 *skaber*
+  - answers: din, skaber
+  - Participle of bara as a title of God; lower case 'skaber'.
+  - agent:ecc012, 2026-10-29
+- **`term:shir_hashirim`** שִׁיר הַשִּׁירִים → **Sangenes sang** [high, decided, attested]
+  - gloss: שִׁיר: שִׁ֥יר (SNG 1:1) — English (generated): Song
+  - NT: SNG 1:1 *Sangenes*
+  - answers: Sangenes, sang
+  - Book title: Højsangen (traditional Danish).
+  - agent:sng001, 2026-10-29
+- **`term:dodi`** דּוֹדִי → **min elskede** [high, decided, attested]
+  - gloss: דּוֹד: דּוֹדִ (SNG 1:13) — English (generated): My beloved
+  - NT: SNG 1:13 *elskede*
+  - answers: min, elskede
+  - The bride's word for the groom throughout the Song; plural dodim = elskov (Prov 7:18).
+  - agent:sng001, 2026-10-29
+- **`term:rayati`** רַעְיָתִי → **min veninde** [high, decided, attested]
+  - gloss: רַעְיָה: רַעְיָתִֽ (SNG 1:9) — English (generated): my darling
+  - NT: SNG 1:9 *veninde*
+  - answers: min, veninde
+  - The groom's word for the bride throughout the Song.
+  - agent:sng001, 2026-10-29
+- **`term:benot_yerushalayim`** בְּנוֹת יְרוּשָׁלִַם → **Jerusalems døtre** [high, decided, attested]
+  - gloss: בַּת: בְּנ֖וֹת (SNG 1:5) — English (generated): O daughters
+  - NT: SNG 1:5 *døtre*
+  - answers: Jerusalems, døtre
+  - Address in the Song (1:5; 2:7; 3:5; 5:8.16; 8:4).
+  - agent:sng001, 2026-10-29
+- **`term:yonati_tammati`** יוֹנָתִי תַמָּתִי → **min due, min fuldkomne** [high, decided, attested]
+  - gloss: תָּם: תַמָּתִ֔ (SNG 5:2) — English (generated): my flawless one
+  - NT: SNG 5:2 *fuldkomne*
+  - answers: min, due,, min, fuldkomne
+  - 5:2; 6:9 (yonati 2:14 'min due').
+  - agent:sng005, 2026-10-29
+- **`term:reai`** רֵעִי → **min ven** [high, decided, attested]
+  - gloss: רֵעַ: רֵעִ֔ (SNG 5:16) — English (generated): is my friend
+  - NT: SNG 5:16 *ven*
+  - answers: min, ven
+  - The bride of the groom, beside dodi 'min elskede'; re'im (5:1) = venner.
+  - agent:sng005, 2026-10-29
+<!-- store:end sha=a0ab8275 -->

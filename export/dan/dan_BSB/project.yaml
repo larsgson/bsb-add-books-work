@@ -15,6 +15,7 @@ school_language: Danish        # the team's working language: wiki, store notes,
 # style corpus and nt_basis (critical).
 based_on: den-frie-bibel
 style_from: [den-frie-bibel]
+book_order: protestant               # the reading order: Genesis … Malachi, as Den Frie Bibel (docs/configuration.md)
 
 # Books to keep from the drafting agents (added to the editions' quarantine).
 quarantine: []

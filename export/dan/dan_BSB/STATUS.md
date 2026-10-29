@@ -1,6 +1,6 @@
 # Status: Danish (dansk)
 
-255 chapters: **255 draft**, 0 in review, 0 published.
+269 chapters: **269 draft**, 0 in review, 0 published.
 
 > **Udkast.** Oversat med AI-agenter direkte fra hebraisk og græsk, med Berean Standard Bible (BSB) som eneste hjælpeoversættelse; endnu ikke gennemset eller godkendt af et sprogteam. Ikke til brug som udgivet bibeltekst. Fri af ophavsret (CC0).
 
@@ -17,7 +17,8 @@
 | Nehemiah (`neh`) | 13 | draft: 1–13 | — |
 | Esther (`est`) | 10 | draft: 1–10 | — |
 | Proverbs (`pro`) | 30 | draft: 1–2, 4–31 | den-frie-bibel (public-domain) has chapters 3: ours continue it |
-| Ecclesiastes (`ecc`) | 4 | draft: 1–2, 4–5 | den-frie-bibel (public-domain) has chapters 3, 8: ours continue it |
+| Ecclesiastes (`ecc`) | 10 | draft: 1–2, 4–7, 9–12 | den-frie-bibel (public-domain) has chapters 3, 8: ours continue it |
+| Song of Songs (`sng`) | 8 | draft: 1–8 | — |
 | Daniel (`dan`) | 12 | draft: 1–12 | — |
 | Hosea (`hos`) | 14 | draft: 1–14 | — |
 | Joel (`jol`) | 3 | draft: 1–2, 4 | den-frie-bibel (public-domain) has chapters 3: ours continue it |
