@@ -1,6 +1,6 @@
 ---
 title: Gudsnavne
-entries: [term:H3068, term:H430, term:yhwh_elohim, term:adonai_yhwh, term:adonai, term:H7706, term:el_elyon, gap:el_olam, term:tsebaot, term:malak_yhwh, term:god_of_israel, term:elah_shemayya, divine_name_caps, possessive_1pl, name:shaddai_dfb]
+entries: [term:H3068, term:H430, term:yhwh_elohim, term:adonai_yhwh, term:adonai, term:H7706, term:el_elyon, term:el_olam, gap:el_olam, term:tsebaot, term:malak_yhwh, term:god_of_israel, term:elah_shemayya, term:illaya, term:atiq_yomin, term:bar_enash, divine_name_caps, possessive_1pl, name:shaddai_dfb]
 ---
 # Gudsnavne
 
@@ -54,12 +54,26 @@ udgivne 1 Mos 17,1 translittererer: »Jeg er El Shadaj!«. Spørgsmål til redak
   - NT: GEN 21:33
   - answers: eternal god, everlasting god
   - agent:memory-setup, 2026-10-14
+- **`term:illaya`** עִלָּיָא / עֶלְיוֹנִין (aram.) → **den Højeste** [high, decided, attested]
+  - NT: DAN 4:14 *den Højeste*; DAN 4:21 *den Højeste*; DAN 4:22 *den Højeste*
+  - answers: most high
+  - Dan 4-7. 'den højeste Gud' for *ʔĕlāhāʔ ʕillāyāʔ* (3,26; jf. Mark 5,7).
+  - agent:memory-setup, 2026-10-14
+- **`term:atiq_yomin`** עַתִּיק יוֹמִין (aram.) → **den Gamle af dage** [high, decided, attested]
+  - NT: DAN 7:9 *den Gamle af dage*; DAN 7:13 *den Gamle af dage*; DAN 7:22 *den Gamle af dage*
+  - answers: ancient of days
+  - agent:memory-setup, 2026-10-14
+- **`term:bar_enash`** כְּבַר אֱנָשׁ (Dan 7,13) → **en som en menneskesøn** [medium, decided, attested]
+  - NT: DAN 7:13 *en som en menneskesøn*
+  - answers: son of man
+  - Lille m (sammenligning, ikke titel); 'med himlens skyer' (= Mark 14,62). Stort M er åbent (dan007 spm. 3).
+  - agent:memory-setup, 2026-10-14
 - **`divine_name_caps`** **YHWH skrives HERREN med versaler (genitiv HERRENS); Adonaj = Herren med lille** [high, observed]
-  - NT: 1KI 1:17 *HERREN *; 1KI 1:29 *HERREN *
+  - NT: 1KI 1:17 *HERREN *; 1KI 1:29 *HERREN *; DAN 9:2 *HERRENS *
   - DFB: HERREN 3.005× i 2.584 vers; udkastene 288×. Projektregel i project.yaml.
   - agent:memory-setup, 2026-10-14
 - **`possessive_1pl`** **1. person flertal: »vores« foretrækkes for »vor« (DFB 504 mod 71; 'vores Gud' 68 mod 32); projektet har afgjort »HERREN vores Gud«** [high, decided]
-  - NT: 1KI 8:57 *HERREN vores Gud*; 1KI 8:59 *HERREN vores Gud*
+  - NT: 1KI 8:57 *HERREN vores Gud*; 1KI 8:59 *HERREN vores Gud*; DAN 9:10 *HERREN vores Gud*
   - Jos-oversigten: 'HERREN vor Guds' → 'HERREN vores Guds' i begge spor. 'vor' står fast i Kristi navn og i 5 Mos 6,4 ('HERREN vor Gud').
   - agent:memory-setup, 2026-10-14
 - **`name:shaddai_dfb`** שַׁדַּי (1 Mos 17,1, DFB) → **El Shadaj** [medium, open, attested]
@@ -67,4 +81,4 @@ udgivne 1 Mos 17,1 translittererer: »Jeg er El Shadaj!«. Spørgsmål til redak
   - answers: god almighty
   - DFB's 1 Mos 17,1 translittererer; projektet bruger 'Gud den Almægtige' (term:H7706). Spørgsmål til redaktionen.
   - agent:memory-setup, 2026-10-14
-<!-- store:end sha=44e86132 -->
+<!-- store:end sha=38e402a0 -->

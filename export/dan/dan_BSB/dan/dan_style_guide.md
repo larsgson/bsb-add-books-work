@@ -1,6 +1,6 @@
 # Daniels Bog – arbejdsstilark for udkastene (`export/dan/dan_BSB/dan/danNNN.txt`)
 
-Stand: 09.10.2026. Afledt af `export/dan/dan_BSB/gen/gen_style_guide.md` og `export/dan/dan_BSB/jos/jos_style_guide.md`; alle generelle regler derfra gælder (kun BSB som hjælp, husstil fra `import/CC0/dan/den-frie-bibel/text/`, inline-noter med samme tæthed, translitteration ʔ ʕ ᵊ, »v. 12« i noter).
+Stand: 09.10.2026. Afledt af `export/dan/dan_BSB/gen/gen_style_guide.md` og `export/dan/dan_BSB/jos/jos_style_guide.md`; alle generelle regler derfra gælder (kun BSB som hjælp, ingen SVK, husstil fra `import/CC0/dan/den-frie-bibel/text/`, inline-noter med samme tæthed, translitteration ʔ ʕ ᵊ, »v. 12« i noter).
 
 ## Grundtekst: hebraisk OG aramæisk
 
@@ -41,7 +41,7 @@ Rækkefølge: husform i `import/CC0/dan/den-frie-bibel/text/` → tidligere Dani
 |---|---|---|
 | נְבוּכַדְנֶאצַּר | Nebukadnesar | `import/CC0/dan/den-frie-bibel/text/` (29×) |
 | בֵּלְשַׁאצַּר (kongen) / בֵּלְטְשַׁאצַּר (Daniel) | Belshassar / Beltshassar (kontrollér husform) | regel |
-| דָּרְיָוֶשׁ, כּוֹרֶשׁ | Darius, Kyros | `import/CC0/dan/den-frie-bibel/text/` |
+| דָּרְיָוֶשׁ, כּוֹרֶשׁ | Dareios, Kyros | `import/CC0/dan/den-frie-bibel/text/` |
 | דָּנִיֵּאל, חֲנַנְיָה, מִישָׁאֵל, עֲזַרְיָה | Daniel, Hananja, Mishael, Azarja | `import/CC0/dan/den-frie-bibel/text/` |
 | שַׁדְרַךְ, מֵישַׁךְ, עֲבֵד נְגוֹ | Shadrak, Meshak, Abed-Nego | regel |
 | גַּבְרִיאֵל, מִיכָאֵל | Gabriel, Mikael | `import/CC0/dan/den-frie-bibel/text/` |

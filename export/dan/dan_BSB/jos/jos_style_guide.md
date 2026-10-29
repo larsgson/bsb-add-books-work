@@ -14,7 +14,7 @@ Hjælpeteksten (BSB) bruges kun til at afgøre valg hvor hebraisken tillader mer
 
 ```
 !!<Modenhed: Udkast>!!
-!!<Oversættelse: Maskinudkast fra grundteksten (orig/heb/josNNN.txt), sammenholdt med Berean Standard Bible>!!
+!!<Oversættelse: Maskinudkast fra grundteksten (orig/heb/josNNN.txt), sammenholdt med Svenska Kärnbibeln>!!   ← eller: Berean Standard Bible
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Endnu ikke sket>!!
 !!<Dato for denne version: 17.08.2026>!!
@@ -117,7 +117,7 @@ Den fulde eksegetiske gennemgang lægges i `josNNN_notes.md`; inline-noterne ska
 
 ## Notes-filen (`josNNN_notes.md`)
 
-Skabelon:
+Skabelon (de ældre `jos0NN_notes.md` sammenligner også med et `_svk`-spor, som ikke findes her):
 
 1. Hvad udkastene er (1-2 linjer)
 2. Tabel: *Vers · Hebraisk · Dansk · BSB · Kommentar*

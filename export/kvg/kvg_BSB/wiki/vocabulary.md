@@ -1,0 +1,3389 @@
+---
+title: Vocabulary
+entries: [term:*, loanwords]
+---
+# Vocabulary
+
+Words for drafting the OT, by domain, from the human Ruth and Jonah (2015) and the NT. Each
+item gives the verse to copy the form from; the store entries below hold the decisions (a
+`.h` entry is the human form that replaced our NT-only choice). The first version of this
+page was the Ruth 1 agent's NT-only list; its wrong items are corrected here and marked
+"(ours was ...)".
+
+## Kin and family
+
+- husband: anganeam (RUT 1:12, 1:21, 3:1), also zivis (1:5); your husband: qævis (2:11),
+  qøivis-pakha (3:12); your husbands: zøivis-pakha (1:8). wife: zas (1:1); "my wife" = nogu
+  sævam (4:10).
+- mother-in-law: zakhapuka-pakha (her, 1:14), qakhapuka-pakha (your, 2:11);
+  daughter-in-law: ziwap-pakha (1:22), pl ziupim-pakha-za (1:6); sister-in-law: "qakhapikia-
+  pakha-gu zas" (your brother-in-law's wife, 1:15); son: yo-pakha (4:5), yo (JON 1:1 "Amitai-ge
+  yo"); parents: evøndipakha (NT), "zøvøndipakha" (your, 1:8 for "your mother's home").
+  Possessed kin nouns take **-pakha** in the OT (feature kin_pakha).
+- "my daughter" (address): **Sǽ-pakha.**, pl "Nogí sæ-pakha-za." (ours was Ngólam).
+- child, baby: nakhasam (4:16); baby boy: "nakhasam anganeam" (4:13, 4:17); children: nakheis;
+  sons: nakhei angana (1:1); grandson: qazeo (4:14-15); descendants: nakheis (4:12); line,
+  house of X: "X-gi zi" (4:12, NT Luk 1:33).
+- relative: ekeza ezoqam (2:1, 2:20, 4:1); clan: "khagua bawan" (1:2); people, tribe: bawan
+  ("Izlael bawan", 4:11); one's own people: "qogi ezoqam" (1:16) (ours was bawan ezoqam).
+- women: sakheis; widow: ngæmam (4:10), as widows: ngængæm (1:13); men: angana; young men:
+  "angana ndakinak" (3:10) (ours was ezoqa ndakinak); young woman: mbasønakam (2:5); servant
+  girls: "sasae mbasønakheis" (2:8).
+
+## Marriage and birth
+
+- a man marries: "sævam ndø-okɨ́" (NT), pl "sakheis ndøzøkɨ́m" (1:4); "Lut vø̄-okɨ" (4:13);
+  "Malon gu-okɨam" (Mahlon had married her, 4:10); "let him marry you" beqakɨ́, "I will marry
+  you" ndæ̀qakɨ́ (3:13).
+- had relations: "venanqei nonqo vø̄tøkuanem" (4:13); conceived: "kha viniv vø̄ndap" (4:13)
+  (ours was emu é-møndæ-itán); gave birth: "nakhasam anganeám gundaf, gui-ova" (4:13);
+  named him: "iz Obed mbo-akhaém" (4:17); father of: gemanaz (4:18-22).
+- kiss, embrace: sège-møvøiú (1:14), sègegavém (held them, 1:9); hold a child close:
+  vø̄ngenøtam (4:16) (ours was ava "lap": ava is a bag); said goodbye: "ouo manqat vømbō-ein"
+  (1:14).
+
+## Death, life, feeling
+
+- die: gènaním (1:3), vø̄pakhaez (they, 1:5), perish: zípakhaenák (we, JON 1:6); be buried:
+  tǽ-otambát (I will be, 1:17); death: løvøte; the dead: løvøte ezoqam, the living: khandi
+  ezoqam (2:20); life: khandi (JON 2:7, 4:3); a good life: "yage eqeieqei" (1:9).
+- bitter (of life): "Noqa yage mø̀ndøsoqá" (1:13), "Yage soqaín" (1:20) (ours was khaqain);
+  strike, ruin, destroy: ngi ("Yawe gènøngiú", 1:13; "Mbumbukiam géngiú", JON 3:4).
+- glad: khanakhanakh ("khanakhanakh gendap", 3:7); angry: qaqa (JON 4:4, 4:9); upset:
+  "mbøni nqosøg" (JON 4:1, 4:10); afraid: "møe ... go" (JON 1:10); startled, stirred: "nqova
+  mbondáf / zøndáf" (3:8, 1:19).
+- kindness, love: "matev mbomømboma" (good deeds, 1:8, 3:10), kuku matev (God's love, JON 2:9,
+  4:2); pity, favour: tanakh (2:2, 2:10, JON 4:2); bless: "zenda ndò꞉vé <X>-te" (2:4, 2:19, 2:20,
+  4:11) (ours was khakheinøv, which in the OT means make, prepare).
+
+## Food and the meal
+
+- food, bread: lou ("Lou qólóg", have some bread, 2:14); eat: log ("lou gumulog", 3:7); drink:
+  iz ("ibøkha vø̀mø-íz", 2:9); thirsty: "ibøkha naq" (2:9); sauce: yaf (2:14) (ours was waen
+  khaqain-qape); dip: afan ("voqotú-afanām", 2:14); filled: "qambo-ewez" (2:14); kept back:
+  zivaz ("sègeziváz", 2:14); mealtime: "lou loge khøuwa" (2:14), noon: "khøuwa muin".
+- fast: "lou logemav matev" (JON 3:5); famine: "vikia sekeqape ndømát" (1:1), "lou mbaín" (no
+  food, 1:1).
+
+## Harvest, gleaning, threshing
+
+- field: khae (2:2); barley: bali, barley grain: "bali nanga" (2:17), wheat: wit (2:23);
+  harvest (season): "bali vingisam viav" (1:22) (ours was avøe gigiap); reap: qogav
+  ("gi꞉qogavat", 2:3); harvesters, workers: "sasae ezoqam" (2:3); the foreman: "ezoqam, sasae
+  ezoqa gezø-kewagat" (2:5).
+- glean: "bali khakhayakh ... pisam / pisum" (2:2, 2:3, 2:7, 2:17) (ours was bali nanga
+  vingisam); sheaves: "bali løvøtap" (being tied, ab: 2:15, 2:16); pull out: "zó-ovobém" (2:16).
+- beat out: "tag gukoqogimat" (2:17); winnow: evem ("bali nanga ndø̀-evemét", 3:2); threshing
+  floor: "bali nanga tøkuza manqei" (3:2, 3:3, 3:6, 3:14) (ours was bali evem nonqo); heap
+  of grain: "bali nanga møvøza" (3:7); roasted grain: "bali lonqotøvap" (2:14).
+- measures: in kilograms ("Ande āv 10 kilogrém ndægó", 2:17; "20 kilogrém", 3:15) (ours was
+  yakhav); a bag: ava (2:17, JON 1:7); pour out grain: qoutaz (3:15).
+
+## Clothes, washing, night
+
+- cloth, clothes: ndabua; your other cloth (the shawl): "Qakeza ndabua nøme" (3:15); a covering
+  cloth, blanket: "ndabua khafuvam nonqo" (3:4, 3:7, 3:9); cover: khafu ("no qonǿkhafuí", 3:9);
+  wash: "Vø̀khæ-khakuám" (3:3) (ours was sunguz); perfume: "Tae et sisip mbomambaqape" (3:3);
+  put on: uz (3:3, JON 3:5); fine clothes: "ndabua mbomømboma" (JON 3:6); sackcloth: "ndabua
+  soqøsoqa" (JON 3:5-8).
+- lie down: **buv** ("sasa qóbūv", 3:4; "segebúv", 3:7; "gubuvam", 3:8) (ours was sømbi); sleep:
+  "venanqei buv" (3:7, JON 1:6); wake: suzam ("tènesuzám", 3:8; "Mòqosuzám" get up!, JON 1:6);
+  tonight: "nqægo lova" (3:2); midnight: "lova u mbá" (3:8); quietly: "aiyav-tē" (3:7); before
+  it was light: "agé paveateáv" (3:14); early morning: "qanaqanus lovalova-us" (JON 4:7).
+
+## Town, law and redemption
+
+- town: vemiav (Betliem) or taon (Niniva); the gate: "vemiav mboqog tambav" (4:1), the place
+  "angana ma manqat gi꞉vøovumam" (where men discuss matters); elders: "vemiav megetapak" (4:2);
+  judges: "manqa ovøyam megetapak" (1:1); the law of Moses: "Mozes-qa guguna manqat" (2:20).
+- buy: wi ("Manqei ndæ̀wí", 4:4; "Qo qakeza ndøwí", 4:8); for sale: "wi-qa ndøgó" (4:3); the
+  family land: "teqa manqei" (4:3); witnesses: "mòzoqeivím" (you have seen, 4:9-10), "Ni
+  mø̀iqeivím" (4:11); sandal: tamak (4:7-8); custom: matev ("Nqanek Izlael ezoqam-qá matév", 4:7).
+- the kinsman-redeemer: "Elimelek-ge ekeza ezoqam" (Elimelech's relative) — never nqovotaz in
+  Ruth (ours was nqovotaz); to redeem land = wi; to redeem the widow = okɨ.
+
+> **Question for the Kuni team:** Ruth avoids nqovotaz (the NT's "redeem, set free"). For God
+> as redeemer (Exodus 6:6, Isaiah 43, Psalm 19:14) and for redeeming the firstborn (Exodus 13),
+> is nqovotaz right, or a phrase with wi (buy)?
+
+## Sea, ship and storm (Jonah)
+
+- ship: "palai khagua" (JON 1:3-6; NT khagua boat); sailors: "ezoqam, khagua-te gu꞉sasaetam"
+  (the men who worked on the ship, 1:5, 1:7); captain: "ndego palai khagua gembo-kewagam" (1:6);
+  pay the fare, board, sail: "fia vø̄go, vø̄uketao, sasa ndøteit" (1:3); cargo thrown: "gigiap
+  ... gènqagemém" (1:5).
+- sea: ibøkha (water: thrown into the sea, 1:12, 1:15), ndaola (the sea as made, 1:9; NT 37×);
+  the deep: "anana-mba-qape" (2:4); waves: "khamøe makhamakha" (2:4); seaweed: kik (2:6); dry
+  land: "manqei-qape" (1:9), shore: ndøgeg (2:11).
+- wind: khamøe; storm: "khamøe-qape" (1:4, 1:12); the sea grows worse: "khamøe sà tønø-fitumát"
+  (1:11, 1:13); grows calm: "khamøe sègevøitáv" (1:15); east wind: "khamøe tatas-qape" (hot
+  wind, 4:8).
+- lots: "Iziz zípeawám, pepa-qasis-te ... ava-té qazinǿ-nqeitøvém ... zíqeivím" (write the names
+  on little papers, put them in a bag, see; 1:7); the lot fell on Jonah: "Ziona-qá iz ndølivím".
+- fault, blame: manqa-zapa ("noqá manqa-zapá", 1:12); innocent: "manqa-zapa mbain ezoqam" (1:14).
+- the fish: "zongøyam-qape" (2:1, 2:11; NT zonga fish); its belly: "zongøyam-qa emu mokho-te";
+  swallow: khoutav (2:1); vomit: qozao (2:11); appoint, send: khofotav ("ndokhofotáv", 2:1,
+  4:6-8).
+
+## Worship, Nineveh, repentance (Jonah)
+
+- pray: guligulim (JON 4:2), call to: akha ("Evezøza-té genø-akhá", 2:2), prayer: viam (2:8,
+  3:8); worship: vizap ("nombovizáp", 1:9); vow: "manqa mbusa" (1:16, 2:10); sacrifice:
+  "søvakha gigiap ndølaém, Evezøza-te sasa ndøtaem" (1:16); temple: "khoev mbomambaqape" (2:5);
+  idols: "khokho mbumbuk" (2:9); salvation: "khandi etoam matev" (2:10); Sheol: "løvøte
+  avønin-te" (near death, 2:3).
+- Nineveh: "Niniva taon kandambaqape" (the great city); king: kawa (3:6); nobles: vesøtapak
+  (3:7); throne: "qonam nonqo" (3:6); ashes: pakhakh (3:6); mourning clay: "mutøkhop vø̄wanim"
+  (3:5, added); animals (herds, flocks, cattle): "søvakha gigiap" (3:7, 4:11).
+- preach, warn: zømas ("Qomézømás", 1:2); believe: unimanqatin (3:5); evil: "soqa matev" (1:2),
+  "matev soqøsoqa" (3:8); sins, violence: manqa-zapazapa (3:8, 3:10); turn, repent: qambuz
+  ("Zóqambúz te-te", 3:8); change one's ways: "matev ... enend" (3:10); God relents: "matavap
+  ... enend" (3:9, 4:2); destroy: ngi ("ngi꞉wateáv" did not destroy, 3:10).
+- the plant: gumbag (4:6-10); the worm: oiyam (4:7); shade: guzuguzu (4:5-6); shelter, booth:
+  "khoev-qase" (4:5; RUT 2:7); east: "Khøuwa fakhanám" (where the sun comes up, 4:5); sun:
+  khøuwa (4:8); wither: pakha ("gumbag vø̄pakha", 4:7).
+
+> **Question for the Kuni team:** Is gumbag (JON 4:6) a real local plant, and is it the one you
+> would use for other climbing or shade plants (e.g. the vine in Isaiah 5)?
+
+## Confirmed by Ruth and Jonah
+
+These NT-based choices of the first agents occur as such in the human text: Mbumbukiam
+(JON 1:6), mbumbuk (RUT 1:15), "Mbumbukiam Bazaføgakh-Qape" (RUT 1:20), vikia seke (RUT 1:1),
+manqei, vemiav, zas, zivis (1:5), ngæmam (4:10), zakhapuka, ziwap, nakhei angana, lou, bali,
+wit, nanim, ewag, qavan, viav, sasae ezoqam, mbasønakam, ekeza ezoqam, "manqei vini-ák" (2:10),
+qanaqanus, khagus (2:17), navøem, løvua (2:9, 2:15), "ibøkha naq" (2:9), khanaz (2:10), evem
+(3:2), "Tae et sisip mbomambaqape" (3:3), ndabua, "nqægo lova", poev (3:13), "mø̀ndæzøtéz"
+(3:11), "khanakhanakh ... dap" (3:7), "pusa gétayák" (3:18), "Qanøqóm" (4:1), yaq-fia (2:12),
+tamak (4:7), wi (4:4), "teqa manqei" (4:3), "Khanánqa" (2:13), "Qotøndéqāv" (2:14), "møe
+ndø̀go᷄" (3:11), "atema qanaqanús" (3:13), "ezoqa nøme ndêgó" (3:12), "iz Obed mbo-akhaém"
+(4:17), vis (go down, JON 1:3), "nø-etoám" (gave me, RUT 3:17), "ma ge꞉qambun" (turned over, 3:8),
+"ma gi꞉yagam" (where they lived, 1:7).
+
+## Creation: sky, waters, plants, animals (Genesis 1)
+
+- **Sky and heaven.** yan = heaven, and the pair "yan neka manqei-qape" is the heavens and the
+  earth (Act 4:24, Rev 14:7). khaiya is the visible sky where the stars are and the weather is
+  seen (Heb 11:12, Mat 16:2-3); the draft uses it for the expanse (רָקִיעַ), which God then
+  names "Yan" (Gen 1:8). Lights and birds are "khaiya-te".
+- **Waters.** ibøkha = water; the sea as created = ndaola (Jon 1:9); the deep =
+  anana-mba-qape (Jon 2:4); dry land = manqei-qape (Jon 1:9).
+- **Plants.** gagayag (grass, plants of the field, Mat 6:30), avøe gigiap (crops, Jas 5:7),
+  tae (tree), nanga (fruit, seed), tae nanga (seed to sow, 1Co 15:36), 'bear fruit' = "nanga
+  ndǿviam" (Jas 3:12).
+- **Animals**, from the three lists in Act 10:12, 11:6 and Jas 3:7: søvakha gigiap (animals),
+  nanák (tame: livestock), lozokhák (wild beasts), ndivisigiap (the ones that crawl),
+  ndiløvuvam / pipisi (the ones that fly, birds), "ibøkha-te ndi-okho" (those that go in the
+  water). 'of every kind' = "bugug vinivinimbá" (Act 10:12). A living creature = khandi gigiap
+  (Rev 6:3).
+- **Image.** "andé <X> bugug me" (like X's face/form), after 2Co 4:4 and Col 1:15 (Christ, the
+  image of God).
+
+## Core NT vocabulary for the OT (From the study runs on the NT (2026-10-15, checked by agent:curation-study))
+
+The study runs collected the NT's everyday and religious words; each is a `term:` entry below
+with its count. Main groups: people (ezoqam, sævam, tat, yo, yu, nøfu), religion (iziz ezoqam
+priest, lou-qase altar, mbomambaqape holy, manqa-zapazapa sin, tanakh mercy, kuku love, sambi
+peace, poev covenant), nature (ibøkha water, gøinam fire, tae tree, poyat mountain, kea river,
+kewan lake, Leg-av manqei wilderness), animals and goods (sip, kao, naningus, waen, gol, moni).
+Introduced things are often English loans (`loanwords`: moni, gol, waen, sip, mbuk, pepa,
+flawa). Notes:
+- **holy** is mbomambaqape; ndaføyamba-qape goes with righteous (term:H6662), not holy.
+- **altar** is lou-qase (ACT 17:23); "søvakha -qase" is not attested.
+- **idol** is khape mbumbuk in the NT; Jonah's "worthless idols" khokho mbumbuk (questions page).
+  The team decided: idols = **khape mbumbuk** (T6, term:H6456.team).
+- **love/grace and mercy** (the team, T7): love/grace = **kuku (matev)**, so God's חֶסֶד is kuku matev
+  (term:H2617.team); mercy = **tanakh** (term:H7355.team).
+- **sword** kaiya (k) is not khaiya (expanse, kh).
+
+## Genesis 1–30 (the team, 15.10.2026)
+
+Genesis corrected about forty terms; they are on [Genesis 1–30](genesis.md) with the
+reasons (heavens khaiya / heaven yan, daylight paveat, good qanimáv, bless khakheinøqav-,
+offspring -zi, brother eveqase, father eve, love poev, silver silva, wages yaq-fia, birthright
+"yo-khøuwa touzu iz", firstborn yo-khøuwa, create khakhein-). The terms the Jacob and Joseph
+chapters need are on [looking ahead](genesis-31-50.md). Where an entry below has a `.g`
+successor, the successor is the one the verse packs use.
+
+## Store entries
+
+<!-- store:begin (generated by scripts/wiki.py sync from profile/; change the store, not this block) -->
+- **`loanwords`** **introduced objects and institutions are English/Tok Pisin loans spelled by Kuni letters: moni 'money/silver', gol 'gold', waen 'wine', wit 'wheat', bali 'barley', flawa 'flour/bread', sip 'sheep', mbuk 'book/scroll', pepa 'letter', taon 'town'** [high, observed]
+  - NT: 1TI 5:23 *waen*; 1CO 5:7 *sip*; 1CO 5:9 *pepa*; 2TI 4:13 *mbuk*
+  - Checked: sheep sip (82 of 85 verses), wine waen (29 of 34), gold gol (18 of 24), silver/money moni (46 of 56), book/scroll mbuk (25 of 41), letter pepa (25 of 29), bread flawa (39 of 75; lou is the general food word), city taon. Ruth adds kilogrém (gap:ephah.h). A new OT object without a native NT word may take an English loan: ask the team (gaps).
+  - agent:curation-study, 2026-10-15
+- **`term:village`** town/village (Bethlehem) → **vemiav** [high, decided, attested]
+  - gloss: עִיר: עִיר֙ (RUT 1:19) — English (generated): town
+  - NT: LUK 2:4; MRK 1:33
+  - agent:rut001, 2026-10-14
+- **`term:H1323pl`** H1323 (daughters) → **nakhei mbasi** [high, decided, attested]
+  - gloss: בַּת: בְנֹתַ֔ (RUT 1:11) — English (generated): my daughters
+  - NT: 2CO 6:18; 1PE 3:6
+  - agent:rut001, 2026-10-14
+- **`term:H3947w`** H3947 (take a wife) → **sævam ndø-okɨ́** [high, decided, attested]
+  - gloss: לָקַח: יִּקַּ֞ח (RUT 4:2) — English (generated): Then Boaz took
+  - NT: MRK 12:20
+  - he married; no plural of okɨ attested, so one clause per son
+  - agent:rut001, 2026-10-14
+- **`term:H6293`** H6293 (urge, press) → **pouwe** [medium, decided, attested]
+  - gloss: פָּגַע: תִּפְגְּעִי (RUT 1:16) — English (generated): urge
+  - NT: LUK 15:28; ACT 21:14 *pouweáv*
+  - agent:rut001, 2026-10-14
+- **`term:H3427`** H3427 (settle, dwell) → **vømø̄qom** [high, decided, attested]
+  - gloss: יָשַׁב: יֵּ֥שְׁבוּ (RUT 1:4) — English (generated): And after they had lived
+  - NT: ACT 7:4; ACT 7:15
+  - agent:rut001, 2026-10-14
+- **`term:H7114`** H7114 (reap; harvesters) → **sasae ezoqam** [medium, decided, attested]
+  - gloss: קָצַר: קֹּצְרִ֑ים (RUT 2:3) — English (generated): the harvesters
+  - NT: MAT 13:30; LUK 10:2; JAS 5:4
+  - harvesters = workers (221x sasae ezoqam); also servant
+  - agent:rut002, 2026-10-14
+- **`term:H113`** H113 (my lord, vocative to a man) → **Khanánqa** [high, decided, attested]
+  - gloss: אָדוֹן: אֲדֹנִ (RUT 2:13) — English (generated): My lord
+  - NT: JHN 4:11; JHN 4:19; JHN 9:36
+  - Sir (19x)
+  - agent:rut002, 2026-10-14
+- **`term:H5237`** H5237 (foreigner) → **manqei vini-ak** [high, decided, attested]
+  - gloss: נׇכְרִי: נָכְרִיָּֽה (RUT 2:10) — English (generated): a foreigner
+  - NT: MAT 25:35; 1PE 1:17
+  - 'I am a foreigner' = No manqei vini-ák
+  - agent:rut002, 2026-10-14
+- **`term:H1350.tone`** H1350 (redeem; kinsman-redeemer) → **nqovotáz** [low, open, attested]
+  - gloss: גָּאַל: גֹּאֲלֵ֖ (RUT 2:20) — English (generated): kinsman redeemers
+  - NT: ACT 7:34 *nónqovotáz*; MAT 20:28 *tèabete-nqovotáz*; ACT 7:35 *vǿnqovotāz*; LUK 1:68 *génqovotán*
+  - redeem, set free; no noun for the kinsman-redeemer, see gap:kinsman_redeemer | written nqovotáz (4x; nqovotāz 1x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21)
+  - agent:spelling-curation, 2026-10-21, supersedes `term:H1350`
+- **`term:H3615`** H3615 (finish, complete) → **navøem** [medium, decided, attested]
+  - gloss: כָּלָה: כִּלּ֔וּ (RUT 2:21) — English (generated): they have finished gathering
+  - NT: ACT 13:25 *qambøe-navøemtat*; REV 15:8 *bètøkhæ-navøém*; MAT 8:13 *tø̀mbøe-navøém*
+  - 'until they finish' = atema ... vømǿ-navøēm (after atema Evezøza vømǿfakhān, 1Co 4:5)
+  - agent:rut002, 2026-10-14
+- **`term:H6680`** H6680 (command, order) → **løvua** [high, decided, attested]
+  - gloss: צָוָה: צִוִּ֛יתִי (RUT 2:9) — English (generated): I have ordered
+  - NT: HEB 11:28 *manqa gezø-løvua*; 1TI 6:17 *manqat āv qazømbe-løvuá*; ACT 16:23 *manqa āv gimbøe-løvuaném nqǽgo*
+  - with manqa/manqat; the order follows as a quote (feature order_frame)
+  - agent:rut002, 2026-10-14
+- **`term:H3627`** H3627 (vessels, water jars) → **ibøkha ziøvem nonqo** [high, decided, attested]
+  - gloss: כְּלִי: כֵּלִ֔ים (RUT 2:9) — English (generated): the jars
+  - NT: JHN 2:6; JHN 2:7
+  - agent:rut002, 2026-10-14
+- **`term:H5060`** H5060 (touch) → **khanaz** [high, decided, attested]
+  - gloss: נָגַע: נָגְעֵ֑ (RUT 2:9) — English (generated): to touch you
+  - NT: JHN 20:17 *nøkhàna᷄z*; 2CO 6:17 *kha mbokhanø̀ze᷄m*; 1JN 5:18 *kha gembó-khanazák*
+  - with kha (body) as object; 'touch (her) not' (pl) = kha mbokhanø̀ze᷄m
+  - agent:rut002, 2026-10-14
+- **`term:H2219`** H2219 (winnow) → **evem** [medium, decided, attested]
+  - gloss: זָרָה: זֹרֶ֛ה (RUT 3:2) — English (generated): is winnowing
+  - NT: LUK 3:17 *ndǿ-evém*; MAT 3:12
+  - 'he will winnow the barley' = bali ndǿ-evém (Rut 3:2); winnower = wit nanga evem ezoqam (Luk 3:17)
+  - agent:rut003, 2026-10-14
+- **`term:H1245`** H1245 (seek, look for) → **vawa** [high, decided, attested]
+  - gloss: בָּקַשׁ: אֲבַקֶּשׁ (RUT 3:1) — English (generated): seek
+  - NT: ACT 11:25 *ndøvawát*; ACT 10:19 *ndøvawét*; 2CO 2:13 *nømbøe-vawám*
+  - look for someone; 'I want to seek a resting place for you' = No qo-te pusup manqei vawa-qa nombogó (after 'yoge-qa nombogó' I want to hear, Act 25:22; built)
+  - agent:rut003, 2026-10-14
+- **`term:H3045know`** H3045 (know; they know that) → **mø̀ndæzøtéz** [high, decided, attested]
+  - gloss: יָדַע: תִּוָּדְעִ֣י (RUT 3:3) — English (generated): know
+  - NT: 2CO 4:2; JHN 17:8; 1CO 2:11 *mè꞉-otevák*
+  - 'they know that ...' = ndigu mø̀ndæzøtéz, <content> (2Co 4:2); I know = mø̀tenøtén; 'no one will know' = Ezoqa mè꞉-otevák (1Co 2:11), used for 'do not let it be known' (Rut 3:3, 3:14); see gap:not_let_known
+  - agent:rut003, 2026-10-14
+- **`term:H3190heart`** H3190 (his heart was merry, in good spirits) → **khanakhanakh ndøndáp** [medium, decided, attested]
+  - gloss: יָטַב: יִּיטַ֣ב (RUT 3:7) — English (generated): and was in good spirits
+  - NT: ACT 12:14; ACT 2:26 *no khanakhanákh*
+  - 'became glad' (Act 12:14); 'my heart is glad' = noqa mbøni mokho-te, no khanakhanákh (Act 2:26)
+  - agent:rut003, 2026-10-14
+- **`term:H8179`** H8179 (כָּל־שַׁעַר עַמִּי, all my fellow townspeople) → **nogi vemiav-ak ezoqa ewaqape** [medium, decided, by-rule]
+  - gloss: שַׁעַר: שַׁ֣עַר (RUT 3:11)
+  - NT: MRK 1:33 *vemiav-ak ezoqa ewaqape*
+  - 'all the people of my village' (the whole town, Mrk 1:33) with nogi (my, plural persons)
+  - agent:rut003, 2026-10-14
+- **`term:H7069`** H7069 (buy, acquire) → **wi** [high, decided, attested]
+  - gloss: קָנָה: קְ֠נֵה (RUT 4:4) — English (generated): you may buy it back
+  - NT: LUK 14:18 *No manqei nowí*; ACT 1:18 *khae me꞉wiím*; ACT 5:1 *gèwí*
+  - the same stem buys and sells (Act 5:1, 4:37 sold; Luk 14:18 bought); 'I have bought' = nowí; 'you may buy' = qo kopømbaqapé, toqowi; 'about to sell' = wi-qa gugoám (built after ivav-qa gugoám, ch1)
+  - agent:rut004, 2026-10-14
+- **`term:H8179gate`** H8179 (city gate) → **vemiav mboqog-te** [medium, decided, by-rule]
+  - gloss: שַׁעַר: שַׁ֣עַר (RUT 3:11)
+  - NT: ACT 9:24 *taon mboqog-te*; ACT 14:13 *taon mboqog-té*; LUK 2:4 *vemiav*
+  - the NT has 'taon mboqog' (city gate); Bethlehem is a vemiav in this book, so 'vemiav mboqog'
+  - agent:rut004, 2026-10-14
+- **`term:H2029`** H2029 (conceive) → **emu é-møndæ-itán** [high, decided, attested]
+  - gloss: הָרָה: תַּ֨הַר֙ (GEN 4:1) — English (generated): and she conceived
+  - NT: MAT 1:18 *Meli emu é-møndæ-itán*; LUK 1:31 *emu qoté-itán*; LUK 1:36 *emu me꞉yǽt*
+  - 'the LORD enabled her to conceive' = Evezøza ndugu gumbo-tøke, yaq ndugu emu é-møndæ-itán (gumbo-tøke built)
+  - agent:rut004, 2026-10-14
+- **`term:H1323voc.h`** H1323 (my daughter, vocative) → **Sǽ-pakha** [high, decided, attested]
+  - gloss: בַּת: בִתִּֽ (RUT 2:2) — English (generated): my daughter
+  - NT: RUT 2:2 *Sǽ-pakha*; RUT 3:1 *Sǽ-pakha*; RUT 3:18 *Sǽ-pakha*; RUT 1:11 *Nogí sæ-pakha-za*
+  - answers: my daughter, my daughters
+  - Ours was Ngólam (the NT's 'Daughter' to the healed woman, Mrk 5:34), which Ruth/Jonah never use. The human says 'Sǽ-pakha.' 7× (sg) and 'Nogí sæ-pakha-za.' 2× (pl), the kin form with -pakha (feature kin_pakha). Naomi addresses her daughters-in-law as 'my daughters' with the same word.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H1323voc`
+- **`term:H7934.h`** H7934 (neighbour women) → **sakheis, ta vemiav-te ndøgo giyagam** [high, decided, attested]
+  - gloss: שָׁכֵן: שְּׁכֵנ֥וֹת (RUT 4:17) — English (generated): The neighbor
+  - NT: RUT 4:17
+  - answers: neighbor women, neighbours
+  - The women who lived in that town; ours was 'sakheis, ndigu <X> avønin gimbo-puatat'.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H7934`
+- **`term:H7453friend.h`** פְּלֹנִי אַלְמֹנִי (my friend, so-and-so, vocative) → **Khanánqa.** [high, decided, attested]
+  - gloss: פְּלֹנִי: פְּלֹנִ֣י (RUT 4:1) — English (generated): my friend
+  - NT: RUT 4:1 *Khanánqa. Qotøndéqā.*
+  - answers: my friend, friend
+  - Boaz calls the other relative 'Khanánqa.' (Sir, as 'my lord' H113 in 2:13). Ours was 'Nǿfu.' (brother).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H7453friend`
+- **`term:H5162.h`** H5162 (comfort) → **khanakhanakh kandambá** [medium, decided, attested]
+  - gloss: נָחַם: נִֽחַמְתָּ֔ (RUT 2:13) — English (generated): you have comforted
+  - NT: RUT 2:13
+  - answers: comforted, comfort, spoken kindly
+  - 'you have comforted me and spoken kindly' = 'I am very glad that you have said this to me'. Ours was kha føgakh (strengthen). For 'relent' (JON 3:9, 4:2) see term:H5162relent.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H5162`
+- **`term:H6485.h`** H6485 (visit, attend to) → **mø̀ndøzø-tøké** [high, decided, attested]
+  - gloss: פָּקַד: פָקַ֤ד (RUT 1:6) — English (generated): had attended to
+  - NT: RUT 1:6 *mø̀ndøzø-tøké*
+  - answers: attended to, visited
+  - See formula:the_lord_visited.h; ours was 'tøke-qa ndowáv'.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H6485`
+- **`term:H1616.h`** H1481 / H1616 (sojourn, reside as a foreigner) → **genøyág** [high, decided, attested]
+  - gloss: גּוּר: גוּר֙ (RUT 1:1) — English (generated): to reside
+  - NT: RUT 1:1 *Moab manqei-té genøyág*
+  - answers: reside, sojourn, went to reside, live
+  - 'went to reside in the land of Moab' = 'went to live in Moab' (yag, live). The foreigner status is not expressed. Ours was 'mo-manqei-aním mbá' (not of the land, Act 7:29).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H1616`
+- **`term:H2558.h`** H2558 (vinegar, sour wine sauce) → **yaf** [medium, decided, attested]
+  - gloss: חֹמֶץ: חֹ֑מֶץ (RUT 2:14) — English (generated): into the vinegar sauce
+  - NT: RUT 2:14 *lou yaf-te voqotú-afanām*
+  - answers: vinegar, vinegar sauce, sauce
+  - 'dip the bread in the yaf'; yaf is a local sauce or relish (only here). Ours was 'waen khaqain-qape' (sour wine, Jhn 19:29).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H2558`
+- **`term:H7364.h`** H7364 (wash oneself) → **Vø̀khæ-khakuám** [medium, decided, attested]
+  - gloss: רָחַץ: רָחַ֣צְתְּ (RUT 3:3) — English (generated): Therefore wash yourself
+  - NT: RUT 3:3 *Vø̀khæ-khakuám*
+  - answers: wash, wash yourself
+  - Ours was sunguz (Act 16:33). The human: 'Vø̀khæ-khakuám.' (wash your body).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H7364`
+- **`term:H7896.h`** H7896 (place on her) → **kawa-té gumbøezáv** [high, decided, attested]
+  - gloss: שִׁית: יָּ֣שֶׁת (RUT 3:15) — English (generated): and placed it
+  - NT: RUT 3:15
+  - answers: placed it on her, put it on her
+  - 'he put the barley on her head' (kawa head); the carrying is made concrete. Ours was 'nqanqa-té vø̄ve'.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H7896`
+- **`term:H8210.h`** H4058 / H8210 (measure out, pour) → **qoutaz** [medium, decided, attested]
+  - gloss: מָדַד: יָּ֤מָד (RUT 3:15) — English (generated): he poured in
+  - NT: RUT 3:15 *bali nanga vømbø̄e-qoutaz*; RUT 3:15 *Kopoáv gumbøeqoutaz*
+  - answers: poured, measured, pour
+  - Ours was qouz (Jhn 13:5, pour liquid); for grain the human has qoutaz.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H8210`
+- **`term:H6016.h`** H6016 / H6653 (sheaves, bundles) → **bali løvøtap** [medium, decided, attested]
+  - gloss: עֹמֶר: עֳמָרִ֛ים (RUT 2:15) — English (generated): the sheaves
+  - NT: RUT 2:15 *bali løvøtap ndi-abap*; RUT 2:16 *bali løvøtap ndi-abap ndigu*
+  - answers: sheaves, bundles, sheaf
+  - 'the barley stalks they are tying up' (løvøtap + ab tie); 'among the sheaves' in 2:7 is left out. Ours was 'bali møvøyam' (open).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H6016`
+- **`term:H6194.h`** H6194 (heap of grain) → **bali nanga møvøza** [high, decided, attested]
+  - gloss: עֲרֵמָה: עֲרֵמָ֑ה (RUT 3:7) — English (generated): of the heap of grain
+  - NT: RUT 3:7
+  - answers: heap of grain, end of the heap, heap
+  - 'he lay down beside the heap of grain'. Ours was 'bali nqeitam' (built).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H6194`
+- **`term:H374.h`** H374 (ephah) → **Ande āv 10 kilogrém ndægó** [high, decided, attested]
+  - gloss: אֵיפָה: אֵיפָ֥ה (RUT 2:17) — English (generated): about an ephah
+  - NT: RUT 2:17
+  - answers: ephah, about an ephah of barley
+  - The human gives the weight in kilograms ('it was about 10 kilograms'), after 'she put it all in a bag (ava-te)'. For OT dry and liquid measures convert to kilograms / litres in the text. Ours was yakhav (basket, Luk 16:6).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H374`
+- **`term:H5429.h`** H5429 (seah; 'six measures') → **Taqa viniv andé áv 20 kilogrém ndægó** [high, decided, attested]
+  - gloss: סְאָה: סְאִים֙ (GEN 18:6) — English (generated): seahs
+  - NT: RUT 3:15
+  - answers: six measures, measures
+  - 'its weight was about 20 kilograms' (viniv weight; BSB note 26 kg). Ours was 'bali yakhav siks'.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H5429`
+- **`term:H7901.h`** H7901 (lie down) → **buv** [high, decided, attested]
+  - gloss: שָׁכַב: שָׁכְב֗ (RUT 3:4) — English (generated): When he lies down
+  - NT: RUT 3:4 *Yaq ndego temøbuv*; RUT 3:4 *sasa qóbūv*; RUT 3:7 *segebúv*; RUT 3:8 *sævam gubuvam*
+  - answers: lie down, lies down, lay down, lying, lie
+  - Ours was 'sasa ndøsømbiam' (the sleep stem sømbi). The human has buv in every case: 'temøbuv' (when he lies down), 'te꞉buv' (where he lies), 'sasa qóbūv' (lie down! 2sg), 'segebúv' (he lay down), 'sasa ndøbuv' (she lay down), 'gubuvam' (was lying), 'gubuvát' (she lay, 3:14), 'vøkhæbuvít' (lie here!); sleep = 'venanqei buv' (3:7 'venanqei gebuvat', JON 1:6 'venanqei mba ndoqobuvit'); JON 1:5 'gù꞉buvát'. Settles gap:lie_down_forms.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H7901`
+- **`term:H2676.h`** H2676 (midnight) → **lova u mbá** [high, decided, attested]
+  - gloss: חָצוֹת: חֲצֹ֣ת (EXO 11:4) — English (generated): About midnight
+  - NT: RUT 3:8
+  - answers: midnight, at midnight
+  - 'about the middle of the night'. Ours was qamø-umba (Mat 25:6).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H2676`
+- **`term:H2729.h`** H2729 (be startled, tremble) → **nqova mbondáf** [high, decided, attested]
+  - gloss: חָרַד: יֶּחֱרַ֥ד (RUT 3:8) — English (generated): was startled
+  - NT: RUT 3:8 *nqova mbondáf*; RUT 1:19 *nqova zøndáf*
+  - answers: startled, was startled, stirred
+  - 'fear took him' (nqova + ndaf take, mbo- him). 3:8 has 'Boaz tènesuzám. Yaq ma ge꞉qambun, nqova mbondáf.' (Boaz woke, turned over and was startled). Same idiom with zø- for the town in 1:19 ('was stirred'). Ours was 'kha wageap' (tremble).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H2729`
+- **`term:H3190.h`** H3190 (that it may be well with you) → **mbomambá tøneyagé** [high, decided, attested]
+  - gloss: יָטַב: יִֽיטַב (RUT 3:1) — English (generated): it may be well
+  - NT: RUT 3:1 *Yaq qo mbomambá tøneyagé*
+  - answers: it may be well with you, well with you
+  - 'so that you will live well'. Ours was 'eqeieqei qóyagát'.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H3190`
+- **`term:H4494.h`** H4494 (resting place, home) → **anganeam** [high, decided, attested]
+  - gloss: מָנוֹחַ: מָנ֖וֹחַ (RUT 3:1) — English (generated): a resting place
+  - NT: RUT 3:1 *No anganeam é-bataqa-omét*
+  - answers: resting place, seek a resting place for you
+  - The human makes the 'resting place' explicit: 'I will find you a husband' (3:1). Ours was 'pusup manqei'. The rhetorical 'should I not seek ...?' becomes a statement (gap:should_i_not.h).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H4494`
+- **`term:H1692.h`** H1692 (cling to, stay close to) → **sègeqóm, Naomi namba** [high, decided, attested]
+  - gloss: דָּבַק: דָּ֥בְקָה (RUT 1:14) — English (generated): clung
+  - NT: RUT 1:14 *Lut sègeqóm, Naomi namba*; RUT 2:23 *Lut ndǿgo tusasaetám, Boaz-gi*
+  - answers: clung to, clung, stayed close, stay close to
+  - 'Ruth clung to her' = 'Ruth stayed, with Naomi'; 'stayed close to the servant girls' = 'worked beside them' (2:23). Ours was 'gùmu-tøkenøvém' (built on Act 3:11).
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H1692`
+- **`term:H1605.h`** H1605 (rebuke) → **Manqat mbo-eìni᷄m** [high, decided, attested]
+  - gloss: גָּעַר: תִגְעֲרוּ (RUT 2:16) — English (generated): rebuke
+  - NT: RUT 2:16 *Manqat mbo-eìni᷄m ta zapaya*
+  - answers: rebuke, do not rebuke her
+  - 'Do not say a word to her about it' (prohibitive pl of ein). Ours was the built 'mbogùgu᷄'. Settles gap:rebuke_prohibitive.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `term:H1605`
+- **`term:H4940`** H4940 (clan) → **khagua bawan** [high, decided, attested]
+  - gloss: מִשְׁפַּחַת: מִּשְׁפַּ֖חַת (RUT 2:1) — English (generated): from the clan
+  - NT: RUT 1:2 *Eflat khagua bawan-ák*; RUT 4:11 *Eflat khagua bawan mokho-te*
+  - answers: clan, ephrathites
+  - As NT 'Asa khagua bawan-ák' (Luk 2:36). 'From the clan of Elimelech' = 'Elimelek-ge ekeza ezoqam' (2:1, 2:3).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H7039`** H7039 (roasted grain) → **bali lonqotøvap** [high, decided, attested]
+  - gloss: קָלִי: קָלִ֔י (RUT 2:14) — English (generated): roasted grain
+  - NT: RUT 2:14 *Boaz bali lonqotøvap mbo-etoám*; RUT 2:18 *Lut bali lonqotøvap ndigu*
+  - answers: roasted grain
+  - Settles gap:roasted_grain (ours: bali nanga vesu).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:mealtime`** H6256 + H400 (mealtime) → **lou loge khøuwa** [high, decided, attested]
+  - gloss: עֵת: עֵ֣ת (RUT 2:14) — English (generated): At mealtime
+  - NT: RUT 2:14
+  - answers: at mealtime, mealtime
+  - 'at noon, when it was time to eat'.
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H4376`** H4376 (sell) → **wi-qa ndøgó** [medium, decided, attested]
+  - gloss: מָכַר: מָכְרָ֣ה (RUT 4:3) — English (generated): is selling
+  - NT: RUT 4:3 *teqa manqei wi-qa ndøgó*
+  - answers: selling, sell
+  - 'his land is for buying (by another relative)'; no separate verb for selling here.
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:law`** H8451 (the law of Moses) → **Mozes-qa guguna manqat** [high, decided, attested]
+  - gloss: תּוֹרָה: תוֹרֹתָֽ (GEN 26:5) — English (generated): and My laws
+  - NT: RUT 2:20 *Mozes-qa guguna manqat*
+  - answers: law, law of moses
+  - Added in the human's explanation of the redeemer (2:20).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H4419`** H4419 (sailors) → **khagua-te gu꞉sasaetam** [high, decided, attested]
+  - gloss: מַלָּח: מַּלָּחִ֗ים (JON 1:5) — English (generated): The sailors
+  - NT: JON 1:5; JON 1:7 *palai khagua-te gu꞉sasaetam*; JON 1:16 *palai khagua-te gu꞉guvam*
+  - answers: sailors, mariners, the men
+  - 'the men who worked on the ship' (relative after ezoqam).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:captain`** H7227 + H2259 (the captain) → **ndego palai khagua gembo-kewagam** [high, decided, attested]
+  - gloss: רַב: רַ֣ב (JON 1:6) — English (generated): The captain
+  - NT: JON 1:6
+  - answers: captain
+  - 'he who looked after the ship'.
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H3220`** H3220 (sea) → **ibøkha** [high, decided, attested]
+  - gloss: יָם: יָּ֔ם (JON 1:12) — English (generated): the sea
+  - NT: JON 1:12 *No ibøkha-té qazonǿ-ogenønám*; JON 1:15 *ibøkha-te sasa ndø-oginam*; JON 1:9 *ndaola neka manqei-qape*
+  - answers: sea, into the sea, the sea and the dry land
+  - Jonah is thrown into ibøkha (water); the sea as created = ndaola (1:9, the NT's word, 37×). The raging sea = the storm, khamøe (formula:sea_grew_worse).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H4487`** H4487 / H2904 (appoint, provide, hurl) → **ndokhofotáv** [high, decided, attested]
+  - gloss: מָנָה: יְמַ֤ן (JON 2:1) — English (generated): had appointed
+  - NT: JON 2:1 *Evezøza zongøyam-qape ndokhofotáv*; JON 4:6 *gumbag ndøkhofotáv*; JON 4:7 *Mbumbukiam oiyam ndokhofotáv*; JON 4:8 *tènde-khofotáv*
+  - answers: appointed, provided, hurled, sent
+  - khofotav = send (NT 'God sent'): the fish, the plant, the worm, the east wind are all 'sent'; 1:4 'hurled a great wind' too ('khamøe-qape tēāndō-khōfōtāv').
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H1104`** H1104 (swallow) → **vø̄-khoutav** [high, decided, attested]
+  - gloss: בָּלַע: בְלֹ֖עַ (JON 2:1) — English (generated): to swallow
+  - NT: JON 2:1 *Ziona vø̄-khoutav*; JON 2:11 *Ziona gekhoutav*
+  - answers: swallow, to swallow
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H6958`** H6958 (vomit) → **vømø̄-qozao** [high, decided, attested]
+  - gloss: קִיא: יָּקֵ֥א (JON 2:11) — English (generated): and it vomited
+  - NT: JON 2:11 *Ziona vømø̄-qozao*
+  - answers: vomited
+  - 'sent (the fish) to the shore (ndøgeg) and it vomited Jonah out'.
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H3004`** H3004 (dry land) → **manqei-qape** [high, decided, attested]
+  - gloss: יַבָּשָׁה: יַּבָּשָֽׁה (JON 1:9) — English (generated): and the dry land
+  - NT: JON 1:9 *ndaola neka manqei-qape gekhakheinam*; JON 1:13 *manqei khanøzu-qa*; JON 2:11 *ndøgeg-té*
+  - answers: dry land, land, back to dry land
+  - As created: manqei-qape (the land); to row back to land = 'manqei khanøzu-qa' (1:13); onto the shore = ndøgeg (2:11).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H3381vis`** H3381 (go down) → **gevis** [high, decided, attested]
+  - gloss: יָרַד: יֵּ֨רֶד (JON 1:3) — English (generated): He went down
+  - NT: JON 1:3 *Yaq gevis ndøgo*; JON 3:6 *gèvís*
+  - answers: went down, got up from his throne
+  - Confirms term:H3381 (vis). Ruth 3:3, 3:6 'go down to the threshing floor' use plain qav / nøwav (go).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H2077`** H2077 (sacrifice) → **søvakha gigiap ndølaém** [high, decided, attested]
+  - gloss: זֶבַח: זֶ֨בַח֙ (JON 1:16) — English (generated): a sacrifice
+  - NT: JON 1:16
+  - answers: offered a sacrifice, sacrifice, sacrifice to you
+  - 'they killed animals and offered them to the LORD'; 2:10 'I will sacrifice to you' = 'etoam matev vøtaqágō' (I will make offerings).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H665`** H665 (ashes) → **pakhakh** [high, decided, attested]
+  - gloss: אֵפֶר: אֵֽפֶר (JON 3:6) — English (generated): ashes
+  - NT: JON 3:6 *pakhakh-te sasa ndøqom*
+  - answers: ashes, sat in ashes
+  - NT pakhakh (4×).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:nobles`** H1419 (nobles) → **vesøtapak** [medium, decided, attested]
+  - gloss: גָּדוֹל: גְדֹלָ֖י (JON 3:7) — English (generated): and his nobles
+  - NT: JON 3:7 *nogi vesøtapak*
+  - answers: nobles
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:royal_robe`** H155 (royal robe) → **Ndabua mbomømboma** [high, decided, attested]
+  - gloss: אַדֶּרֶת: אַדַּרְתּ֖ (JON 3:6) — English (generated): his royal robe
+  - NT: JON 3:6 *Ndabua mbomømboma ge-uzupam*
+  - answers: royal robe, robe
+  - 'fine clothes'.
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H7725repent`** H7725 (turn, repent) → **Zóqambúz te-te** [high, decided, attested]
+  - gloss: שׁוּב: יָשֻׁ֗בוּ (JON 3:8) — English (generated): turn
+  - NT: JON 3:8 *Zóqambúz te-te*
+  - answers: turn, repent, each one turn
+  - qambuz = turn, repent (NT: Mat 12:41 'màndo-qambúz' of the Ninevites).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H2015`** H2015 (overturn, destroy) → **géngiú** [high, decided, attested]
+  - gloss: הָפַךְ: נֶהְפָּֽכֶת (JON 3:4) — English (generated): will be overturned
+  - NT: JON 3:4 *Mbumbukiam géngiú*; JON 1:2 *Mbumbukiam géngiæzó*
+  - answers: overturned, destroy, overthrown
+  - ngi = strike, destroy: 'God will destroy (it/them)'; also RUT 1:13 'Yawe gènøngiú' (the LORD has struck me).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H7121proclaim`** H7121 (preach, proclaim) → **qomézømás** [high, decided, attested]
+  - gloss: קָרָא: קְרָ֣א (JON 1:2) — English (generated): and preach
+  - NT: JON 1:2; JON 3:2 *manqat qomézømás*
+  - answers: preach, proclaim, preach against it
+  - 'warn them / tell them' (zømas) + the content with 'av nqægo'; 3:4 'proclaimed' = 'manqa manqate ndøngáz' (began to speak).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H7451`** H7451 (evil, wickedness) → **soqa matev** [high, decided, attested]
+  - gloss: רָעָה: רָעָתָ֖ (JON 1:2) — English (generated): its wickedness
+  - NT: JON 1:2 *Ndigu soqa matev khàpe-zømbe-khouwév*; JON 3:8 *matev soqøsoqa*
+  - answers: wickedness, evil, evil ways
+  - 1:2 'their wickedness has come up before me' = 'their bad deeds have grown very great'; violence, sin = 'manqa-zapazapa' (3:8, 3:10).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H8438`** H8438 (worm) → **oiyam** [high, decided, attested]
+  - gloss: תֹּולַעַת: תּוֹלַ֔עַת (JON 4:7) — English (generated): a worm
+  - NT: JON 4:7 *Mbumbukiam oiyam ndokhofotáv*
+  - answers: worm
+  - 'it attacked the plant' = 'gumbag ngum vø̄louz' (ate its root?).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:east`** H6924 (east of) → **Khøuwa fakhanám** [high, decided, attested]
+  - gloss: קֶדֶם: קֶּ֣דֶם (JON 4:5) — English (generated): of it
+  - NT: JON 4:5 *Khøuwa fakhanám genøwáv*
+  - answers: east, east of it
+  - 'where the sun comes up'.
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H6738`** H6738 (shade) → **guzuguzu** [high, decided, attested]
+  - gloss: צֵל: צֵּ֔ל (JON 4:5) — English (generated): in its shade
+  - NT: JON 4:5 *taqa guzuguzu-te*; JON 4:6 *guzuguzu nøme vømbō-etoam*
+  - answers: shade, in its shade
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H8415`** H8415 / H4688 (the deep, the depths) → **anana-mba-qape** [medium, decided, attested]
+  - gloss: מְצוֹלָה: מְצוּלָה֙ (JON 2:4) — English (generated): into the deep
+  - NT: JON 2:4 *anana-mba-qape ndøugu*
+  - answers: the deep, depths, heart of the seas, watery depths
+  - anana-mba = deep water (1:4 'anana-mba').
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H5488`** H5488 (seaweed) → **kik** [medium, decided, attested]
+  - gloss: סוּף: ס֖וּף (JON 2:6) — English (generated): the seaweed
+  - NT: JON 2:6 *kik noqa kawa vø̄løvønam*
+  - answers: seaweed
+  - 'the kik wrapped my head'.
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H6862`** H6862 (distress) → **soqaqape** [high, decided, attested]
+  - gloss: צָרָה: צָּ֥רָה (JON 2:3) — English (generated): In my distress
+  - NT: JON 2:3 *No soqaqape-te qægoam*
+  - answers: distress, in my distress
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H5375throw`** H2904 / H5375 (pick up and throw into the sea) → **ibøkha-te sasa ndø-oginam** [high, decided, attested]
+  - gloss: טוּל: יְטִלֻ֖ (JON 1:15) — English (generated): and cast him
+  - NT: JON 1:15; JON 1:12 *No ibøkha-té qazonǿ-ogenønám*
+  - answers: cast him into the sea, cast me into the sea, picked up, threw
+  - ndaf = take, pick up; ogen / ogin = throw.
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H120000`** שְׁתֵּים־עֶשְׂרֵה רִבּוֹ (120,000) → **wan andled tuenti taosen** [high, decided, attested]
+  - gloss: רִבֹּוא: רִבּ֜וֹ (JON 4:11)
+  - NT: JON 4:11
+  - answers: 120,000, more than 120,000
+  - Large numbers are English words (feature numerals.2).
+  - agent:curate-rut-jon, 2026-10-14
+- **`term:H8432`** H8432 בְּתוֹךְ (in the midst of, between) → **livin-te** [medium, decided, attested]
+  - gloss: תָּוֶךְ: ת֣וֹךְ (GEN 1:6) — English (generated): between
+  - NT: ACT 12:6 *livin-té*; ACT 8:25 *nakhoa livin-te*
+  - answers: between, in the midst of, in the middle
+  - livin-te = in the middle of (Act 12:6 Peter between two soldiers; Act 8:25 on the way).
+  - agent:gen001, 2026-10-15
+- **`term:H4327`** H4327 לְמִינוֹ (according to its kind) → **bugug vinivinimbá** [high, decided, attested]
+  - gloss: מִין: מִינ֔ (GEN 1:11) — English (generated): according to its kind
+  - NT: ACT 10:12 *bugug vinivinimbá*
+  - answers: according to its kind, according to their kinds, after its kind, kind, kinds
+  - 'animals of all kinds' (Act 10:12; bugug form, vinivinimba different). After each class in Gen 1.
+  - agent:gen001, 2026-10-15
+- **`term:H929lv`** H929 בְּהֵמָה (livestock, cattle) → **søvakha gigiap nanák** [high, decided, attested]
+  - gloss: בְּהֵמָה: בְּהֵמָ֜ה (JON 3:7) — English (generated): or beast
+  - NT: ACT 11:6 *Nøme nanák*; JHN 4:12 *søvakha gigiap nanak*
+  - answers: livestock, cattle
+  - nanak = tame (Jhn 4:12 Jacob's livestock; Act 11:6 tame and wild animals).
+  - agent:gen001, 2026-10-15
+- **`term:H2416beast`** H2416 חַיַּת הָאָרֶץ (beasts of the earth) → **søvakha gigiap lozokhák** [high, decided, attested]
+  - gloss: חַי: חַיָּה֙ (GEN 1:24) — English (generated): living
+  - NT: ACT 11:6 *nøme lozokhák*
+  - answers: beasts of the earth, beast of the earth, beasts
+  - lozokhak = wild (Act 11:6 wild beasts; Luk 9:58 foxes).
+  - agent:gen001, 2026-10-15
+- **`term:H1697`** H1697 (word, message) → **manqat** [high, observed, attested]
+  - gloss: דָּבָר: דָּבָ֑ר (RUT 3:18) — English (generated): things
+  - NT: 1CO 1:19 *Mbumbukiam-qa Manqat*; 1CO 1:20 *Mbumbukiam-qa Manqat*
+  - answers: word, words, message
+  - BSB word/words/message: 299 of 318 verses have it (3441 verses in all). From study run v2b (term:G3056), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H802woman`** H802 (woman) → **sævam** [high, observed, attested]
+  - gloss: אִשָּׁה: אֵ֥שֶׁת (RUT 3:11) — English (generated): are a woman
+  - NT: 1CO 7:2 *Sævam*; 1CO 7:13 *Sævam*
+  - answers: woman, women
+  - BSB woman/women: 93 of 167 verses have it (199 verses in all). Wife is zas (term:H802), a wife being married sævam (term:H3947w). From study run v2b (term:G1135), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H4397`** H4397 (angel, messenger) → **enzol ezoqam** [high, observed, attested]
+  - gloss: מַלְאָךְ: מַלְאַ֧ךְ (GEN 16:7) — English (generated): Now the angel
+  - NT: 1CO 4:9 *enzol ezoqam*; 1CO 6:3 *enzol ezoqam*
+  - answers: angel, angels
+  - BSB angel/angels: 168 of 184 verses have it (184 verses in all). From study run v2b (term:G32), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H4194`** H4194 (death) → **løvøte** [medium, observed, attested]
+  - gloss: מָוֶת: מָּ֔וֶת (RUT 1:17) — English (generated): anything but death
+  - NT: 1CO 6:14 *løvøte*; 1CO 11:26 *løvøte*
+  - answers: death, dead
+  - BSB death/dead: 166 of 266 verses have it (262 verses in all). To die is nanim (term:H4191). From study run v2b (term:G2288), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H1241`** H1241 / H6499 (ox, bull, calf) → **kao** [medium, observed, attested]
+  - gloss: בָּקָר: בָּקָ֣ר (JON 3:7) — English (generated): herd
+  - NT: 1CO 9:9 *kao-qa*; 1TI 5:18 *kao-qa*; ACT 7:41 *kao*
+  - answers: ox, cattle, bull
+  - BSB ox/cattle/bull: 8 of 9 verses have it (25 verses in all). Calves = kao nakhasam (HEB 9:19); livestock in general søvakha gigiap nanák (term:H929lv). From study run v2 (term:H1241), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H6086`** H6086 (tree, wood) → **tae** [medium, observed, attested]
+  - gloss: עֵץ: עֵ֣ץ (GEN 1:11) — English (generated): trees
+  - NT: 1CO 3:12 *tae*; 1PE 2:24 *tae*; 2TI 2:20 *tae*
+  - answers: tree, wood
+  - BSB tree/wood: 43 of 45 verses have it (252 verses in all). From study run v2 (term:H6086), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H7676`** H7676 (Sabbath) → **Sabat khøuwa** [high, observed, attested]
+  - gloss: שַׁבָּת: שַׁבַּת (EXO 16:23) — English (generated): Sabbath
+  - NT: ACT 13:14 *Sabat khøuwa-te*; ACT 13:27 *Sabat khøuwa*; ACT 13:42 *Sabat khøuwa*
+  - answers: sabbath
+  - BSB sabbath: 54 of 55 verses have it (58 verses in all). From study run v2 (term:H7676), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H8057`** H8057 / H8055 (joy, rejoice; blessed = happy) → **khanakhanakh** [medium, observed, attested]
+  - gloss: שִׂמְחָה: שִׂמְחָ֥ה (JON 4:6) — English (generated): was greatly
+  - NT: 1CO 7:30 *khanakhanakh*; 1CO 12:26 *khanakhanakh*; 1CO 13:6 *khanakhanakh*
+  - answers: joy, rejoice, glad, gladness
+  - BSB joy/rejoice/glad: 138 of 171 verses have it (303 verses in all). 'Blessed are …' (makarios) = khanakhanakh (51 of 111 bless- verses); God blessing people is term:H1288.h. From study run v2 (term:joy), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H3727`** H3727 (mercy seat, atonement cover) → **Mboges mumat** [medium, observed, attested]
+  - gloss: כַּפֹּרֶת: כַפֹּ֖רֶת (EXO 25:17) — English (generated): a mercy seat
+  - NT: HEB 9:5 *Mboges mumat*
+  - answers: mercy seat, atonement cover
+  - BSB mercy seat/atonement cover: 1 of 1 verses have it (1 verses in all). One NT model (HEB 9:5), the lid on the chest. From study run v2 (term:H3727), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H8181`** H8181 (hair) → **izum** [medium, observed, attested]
+  - gloss: שֵׂעָר: שֵׂעָ֑ר (GEN 25:25) — English (generated): covered with hair
+  - NT: 1CO 11:6 *izum*; 1CO 11:15 *izum*; 1PE 3:3 *izum*
+  - answers: hair
+  - BSB hair: 12 of 17 verses have it (76 verses in all). Shaving is izum + a cutting verb (1CO 11:6). From study run v2 (term:hair), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H3595`** H3595 / H4219 (basin, bowl) → **ndis** [medium, observed, attested]
+  - gloss: כִּיֹּור: כִּיּ֥וֹר (EXO 30:18) — English (generated): basin
+  - NT: JHN 13:5 *ndis-te*
+  - answers: basin, bowl, dish
+  - BSB basin/bowl/dish: 8 of 13 verses have it (48 verses in all). One NT model, JHN 13:5. From study run v2 (term:basin), checked against the corpus.
+  - agent:curation-study, 2026-10-15
+- **`term:H6010`** H6010 / H1516 (valley) → **manqei tømbuvap** [low, observed, attested]
+  - gloss: עֵמֶק: עֵ֖מֶק (GEN 14:3) — English (generated): the Valley
+  - NT: LUK 3:5 *Manqei tømbuvap*
+  - answers: valley, valleys
+  - One NT model (LUK 3:5, low ground); JHN 18:1 calls the Kidron valley kea (stream). From study-v2 (gap:valley).
+  - agent:curation-study, 2026-10-15
+- **`term:H6760.g`** H6760 צֹלֵעַ (limping) → **bov gèmbo-wauwauám** [medium, decided, attested]
+  - gloss: צָלַע: צֹלֵ֖עַ (GEN 32:32) — English (generated): was limping
+  - NT: ACT 14:8 *bov gèmbo-wauwauám*
+  - answers: limping, limp, lame, was limping
+  - 'his legs were crippled' (ACT 14:8); the lame man is kagi ezoqam (ACT 3:2). gen032:32 'he was limping because of his hip' = 'bov gèmbo-wauwauám, teqa bov zapazapa zapaya'; gen032:26 also renders 'dislocated' with it (gap:dislocate.g).
+  - agent:gen032, 2026-10-15
+- **`term:H5337.g`** H5337 הַצִּילֵנִי (deliver me, rescue me) → **vø̀nøtøké** [high, decided, attested]
+  - gloss: נָצַל: הַצִּילֵ֥ (GEN 32:12) — English (generated): deliver me
+  - NT: MAT 15:25 *Vø̀nøtøké*; 2TI 4:18 *gékhandí꞉n*
+  - answers: deliver, deliver me, rescue me, please deliver me, save me
+  - 'Lord, help me!' (MAT 15:25); a future 'he will rescue me' = 'no gékhandí꞉n' (2TI 4:18). 'from the hand of X' = 'X-qa zenda-te'.
+  - agent:gen032, 2026-10-15
+- **`term:H7725ret.g`** H7725 שׁוּב (imperative: go back, return to your land) → **qonǿveséz** [medium, decided, attested]
+  - gloss: שׁוּב: שֽׁוּבְ (GEN 3:19) — English (generated): you return
+  - NT: GEN 3:19 *manqei-té qonǿveséz*
+  - answers: go back, return, go back to your country
+  - 'to the ground you will return' (3:19). gen031:3 and 31:13 wrote 'nango mòqoveséz', a form not found in the corpus; gen032:10 uses qonǿveséz. A later revision of gen031 may follow.
+  - agent:gen032, 2026-10-15
+- **`term:H5060touch.g`** H5060 נָגַע (touch, strike the hip) → **<X> gembo-khanaz** [high, decided, attested]
+  - gloss: נָגַע: יִּגַּ֖ע (GEN 32:26) — English (generated): he struck
+  - NT: GEN 27:22 *kha gembo-khanaz*
+  - answers: struck, touched, struck the socket, was struck
+  - Isaac touching Jacob (27:22); used for the man touching Jacob's hip (gen032:26, 33).
+  - agent:gen032, 2026-10-15
+- **`term:H1517.g`** H1517 גִּיד (sinew, tendon) → **kinik** [low, decided, by-rule]
+  - gloss: גִּיד: גִּ֣יד (GEN 32:33) — English (generated): the tendon
+  - NT: COL 2:19 *kha kinik*; EPH 4:16 *kha kinik-te*
+  - answers: tendon, sinew, the tendon
+  - kinik = ligament (COL 2:19, EPH 4:16, only 2 verses). gen032:33 'the tendon on the hip' = 'søvakha gigiap-qa kinik ndøgo, bov zapazapa-te nqøugu'.
+  - agent:gen032, 2026-10-15
+- **`term:distress.g`** H3334 וַיֵּצֶר לוֹ (he was distressed) → **mbøni vaev matev mbofakhán** [medium, decided, by-rule]
+  - gloss: צרר: יֵּ֣צֶר (GEN 32:8) — English (generated): and distress
+  - NT: ROM 2:9 *mbøni vaev matev*; GEN 31:24 *mbofakhán*
+  - answers: distress, distressed, in great fear and distress
+  - 'trouble and distress will come upon them' (ROM 2:9) with fakhan + mbo- (came to him, 31:24).
+  - agent:gen032, 2026-10-15
+- **`term:slowly.g`** לְאִטִּי (slowly, gently) → **aiyav-té** [medium, decided, attested]
+  - gloss: אַט: אִטִּ֗ (GEN 33:14) — English (generated): on slowly
+  - NT: ACT 27:7 *aiyav-té*
+  - answers: slowly, continue on slowly, gently
+  - 'sailing slowly'. gen033:14 'no aiyav-té qatǿnáv' (I will go slowly).
+  - agent:gen033, 2026-10-15
+- **`term:brother_voc.g`** אָחִי (my brother!, vocative) → **Áta!** [low, decided, by-rule]
+  - gloss: אָח: אָחִ֕ (GEN 33:9) — English (generated): my brother
+  - NT: ACT 7:2 *ata-za*
+  - answers: my brother
+  - Built: ata (brother, ACT 7:2 'Tát-za neka ata-za!'; 'Ata Isao' GEN 27:11) with the vocative accent on the first syllable (vocative.2). Question for the Kuni team. gen033:9.
+  - agent:gen033, 2026-10-15
+- **`term:H6031force.g`** וַיִּשְׁכַּב אֹתָהּ וַיְעַנֶּהָ (lay with her by force) → **<woman> poeveáv. Geté ndego bazaføgakh-te, tu namba venanqei nonqo vø̄tøkuanem** [medium, decided, by-rule]
+  - gloss: שָׁכַב: יִּשְׁכַּ֥ב (GEN 34:2) — English (generated): and lay
+  - NT: GEN 29:23 *venanqei nonqo vø̄tøkuanem*; GEN 24:5 *sævam ndugu poeveav*
+  - answers: by force, lay with her, lying with
+  - 'She did not want; but he by strength slept with her'. bazaføgakh-te (by strength) is attested 25 times. gen034:2; 'lying with' alone (34:7) = venanqei nonqo vø̄tøkuanem. Question for the Kuni team: how plainly may this be said?
+  - agent:gen034, 2026-10-15
+- **`term:H2836longs.g`** חָשְׁקָה נַפְשׁוֹ / חָפֵץ בְּ (longs for, delighted with a woman) → **poev kandambá, <woman>-te** [high, decided, attested]
+  - gloss: חָשַׁק: חָֽשְׁקָ֤ה (GEN 34:8) — English (generated): longs for
+  - NT: GEN 24:67 *poev kandambá, tu-te*
+  - answers: longs, longs for, delighted, delighted with
+  - As term:H157.g (a man's love for a woman). gen034:3, 8, 19.
+  - agent:gen034, 2026-10-15
+- **`term:disgrace.g`** חֶרְפָּה (disgrace) → **mivi matev** [high, decided, attested]
+  - gloss: חֶרְפָּה: חֶרְפָּ֥ה (GEN 34:14) — English (generated): would be a disgrace
+  - NT: LUK 1:25 *noqa mivi matev*
+  - answers: disgrace, a disgrace to us
+  - 'it is our disgrace' = 'ndøgo niqa mivi matév'. gen034:14.
+  - agent:gen034, 2026-10-15
+- **`term:attack.g`** וְנֶאֶסְפוּ עָלַי וְהִכּוּנִי (they unite against me and attack me) → **kopo-te ti꞉tøkuanem tøgoat, no namba nøfe-qa** [medium, decided, by-rule]
+  - gloss: אָסַף: נֶאֶסְפ֤וּ (GEN 34:30) — English (generated): if they unite
+  - NT: ACT 4:26 *nøfe-qa mba*; 1CO 6:16 *ti꞉tøkuanem*
+  - answers: unite, attack, unite against me, attack me
+  - The kings gathered 'to fight' (ACT 4:26). gen034:30. 'I will be destroyed' = 'no nǿnaním' (I will die, MRK 14:34).
+  - agent:gen034, 2026-10-15
+- **`term:visit.g`** לִרְאוֹת (went out to visit, see) → **<persons> okha-qa <go>** [high, decided, attested]
+  - gloss: רָאָה: רְא֖וֹת (GEN 34:1) — English (generated): to visit
+  - NT: ACT 9:32 *okha vø̄wav*; GEN 19:8 *okha ndøgeavún*
+  - answers: visit, to visit
+  - gen034:1 'nakhei mbasi okha-qa gunøwáv'.
+  - agent:gen034, 2026-10-15
+- **`term:H6370.g`** פִּילֶגֶשׁ (concubine) → **sasae sævam** [high, decided, attested]
+  - gloss: פִּלֶגֶשׁ: פִֽילַגְשׁ֖ (GEN 22:24) — English (generated): concubine
+  - NT: GEN 22:24 *Nao sasae sævam*
+  - answers: concubine, his father's concubine
+  - Nahor's concubine Reumah (22:24); 25:6 says 'sakheis nøme' (other women). gen035:22 'tege eve-gu sasae sævam, Bila'.
+  - agent:gen035, 2026-10-15
+- **`term:H441.g`** אַלּוּף (chief, clan chief; pl. chiefs) → **megetapak** [medium, decided, attested]
+  - gloss: אַלּוּף: אַלּוּפֵ֣י (GEN 36:15) — English (generated): are the chiefs
+  - NT: GEN 25:16 *bawabawan-gi-megetapak*; 1PE 2:13 *megetapak-qá mokho-té*
+  - answers: chief, chiefs
+  - Ishmael's twelve princes of their tribes are 'bawabawan-gi-megetapak' (25:16); megetapak = leaders, authorities (155× in the NT). A single chief = 'megeat ezoqam' (23:6). gen036 lists the chiefs after one header ('tegi nakhei angana ndigu megetapák: A neka B') instead of repeating the title before each name.
+  - agent:gen036, 2026-10-15
+- **`term:staff.g`** מַטֶּה (staff) → **tatuag** [high, decided, attested]
+  - gloss: מַטֶּה: מַטְּ (GEN 38:18) — English (generated): and the staff
+  - NT: LUK 9:3 *tatuag neka moqos*; HEB 11:21 *Tatuág genø-tøpafám*
+  - answers: staff, the staff
+  - gen038:18, 25.
+  - agent:gen038, 2026-10-15
+- **`term:twins.g`** תְּאוֹמִים (twins) → **nakhei angana menás** [high, decided, attested]
+  - gloss: תֹּואֲמִם: תְאוֹמִ֖ים (GEN 38:27) — English (generated): were twins
+  - NT: GEN 25:24 *nakhei angana menás*
+  - answers: twins
+  - 'there were twins in her womb' (25:24). gen038:27.
+  - agent:gen038, 2026-10-15
+- **`term:scepter.g49`** שֵׁבֶט / מְחֹקֵק (scepter, ruler's staff) → **kawa ezoqam-qa khamokh; kawa tatuag** [medium, decided, attested]
+  - gloss: שֵׁבֶט: שֵׁ֨בֶט֙ (GEN 49:10) — English (generated): The scepter
+  - NT: REV 2:27 *khamokh*; MAT 27:30 *tatuag*
+  - answers: scepter, staff
+  - 'will not depart' = 'will never end' (gemǿ-navøemák, 1PE 1:4). gen049:10.
+  - agent:gen049, 2026-10-21
+- **`term:seashore.g49`** חוֹף יַמִּים (seashore) → **ndaola ndøgeg** [high, decided, attested]
+  - gloss: חוֹף: ח֥וֹף (GEN 49:13) — English (generated): by the seashore
+  - NT: HEB 11:12 *ndøgeg*; GEN 22:17 *ndaola ndøgeg-te*
+  - answers: seashore, shore
+  - gen049:13.
+  - agent:gen049, 2026-10-21
+- **`term:rich_food.g49`** שְׁמֵנָה לַחְמוֹ (his food rich) → **lou enaq-ús** [medium, decided, attested]
+  - gloss: שָׁמֵן: שְׁמֵנָ֣ה (GEN 49:20) — English (generated): will be rich
+  - NT: GEN 27:39 *manqei enaq-us*
+  - answers: rich, delicacies
+  - delicacies = lou mbomømboma (good food). gen049:20.
+  - agent:gen049, 2026-10-21
+- **`term:embalming_time.g50`** יְמֵי הַחֲנֻטִים (the days of embalming, 50:3) → **kha gutøveav matev** [low, decided, by-rule]
+  - gloss: חֲנֻטִים: חֲנֻטִ֑ים (GEN 50:3) — English (generated): the embalming
+  - NT: JHN 19:40 *vø̄e-gutøvem*; GEN 6:14 *gutøveav*
+  - answers: embalming
+  - Nominal gutøveav (attested 4x) + matev 'custom, way'. gen050:3.
+  - agent:gen050, 2026-10-21
+- **`term:bury_purpose.g50`** לִקְבֹּר (to bury, 50:7, 50:14) → **otav-qa** [low, decided, by-rule]
+  - gloss: קָבַר: קְבֹּ֣ר (GEN 50:7) — English (generated): to bury
+  - NT: MAT 8:21 *bàtøkhæ-otáv*; GEN 45:7 *khandi꞉zat-qa*
+  - answers: bury
+  - Purpose 'to bury his father' built: stem otav (MAT 8:21) + purposive -qa as khandi꞉zat-qa. Check with the team. gen050:7, 14.
+  - agent:gen050, 2026-10-21
+- **`term:provide_food_2pl.g50`** אֲכַלְכֵּל אֶתְכֶם (I will provide for you (pl), 50:21) → **lou søtazǿ-etoám** [low, decided, by-rule]
+  - gloss: כּוּל: אֲכַלְכֵּ֥ל (GEN 50:21) — English (generated): will provide for
+  - NT: GEN 45:11 *søtaqá-etoám*
+  - answers: provide, provided
+  - Built from formula:provide_for.g45 (2sg søtaqá-) with the 2pl object zø as in zǿ-etoám. Check with the team. gen050:21.
+  - agent:gen050, 2026-10-21
+- **`term:moved_to_cities.g47`** הֶעֱבִיר אֹתוֹ לֶעָרִים (moved the people to the cities; BSB 'reduced to servitude' after SP/LXX) → **ezoqa ndigu, taon vinivinimba-té genø-itúb** [medium, decided, by-rule]
+  - gloss: עָבַר: הֶעֱבִ֥יר (GEN 47:21) — English (generated): and Joseph reduced
+  - NT: MAT 17:1 *genø-itúb*; GEN 25:18 *Izip manqei iziz*
+  - answers: reduced, servitude, cities, from one end
+  - We translate the Hebrew (cities), not the BSB's servitude; the end of the land = iziz (border, 25:18): 'iziz kopo-te ndøgo, atema iziz nøme-te'. gen047:21.
+  - agent:gen047, 2026-10-21
+- **`term:G1492.moezote`** G1492 οἶδα (2pl perfect: you (pl) know) → **mø̀zøte-zøtéz** [high, observed, attested]
+  - gloss: οἶδα: οἴδατε (JHN 14:4) — English (generated): You know
+  - NT: JHN 14:4 *mø̀zøte-zøtéz*
+  - answers: know, you know
+  - the corpus writes mø̀zøte-zøtéz 84 times, møzøté-zøtez 19; kept as a word, not segmented (was the morph m:moez-:verb, one stem only)
+  - agent:morph-curation, 2026-10-21
+- **`term:H3068.gloss`** H3068 → **Evezøza** [high, decided, attested]
+  - gloss: יהוה: יְהוָ֧ה (GEN 2:8) — English (generated): And the LORD
+  - gloss: κύριος: Κύριος (ACT 7:49) — English (generated): Lord
+  - NT: ACT 7:49; LUK 1:68; REV 1:8
+  - YHWH = Evezøza, as the NT's κύριος for God in OT quotations (Act 7:49 introduces Isa 66:1).
+  - script:gloss.py, 2026-10-14, supersedes `term:H3068`
+- **`term:H430.gloss`** H430 → **Mbumbukiam** [high, decided, attested]
+  - gloss: אֱלֹהִים: אֱלֹהִ֑ים (GEN 1:1) — English (generated): God
+  - gloss: θεός: Θεὸς (LUK 1:68) — English (generated): God
+  - NT: LUK 1:68; JHN 20:17
+  - 'her gods' (pagan) = tugi mbumbuk, lower case (Act 14:11).
+  - script:gloss.py, 2026-10-14, supersedes `term:H430`
+- **`term:H7706.gloss`** H7706 → **Mbumbukiam Bazaføgakh-qape** [medium, decided, by-rule]
+  - gloss: שַׁדַּי: שַׁדַּ֡י (JOB 6:4) — English (generated): of the Almighty
+  - gloss: παντοκράτωρ: Παντοκράτωρ (REV 1:8) — English (generated): Almighty
+  - NT: JAS 5:4 *Evezøza Bazaføgakh-qape*; REV 1:8
+  - Shaddai (the Almighty): God + 'all-powerful', after Jas 5:4 'Lord of Hosts' and Rev 1:8 'Almighty'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H7706`
+- **`term:gods.gloss`** H430 (pagan gods) → **mbumbuk** [high, decided, attested]
+  - gloss: θεός: θεοὶ (1CO 8:5) — English (generated): gods
+  - NT: 1CO 8:5; ACT 14:11
+  - script:gloss.py, 2026-10-14, supersedes `term:gods`
+- **`term:H7458.gloss`** H7458 → **vikia seke** [high, decided, attested]
+  - gloss: רָעָב: רָעָ֖ב (GEN 12:10) — English (generated): a famine
+  - gloss: λιμός: λιμὸς (LUK 15:14) — English (generated): famine
+  - NT: LUK 15:14; ACT 7:11 *vikia sekeqape*; LUK 4:25
+  - famine
+  - script:gloss.py, 2026-10-14, supersedes `term:H7458`
+- **`term:H776.gloss`** H776 → **manqei** [high, decided, attested]
+  - gloss: אֶרֶץ: אָ֗רֶץ (GEN 1:2) — English (generated): Now the earth
+  - gloss: γῆ: γῆς (ACT 7:4) — English (generated): land
+  - NT: ACT 7:4; MAT 2:6
+  - land, place; 'fields of Moab' rendered 'Moab manqei' with the BSB
+  - script:gloss.py, 2026-10-14, supersedes `term:H776`
+- **`term:H802.gloss`** H802 → **zas** [high, decided, attested]
+  - gloss: אִשָּׁה: אִשָּׁ֑ה (GEN 2:22) — English (generated): a woman
+  - gloss: γυνή: γυνὴ (LUK 1:5) — English (generated): wife
+  - NT: LUK 1:5; JHN 19:25
+  - wife; woman = sævam, women = sakheis (1Co 7:12)
+  - script:gloss.py, 2026-10-14, supersedes `term:H802`
+- **`term:H376.gloss`** H376 (husband) → **zivis** [high, decided, attested]
+  - gloss: ἀνήρ: ἄνδρα (ACT 5:10) — English (generated): husband
+  - NT: LUK 7:12; ACT 5:10
+  - script:gloss.py, 2026-10-14, supersedes `term:H376`
+- **`term:H490.gloss`** H490 → **ngæmam** [high, decided, attested]
+  - gloss: אַלְמָנָה: אַלְמָנָ֣ה (GEN 38:11) — English (generated): as a widow
+  - gloss: χῆρος: χήρα (LUK 7:12) — English (generated): a widow
+  - NT: LUK 7:12; 1CO 7:34
+  - widow; 'became a widow' = tuni-ngæmam-év (Luk 2:37)
+  - script:gloss.py, 2026-10-14, supersedes `term:H490`
+- **`term:H2545.gloss`** H2545 → **zakhapuka** [high, decided, attested]
+  - gloss: חֲמוֹת: חֲמוֹתָ֔ (RUT 1:14) — English (generated): her mother in law goodbye
+  - gloss: πενθερά: πενθερὰ (LUK 12:53) — English (generated): mother in law
+  - NT: LUK 12:53; MAT 10:35
+  - mother-in-law (husband's mother)
+  - script:gloss.py, 2026-10-14, supersedes `term:H2545`
+- **`term:H3618.gloss`** H3618 → **ziwap** [high, decided, attested]
+  - gloss: כַּלָּה: כַּלָּת֔ (GEN 11:31) — English (generated): his daughter in law
+  - gloss: νύμφη: νύμφην (LUK 12:53) — English (generated): daughter in law
+  - NT: LUK 12:53; MAT 10:35
+  - daughter-in-law
+  - script:gloss.py, 2026-10-14, supersedes `term:H3618`
+- **`term:H1121pl.gloss`** H1121 (sons) → **nakhei angana** [high, decided, attested]
+  - gloss: υἱός: υἱοὺς (ACT 7:29) — English (generated): sons
+  - NT: ACT 7:29; 2CO 6:18
+  - sons; son = yo; daughters = nakhei mbasi (2Co 6:18); children = nakheis
+  - script:gloss.py, 2026-10-14, supersedes `term:H1121pl`
+- **`term:H517.gloss`** H517 → **evo** [high, decided, attested]
+  - gloss: אֵם: אֵ֥ם (GEN 3:20) — English (generated): the mother
+  - gloss: μήτηρ: μητρὶ (ACT 1:14) — English (generated): mother
+  - NT: ACT 1:14; ACT 12:12
+  - mother
+  - script:gloss.py, 2026-10-14, supersedes `term:H517`
+- **`term:H5971.gloss`** H5971 → **bawan ezoqam** [high, decided, attested]
+  - gloss: עַם: עַ֤ם (GEN 11:6) — English (generated): people
+  - gloss: λαός: λαόν (MAT 2:6) — English (generated): people
+  - NT: MAT 2:6; LUK 7:16 *tegi ezoqam*
+  - people (a nation, 'your people'); 'his people' = tegi ezoqam
+  - script:gloss.py, 2026-10-14, supersedes `term:H5971`
+- **`term:H3899.gloss`** H3899 → **lou** [high, decided, attested]
+  - gloss: לֶחֶם: לֶ֔חֶם (GEN 3:19) — English (generated): bread
+  - gloss: βρῶμα: βρώματα (1CO 6:13) — English (generated): Food
+  - NT: 1CO 6:13; MAT 24:7 *lou mbaimbai*
+  - food, bread; 'lack of food' = lou mbaimbai
+  - script:gloss.py, 2026-10-14, supersedes `term:H3899`
+- **`term:H4496.gloss`** H4496 → **pusup** [high, decided, attested]
+  - gloss: מְנוּחָה: מְנֻחָה֙ (GEN 49:15) — English (generated): his resting place
+  - gloss: ἀναπαύω: ἀναπαύσω (MAT 11:28) — English (generated): will give you rest
+  - NT: MAT 11:28; 2TH 1:7
+  - rest
+  - script:gloss.py, 2026-10-14, supersedes `term:H4496`
+- **`term:H8615.gloss`** H8615 → **vintønat** [high, decided, attested]
+  - gloss: תִּקְוָה: תִּ֝קְוָתְ (JOB 4:6) — English (generated): your hope
+  - gloss: ἐλπίς: ἐλπίς (1CO 13:13) — English (generated): hope
+  - NT: HEB 10:23; 1CO 13:13
+  - hope
+  - script:gloss.py, 2026-10-14, supersedes `term:H8615`
+- **`term:H7387.gloss`** H7387 → **khakha-mbá** [high, decided, attested]
+  - gloss: κενός: κενούς (LUK 1:53) — English (generated): empty
+  - NT: LUK 1:53; MRK 12:3
+  - empty-handed
+  - script:gloss.py, 2026-10-14, supersedes `term:H7387`
+- **`term:H8184.gloss`** H8184 → **bali** [high, decided, attested]
+  - gloss: שְׂעֹרָה: שְׂעֹרִ֔ים (2KI 4:42) — English (generated): of barley
+  - gloss: κρίθινος: κριθίνους (JHN 6:9) — English (generated): barley
+  - NT: JHN 6:9; REV 6:6
+  - barley
+  - script:gloss.py, 2026-10-14, supersedes `term:H8184`
+- **`term:H7105.gloss`** H7105 → **avøe gigiap** [low, open, attested]
+  - gloss: קָצִיר: קָצִיר (GEN 8:22) — English (generated): and harvest
+  - gloss: θερισμός: θερισμὸς (LUK 10:2) — English (generated): harvest
+  - NT: LUK 10:2
+  - harvest (crops); reap = pea (Jhn 4:35); see gap:barley_harvest
+  - script:gloss.py, 2026-10-14, supersedes `term:H7105`
+- **`term:H4191.gloss`** H4191 → **nanim** [high, decided, attested]
+  - gloss: מוּת: מ֥וֹת (GEN 2:17) — English (generated): you will surely die
+  - gloss: θνῄσκω: τεθνηκὼς (LUK 7:12) — English (generated): a dead man
+  - NT: ACT 7:4 *genanim*; LUK 7:12 *gèmbonaním*; MRK 12:22 *vømū-pakhaez*
+  - die: he died = genanim; they died = gipakhaez / vømū-pakhaez (different stem in the plural); dead = løvøte
+  - script:gloss.py, 2026-10-14, supersedes `term:H4191`
+- **`term:H5401.gloss`** H5401 → **sasa ndøngenøtam** [high, decided, attested]
+  - gloss: נָשַׁק: יְנַשֵּׁ֧ק (GEN 32:1) — English (generated): and kissed
+  - gloss: καταφιλέω: κατεφίλησεν (MAT 26:49) — English (generated): kissed
+  - NT: MAT 26:49; ACT 20:37 *vø̄ngenøtømem*
+  - kiss
+  - script:gloss.py, 2026-10-14, supersedes `term:H5401`
+- **`term:H1058.gloss`** H1058 → **gèvín** [high, decided, attested]
+  - gloss: בָּכָה: תֵּֽבְךְּ (GEN 21:16) — English (generated): and wept
+  - gloss: κλαίω: κλαίουσα (LUK 7:38) — English (generated): weeping
+  - NT: LUK 7:38; ACT 20:37 *gè-eivám*
+  - weep: she wept = gèvín; they wept = gè-eivám; loudly = kandambaqape (Luk 17:13)
+  - script:gloss.py, 2026-10-14, supersedes `term:H1058`
+- **`term:H1692.gloss`** H1692 → **gèmø-tøkenøvém** [medium, decided, attested]
+  - gloss: דָּבַק: דָבַ֣ק (GEN 2:24) — English (generated): and be united
+  - gloss: κρατέω: Κρατοῦντος (ACT 3:11) — English (generated): clung to
+  - NT: ACT 3:11
+  - cling to (them); with gu- for a woman clinging: built
+  - script:gloss.py, 2026-10-14, supersedes `term:H1692`
+- **`term:H7725.gloss`** H7725 → **qavan** [high, decided, attested]
+  - gloss: שׁוּב: שֽׁוּבְ (GEN 3:19) — English (generated): you return
+  - gloss: ὑποστρέφω: ὑπέστρεψεν (LUK 1:56) — English (generated): returned
+  - NT: LUK 1:56 *ndøqavan*; LUK 15:30 *gendoqavan*; JHN 11:7 *qazinǿ-qaván*
+  - return; 'came back from X' = X-te ginduqavaz (glossary Balam); 'again/back' = nango / nqawa
+  - script:gloss.py, 2026-10-14, supersedes `term:H7725`
+- **`term:H3212.gloss`** H3212 → **genøwáv** [high, decided, attested]
+  - gloss: ἀναβαίνω: Ἀνέβη (LUK 2:4) — English (generated): went up
+  - NT: LUK 2:4; ACT 7:4; LUK 2:22 *ginøzáv*
+  - go: he went = genøwáv; they went = ginøzáv; I went = qæmat; come = ndowáv
+  - script:gloss.py, 2026-10-14, supersedes `term:H3212`
+- **`term:H8085.gloss`** H8085 → **ewag** [high, decided, attested]
+  - gloss: שָׁמַע: שֹׁמַ֛עַת (GEN 18:10) — English (generated): listening
+  - gloss: ἀκούω: ἤκουσεν (LUK 1:41) — English (generated): heard
+  - NT: LUK 1:41 *gu-ewag*; LUK 1:58 *giyogem*
+  - hear; plural subject yogem
+  - script:gloss.py, 2026-10-14, supersedes `term:H8085`
+- **`term:H8141.gloss`** H8141 → **viav** [high, decided, attested]
+  - gloss: שָׁנָה: שָׁנָ֔ה (GEN 5:3) — English (generated): years old
+  - gloss: ἔτος: ἔτη (LUK 2:36) — English (generated): years
+  - NT: LUK 2:36; LUK 1:56 *løvøyak*
+  - year(s); months = løvøyak
+  - script:gloss.py, 2026-10-14, supersedes `term:H8141`
+- **`term:H7641.gloss`** H7641 (heads of grain) → **wit nanga** [high, decided, attested]
+  - gloss: στάχυς: στάχυας (MAT 12:1) — English (generated): heads of grain
+  - NT: MAT 12:1; MRK 2:23; LUK 6:1
+  - nanga = head/fruit of a plant (waen nanga grapes); barley heads = bali nanga by analogy
+  - script:gloss.py, 2026-10-14, supersedes `term:H7641`
+- **`term:H2406.gloss`** H2406 (wheat) → **wit** [high, decided, attested]
+  - gloss: σῖτος: σῖτον (MAT 13:30) — English (generated): wheat
+  - NT: MAT 13:30; MAT 12:1
+  - script:gloss.py, 2026-10-14, supersedes `term:H2406`
+- **`term:H2580.gloss`** H2580 (favour) → **kuku** [medium, decided, attested]
+  - gloss: χάρις: χάριν (LUK 1:30) — English (generated): favor
+  - NT: LUK 1:30 *kukú*; 1CO 4:14 *kuku kandambá*; LUK 10:27 *Kuku betaqagó*
+  - 'find favour in X's eyes' = kuku (kandambá) X-te; 'may I keep finding favour' = Kuku até betaqagó, no-te
+  - script:gloss.py, 2026-10-14, supersedes `term:H2580`
+- **`term:H7939.gloss`** H7939 / H4909 (reward, wages, repay) → **yaq-fia** [high, decided, attested]
+  - gloss: μισθός: μισθὸν (1CO 3:14) — English (generated): a reward
+  - NT: 1CO 3:14 *yaq-fia eqeieqei*; 2JN 1:8 *yaq-fia ate ndægo*; COL 3:24; 1CO 3:8
+  - also punishment (chapter 1: yaq-fia ndøtá); 'from the LORD' = Evezøza-te
+  - script:gloss.py, 2026-10-14, supersedes `term:H7939`
+- **`term:H3671.gloss`** H3671 (wings) → **taf** [high, decided, attested]
+  - gloss: πτέρυξ: πτέρυγας (LUK 13:34) — English (generated): wings
+  - NT: LUK 13:34 *taf mokho-te*; REV 4:8
+  - under the wings = taf mokho-te
+  - script:gloss.py, 2026-10-14, supersedes `term:H3671`
+- **`term:H5291.gloss`** H5291 (young woman, servant girl) → **mbasønakam** [high, decided, attested]
+  - gloss: κοράσιον: κοράσιον (MAT 9:24) — English (generated): girl
+  - NT: MAT 9:24 *Ngunuk mbasønakam*; ACT 12:13 *sasae mbasønakam*; MAT 25:3 *mbasønakheis*
+  - plural mbasønakheis; Boaz's servant girls = sasae mbasønakheis
+  - script:gloss.py, 2026-10-14, supersedes `term:H5291`
+- **`term:H5288.gloss`** H5288 (young men) → **ezoqa ndakinak** [high, decided, attested]
+  - gloss: νεανίσκος: νεανίσκοι (ACT 2:17) — English (generated): young men
+  - NT: ACT 2:17; ACT 5:6; 1JN 2:13
+  - script:gloss.py, 2026-10-14, supersedes `term:H5288`
+- **`term:H4130.gloss`** H4130 / H7138 (relative, kinsman) → **ekeza ezoqam** [high, decided, attested]
+  - gloss: συγγενής: συγγενὴς (JHN 18:26) — English (generated): a relative
+  - NT: JHN 18:26 *tege ekeza ezoqam*; LUK 1:61 *zøkeza ezoqam*; ACT 7:14
+  - his relative = tege ekeza ezoqam; our relative = nigi ekeza ezoqam; a woman's female relative = qogu ezoqam (chapter 1)
+  - script:gloss.py, 2026-10-14, supersedes `term:H4130`
+- **`term:H2428.gloss`** H2428 (גִּבּוֹר חַיִל, man of wealth and standing) → **gigiap eve ezoqám** [medium, decided, attested]
+  - gloss: πλούσιος: πλούσιος (LUK 19:2) — English (generated): very wealthy
+  - NT: LUK 19:2; LUK 14:12 *gigiap eve ezoqam*; LUK 19:12 *Iz akhae ezoqám*
+  - Rut 2:1 uses both: wealthy and of standing
+  - script:gloss.py, 2026-10-14, supersedes `term:H2428`
+- **`term:H1242.gloss`** H1242 (morning) → **qanaqanus** [high, decided, attested]
+  - gloss: ὄρθρος: ὄρθρον (ACT 5:21) — English (generated): daybreak
+  - NT: ACT 5:21; ACT 28:23
+  - script:gloss.py, 2026-10-14, supersedes `term:H1242`
+- **`term:H6153.gloss`** H6153 (evening) → **khagus** [high, decided, attested]
+  - gloss: ἑσπέρα: ἑσπέρας (ACT 28:23) — English (generated): evening
+  - NT: JHN 1:39 *khagús*; ACT 28:23
+  - until evening = atema khagús
+  - script:gloss.py, 2026-10-14, supersedes `term:H6153`
+- **`term:H6595.gloss`** H6595 (morsel, piece of bread) → **lou mbewat** [high, decided, attested]
+  - gloss: ψωμίον: ψωμίον (JHN 13:26) — English (generated): morsel
+  - NT: JHN 13:26; JHN 13:27
+  - bread = flawa (35 alignments), lou (food)
+  - script:gloss.py, 2026-10-14, supersedes `term:H6595`
+- **`term:H7646.gloss`** H7646 (be satisfied, filled) → **ewez** [low, open, attested]
+  - gloss: χορτάζω: ἐχορτάσθησαν (LUK 9:17) — English (generated): were satisfied
+  - NT: LUK 9:17 *vøzø̄-ewez*; REV 19:21 *vøzømbū-ewez*; LUK 6:21
+  - the one filled is the object (zø- them); with mbo- (him) attested as 'grew weary' (Jhn 4:6); see gap:satisfied
+  - script:gloss.py, 2026-10-14, supersedes `term:H7646`
+- **`term:H6770.gloss`** H6770 (be thirsty) → **ibøkha naq** [high, decided, attested]
+  - gloss: διψάω: διψᾷ (JHN 7:37) — English (generated): is thirsty
+  - NT: JHN 7:37 *ibøkha naq ndømbopapat*; JHN 19:28 *ibøkha naq nøpáp*
+  - the thirsty one is the object of pap
+  - script:gloss.py, 2026-10-14, supersedes `term:H6770`
+- **`term:H7579.gloss`** H7579 (draw water) → **takhae** [high, decided, attested]
+  - gloss: ἀντλέω: ἀντλῆσαι (JHN 4:7) — English (generated): to draw
+  - NT: JHN 4:7 *ibøkha takhae-qa*; JHN 2:9 *gindi-takhaemem*; JHN 2:8 *vø̀takhaém*
+  - script:gloss.py, 2026-10-14, supersedes `term:H7579`
+- **`term:H8354.gloss`** H8354 (drink) → **iz** [medium, decided, attested]
+  - gloss: πίνω: πινέτω (JHN 7:37) — English (generated): drink
+  - NT: JHN 7:37 *bē-iz*; HEB 9:10 *toqo-iz*; JHN 4:13 *te-izumat*
+  - no 2sg imperative found; 'you may drink' = qo kopømbaqapé, toqo-iz
+  - script:gloss.py, 2026-10-14, supersedes `term:H8354`
+- **`term:H5117.gloss`** H5117 (rest, verb) → **pusa ndøtá** [medium, decided, attested]
+  - gloss: καταπαύω: κατέπαυσεν (HEB 4:4) — English (generated): rested
+  - NT: HEB 4:4
+  - rest (noun) = pusup (chapter 1); 'a short time' = khøuwa elavøqase (Act 18:20)
+  - script:gloss.py, 2026-10-14, supersedes `term:H5117`
+- **`term:H7364.gloss`** H7364 (wash) → **sunguz** [medium, decided, attested]
+  - gloss: λούω: ἔλουσεν (ACT 16:33) — English (generated): washed
+  - NT: ACT 16:33 *zøsungúz*; ACT 9:37 *gèsunguzím*; LUK 7:44 *gunisungúz*
+  - wash (wounds, a body, feet); 'wash yourself' = qakeza kha vø̀sungúz (built, Rut 3:3)
+  - script:gloss.py, 2026-10-14, supersedes `term:H7364`
+- **`term:H5480.gloss`** H5480 (anoint; perfume) → **tae et sisip mbomambaqape** [medium, decided, attested]
+  - gloss: μύρον: μύρου (JHN 12:3) — English (generated): perfume
+  - NT: JHN 12:3; LUK 7:46 *mo꞉qóuz*; ACT 10:38 *ande oil me gembøe-qouz*
+  - perfume = tae et sisip mbomambaqape (lit. tree-oil of good smell); to anoint / put on = qouz (also 'pour', Jhn 13:5); 'put perfume on yourself' = tae et sisip mbomambaqape qakeza kha-te vø̄qouz (built, Rut 3:3)
+  - script:gloss.py, 2026-10-14, supersedes `term:H5480`
+- **`term:H8071.gloss`** H8071 (garment, clothes) → **ndabua** [high, decided, attested]
+  - gloss: ἱμάτιον: ἱματίοις (LUK 7:25) — English (generated): clothes
+  - NT: LUK 7:25 *ndabua eqeieqei*; ACT 12:8 *vø̄-uz*; MAT 6:25; ACT 22:23 *vø̄khofoe*
+  - 'wear your best clothes' = qoqa ndabua eqeieqei vø̄-uz (after 'put on your cloak', Act 12:8); 'took off the garment' = ndabua vø̄khofoe (Act 22:23), 2sg 'take off' = vø̀khofoé (Act 7:33)
+  - script:gloss.py, 2026-10-14, supersedes `term:H8071`
+- **`term:H4304.gloss`** H4304 (shawl, cloak) → **ndabua qozaq nonqo** [medium, decided, attested]
+  - gloss: ἱμάτιον: ἱμάτιόν (ACT 12:8) — English (generated): cloak around you
+  - NT: ACT 12:8; 2TI 4:13 *qozaq nonqo ndabua*
+  - a wrap-cloth; 'bring the shawl' = qotøndó-ndáp (2Ti 4:13); 'hold it out' = qoté-ovøyām ('stretch out your hand', Luk 6:10), built for a cloth
+  - script:gloss.py, 2026-10-14, supersedes `term:H4304`
+- **`term:H3915.gloss`** H3915 (tonight, this night) → **nqægo lova** [high, decided, attested]
+  - gloss: νύξ: νυκτὶ (LUK 12:20) — English (generated): night
+  - NT: LUK 12:20; LUK 22:34; LUK 2:11
+  - night = lova; 'at midnight' = qamø-umba ndøgo (term:H2676)
+  - script:gloss.py, 2026-10-14, supersedes `term:H3915`
+- **`term:H2676.gloss`** H2676 (midnight) → **qamø-umba** [high, decided, attested]
+  - gloss: μέσος: Μέσης (MAT 25:6) — English (generated): At midnight
+  - NT: MAT 25:6; ACT 16:25 *lova u-mba*; ACT 20:7 *vømø̄-umba*
+  - 'At midnight, ...' = Yaq qamø-umba ndøgo, ... (Mat 25:6); 'about midnight' = ande av lova u-mba ndægo (Act 16:25)
+  - script:gloss.py, 2026-10-14, supersedes `term:H2676`
+- **`term:H3909.gloss`** H3909 (secretly, in secret) → **khonoam-te** [high, decided, attested]
+  - gloss: λάθρᾳ: λάθρᾳ (ACT 16:37) — English (generated): secretly
+  - NT: ACT 16:37; EPH 5:12; 2PE 2:1
+  - 'she came secretly' = khonoam-te ndowáv (Rut 3:7)
+  - script:gloss.py, 2026-10-14, supersedes `term:H3909`
+- **`term:H3943.gloss`** H3943 (turn around, turn over) → **gendoqambun** [medium, decided, attested]
+  - gloss: στρέφω: Στραφεὶς (JHN 1:38) — English (generated): turned
+  - NT: JHN 1:38; JHN 21:20; LUK 7:44 *genøqambún*
+  - turned (around, to look); 'turned toward X' = X-té genøqambún (Luk 7:44)
+  - script:gloss.py, 2026-10-14, supersedes `term:H3943`
+- **`term:H6566.gloss`** H6566 (spread over, cover) → **gutav** [medium, decided, attested]
+  - gloss: καλύπτω: καλύπτει (1PE 4:8) — English (generated): covers over
+  - NT: ACT 9:3 *vø̄gutav*; 1CO 11:6 *begutáv*; 1PE 4:8 *segégutáv*
+  - cover (the head, sins; light covered him); 'spread your garment over me' = Ambá qoqa ndabua-te qonø-gutavɨ́n (request frame of Jhn 4:7, built); see gap:cover_me
+  - script:gloss.py, 2026-10-14, supersedes `term:H6566`
+- **`term:H2654.gloss`** H2654 (want, desire, be willing) → **poev** [high, decided, attested]
+  - gloss: θέλω: θέλει (MAT 27:43) — English (generated): He wants Him
+  - NT: MAT 27:43 *poev tømbogoat*; 1CO 7:28 *poeveáv*; 1CO 10:27 *tøkeeav tøgoat*
+  - 'if he wants to redeem you' = qo nqovotaz-qa poev tømbogoat (Mat 27:43 'if He wants Him'); 'if he does not want' = poeveav tøgoat (after 'tøkeeav tøgoat' if he does not help, 1Co 10:27)
+  - script:gloss.py, 2026-10-14, supersedes `term:H2654`
+- **`term:H5234.tone.gloss`** H5234 (recognize) → **matøvém** [medium, decided, attested]
+  - gloss: ἐπιγινώσκω: ἐπεγίνωσκον (ACT 3:10) — English (generated): they recognized
+  - NT: ACT 3:10 *Gimatøvemem*; 1CO 14:24 *segé-matøvém*; JHN 21:4 *matavapøteáv, av nqægo*
+  - 'they recognized that' = gimatøvemem, av nqægo; 'did not recognize that it was X' = matavapøteáv, av nqægo, ngenek X (Jhn 21:4), used in Rut 3:14 | written matøvém (26x; matøvēm 2x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21) After a hyphen the text writes -matøvém (segé-matøvém, qate-matøvém); fused words have no mark (gematøvem, gimatøvemem, ACT 3:10).
+  - script:gloss.py, 2026-10-21, supersedes `term:H5234.tone`
+- **`term:H8210.gloss`** H8210 / H4058 (pour; measure out) → **qouz** [high, decided, attested]
+  - gloss: βάλλω: βάλλει (JHN 13:5) — English (generated): He poured
+  - NT: JHN 13:5 *ndøqóuz*; LUK 5:38 *qotúqóuz*
+  - 'he poured six measures of barley into the cloth' = bali yakhav siks, ta ndabua-te ndøqóuz (Rut 3:15); the same stem anoints (term:H5480)
+  - script:gloss.py, 2026-10-14, supersedes `term:H8210`
+- **`term:H8252.gloss`** H8252 (rest; 'he will not rest') → **pusa gétayák** [low, open, by-rule]
+  - gloss: καταπαύω: κατέπαυσεν (HEB 4:10) — English (generated): rests
+  - NT: HEB 4:10 *pusa ndø̀tá*; MAT 23:16 *gétayák*; ROM 8:1
+  - 3sg negative future of ta (hold, do): yaq-fia gétayák 'will not hold judgment' (Mat 23:16, Rom 8:1); 'he will not rest until ...' = pusa gétayák, atema ... vømǿ-navøēm (Rut 3:18); see gap:not_rest
+  - script:gloss.py, 2026-10-14, supersedes `term:H8252`
+- **`term:H3427sit.gloss`** H3427 (sit; wait, stay) → **Qanøqóm** [high, decided, attested]
+  - gloss: κάθημαι: Κάθου (ACT 2:34) — English (generated): Sit
+  - NT: ACT 2:34; HEB 1:13; MAT 22:44
+  - 2sg imperative 'sit (at my right hand)'; used for 'wait' (שְׁבִי, Rut 3:18) and 'stay here tonight' (Rut 3:13)
+  - script:gloss.py, 2026-10-14, supersedes `term:H3427sit`
+- **`term:H3381.gloss`** H3381 (go down) → **qonǿvís** [medium, decided, attested]
+  - gloss: καταβαίνω: κατάβηθι (ACT 10:20) — English (generated): Go downstairs
+  - NT: ACT 10:20; ACT 10:21 *tenøvís*; ACT 7:34 *tøtøndevís*
+  - vis = go / come down: 'go down!' = qonǿvís, 'he went down' = tenøvís, 'they went down' = ginøvis; built: gunøvís (she went down, Rut 3:6)
+  - script:gloss.py, 2026-10-14, supersedes `term:H3381`
+- **`term:H5414me.gloss`** H5414 (he gave me) → **genø-etoam** [high, decided, attested]
+  - gloss: δίδωμι: ἔδωκέν (2CO 13:10) — English (generated): gave
+  - NT: 2CO 13:10; JHN 17:4 *qoqonø-etoam*
+  - he gave me (14x); you gave me = qoqonø-etoam; I will give you = søtaqá-etoám (Mrk 6:23)
+  - script:gloss.py, 2026-10-14, supersedes `term:H5414me`
+- **`term:H5275.gloss`** H5275 (sandal) → **tamak** [high, decided, attested]
+  - gloss: ὑπόδημα: ὑπόδημα (ACT 7:33) — English (generated): sandals
+  - NT: ACT 7:33 *Qoqa tamak vø̀khofoé*; JHN 1:27 *teqa tamak khofoe-te*
+  - 'he took off his sandal' = ekeza tamak ndøkhofoé (Rut 4:7, 8)
+  - script:gloss.py, 2026-10-14, supersedes `term:H5275`
+- **`term:H5707.gloss`** H5707 (witnesses; 'you are witnesses') → **zøkeza bøí qazøte-qeivám** [high, decided, attested]
+  - gloss: μάρτυς: μάρτυρες (LUK 24:48) — English (generated): witnesses
+  - NT: LUK 24:48 *zøkeza bøí qazøte-qeivám*; ACT 3:15 *Ni nikeza bǿi qatiqeivím*
+  - 'you have seen it with your own eyes'; 'we are witnesses' = Ni nikeza bǿi qatiqeivím (Act 3:15); witnesses as people = bøi vizu ezoqam (1Ti 5:19)
+  - script:gloss.py, 2026-10-14, supersedes `term:H5707`
+- **`term:H5159.gloss`** H5159 (inheritance, family land) → **teqa manqei** [medium, decided, by-rule]
+  - gloss: γῆ: γῆν (ACT 13:19) — English (generated): land
+  - NT: ACT 7:5 *manqei-qase etopøteáv*; ACT 13:19 *manqei ... vøzø̄-etoam*; ACT 5:4 *qakeza manqei*
+  - the NT renders the land-inheritance as manqei (Act 7:5, 13:19); 'on his inheritance' = teqa manqei-te; 'my own inheritance' = nøkeza manqei
+  - script:gloss.py, 2026-10-14, supersedes `term:H5159`
+- **`term:H5971.h.gloss`** H5971 (people, one's own people) → **qogi ezoqam** [high, decided, attested]
+  - gloss: עַם: עַמֵּ֣ (RUT 1:16) — English (generated): your people
+  - NT: RUT 1:16; RUT 1:10 *qogí ezoqam-té*; RUT 1:15 *ekeza ezoqam-té*
+  - answers: people, your people, her people, my people
+  - Ours was bawan ezoqam. One's own people (kin group) = possessive + ezoqam: 'Qogi ezoqam, ndigu nogí ezoqam ndǿgoát' (your people will be my people, 1:16), 'ekeza ezoqam-té' (to her own people, 1:15). bawan = tribe, nation, descent group: 'niqa bawan' (2:11), 'Izlael bawan' (house of Israel, 4:11), 'teqa bawan-te' (among his brothers, 4:10), 'gekha bawan-âk' (of what people, JON 1:8).
+  - script:gloss.py, 2026-10-14, supersedes `term:H5971.h`
+- **`term:H5288.h.gloss`** H5288 / H970 (young men) → **angana ndakinak** [high, decided, attested]
+  - gloss: נַעַר: נְּעָרִ֤ים (RUT 2:21) — English (generated): my young men
+  - NT: RUT 3:10 *Angana ndakinak*; RUT 2:9 *No angana manqa*; RUT 2:21 *nogi sasae ezoqam namba*
+  - answers: young men, younger men
+  - Ours was ezoqa ndakinak. 'Young men' as a group = angana (men) ndakinak (3:10); in the harvest the young men are angana (2:9) or simply Boaz's workers, sasae ezoqam (2:15, 2:21).
+  - script:gloss.py, 2026-10-14, supersedes `term:H5288.h`
+- **`term:H2436.h.gloss`** H2436 (lap, bosom) → **vø̄ngenøtam** [high, decided, attested]
+  - gloss: חֵיק: חֵיקָ֔ (RUT 4:16) — English (generated): on her lap
+  - NT: RUT 4:16 *nakhasam sègendáf, vø̄ngenøtam*
+  - answers: lap, placed him on her lap
+  - 'took the child and placed him on her lap' = 'took the child and held him close' (ngenøtam, the NT's stem for kissing/embracing). Ours was ava, which in Ruth/Jonah is a bag (RUT 2:17 'ava-te', JON 1:7 'ava-té').
+  - script:gloss.py, 2026-10-14, supersedes `term:H2436.h`
+- **`term:H539nurse.h.gloss`** H539 (nurse, guardian of a child) → **noundape mbotøkeám** [low, decided, attested]
+  - gloss: אָמַן: אֹמֶֽנֶת (RUT 4:16) — English (generated): a nurse
+  - NT: RUT 4:16 *Lut noundape mbotøkeám*
+  - answers: nurse, became a nurse to him
+  - 'became a nurse to him' = 'she helped Ruth (with the child)': tøke (help) with noundape, whose meaning is not clear (only here). Ours was kewag (look after).
+  - script:gloss.py, 2026-10-14, supersedes `term:H539nurse.h`
+- **`term:H1288.h.gloss`** H1288 (bless) → **zenda ndò꞉vé** [high, decided, attested]
+  - gloss: בָּרַךְ: יְבָרֶכְ (RUT 2:4) — English (generated): bless you
+  - NT: RUT 2:4 *Yawe zenda ndò꞉vé qo-te*; RUT 2:19 *Yawe zenda ndò꞉vé, te-te*; RUT 2:20 *Yawe zenda ndò꞉vé, Boaz-te*; RUT 4:11
+  - answers: bless, blessed, the lord bless you, may he be blessed
+  - A blessing is 'Yawe zenda ndò꞉vé <X>-te' (may the LORD put his hand on X), 4× in Ruth; 3:10 'May the LORD bless you' = 'Yawe ndø̀goát qo namba' (be with you). Ours was khakheinøv (the NT's 'blessed is he'); in Ruth/Jonah khakhein means prepare, make (RUT 1:6 'gigiap vø̄khakheinam' got their things ready; JON 1:9 'gekhakheinam' made the sea and the land).
+  - script:gloss.py, 2026-10-14, supersedes `term:H1288.h`
+- **`term:H2580.h.gloss`** H2580 (favour; find favour in the eyes of) → **tanakh** [high, decided, attested]
+  - gloss: חֵן: חֵ֖ן (RUT 2:2) — English (generated): favor
+  - NT: RUT 2:2 *Ezoqa nøme tanakh ndø̀nøgó*; RUT 2:10 *qo tanakh kandambá qoqonøgo*; RUT 2:13 *qo tøke kandambá nqoqonøgot*
+  - answers: favor, find favor, found such favor, in whose sight i may find favor
+  - 'find favour with X' = 'X has pity on me' (tanakh + go with -nø- me): 'Ezoqa nøme tanakh ndø̀nøgó' (someone will be kind to me, 2:2), 'qo tanakh kandambá qoqonøgo' (you have been very kind to me, 2:10); 2:13 'you have helped me much' (tøke). The question 'why have I found favour?' (2:10) becomes the statement 'I am a foreigner, but you have been very kind to me.' Ours was kuku (love).
+  - script:gloss.py, 2026-10-14, supersedes `term:H2580.h`
+- **`term:H2617.h.gloss`** H2617 (חֶסֶד, loving devotion) → **matev mbomømboma** [high, decided, attested]
+  - gloss: חֶסֶד: חֶ֔סֶד (RUT 1:8) — English (generated): loving devotion
+  - NT: RUT 1:8 *Zo matev mbomømbomá qazogoam*; RUT 3:10 *qoqa matev mbomømboma*; JON 2:9 *qoqa kuku matev*; JON 4:2 *qo kuku matev-us Mbumbukiám*
+  - answers: loving devotion, kindness, show you loving devotion, abounding in loving devotion
+  - Ruth renders human חֶסֶד as good deeds, matev mbomømboma (1:8, 3:10); 'May the LORD show you loving devotion' = 'Yawe matev mbomambaqape ndø̀matanám zo-te' (may he do good to you, 1:9). Jonah renders God's חֶסֶד as kuku matev (love, grace, JON 2:9, 4:2). tanakh (pity) is the human's word for favour and compassion (RUT 2:2, 2:10; JON 4:2 'ezoqam tanakh qozøgoatún' you are compassionate). Ours was tanakh matev (open); settles gap:chesed.
+  - script:gloss.py, 2026-10-14, supersedes `term:H2617.h`
+- **`term:H4751.h.gloss`** H4751 / H4843 (bitter, deal bitterly) → **Noqa yage mø̀ndøsoqá** [high, decided, attested]
+  - gloss: מָרַר: מַר (RUT 1:13) — English (generated): it is much more bitter
+  - NT: RUT 1:13 *Noqa yage mø̀ndøsoqá*; RUT 1:20 *‘Yage soqaín’*
+  - answers: bitter, bitterly, dealt quite bitterly with me, more bitter
+  - Bitterness of life = 'life is bad' (yage soqa): 'Noqa yage mø̀ndøsoqá' (my life has become bitter, 1:13); Mara is explained as 'Yage soqaín' (life is bad) and Naomi as 'Yage qanimāv' (life is good, 1:20). Ours was khaqain (bitter taste, Heb 12:15).
+  - script:gloss.py, 2026-10-14, supersedes `term:H4751.h`
+- **`term:H7387.h.gloss`** H7387 (empty, empty-handed) → **zenda-zenda mba** [high, decided, attested]
+  - gloss: רֵיקָם: רֵיקָ֖ם (RUT 3:17) — English (generated): empty handed
+  - NT: RUT 3:17 *zenda-zenda mba ndøqàva᷄q*; RUT 1:21 *no anganeam mbaín, neka*
+  - answers: empty, empty-handed
+  - 'empty-handed' = 'with only (your) hands' (3:17). 'I went away full ... brought me back empty' = 'with husband and sons ... without husband, without children' (1:21). Ours was khakha-mbá.
+  - script:gloss.py, 2026-10-14, supersedes `term:H7387.h`
+- **`term:H2881.h.gloss`** H2881 (dip) → **voqotú-afanām** [medium, decided, attested]
+  - gloss: טָבַל: טָבַ֥לְתְּ (RUT 2:14) — English (generated): and dip
+  - NT: RUT 2:14 *voqotú-afanām*
+  - answers: dip, dip it
+  - 2sg imperative in a chain (vo-); stem afan. Ours was qoqom (Jhn 13:26).
+  - script:gloss.py, 2026-10-14, supersedes `term:H2881.h`
+- **`term:H6595.h.gloss`** H6595 (morsel, piece of bread) → **lou** [high, decided, attested]
+  - gloss: פַּת: פִּתֵּ֖ (RUT 2:14) — English (generated): it
+  - gloss: ἄρτος: ἄρτον (MAT 6:11) — English (generated): bread
+  - NT: RUT 2:14 *Lou qólóg*
+  - answers: morsel, piece of bread, have some bread
+  - No word for morsel: 'have some bread' = 'Lou qólóg' (eat food). Ours was 'lou mbewat'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H6595.h`
+- **`term:H7646.h.gloss`** H7646 (be satisfied) → **qambo-ewez** [high, decided, attested]
+  - gloss: χορτάζω: ἐχορτάσθησαν (MAT 14:20) — English (generated): were satisfied
+  - NT: RUT 2:14 *Gulouz, qambo-ewez*; RUT 2:18 *qambo-ewez*
+  - answers: satisfied, was satisfied, ate and was satisfied
+  - 'it (the food) filled her': qa- (it) + mbo- (her) + ewez. Confirms the stem; settles gap:satisfied.
+  - script:gloss.py, 2026-10-14, supersedes `term:H7646.h`
+- **`term:H3498.h.gloss`** H3498 (leave over, keep back) → **sègeziváz** [high, decided, attested]
+  - gloss: יָתַר: תֹּתַֽר (RUT 2:14) — English (generated): and had some left over
+  - NT: RUT 2:14 *nøme sègeziváz*; RUT 2:18 *khøuwa muin guizivaz*
+  - answers: left over, had some left over, saved
+  - Stem zivaz (put aside, keep): 'nøme sègeziváz' (she kept some back), 'guizivaz' (what she had kept). Ours was ivøvem (Jhn 6:12).
+  - script:gloss.py, 2026-10-14, supersedes `term:H3498.h`
+- **`term:H4304.h.gloss`** H4304 (shawl) → **ndabua** [high, decided, attested]
+  - gloss: ἱμάτιον: ἱμάτιον (MAT 5:40) — English (generated): cloak
+  - NT: RUT 3:15 *Qakeza ndabua nøme nandav*
+  - answers: shawl, cloak
+  - 'bring your other cloth'. 'The corner of your garment' (3:9) = 'ndabua khafuvam nonqo' (covering cloth, blanket; 3:4, 3:7, 3:9). Ours was 'ndabua qozaq nonqo'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H4304.h`
+- **`term:H6566.h.gloss`** H6566 (spread over) → **qonǿkhafuí** [high, decided, attested]
+  - gloss: פָּרַשׂ: פָרַשְׂתָּ֤ (RUT 3:9) — English (generated): Spread
+  - NT: RUT 3:9
+  - answers: spread, spread the corner of your garment over me, cover
+  - 'take a little of your blanket and cover me' (khafu cover). Ours was gutav (Act 9:3). JON 2:4, 2:6 'ùnime꞉-gutambát' (the water closed over me).
+  - script:gloss.py, 2026-10-14, supersedes `term:H6566.h`
+- **`term:H3950.h.gloss`** H3950 (glean) → **bali khakhayakh** [high, decided, attested]
+  - gloss: לָקַט: אֲלַקֳטָּ֣ה (RUT 2:2) — English (generated): and glean
+  - NT: RUT 2:2; RUT 2:3 *bali khakhayakh vømø̄pisam*; RUT 2:7 *bali khakhayakh nopisamɨ́n*; RUT 2:17 *bali khakhayakh gupisumat*
+  - answers: glean, gleaned, gleaning, gather, gathers
+  - Gleaning = picking up the left-over barley: 'bali khakhayakh ... pisam / pisum' (2:2, 2:3, 2:7, 2:15, 2:17, 2:22); 2:2 'bali khakhayakh ndigu, ezoqa tizuvatet, tæmǿpisám' (I will pick up the barley that the people drop); 'where did you glean?' = 'khae-tē qoqó-pisumam?' (2:19). Ours was 'bali nanga vingisam' (pluck heads, Mat 12:1).
+  - script:gloss.py, 2026-10-14, supersedes `term:H3950.h`
+- **`term:H7105.h.gloss`** H7105 (harvest) → **bali vingisam viav** [high, decided, attested]
+  - gloss: קָצִיר: קְצִ֥יר (RUT 1:22) — English (generated): harvest
+  - NT: RUT 1:22 *bali vingisam viav ndø-ogitát*; RUT 2:23 *bali nanga neka wit*
+  - answers: harvest, barley harvest, harvests, beginning of the barley harvest
+  - The harvest is a season, viav: 'bali vingisam viav ndø-ogitát' (the barley-picking season began, 1:22), 'until the barley and wheat season was finished' (2:23). 1:22 adds an explanation in brackets: '(Bali ndigu loge gigiáp. Tiqa bugug andé eketóp.)' Ours was 'avøe gigiap' (open).
+  - script:gloss.py, 2026-10-14, supersedes `term:H7105.h`
+- **`term:H1637.h.gloss`** H1637 (threshing floor) → **bali nanga tøkuza manqei** [high, decided, attested]
+  - gloss: גֹּרֶן: גֹּ֥רֶן (RUT 3:2) — English (generated): on the threshing floor
+  - NT: RUT 3:2 *bali nanga tøkuza manqei-te*; RUT 3:3 *bali nanga tøkuza manqei-té*; RUT 3:6 *bali nanga tøkuza manqei-te*; RUT 3:14 *bali nanga tøkuza manqei-te*
+  - answers: threshing floor
+  - 'the grain-threshing place' (tøkuza only in Ruth). Ours was 'bali evem nonqo' (built on Luk 3:17); evem (winnow) itself is confirmed: 'bali nanga ndø̀-evemét' (3:2).
+  - script:gloss.py, 2026-10-14, supersedes `term:H1637.h`
+- **`term:H3909.h.gloss`** H3909 (secretly, quietly) → **aiyav-tē** [medium, decided, attested]
+  - gloss: לָט: לָּ֔ט (RUT 3:7)
+  - NT: RUT 3:7 *aiyav-tē gunøwāv*
+  - answers: secretly, quietly, went in secretly
+  - Ours was khonoam-te (Act 16:37).
+  - script:gloss.py, 2026-10-14, supersedes `term:H3909.h`
+- **`term:H2428w.h.gloss`** H2428 (אֵשֶׁת חַיִל, woman of noble character) → **sævam matev mbomambaqapú** [high, decided, attested]
+  - gloss: אִשָּׁה: אֵ֥שֶׁת (RUT 3:11) — English (generated): are a woman
+  - gloss: חַיִל: חַ֖יִל (RUT 3:11) — English (generated): of noble character
+  - NT: RUT 3:11 *qo sævam matev mbomambaqapú*
+  - answers: woman of noble character, noble character
+  - 'a woman of good conduct'. Ours was 'sævam eqeieqeí'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H2428w.h`
+- **`term:H2428.h.gloss`** H1368 + H2428 (גִּבּוֹר חַיִל, prominent man) → **gigiap kopoav ezoqám** [high, decided, attested]
+  - gloss: חַיִל: חַ֔יִל (RUT 2:1) — English (generated): of noble character
+  - gloss: גִּבּוֹר: גִּבּ֣וֹר (RUT 2:1) — English (generated): a prominent
+  - NT: RUT 2:1
+  - answers: prominent man, man of noble character, prominent
+  - 'a man of many goods, and famous' (iz-akhae). Ours was 'gigiap eve ezoqám'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H2428.h`
+- **`term:H4496.h.gloss`** H4496 (rest, a settled life) → **yage eqeieqei** [high, decided, attested]
+  - gloss: מְנוּחָה: מְנוּחָ֔ה (RUT 1:9) — English (generated): rest
+  - NT: RUT 1:9
+  - answers: rest, find rest
+  - 'find rest in the home of your husband' = 'may he give you a good life with new husbands' (1:9). Ours was pusup (rest from toil, Mat 11:28), which stays right for physical rest ('pusa', RUT 2:7).
+  - script:gloss.py, 2026-10-14, supersedes `term:H4496.h`
+- **`term:H5401.h.gloss`** H5401 (kiss) → **sège-møvøiú** [medium, decided, attested]
+  - gloss: נָשַׁק: תִּשַּׁ֤ק (RUT 1:14) — English (generated): kissed
+  - NT: RUT 1:14 *zakhapuka-pakha sège-møvøiú*; RUT 1:9 *ziupim-pakha-za menas sègegavém*
+  - answers: kissed, kiss, kissed her mother-in-law goodbye
+  - Kisses are embraces: 1:14 'sège-møvøiú' (embraced, as the father in Luk 15:20), then 'ouo manqat vømbō-ein' (said goodbye); 1:9 'sègegavém' (held them, gavem seize/hold). Ours was 'sasa ndøngenøtam' (Mat 26:49), which the human uses for holding the child (4:16).
+  - script:gloss.py, 2026-10-14, supersedes `term:H5401.h`
+- **`term:H3637.h.gloss`** H3637 (insult, humiliate) → **mbøe-khafène᷄m** [medium, decided, attested]
+  - gloss: כָּלַם: תַכְלִימֽוּ (RUT 2:15) — English (generated): insult her
+  - NT: RUT 2:15 *Ndugu mbasønakam mbøe-khafène᷄m*
+  - answers: insult, do not insult her
+  - Prohibitive pl of khafen (drive away, Jhn 9:34): 'do not chase this girl away'. Ours was mivi (shame).
+  - script:gloss.py, 2026-10-14, supersedes `term:H3637.h`
+- **`term:H5707.h.gloss`** H5707 (witnesses) → **mòzoqeivím** [high, decided, attested]
+  - gloss: עֵד: עֵדִ֤ים (RUT 4:9) — English (generated): are witnesses
+  - NT: RUT 4:9 *zo mòzoqeivím*; RUT 4:10 *matev mòzoqeivím*; RUT 4:11 *Ni mø̀iqeivím*
+  - answers: witnesses, you are witnesses, we are witnesses
+  - A witness is one who has seen: 'zo ezoqa ewaqape ate nqazøte-qonøve, zo mòzoqeivím' (all you sitting here, you have seen it), 'Ni mø̀iqeivím' (we have seen). Ours was 'zøkeza bøí qazøte-qeivám'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H5707.h`
+- **`term:H1350.h.gloss`** H1350 (redeem; kinsman-redeemer) → **ekeza ezoqam** [high, decided, attested]
+  - gloss: גָּאַל: גֹּאֵ֤ל (RUT 4:1) — English (generated): the kinsman redeemer
+  - NT: RUT 4:1 *Elimelek-ge ekeza ezoqam*; RUT 2:20 *tigí ekeza ezoqám*; RUT 3:9 *nogé anganeam-pakha-gé ekeza ezoqám*; RUT 4:4 *Manqei ndæ̀wí*
+  - answers: kinsman-redeemer, kinsman-redeemers, redeemer, redeem, close relative
+  - The human never uses the NT's nqovotaz in Ruth. The redeemer is the relative: 'Elimelek-ge ekeza ezoqam' (Elimelech's relative, 2:3, 4:1, 4:4, 4:8), 'nogé anganeam-pakha-gé ekeza ezoqám' (my husband's relative, 3:9). Redeeming the land = buying it, wi (4:4 'Manqei ndæ̀wí' I will buy the land, 4:6 'tæwi'); redeeming the widow = marrying her, okɨ (3:13 'beqakɨ́' let him marry you, 'ndæ̀qakɨ́' I will). The duty is explained once, from the law of Moses (2:20). 'Kinsman-redeemer' for the baby (4:14) = qazeo (grandson). nqovotaz may still fit God as redeemer (Isaiah, Psalms): question for the Kuni team.
+  - script:gloss.py, 2026-10-14, supersedes `term:H1350.h`
+- **`term:H3618pl.gloss`** H3618 (daughters-in-law) → **ziupim-pakha-za** [high, decided, attested]
+  - gloss: כַּלָּה: כַלֹּתֶ֔י (RUT 1:6) — English (generated): and her daughters in law
+  - NT: RUT 1:6 *ziupim-pakha-za namba*; RUT 1:8 *Naomi nginik ziupim-pakha-za guzø-ein*; RUT 1:10 *ziupim-pakha-za*
+  - answers: daughters-in-law, her two daughters-in-law
+  - Plural of ziwap (with -pakha-za); sg 'ziwap-pakha' (1:22, 2:22). Feature kin_pakha.
+  - script:gloss.py, 2026-10-14, supersedes `term:H3618pl`
+- **`term:H2545pakha.gloss`** H2545 (her mother-in-law) → **zakhapuka-pakha** [high, decided, attested]
+  - gloss: חֲמוֹת: חֲמוֹתָ֔ (RUT 1:14) — English (generated): her mother in law goodbye
+  - NT: RUT 1:14 *zakhapuka-pakha sège-møvøiú*; RUT 2:18 *zakhapuka-pakha*; RUT 2:11 *qogu qakhapuka-pakha-te*
+  - answers: mother-in-law, her mother-in-law, your mother-in-law
+  - The kin form with -pakha (term:H2545 zakhapuka is the bare NT noun); 'your mother-in-law' = 'qakhapuka-pakha' (2:11, 3:17): the kin stem itself changes for 2nd person (z- her, q- your).
+  - script:gloss.py, 2026-10-14, supersedes `term:H2545pakha`
+- **`term:H2994.gloss`** H2994 (sister-in-law) → **qakhapikia-pakha-gu zas** [high, decided, attested]
+  - gloss: יְבֵמֶת: יְבִמְתֵּ֔ (RUT 1:15) — English (generated): your sister in law
+  - NT: RUT 1:15 *Qoge qakhapikia-pakha-gu zas*
+  - answers: sister-in-law, your sister-in-law
+  - 'your brother-in-law's wife' (qakhapikia husband's brother). Settles gap:sister_in_law.
+  - script:gloss.py, 2026-10-14, supersedes `term:H2994`
+- **`term:parents.gloss`** H1 + H517 (father and mother; mother's house) → **zøvøndipakha** [high, decided, attested]
+  - gloss: בַּיִת: בֵ֣ית (RUT 1:8) — English (generated): home
+  - gloss: γονεύς: γονεῦσιν (ROM 1:30) — English (generated): parents
+  - NT: RUT 1:8 *Zøkeza zøvøndipakha-té qazonǿ-qavøním*; RUT 2:11 *Qavøndipakha neka qakeza ezoqam-qa*
+  - answers: father and mother, your father and mother, your mother's home, mother's home
+  - Parents = evøndipakha (NT, 30×) with person prefix: zø- (your pl), qa- (your sg). 'Go back each to her mother's home' = 'Go back to your own parents' (1:8).
+  - script:gloss.py, 2026-10-14, supersedes `term:parents`
+- **`term:H376anganeam.gloss`** H376 (husband) → **anganeam** [high, decided, attested]
+  - gloss: ἀνήρ: ἀνὴρ (MAT 1:19) — English (generated): husband
+  - NT: RUT 1:12 *anganeam nøme vøténdāf*; RUT 1:21 *no anganeam-ús*; RUT 3:1 *No anganeam é-bataqa-omét*
+  - answers: husband, a husband, another husband
+  - Ruth uses anganeam (man, husband) more than zivis (term:H376, 1:5 'Zivis mbaín-a'); 'my husband's relative' = 'nogé anganeam-pakha-gé ekeza ezoqám' (3:9); 'your husbands' = 'zøivis-pakha' (1:8); 'your husband' = 'qævis' / 'qøivis-pakha' (2:11, 3:12).
+  - script:gloss.py, 2026-10-14, supersedes `term:H376anganeam`
+- **`term:grandson.gloss`** H1350 (Ruth 4:14, the child as redeemer) / grandson → **qazeo** [high, decided, attested]
+  - gloss: גָּאַל: גֹּאֵ֖ל (RUT 4:14) — English (generated): without a kinsman redeemer
+  - NT: RUT 4:14 *ndego qo qazeo geqa-etoam*; RUT 4:15 *Ngenek qazeo*
+  - answers: grandson, kinsman-redeemer
+  - Only in 4:14-15: the baby who will 'redeem' Naomi is her grandson.
+  - script:gloss.py, 2026-10-14, supersedes `term:grandson`
+- **`term:child.gloss`** H3206 / H1121 (child, baby, son) → **nakhasam** [high, decided, attested]
+  - gloss: παιδίον: παιδίου (MAT 2:8) — English (generated): Child
+  - NT: RUT 4:16 *Naomi nakhasam sègendáf*; RUT 4:13 *nakhasam anganeám gundaf*
+  - answers: child, baby, son, boy
+  - Baby, small child; 'a son' = 'nakhasam anganeam' (baby boy). nakheis = children (RUT 1:5, 4:12).
+  - script:gloss.py, 2026-10-14, supersedes `term:child`
+- **`term:H802pl.gloss`** H802 (wives; took wives) → **sakheis ndøzøkɨ́m** [high, decided, attested]
+  - gloss: אִשָּׁה: נָשִׁים֙ (RUT 1:4) — English (generated): women as their wives
+  - NT: RUT 1:4 *Moab sakheis ndøzøkɨ́m*
+  - answers: took moabite women as their wives, took wives
+  - Plural of 'sævam ndø-okɨ́' (term:H3947w): sakheis + zøkɨm. 'Mahlon had married her' = 'Malon gu-okɨam' (4:10).
+  - script:gloss.py, 2026-10-14, supersedes `term:H802pl`
+- **`term:widows.gloss`** H490 (live as widows) → **ngængæm** [high, decided, attested]
+  - gloss: χῆρος: χήρας (ACT 9:41) — English (generated): widows
+  - NT: RUT 1:13 *ngængæm até ndozóyagat*
+  - answers: refrain from having husbands, widows, widow
+  - Plural of ngæmam (widow, RUT 4:10): 'would you go on living as widows until ...'. Settles gap:refrain_marrying with 'viav kopoav ndozotó-kewagat atema nginik nakheis vumúfīs?' (would you wait many years until these boys grow up?).
+  - script:gloss.py, 2026-10-14, supersedes `term:widows`
+- **`term:H7114reap.gloss`** H7114 (reap, harvest) → **gi꞉qogavat** [high, decided, attested]
+  - gloss: קָצַר: קֹּצְרִ֑ים (RUT 2:3) — English (generated): the harvesters
+  - NT: RUT 2:3 *sasae ezoqam gi꞉qogavat, gi꞉zuvatat*; RUT 2:9 *Bali av kini-qogavet*
+  - answers: harvesting, reap, reaped
+  - Reaping = qogav (cut), with zuvat (bundle/drop) for the reapers' work; harvesters = sasae ezoqam (term:H7114).
+  - script:gloss.py, 2026-10-14, supersedes `term:H7114reap`
+- **`term:H2251.gloss`** H2251 (beat out grain) → **tag gukoqogimat** [medium, decided, attested]
+  - gloss: חָבַט: תַּחְבֹּט֙ (RUT 2:17) — English (generated): And when she beat out
+  - NT: RUT 2:17 *bali nanga tag gukoqogimat*
+  - answers: beat out, when she beat out
+  - 'when she had beaten off the husks (tag)'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H2251`
+- **`term:H8184grain.gloss`** H8184 (barley grain) → **bali nanga** [high, decided, attested]
+  - gloss: שְׂעֹרָה: שְׂעֹרִֽים (RUT 2:17) — English (generated): of barley
+  - NT: RUT 2:17 *bali nanga*; RUT 3:2 *bali nanga ndø̀-evemét*; RUT 3:15 *bali nanga*
+  - answers: barley, grain, heads of grain
+  - Barley as grain (nanga = seed, grain; 'wit nanga' wheat grain, 2:23). 1:22 explains barley in brackets.
+  - script:gloss.py, 2026-10-14, supersedes `term:H8184grain`
+- **`term:H5324.gloss`** H5324 (the servant set over the harvesters, foreman) → **ezoqam, sasae ezoqa gezø-kewagat** [high, decided, attested]
+  - gloss: נָצַב: נִּצָּ֖ב (RUT 2:5)
+  - NT: RUT 2:5
+  - answers: foreman, servant in charge of the harvesters
+  - 'the man who looked after the workers' — confirms our gap:foreman solution (kewag).
+  - script:gloss.py, 2026-10-14, supersedes `term:H5324`
+- **`term:H8198.gloss`** H8198 / H5291 (servant girl, maidservant) → **sasae mbasønakám** [high, decided, attested]
+  - gloss: אָמָה: אֲמָתֶ֔ (RUT 3:9) — English (generated): your servant
+  - NT: RUT 3:9 *qogú sasae mbasønakám*; RUT 2:8 *nogi sasae mbasønakheis namba*
+  - answers: servant girls, maidservant, servant
+  - 'working girl'; pl sasae mbasønakheis.
+  - script:gloss.py, 2026-10-14, supersedes `term:H8198`
+- **`term:H2205.gloss`** H2205 (elders of the city) → **vemiav megetapak** [high, decided, attested]
+  - gloss: זָקֵן: זִּקְנֵ֥י (RUT 4:2) — English (generated): of the elders
+  - gloss: πρεσβύτερος: πρεσβυτέρων (MAT 15:2) — English (generated): elders
+  - NT: RUT 4:2; RUT 4:9
+  - answers: elders, elders of the city
+  - megetapak = leaders (NT 'Zu megetapak').
+  - script:gloss.py, 2026-10-14, supersedes `term:H2205`
+- **`term:gate_court.gloss`** H8179 (the gate as a place of judgement) → **vemiav mboqog tambav** [high, decided, attested]
+  - gloss: שַׁעַר: שַּׁעַר֮ (RUT 4:1) — English (generated): to the gate
+  - NT: RUT 4:1
+  - answers: gate, went to the gate
+  - 'the open place at the town gate, where the men discussed matters' — the human explains the gate's function. term:H8179gate (vemiav mboqog-te) stands.
+  - script:gloss.py, 2026-10-14, supersedes `term:gate_court`
+- **`term:H591.gloss`** H591 (ship) → **palai khagua** [high, decided, attested]
+  - gloss: אֳנִיָּה: אָנִיָּ֣ה (JON 1:3) — English (generated): a ship
+  - NT: JON 1:3 *palai khagua ndøqeív*; JON 1:4 *palai khagua*; JON 1:5 *palai khagua*
+  - answers: ship, vessel, the ship's cargo
+  - NT khagua = boat (32×), palai khagua = (sailing) ship (Acts 27). 'inside the ship' = 'palai khagua mokho-te' (1:5).
+  - script:gloss.py, 2026-10-14, supersedes `term:H591`
+- **`term:H7307wind.gloss`** H7307 (wind) → **khamøe** [high, decided, attested]
+  - gloss: רוּחַ: רֽוּחַ (JON 1:4) — English (generated): wind
+  - gloss: ἄνεμος: ἀνέμου (MAT 11:7) — English (generated): wind
+  - NT: JON 1:4 *khamøe-qape*; JON 4:8 *khamøe tatas-qape*
+  - answers: wind, great wind
+  - khamøe = wind (NT 26×); -qape = great.
+  - script:gloss.py, 2026-10-14, supersedes `term:H7307wind`
+- **`term:H5591.gloss`** H5591 (storm) → **khamøe-qape** [high, decided, attested]
+  - gloss: סַעַר: סַּ֧עַר (JON 1:12) — English (generated): storm
+  - NT: JON 1:12 *nqanek khamøe-qape qandowav*; JON 1:14 *khamøe-qape qandowav*
+  - answers: storm, violent storm, tempest
+  - 'the great wind that came'. 2:4 'qoqa khamøe makhamakha' (your breakers and waves).
+  - script:gloss.py, 2026-10-14, supersedes `term:H5591`
+- **`term:H1709.gloss`** H1709 / H1710 (fish) → **zongøyam-qape** [high, decided, attested]
+  - gloss: דָּג: דָּ֣ג (JON 2:1) — English (generated): fish
+  - NT: JON 2:1 *zongøyam-qape ndokhofotáv*; JON 2:11 *zongøyam-qape ndego*; JON 2:2 *zongøyam-qa emu mokho-te*
+  - answers: fish, great fish, belly of the fish
+  - zonga = fish (NT 26×), zongøyam = a big fish (also NT, Mat 12:40); 'in the fish's belly' = 'zongøyam-qa emu mokho-te'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H1709`
+- **`term:H6213made.gloss`** H6213 (make, create) → **gekhakheinam** [high, decided, attested]
+  - gloss: עָשָׂה: עָשָׂ֥ה (JON 1:9) — English (generated): made
+  - NT: JON 1:9 *gekhakheinam*
+  - answers: made, who made
+  - khakhein = make, prepare (RUT 1:6 'gigiap vø̄khakheinam' got their things ready).
+  - script:gloss.py, 2026-10-14, supersedes `term:H6213made`
+- **`term:H3372worship.gloss`** H3372 (fear, worship God) → **nombovizáp** [high, decided, attested]
+  - gloss: יָרֵא: יָרֵ֔א (JON 1:9) — English (generated): worship
+  - NT: JON 1:9 *No Evezøza nombovizáp*; JON 2:9 *khokho mbumbuk ndizøvizap*
+  - answers: worship, i worship the lord
+  - vizap = worship; 'the men feared the LORD greatly' (1:16) = 'Evezøza-qa bazaføgakh giqeivim, ndigu møe kandambá gigonem' (saw the LORD's power and were very afraid).
+  - script:gloss.py, 2026-10-14, supersedes `term:H3372worship`
+- **`term:fear.gloss`** H3372 (be afraid) → **møe kandambá gigonem** [high, decided, attested]
+  - gloss: יָרֵא: יִּֽירְא֤וּ (JON 1:10) — English (generated): afraid
+  - gloss: φοβέω: ἐφοβήθη (MAT 2:22) — English (generated): he was afraid
+  - NT: JON 1:10 *ndigu møe kandambá gigonem*; JON 1:5 *qambuat møe ndøgoném*
+  - answers: afraid, even more afraid, feared
+  - møe + go (do fear); 'from the presence of the LORD' (fleeing) = 'Evezøza-qá møe' (for fear of the LORD, 1:3).
+  - script:gloss.py, 2026-10-14, supersedes `term:fear`
+- **`term:H1272.gloss`** H1272 (flee) → **khokhon** [high, decided, attested]
+  - gloss: בָּרַח: בְרֹ֣חַ (JON 1:3) — English (generated): to flee
+  - NT: JON 1:3 *Evezøza-qá møe ndøkhokhonát*; JON 1:10 *Nòkhokhonét*; JON 4:2 *tækhokhonɨn*
+  - answers: flee, fled, fleeing, away from the presence of the lord
+  - 1:3 adds 'Ziona, Evezøza-qa manqat gè-ogí' (Jonah threw away the LORD's word) before the flight.
+  - script:gloss.py, 2026-10-14, supersedes `term:H1272`
+- **`term:H6419.gloss`** H6419 (pray) → **guligulim** [high, decided, attested]
+  - gloss: פָּלַל: יִּתְפַּלֵּ֨ל (JON 4:2) — English (generated): So he prayed
+  - gloss: δέησις: δεήσεις (LUK 5:33) — English (generated): pray
+  - NT: JON 4:2 *āv gene-guligulím nqǽgo*; JON 2:3 *Geguligulim*
+  - answers: prayed, pray, prayer
+  - Prayer as a noun: viam (JON 2:8 'noqa viam manqat'; 3:8 'viam bazaføgakh-us zógoném Mbumbukiam-te' call out earnestly to God).
+  - script:gloss.py, 2026-10-14, supersedes `term:H6419`
+- **`term:H5088.gloss`** H5088 (vow) → **manqa mbusa** [high, decided, attested]
+  - gloss: נָדַר: יִּדְּר֖וּ (JON 1:16) — English (generated): and made
+  - NT: JON 1:16 *manqa mbusa vø̄veem*; JON 2:10 *manqa mbusa qateve*
+  - answers: vows, vowed, made vows
+  - 'put down a promise' (ve put): vow = manqa mbusa (promise, RUT 2:20 'Manqa mbusa ndøgo').
+  - script:gloss.py, 2026-10-14, supersedes `term:H5088`
+- **`term:H929.gloss`** H929 / H1241 / H6629 (beasts, herds, flocks) → **søvakha gigiap** [high, decided, attested]
+  - gloss: בְּהֵמָה: בְּהֵמָ֜ה (JON 3:7) — English (generated): or beast
+  - NT: JON 3:7 *zogí søvakha gigiáp-a*; JON 4:11 *søvakha gigiap nanak kopoáv*
+  - answers: beast, herd, flock, cattle, animals
+  - 'animals' (søvakha = animal kept); herd and flock are not distinguished.
+  - script:gloss.py, 2026-10-14, supersedes `term:H929`
+- **`term:H8242.gloss`** H8242 (sackcloth) → **ndabua soqøsoqa** [high, decided, attested]
+  - gloss: שַׂק: שַׂקִּ֔ים (JON 3:5) — English (generated): in sackcloth
+  - NT: JON 3:5; JON 3:6 *ndabua soqøsoqa vø̄-uzam*; JON 3:8 *ndabua soqøsoqa zó-uzám*
+  - answers: sackcloth, dressed in sackcloth, covered himself with sackcloth
+  - 'bad clothes'; 3:5 adds the local mourning sign 'mutøkhop vø̄wanim' (put on mourning clay), as the NT glossary Niniva has it.
+  - script:gloss.py, 2026-10-14, supersedes `term:H8242`
+- **`term:H6685.gloss`** H6685 (fast) → **lou logemav matev** [high, decided, attested]
+  - gloss: צוֹם: צוֹם֙ (JON 3:5) — English (generated): a fast
+  - NT: JON 3:5 *lou logemav matev zígoném*
+  - answers: fast, proclaimed a fast
+  - 'not-eating', as the NT (logemav 14×). 'They proclaimed a fast' = 'manqa ndøvøovømém, gi-einim, “Ndakin ni ... lou logemav matev zígoném.”' (they decided and said: let us now all fast).
+  - script:gloss.py, 2026-10-14, supersedes `term:H6685`
+- **`term:H3678.gloss`** H3678 (throne) → **qonam nonqo** [high, decided, attested]
+  - gloss: כִּסֵּא: כִּסְא֔ (JON 3:6) — English (generated): from his throne
+  - gloss: θρόνος: θρόνου (MAT 19:28) — English (generated): throne
+  - NT: JON 3:6 *ekeza qonam nonqo-te geqonumam*
+  - answers: throne
+  - 'seat' (nonqo = thing for).
+  - script:gloss.py, 2026-10-14, supersedes `term:H3678`
+- **`term:king.gloss`** H4428 (king) → **kawa** [high, decided, attested]
+  - gloss: מֶלֶךְ: מֶ֣לֶך (JON 3:6) — English (generated): the king
+  - gloss: βασιλεύς: βασιλέα (MAT 1:6) — English (generated): king
+  - NT: JON 3:6 *Niniva taon-ak-ge kawa*; JON 3:7 *no Niniva kawa*
+  - answers: king
+  - As the NT.
+  - script:gloss.py, 2026-10-14, supersedes `term:king`
+- **`term:H5162relent.gloss`** H5162 (God relents) → **matavap peté-enēnd** [high, decided, attested]
+  - gloss: נָחַם: נִחַ֖ם (JON 3:9) — English (generated): and relent
+  - NT: JON 3:9; JON 4:2 *qo matavap sòqo-enendɨ́n*
+  - answers: relent, relents, turn and relent
+  - 'change his mind' (matavap mind + enend change).
+  - script:gloss.py, 2026-10-14, supersedes `term:H5162relent`
+- **`term:H639.gloss`** H639 / H2734 (anger, be angry) → **qaqa** [high, decided, attested]
+  - gloss: חָרָה: חָ֥רָה (JON 4:4) — English (generated): to be angry
+  - NT: JON 4:4 *qo qaqa ndoqogot*; JON 4:9 *No kopømbá qaqa nqægot*; JON 3:9 *ndego qaqa pømbøé-navøēm*
+  - answers: angry, anger, fierce anger, became angry
+  - 'be angry' = 'qaqa go'; 4:1 'was greatly displeased and became angry' = 'khanakhanakh mbaín, neka mbøni mbonqosøgím' (he was not glad and was upset).
+  - script:gloss.py, 2026-10-14, supersedes `term:H639`
+- **`term:H539believe.gloss`** H539 (believe) → **gè-unimanqatiním** [high, decided, attested]
+  - gloss: אָמַן: יַּאֲמִ֛ינוּ (JON 3:5) — English (generated): believed
+  - gloss: πιστεύω: Πιστεύετε (MAT 9:28) — English (generated): Do you believe
+  - NT: JON 3:5 *Mbumbukiam-qa manqat giyogem, gè-unimanqatiním*
+  - answers: believed, believed god
+  - 'heard God's word and believed (it was true)'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H539believe`
+- **`term:H7021.gloss`** H7021 (qiqayon, the plant) → **gumbag** [high, decided, attested]
+  - gloss: קִיקָיוֹן: קִיקָי֞וֹן (JON 4:6) — English (generated): a vine
+  - NT: JON 4:6 *gumbag ndøkhofotáv*; JON 4:7 *gumbag ngum vø̄louz*; JON 4:10 *gumbag-qa yaq-te*
+  - answers: vine, plant
+  - A local plant name (castor oil plant in the BSB note). 'it withered' = 'gumbag vø̄pakha' (died).
+  - script:gloss.py, 2026-10-14, supersedes `term:H7021`
+- **`term:H6921.gloss`** H6921 (scorching east wind) → **khamøe tatas-qape** [high, decided, attested]
+  - gloss: רוּחַ: ר֤וּחַ (JON 4:8) — English (generated): wind
+  - gloss: קָדִים: קָדִים֙ (JON 4:8) — English (generated): east
+  - NT: JON 4:8 *khamøe tatas-qape*
+  - answers: scorching east wind, east wind
+  - 'a very hot wind' — 'east' not rendered.
+  - script:gloss.py, 2026-10-14, supersedes `term:H6921`
+- **`term:sun.gloss`** H8121 (sun) → **khøuwa** [high, decided, attested]
+  - gloss: שֶׁמֶשׁ: שֶּׁ֗מֶשׁ (JON 4:8) — English (generated): As the sun
+  - NT: JON 4:8 *Yaq khøuwa gendo-eqan*; JON 4:8 *khøuwa tatas-te*
+  - answers: sun, as the sun was rising
+  - khøuwa = sun and day: 'the sun rose, noon came' (khøuwa gendo-eqan, muin ge-itan).
+  - script:gloss.py, 2026-10-14, supersedes `term:sun`
+- **`term:H5521.gloss`** H5521 (shelter, booth) → **khoev-qase** [high, decided, attested]
+  - gloss: סֻכָּה: סֻכָּ֗ה (JON 4:5) — English (generated): a shelter
+  - NT: JON 4:5 *khoev-qase tēmø̄wēv*; RUT 2:7 *Khoev-qase-te ndøgo*
+  - answers: shelter, booth
+  - 'small house'.
+  - script:gloss.py, 2026-10-14, supersedes `term:H5521`
+- **`term:H3444.gloss`** H3444 (salvation) → **khandi etoam matev** [high, decided, attested]
+  - gloss: יְשׁוּעָה: יְשׁוּעָ֖תָ (JON 2:10) — English (generated): Salvation
+  - NT: JON 2:10 *khandi etoam matev*
+  - answers: salvation
+  - 'life-giving'; see formula:salvation_from_the_lord.
+  - script:gloss.py, 2026-10-14, supersedes `term:H3444`
+- **`term:H2416life.gloss`** H5315 / H2416 (life) → **khandi** [high, decided, attested]
+  - gloss: חַיִּים: חַיַּ֖ (JON 2:7) — English (generated): my life
+  - gloss: ζωή: ζωήν (MAT 7:14) — English (generated): life
+  - NT: JON 2:7 *khandi voqonø̄-etoam*; JON 4:3 *noqa khandi vø̀ndáp*
+  - answers: life, my life, raised my life
+  - Also RUT 2:20 'khandi ezoqam' (the living).
+  - script:gloss.py, 2026-10-14, supersedes `term:H2416life`
+- **`term:H1964.gloss`** H1964 (holy temple) → **khoev mbomambaqape** [high, decided, attested]
+  - gloss: הֵיכָל: הֵיכַ֖ל (JON 2:5) — English (generated): temple
+  - NT: JON 2:5 *qoqa khoev mbomambaqape*
+  - answers: holy temple, temple
+  - 'your good/holy house'; 2:8 'qakeza khoev-te' (in your own house).
+  - script:gloss.py, 2026-10-14, supersedes `term:H1964`
+- **`term:H1892.gloss`** H1892 + H7723 (worthless idols) → **khokho mbumbuk** [high, decided, attested]
+  - gloss: הֶבֶל: הַבְלֵי (JON 2:9) — English (generated): idols
+  - NT: JON 2:9 *khokho mbumbuk ndizøvizap*
+  - answers: worthless idols, idols
+  - 'false gods' (khokho, as in 'lie').
+  - script:gloss.py, 2026-10-14, supersedes `term:H1892`
+- **`term:H7585.gloss`** H7585 (Sheol) → **løvøte avønin-te** [high, decided, attested]
+  - gloss: שְׁאוֹל: שְׁא֛וֹל (JON 2:3) — English (generated): of Sheol
+  - NT: JON 2:3 *No løvøte avønin-te qæmø-itan*
+  - answers: sheol, belly of sheol, the pit
+  - 'I was close to death'; 2:7 'the pit' = rescue from death ('khandi voqonø̄-etoam').
+  - script:gloss.py, 2026-10-14, supersedes `term:H7585`
+- **`term:H7549.gloss`** H7549 רָקִיעַ (expanse, firmament) → **khaiya** [medium, decided, attested]
+  - gloss: רָקִיעַ: רָקִ֖יעַ (GEN 1:6) — English (generated): an expanse
+  - gloss: οὐρανός: οὐρανοῦ (HEB 11:12) — English (generated): sky
+  - NT: HEB 11:12 *khaiya-te nqo꞉go*; MAT 16:2 *Khaiya køkouk*
+  - answers: expanse, the expanse, expanse of the sky, open expanse
+  - khaiya = the visible sky (stars, weather: Heb 11:12, Mat 16:2-3); yan = heaven (God's dwelling; 'heavens and earth'). Gen 1:8 God names the khaiya 'Yan'. Lights and birds are 'khaiya-te'.
+  - script:gloss.py, 2026-10-15, supersedes `term:H7549`
+- **`term:H8064.gloss`** H8064 שָׁמַיִם (heavens, sky) → **yan** [high, decided, attested]
+  - gloss: οὐρανός: οὐρανὸν (ACT 4:24) — English (generated): heaven
+  - NT: ACT 4:24 *Yan neka manqei-qape*; REV 14:7 *yan neka manqei-qape*
+  - answers: heavens, the heavens and the earth, sky
+  - 'the heavens and the earth' = 'yan neka manqei-qape' (Act 4:24, Rev 14:7). For רְקִיעַ הַשָּׁמַיִם use khaiya-te (term:H7549).
+  - script:gloss.py, 2026-10-15, supersedes `term:H8064`
+- **`term:H914.gloss`** H914 בָּדַל (separate) → **geqatøzo** [high, decided, attested]
+  - gloss: χωρίζω: χωριζέτω (MRK 10:9) — English (generated): separate
+  - NT: MAT 25:32 *géqatøzó*; MRK 10:9 *beqatø̀zo᷄*
+  - answers: separated, separate, to separate, distinguish
+  - qatøzo = separate (Mat 25:32 the shepherd separates; Mrk 10:9 let no one separate). Past geqatøzo; optative beqatøzo (2x in the corpus).
+  - script:gloss.py, 2026-10-15, supersedes `term:H914`
+- **`term:H2822cover.gloss`** H2822 + עַל־פְּנֵי (darkness over the surface of) → **bøivun ndønqeivøém** [high, decided, attested]
+  - gloss: σκότος: σκότος (LUK 23:44) — English (generated): darkness
+  - NT: LUK 23:44 *bøivun ndønqeivøém*
+  - answers: darkness was over the surface, darkness over the deep
+  - 'darkness covered (the land)' (Luk 23:44). Gen 1:2 'anana-mba-qape bøivun ndønqeivøém' (the deep = term:H8415).
+  - script:gloss.py, 2026-10-15, supersedes `term:H2822cover`
+- **`term:H7363.gloss`** H7363 רָחַף (hover) → **me꞉løvuvavún** [low, decided, attested]
+  - gloss: רָחַף: מְרַחֶ֖פֶת (GEN 1:2) — English (generated): was hovering
+  - NT: MRK 1:10 *me꞉løvuvavún*
+  - answers: hovering, hovering over
+  - løvuvav = fly (down) (Mrk 1:10, Mat 3:16: the Spirit like a dove). Gen 1:2 without the simile. Whether it can mean hovering in place: question for the Kuni team.
+  - script:gloss.py, 2026-10-15, supersedes `term:H7363`
+- **`term:H6960.gloss`** H6960 קָוָה (be gathered; מִקְוֶה gathering of waters) → **bepindám** [low, decided, by-rule]
+  - gloss: קָוָה: יִקָּו֨וּ (GEN 1:9) — English (generated): be gathered
+  - NT: ACT 16:13 *é-møndøpindám*
+  - answers: gathered, be gathered, gathering, gathering of waters
+  - pind = gather, assemble, said of people (gindupindam 22x). For the waters by analogy: 'manqei kopo-té bepindám', 'ibøkha gipindam ndøgo' (the water that gathered). See gap:waters_gather.h.
+  - script:gloss.py, 2026-10-15, supersedes `term:H6960`
+- **`term:H7200appear.tone.gloss`** H7200 (Niphal: appear) → **befakhán** [medium, decided, by-rule]
+  - gloss: ὁράω: ὤφθη (REV 12:1) — English (generated): appeared
+  - NT: REV 12:1 *ndøfakhán*; LUK 1:38 *befakhán*; LUK 22:42 *befakhán*
+  - answers: appear, may appear
+  - fakhan = come out, appear (Rev 12:1, 12:3 a sign appeared); optative befakhan (8x). | the optative is written befakhán / bèfakhán ('let it be', LUK 1:38, 22:42); befàkha᷄n with the prohibitive tone is 'it must not be' (4x): the tone mark the Kuni text always writes (the store had the plain form; store validator, 2026-10-21)
+  - script:gloss.py, 2026-10-21, supersedes `term:H7200appear.tone`
+- **`term:H1877.gloss`** H1877 / H3418 דֶּשֶׁא / יֶרֶק (vegetation, green plants) → **gagayag** [medium, decided, attested]
+  - gloss: χόρτος: χόρτον (MAT 6:30) — English (generated): grass
+  - NT: MAT 6:30 *gagayag-te*; 1PE 1:24 *gagayag*
+  - answers: vegetation, green plant, grass
+  - gagayag = grass, plants of the field (Mat 6:30, 1Pe 1:24).
+  - script:gloss.py, 2026-10-15, supersedes `term:H1877`
+- **`term:H2233seed.gloss`** H2233 זֶרַע (seed) → **tae nanga** [medium, decided, attested]
+  - gloss: זֶרַע: זֶ֔רַע (GEN 1:11)
+  - NT: 1CO 15:36 *Tae nanga*
+  - answers: seed, with seed, whose fruit contains seed
+  - tae nanga = seed to sow (1Co 15:36); 'with seed in it' = 'ta nanga mokho-te ... tae nanga ndøugu' (inside, Act 10:12 'Ta mokho-te ndøugu').
+  - script:gloss.py, 2026-10-15, supersedes `term:H2233seed`
+- **`term:H3974.gloss`** H3974 מְאֹרֹת (lights; the greater and the lesser light) → **waev** [medium, decided, attested]
+  - gloss: φῶς: φῶς (2CO 4:6) — English (generated): Let light
+  - NT: 2CO 4:6 *Waev bekhā*; LUK 21:25 *Khøuwa neka løvøyak*
+  - answers: lights, greater light, lesser light, great lights
+  - waev = light. Gen 1:16 names the two lights in the text (feature explicitation): 'Waev kandambaqape, ndøgo khøuwá ... waev khasøkhasis, ndøgo løvøyák' (sun, moon; Luk 21:25). Marked for the team.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3974`
+- **`term:H226.gloss`** H226 + H4150 (signs, seasons) → **umingiap** [low, decided, attested]
+  - gloss: σημεῖον: σημεῖα (ACT 2:19) — English (generated): signs
+  - NT: ACT 2:19 *umingiap matev*
+  - answers: signs, seasons, days and years
+  - umingiap = sign, wonder (83x). מוֹעֲדִים as 'pindap khøuwa' (feast days, Jhn 5:1); 'times and seasons' in the NT = 'khøuwa neka viav' (Act 1:7).
+  - script:gloss.py, 2026-10-15, supersedes `term:H226`
+- **`term:H5775.gloss`** H5775 עוֹף (birds; winged birds, birds of the air) → **pipisi** [high, decided, attested]
+  - gloss: עוֹף: עוֹף֙ (GEN 1:20) — English (generated): and let birds
+  - gloss: πετεινός: πετεινὰ (MAT 6:26) — English (generated): birds
+  - NT: MAT 6:26 *Pipisi*; JAS 3:7 *ndiløvuvam*
+  - answers: birds, bird, winged bird, birds of the air, fly
+  - pipisi = bird; 'the ones that fly' = ndiløvuvam (Jas 3:7). 'birds of the air' = 'pipisi, khaiya-te'. 'let birds fly' = bete-løvuvat (by pattern; gap:birds_fly.h).
+  - script:gloss.py, 2026-10-15, supersedes `term:H5775`
+- **`term:H7431.gloss`** H7431 / H7430 רֶמֶשׂ / רֹמֵשׂ (creeping things, what crawls) → **gigiap ndivisigiap** [high, decided, attested]
+  - gloss: רֶמֶשׂ: רֶ֛מֶשׂ (GEN 1:24) — English (generated): land crawlers
+  - NT: ACT 11:6 *ndivisigiap*; JAS 3:7 *ndivisigiap*
+  - answers: crawlers, land crawlers, crawls, creature that crawls, everything that crawls, moves
+  - visigiap = crawl (reptiles, Act 10:12, 11:6, Jas 3:7). 'that crawls on the earth' = 'manqei-qape-te ndivisigiap'.
+  - script:gloss.py, 2026-10-15, supersedes `term:H7431`
+- **`term:H6754.gloss`** H6754 + H1823 צֶלֶם / דְּמוּת (image, likeness) → **andé <X> bugug me** [medium, decided, attested]
+  - gloss: צֶלֶם: צַלְמֵ֖ (GEN 1:26) — English (generated): in Our image
+  - gloss: εἰκών: εἰκὼν (2CO 4:4) — English (generated): image
+  - NT: 2CO 4:4 *Mbumbukiam-qa bugug me*; COL 1:15 *Mbumbukiam-qá bugug ndondáp*
+  - answers: image, in our image, likeness, after our likeness, in his own image, in the image of god
+  - bugug = face, form; Christ, the image of God (2Co 4:4, Col 1:15). Gen 1:26-27 'andé niqa bugug me', 'andé ekeza bugug me', 'andé Mbumbukiam-qa bugug me'.
+  - script:gloss.py, 2026-10-15, supersedes `term:H6754`
+- **`term:H5315living.gloss`** H5315 + H2416 נֶפֶשׁ חַיָּה (living creatures; that has the breath of life) → **khandi gigiap** [high, decided, attested]
+  - gloss: נֶפֶשׁ: נֶ֣פֶשׁ (GEN 1:20) — English (generated): with living
+  - NT: REV 6:3 *khandi gigiap nøme*
+  - answers: living creatures, living thing, living creature, breath of life, every living thing
+  - khandi = life; khandi gigiap = living creature (Rev 4-6). 'that has the breath of life' = 'khandi-us ndigu' (with life; -us by pattern).
+  - script:gloss.py, 2026-10-15, supersedes `term:H5315living`
+- **`term:H7307spirit.gloss`** H7307 (spirit) → **Nqova** [high, observed, attested]
+  - gloss: πνεῦμα: Πνεύματός (1CO 6:19) — English (generated): Spirit
+  - NT: 1CO 6:19 *Nqova Mbomambaqape*; 1CO 2:4 *Mbumbukiam-ge Nqova*
+  - answers: spirit, my spirit, his spirit
+  - BSB spirit: 286 of 312 verses have it (631 verses in all). From study run v2b (term:G4151), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H7307spirit`
+- **`term:H1004.gloss`** H1004 (house, household) → **khoev** [high, observed, attested]
+  - gloss: οἶκος: οἶκον (1CO 16:19) — English (generated): house
+  - NT: 1CO 16:19 *khoev*; 1PE 2:5 *khoev*
+  - answers: house, home, household
+  - BSB house/home/household: 172 of 213 verses have it (567 verses in all). From study run v2b (term:G3624), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H1004`
+- **`term:H1121.gloss`** H1121 (son of a father) → **yo** [high, observed, attested]
+  - gloss: υἱός: Υἱοῦ (1JN 1:7) — English (generated): Son
+  - NT: 1JN 1:7 *Mbumbukiam-ge Yo*; 1CO 1:9 *tege yo*
+  - answers: son of, his son, sons of
+  - BSB son/sons: 274 of 391 verses have it (689 verses in all). 'X's son' = <X>-ge yo (formula:x_son_of_y.h); a newborn or child is nakhasam (term:child), sons as children nakhei angana (term:H1121pl). From study run v2b (term:G5207), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H1121`
+- **`term:H1.gloss`** H1 (father) → **tat** [high, observed, attested]
+  - gloss: πατήρ: Πατρὸς (ACT 1:4) — English (generated): Father
+  - NT: ACT 1:4 *noge Tat*; 1CO 1:3 *nigi Tat*
+  - answers: father
+  - BSB father: 191 of 348 verses have it (685 verses in all). Plural fathers / forefathers: tat-za (feature plural); father and mother = zøvøndipakha (term:parents). From study run v2b (term:G3962), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H1`
+- **`term:H120.gloss`** H120 / H376 (man, person, human being) → **ezoqam** [high, observed, attested]
+  - gloss: ἄνθρωπος: ἀνθρώπων (1CO 1:25) — English (generated): than man s
+  - NT: 1CO 1:20 *ezoqam*; 1CO 1:25 *ezoqam*
+  - answers: man, person, mankind
+  - BSB man/person/people: 599 of 897 verses have it (3372 verses in all). People in general ezoqa (term:H5971.h); ezoqam also follows role nouns (feature agent_noun). From study run v2b (term:G444), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H120`
+- **`term:H4438.gloss`** H4438 / H4467 (kingdom, reign) → **Megeat Matev** [high, observed, attested]
+  - gloss: βασιλεία: βασιλεία (1CO 4:20) — English (generated): kingdom
+  - NT: 1CO 4:20 *Megeat Matev*; 1CO 6:9 *Megeat Matev*
+  - answers: kingdom
+  - BSB kingdom: 131 of 147 verses have it (147 verses in all). The kingdom of God = Mbumbukiam-qa Megeat Matev (formula:kingdom_of_god). From study run v2b (term:G932), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H4438`
+- **`term:H2403.gloss`** H2403 / H5771 (sin, iniquity) → **manqa-zapazapa** [high, observed, attested]
+  - gloss: ἁμαρτία: ἁμαρτιῶν (1CO 15:3) — English (generated): sins
+  - NT: 1CO 15:3 *manqa-zapazapa*; 1JN 1:7 *manqa-zapazapa*
+  - answers: sin, sins
+  - BSB sin/sins: 107 of 179 verses have it (265 verses in all). Evil deeds in Jonah: manqa-zapazapa (formula:turn_from_evil); sinful = manqa-zapazapa-us (having_suffix). From study run v2b (term:G266), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H2403`
+- **`term:H3548.gloss`** H3548 (priest) → **iziz ezoqam** [high, observed, attested]
+  - gloss: ἱερεύς: ἱερεῖς (ACT 4:1) — English (generated): priests
+  - NT: 1PE 2:9 *iziz ezoqam*; ACT 4:1 *iziz ezoqam*
+  - answers: priest, priests
+  - BSB priest/priests: 123 of 153 verses have it (151 verses in all). God's priest: Mbumbukiam-ge iziz ezoqam; priests: -gi (possessor). From study run v2b (term:G2409), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3548`
+- **`term:H7965.gloss`** H7965 (peace) → **sambi** [high, observed, attested]
+  - gloss: εἰρήνη: εἰρήνη (1CO 1:3) — English (generated): peace
+  - NT: 1CO 1:3 *sambi*; 1CO 7:15 *sambi*
+  - answers: peace
+  - BSB peace: 80 of 90 verses have it (86 verses in all). From study run v2b (term:G1515), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H7965`
+- **`term:H157.gloss`** H157 / H160 (love) → **kuku** [high, observed, attested]
+  - gloss: χάρις: Χάρις (1CO 1:3) — English (generated): Grace
+  - NT: 1CO 1:3 *kuku matev*; 1CO 1:4 *kuku matev*
+  - answers: love, grace
+  - BSB love/grace: 271 of 299 verses have it (369 verses in all). God's חֶסֶד in Jonah = kuku matev (term:H2617.h). From study run v2b (term:G26), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H157`
+- **`term:H5030.gloss`** H5030 (prophet) → **manqa vevezam ezoqam** [high, observed, attested]
+  - gloss: προφήτης: προφήτας (1CO 12:28) — English (generated): prophets
+  - NT: 1CO 12:28 *manqa vevezam ezoqam*; 1CO 12:29 *manqa vevezam ezoqam*
+  - answers: prophet, prophets
+  - BSB prophet/prophets: 142 of 151 verses have it (171 verses in all). God's prophet: Mbumbukiam-ge manqa vevezam ezoqam (feature agent_noun). From study run v2b (term:G4396), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5030`
+- **`term:H5650.gloss`** H5650 (servant, slave) → **sasae ezoqam** [high, observed, attested]
+  - gloss: διάκονος: διάκονοι (1CO 3:5) — English (generated): servants
+  - NT: 1CO 3:5 *sasae ezoqam*; 1CO 4:1 *sasae ezoqam*
+  - answers: servant, servants
+  - BSB servant/servants: 133 of 172 verses have it (265 verses in all). A servant girl is sasae mbasønakám (term:H8198). From study run v2b (term:G1401), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5650`
+- **`term:H4325.gloss`** H4325 (water) → **ibøkha** [high, observed, attested]
+  - gloss: ὕδωρ: ὕδωρ (JHN 4:7) — English (generated): water
+  - NT: 1CO 3:6 *ibøkha*; 1CO 3:7 *ibøkha*
+  - answers: water, waters
+  - BSB water/waters: 74 of 82 verses have it (255 verses in all). From study run v2b (term:G5204), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H4325`
+- **`term:H8034.gloss`** H8034 (name) → **iz** [high, observed, attested]
+  - gloss: ὄνομα: ὀνόματι (ACT 5:1) — English (generated): named
+  - NT: ACT 5:1 *tuqa iz*; 1CO 1:2 *iz*
+  - answers: name
+  - BSB name: 135 of 168 verses have it (1939 verses in all). Naming: feature naming, formula:named_it. From study run v2b (term:G3686), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H8034`
+- **`term:H3027.gloss`** H3027 (hand) → **zenda** [high, observed, attested]
+  - gloss: χείρ: χερσίν (1CO 4:12) — English (generated): hands
+  - NT: 1CO 4:12 *zenda*; 1CO 5:5 *zenda*
+  - answers: hand, hands
+  - BSB hand/hands: 150 of 209 verses have it (350 verses in all). Also 'power over' (zenda-té, gap:rule_over.h) and blessing (term:H1288.h). From study run v2b (term:G5495), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3027`
+- **`term:H5892.gloss`** H5892 (city, town) → **taon** [high, observed, attested]
+  - gloss: πόλις: πόλει (2CO 11:26) — English (generated): city
+  - NT: 2CO 11:26 *taon*; 2CO 11:32 *taon*
+  - answers: city, town
+  - BSB city/town: 117 of 161 verses have it (508 verses in all). A village is vemiav (term:village); taon follows a city's name (place_class_noun). From study run v2b (term:G4172), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5892`
+- **`term:H784.gloss`** H784 (fire) → **gøinam** [high, observed, attested]
+  - gloss: πῦρ: πῦρ (1CO 3:13) — English (generated): fire
+  - NT: 1CO 3:13 *gøinam*; 1PE 1:7 *gøinam*
+  - answers: fire
+  - BSB fire: 48 of 72 verses have it (77 verses in all). From study run v2b (term:G4442), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H784`
+- **`term:H3117.gloss`** H3117 (day, time) → **khøuwa** [high, observed, attested]
+  - gloss: ἡμέρα: ἡμέρᾳ (1CO 1:8) — English (generated): day
+  - NT: 1CO 1:8 *khøuwa*; 1CO 3:13 *khøuwa*
+  - answers: day, days, time
+  - BSB day/days/time: 412 of 573 verses have it (851 verses in all). Today = nqægo khaiya (term:H3117today); sun is also khøuwa (term:sun). From study run v2b (term:G2250), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3117`
+- **`term:H6629.gloss`** H6629 / H7716 (sheep, flock) → **sip** [high, observed, attested]
+  - gloss: πρόβατον: πρόβατα (1PE 2:25) — English (generated): sheep
+  - NT: 1PE 2:25 *sip*; ACT 8:32 *sip*
+  - answers: sheep, flock, lamb
+  - BSB sheep/flock/lamb: 82 of 85 verses have it (135 verses in all). From study run v2b (term:G4263), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H6629`
+- **`term:H3196.gloss`** H3196 (wine) → **waen** [high, observed, attested]
+  - gloss: οἶνος: οἴνῳ (1TI 5:23) — English (generated): wine
+  - NT: 1TI 5:23 *waen*; JHN 2:3 *waen*
+  - answers: wine
+  - BSB wine: 29 of 34 verses have it (72 verses in all). From study run v2b (term:G3631), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3196`
+- **`term:H7704.gloss`** H7704 (field) → **khae** [medium, observed, attested]
+  - gloss: γεώργιον: γεώργιον (1CO 3:9) — English (generated): field
+  - NT: 1CO 3:9 *khae*; ACT 1:18 *khae*
+  - answers: field, fields
+  - BSB field/fields: 30 of 41 verses have it (357 verses in all). From study run v2b (term:G68), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H7704`
+- **`term:H1471.gloss`** H1471 (nation, people group) → **bawan** [medium, observed, attested]
+  - gloss: ἔθνος: ἔθνος (1PE 2:9) — English (generated): nation
+  - NT: 1CO 14:21 *bawan*; 1PE 2:9 *bawan*
+  - answers: nation, nations, gentiles, tribe
+  - BSB nation/nations/gentiles: 127 of 158 verses have it (449 verses in all). Nations = bawabawan (plural); Gentiles, foreigners = vini-ak (term:H5237); clan khagua bawan (term:H4940). From study run v2b (term:G1484), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H1471`
+- **`term:H3467.gloss`** H3467 / H4931 (saviour; save) → **khandi etoam ezoqam** [medium, observed, attested]
+  - gloss: σωτήρ: Σωτῆρος (1TI 1:1) — English (generated): Savior
+  - NT: 1TI 1:1 *khandi etoam ezoqam*; 1TI 2:3 *khandi etoam ezoqam*
+  - answers: savior, saviour, deliverer
+  - BSB savior/saviour/save: 24 of 104 verses have it (35 verses in all). Salvation = khandi etoam matev (term:H3444). From study run v2b (term:G4991), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3467`
+- **`term:H4941.gloss`** H4941 (judgment, justice) → **ovøyam** [medium, observed, attested]
+  - gloss: κρίμα: κρίμα (1CO 11:29) — English (generated): judgment
+  - NT: 1CO 11:29 *ovøyam*; 1CO 11:32 *ovøyam*
+  - answers: judge, judgment, justice
+  - BSB judge/judgment/justice: 73 of 133 verses have it (190 verses in all). Judges = ovøyam megetapak (formula:judges_ruled). From study run v2b (term:G2919), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H4941`
+- **`term:disciple.gloss`** G3101 (disciple, follower) → **paev ezoqam** [high, observed, attested]
+  - gloss: μαθητής: μαθηταὶ (JHN 4:2) — English (generated): disciples
+  - NT: 1CO 15:5 *ekeza paev ezoqam*; JHN 4:2 *ekeza paev ezoqam*
+  - answers: disciple, disciples, followers
+  - BSB disciple/disciples/followers: 210 of 280 verses have it (353 verses in all). NT word; for OT followers or attendants. From study run v2b (term:G3101), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:disciple`
+- **`term:H1323.gloss`** H1323 (daughter) → **yu** [medium, observed, attested]
+  - gloss: θυγάτηρ: θυγάτηρ (ACT 7:21) — English (generated): daughter
+  - NT: ACT 7:21 *yu*; HEB 11:24 *yu-ge*; LUK 2:36 *yú*
+  - answers: daughter
+  - BSB daughter: 17 of 35 verses have it (31 verses in all). 'My daughter' as address = Sǽ-pakha (term:H1323voc.h); daughters = nakhei mbasi (term:H1323pl). From study run v2 (term:H1323), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H1323`
+- **`term:H1818.gloss`** H1818 (blood) → **kouk** [high, observed, attested]
+  - gloss: αἷμα: αἵματος (1CO 10:16) — English (generated): blood
+  - NT: 1CO 10:16 *kóuk*; 1CO 11:25 *kouk*; 1CO 11:27 *kouk-qa*
+  - answers: blood
+  - BSB blood: 67 of 88 verses have it (99 verses in all). From study run v2 (term:H1818), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H1818`
+- **`term:H5795.gloss`** H5795 (goat) → **naningus** [medium, observed, attested]
+  - gloss: τράγος: τράγων (HEB 9:12) — English (generated): of goats
+  - NT: HEB 9:12 *naningus*; HEB 9:13 *naningus*; HEB 9:19 *naningus*
+  - answers: goat, goats
+  - BSB goat/goats: 6 of 8 verses have it (7 verses in all). From study run v2 (term:H5795), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5795`
+- **`term:H2719.gloss`** H2719 (sword) → **kaiya** [high, observed, attested]
+  - gloss: μάχαιρα: μαχαίρῃ (ACT 12:2) — English (generated): with the sword
+  - NT: ACT 12:2 *kaiyá*; ACT 16:27 *kaiya*; EPH 6:17 *kaiya*
+  - answers: sword
+  - BSB sword: 24 of 26 verses have it (36 verses in all). Not khaiya (expanse, term:H7549): kaiya is written with k. From study run v2 (term:H2719), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H2719`
+- **`term:H341.gloss`** H341 (enemy) → **qaqa ezoqam** [medium, observed, attested]
+  - gloss: ἐχθρός: ἐχθρὸν (2TH 3:15) — English (generated): an enemy
+  - NT: 2TH 3:15 *qaqa ezoqam*
+  - answers: enemy
+  - BSB enemy: 9 of 11 verses have it (130 verses in all). From study run v2 (term:H341), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H341`
+- **`term:H2091.gloss`** H2091 (gold) → **gol** [high, observed, attested]
+  - gloss: χρυσίον: χρυσίου (1PE 1:7) — English (generated): than gold
+  - NT: 1CO 3:12 *gol*; 1PE 1:7 *gol*; 2TI 2:20 *gol*
+  - answers: gold
+  - BSB gold: 18 of 24 verses have it (42 verses in all). From study run v2 (term:H2091), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H2091`
+- **`term:H3701.gloss`** H3701 (silver, money) → **moni** [medium, observed, attested]
+  - gloss: ἀργύριον: ἀργυρίῳ (1PE 1:18) — English (generated): silver
+  - NT: 1TI 3:3 *moni-te*; 1TI 3:8 *moni-te*; 1TI 6:10 *moni-te*
+  - answers: silver, money
+  - BSB silver/money: 46 of 56 verses have it (199 verses in all). The NT also has the loan silva (4×). From study run v2 (term:H3701), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3701`
+- **`term:H5104.gloss`** H5104 (river, stream) → **kea** [medium, observed, attested]
+  - gloss: ποταμός: ποταμῶν (2CO 11:26) — English (generated): from rivers
+  - NT: 2CO 11:26 *Kea*; ACT 16:13 *kea*; JHN 1:28 *kea*
+  - answers: river, stream
+  - BSB river/stream: 8 of 9 verses have it (202 verses in all). Also the class noun after a river's name (Zoden kea, MRK 1:5). From study run v2 (term:H5104), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5104`
+- **`term:H2022.gloss`** H2022 (mountain, hill) → **poyat** [medium, observed, attested]
+  - gloss: ὄρος: ὄρος (JHN 6:3) — English (generated): mountain
+  - NT: JHN 6:3 *poyat-té*; JHN 6:15 *poyat-té*; LUK 4:29 *poyat-té*
+  - answers: mountain
+  - BSB mountain: 14 of 31 verses have it (28 verses in all). From study run v2 (term:H2022), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H2022`
+- **`term:H4057.gloss`** H4057 (wilderness, desert) → **Leg-av manqei** [high, observed, attested]
+  - gloss: ἔρημος: ἐρήμῳ (1CO 10:5) — English (generated): wilderness
+  - NT: 1CO 10:5 *leg-av manqei-te*; ACT 7:30 *leg-av manqei-te*; ACT 7:36 *leg-av manqei-te*
+  - answers: wilderness, desert
+  - BSB wilderness/desert: 31 of 33 verses have it (38 verses in all). From study run v2 (term:H4057), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H4057`
+- **`term:H3820.gloss`** H3820 / H3824 (heart) → **mbøni** [medium, observed, attested]
+  - gloss: καρδία: καρδία (1JN 3:20) — English (generated): hearts
+  - NT: 1JN 3:20 *mbøni*; 1JN 3:21 *mbøni*; 1PE 3:8 *mbøni*
+  - answers: heart
+  - BSB heart: 36 of 84 verses have it (181 verses in all). Mind, thoughts = matavap (15 of the heart verses). From study run v2 (term:H3820), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3820`
+- **`term:H3581.gloss`** H3581 / H1369 (power, strength, might) → **bazaføgakh** [high, observed, attested]
+  - gloss: δύναμις: δύναμις (1CO 1:18) — English (generated): power
+  - NT: 1CO 1:18 *bazaføgakh-ús*; 1CO 1:24 *bazaføgakh*; 1CO 1:25 *bazaføgakh*
+  - answers: power, strength, mighty
+  - BSB power/strength/mighty: 111 of 127 verses have it (435 verses in all). Shaddai = Mbumbukiam Bazaføgakh-qape (term:H7706); powerful = bazaføgakh-us. From study run v2 (term:power), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3581`
+- **`term:H6635.gloss`** H6635 (YHWH of hosts, LORD Almighty) → **Evezøza Bazaføgakh-qape** [low, observed, attested]
+  - gloss: Σαβαώθ: Σαβαὼθ (JAS 5:4) — English (generated): of Hosts
+  - NT: JAS 5:4 *Evezøza Bazaføgakh-qape-qá*; ROM 9:29 *Evezøza Bazaføgakh-qape*
+  - answers: lord of hosts, lord almighty
+  - BSB lord of hosts/lord almighty: 2 of 3 verses have it (7 verses in all). Only 2 NT models (2CO 6:18, JAS 5:4 area); compare Shaddai, term:H7706. Question for the team with the divine names. From study run v2 (term:H6635), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H6635`
+- **`term:H713.gloss`** H713 (purple; red cloth) → **ndabua køkouk** [medium, observed, attested]
+  - gloss: πορφυροῦς: πορφυροῦν (JHN 19:2) — English (generated): in a purple
+  - NT: ACT 16:14 *Ndabua køkouk*; JHN 19:2 *ndabua køkouk*; JHN 19:5 *ndabua køkouk*
+  - answers: purple
+  - BSB purple: 8 of 9 verses have it (10 verses in all). køkouk is red: the NT uses it for purple and scarlet (gap:colours). From study run v2 (term:purple), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H713`
+- **`term:H8398.gloss`** H8398 (world, the earth as a whole) → **manqei-qape** [high, observed, attested]
+  - gloss: κόσμος: κόσμου (1CO 1:20) — English (generated): world
+  - NT: 1CO 1:20 *manqei-qape*; 1CO 1:21 *Manqei-qape*; 1CO 1:27 *manqei-qape-te*
+  - answers: world
+  - BSB world: 154 of 163 verses have it (424 verses in all). The same word is the dry land as created in Jonah (term:H3004). From study run v2 (term:world), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:H8398`
+- **`term:jews.gloss`** H3064 (Jews, Judeans) → **Zu ezoqam** [high, observed, attested]
+  - gloss: Ἰουδαῖος: Ἰουδαῖοι (1CO 1:22) — English (generated): Jews
+  - NT: 1CO 1:22 *Zu ezoqam*; 1CO 1:23 *Zu ezoqam*; 1CO 1:24 *Zu ezoqam*
+  - answers: jews, jew
+  - BSB jews/jew: 106 of 168 verses have it (379 verses in all). From study run v2 (term:jews), checked against the corpus.
+  - script:gloss.py, 2026-10-15, supersedes `term:jews`
+- **`term:H4196.gloss`** H4196 (altar) → **lou-qase** [high, observed, attested]
+  - gloss: θυσιαστήριον: θυσιαστηρίου (LUK 1:11) — English (generated): altar
+  - NT: ACT 17:23 *lou-qase-te*; LUK 1:11 *lou-qase-qa*
+  - answers: altar, altars
+  - BSB altar: 15 of 23 NT verses (lou-qase 18 tokens). Corrects study-v2b (søvakha -qase, not attested); from study-v2.
+  - script:gloss.py, 2026-10-15, supersedes `term:H4196`
+- **`term:H6944.gloss`** H6944 / H6918 (holy) → **mbomambaqape** [high, observed, attested]
+  - gloss: קֹדֶשׁ: קָדְשֶֽׁ (JON 2:5) — English (generated): Your holy
+  - NT: 1CO 12:3 *Nqova Mbomambaqape*; 1PE 2:9; JON 2:5 *khoev mbomambaqape*
+  - answers: holy, holy place, sacred
+  - BSB holy: 82 of 170 NT verses; the human Jonah's holy temple (term:H1964). study-v2's ndaføyamba-qape for holy is wrong: it occurs with righteous (17 of 62 verses), holy only 20 of 170.
+  - script:gloss.py, 2026-10-15, supersedes `term:H6944`
+- **`term:H6662.gloss`** H6662 (righteous) → **eqeieqei** [medium, observed, attested]
+  - gloss: δίκαιος: δίκαιός (1JN 2:29) — English (generated): righteous
+  - NT: 1JN 2:29 *eqeieqei*; 1JN 2:1 *ndaføyamba-qape*
+  - answers: righteous, upright
+  - BSB righteous: eqeieqei in 35 of 62 NT verses (it is also 'good', formula:god_saw_good), ndaføyamba-qape in 17 (being right before God: 'Mbumbukiam-qa bøi-te ndaføyamba', justified). From study-v2 and v2b.
+  - script:gloss.py, 2026-10-15, supersedes `term:H6662`
+- **`term:H1285.gloss`** H1285 (covenant) → **poev** [medium, observed, attested]
+  - gloss: διαθήκη: διαθήκη (1CO 11:25) — English (generated): covenant
+  - NT: 1CO 11:25 *poev*; 2CO 3:6 *poev*
+  - answers: covenant
+  - BSB covenant: poev in 29 of 30 NT verses, mostly with a form of unimanqatin (believe, agree: ge-unimanqatin, 1CO 11:25), i.e. 'an agreement made'. Copy the whole phrase from the model. From study-v2 and v2b.
+  - script:gloss.py, 2026-10-15, supersedes `term:H1285`
+- **`term:H8426.gloss`** H8426 / H3034 (give thanks, praise) → **ike manqat** [medium, observed, attested]
+  - gloss: εὐχαριστέω: Εὐχαριστῶ (1CO 1:4) — English (generated): I always thank
+  - NT: 1CO 1:4 *ike manqat*; 1CO 11:24 *ike manqat*
+  - answers: give thanks, thanks, thanksgiving
+  - BSB thanks/praise: 33 of 75 NT verses; 63 verses in all. From study-v2b (G2127), whose 'bless' reading is too wide: God blessing people is term:H1288.h, 'blessed are' khanakhanakh (term:H8057).
+  - script:gloss.py, 2026-10-15, supersedes `term:H8426`
+- **`term:lake.gloss`** H3220 (an inland sea, lake) → **kewan** [high, observed, attested]
+  - gloss: θάλασσα: θαλάσσης (JHN 6:1) — English (generated): Sea
+  - NT: JHN 6:1 *kewan*; MRK 1:16 *kewan*
+  - answers: lake, sea of galilee, sea of chinnereth
+  - BSB lake / Sea of Galilee: 11 of 16 NT verses. The sea (as created) is ndaola, into the sea ibøkha-te (term:H3220). From study-v2 (place_classifier).
+  - script:gloss.py, 2026-10-15, supersedes `term:lake`
+- **`term:H6453.gloss`** H6453 (Passover) → **Pasova** [high, observed, attested]
+  - gloss: πάσχα: Πάσχα (LUK 22:1) — English (generated): Passover
+  - NT: LUK 22:1 *Pasova*
+  - answers: passover
+  - BSB passover: 27 of 27 verses have it (35 verses in all). From study-v2b.
+  - script:gloss.py, 2026-10-15, supersedes `term:H6453`
+- **`term:H4421.gloss`** H4421 (war, battle) → **nakhag** [low, observed, attested]
+  - gloss: πόλεμος: πόλεμον (LUK 14:31) — English (generated): to war
+  - NT: LUK 14:31 *nakhag*; 2CO 10:3 *nakhag*
+  - answers: war, battle
+  - BSB war/battle/fight: 16 of 59 NT verses; nakhag ezoqam = soldiers. From study-v2.
+  - script:gloss.py, 2026-10-15, supersedes `term:H4421`
+- **`term:H8336.gloss`** H8336 / H906 (linen) → **ndabua papaqa** [medium, observed, attested]
+  - gloss: ὀθόνιον: ὀθονίοις (JHN 19:40) — English (generated): in linen cloths
+  - NT: JHN 19:40 *ndabua papaqa*
+  - answers: linen, linen garment
+  - Linen cloth = white cloth (JHN 19:40); fine twisted linen has no model (gap:fine_linen). From study-v2b.
+  - script:gloss.py, 2026-10-15, supersedes `term:H8336`
+- **`term:H3117daytime.g.gloss`** H3117 יוֹם as daylight, opposite of night → **paveat** [high, decided, attested]
+  - gloss: יוֹם: י֔וֹם (GEN 1:5) — English (generated): day
+  - NT: GEN 1:5 *paveat*; GEN 1:16 *paveat*; GEN 7:12 *paveat foti-a, lova foti*
+  - answers: called the light day, day and night, forty days and forty nights, the day and the night
+  - "God called the light Day" = iz "paveat" (1:5); daylight against lova (night) in 1:14, 1:16, 1:18 and "forty days and forty nights" = "paveat foti-a, lova foti" (7:4, 7:12). For "day" as a unit of time keep khøuwa (term:H3117). Our draft had khøuwa for the named Day.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3117daytime.g`
+- **`term:H8064.g.gloss`** H8064 שָׁמַיִם (heavens, sky) → **khaiya** [high, decided, attested]
+  - gloss: שָׁמַיִם: שָּׁמַ֖יִם (GEN 1:1) — English (generated): the heavens
+  - NT: GEN 1:1 *khaiya neká manqei-qape*; GEN 1:8 *khaiya*; GEN 2:4 *Khaiya neka manqei-qape*; GEN 15:5 *khaiya-te*
+  - answers: heavens, the heavens and the earth, sky, stars in the sky, birds of the air
+  - The created heavens and the visible sky are khaiya (29 verses in Gen 1-30); yan (8 verses) only where heaven is where God and the angels are. Our draft (term:H8064 yan) had it the other way for Gen 1:1.
+  - script:gloss.py, 2026-10-15, supersedes `term:H8064.g`
+- **`term:H8064heaven.g.gloss`** H8064 שָׁמַיִם as the place of God → **yan** [high, decided, attested]
+  - gloss: שָׁמַיִם: שָּׁמַ֔יִם (GEN 21:17) — English (generated): heaven
+  - gloss: οὐρανός: οὐρανοί (MAT 3:16) — English (generated): heavens
+  - NT: GEN 21:17 *yan-te ndo꞉go*; GEN 22:11 *yan-te ndo꞉go*; GEN 19:24 *Yan-té*; GEN 28:17 *yan-gí mboqóg*
+  - answers: from heaven, out of the heavens, gate of heaven, god of heaven, reaching up to heaven
+  - "from heaven" = yan-te ndo꞉go (21:17, 22:11, 22:15); "the gate of heaven" = yan-gí mboqóg (28:17); the ladder reaches yan (28:12).
+  - script:gloss.py, 2026-10-15, supersedes `term:H8064heaven.g`
+- **`term:H7549.g.gloss`** H7549 רָקִיעַ (expanse) → **løvøzu** [high, decided, attested]
+  - gloss: רָקִיעַ: רָקִיעַ֒ (GEN 1:7) — English (generated): the expanse
+  - NT: GEN 1:7 *ta løvøzu ndøgo*; GEN 1:8 *ta løvøzu ndøgo*; GEN 1:6 *Løvøzumba betéfakhan*
+  - answers: expanse, the expanse
+  - The expanse is løvøzu ("let there be an expanse" = Løvøzumba betéfakhan, 1:6), named khaiya (sky) in 1:8. "the expanse of the sky" (1:14, 1:15, 1:17, 1:20) is just khaiya-te / khaiya ova. Our draft used khaiya for the expanse itself.
+  - script:gloss.py, 2026-10-15, supersedes `term:H7549.g`
+- **`term:H7363.g.gloss`** H7363 רָחַף (hover) → **mo꞉-yogumám** [medium, decided, attested]
+  - gloss: רָחַף: מְרַחֶ֖פֶת (GEN 1:2) — English (generated): was hovering
+  - NT: GEN 1:2 *mo꞉-yogumám*
+  - answers: hovering, hovering over
+  - script:gloss.py, 2026-10-15, supersedes `term:H7363.g`
+- **`term:H2822cover.g.gloss`** H2822 + עַל־פְּנֵי (darkness over the surface) → **bøivun mbá sugumu-veát** [high, decided, attested]
+  - gloss: חֹשֶׁךְ: חֹ֖שֶׁךְ (GEN 1:2) — English (generated): and darkness
+  - NT: GEN 1:2 *bøivun mbá sugumu-veát*
+  - answers: darkness was over the surface, darkness over the deep
+  - script:gloss.py, 2026-10-15, supersedes `term:H2822cover.g`
+- **`term:H2233seed.g.gloss`** H2233 זֶרַע (seed of plants) → **nanga** [high, decided, attested]
+  - gloss: זֶרַע: זֶ֔רַע (GEN 1:11)
+  - NT: GEN 1:11 *gagayag nanga-us*; GEN 1:29 *tae nanga vinivinimba*
+  - answers: seed, with seed, whose fruit contains seed, yielding seed
+  - nanga covers seed and fruit; "with seed" = nanga-us. "tae nanga" (our draft) is the fruit of a tree (1:29, 3:6). For human offspring see term:H2233.g (-zi).
+  - script:gloss.py, 2026-10-15, supersedes `term:H2233seed.g`
+- **`term:H6529.g.gloss`** H6529 פְּרִי + עֵץ (fruit, fruit trees) → **tae nanga-us** [high, decided, attested]
+  - gloss: עֵץ: עֵ֣ץ (GEN 1:11) — English (generated): trees
+  - gloss: פְּרִי: פְּרִ֞י (GEN 1:11) — English (generated): and fruit
+  - NT: GEN 1:11 *tae nanga-us*; GEN 1:12 *tae vinivinimba nanga-us*; GEN 3:6 *nanga*
+  - answers: fruit trees, trees bearing fruit, bearing fruit, fruit
+  - bear fruit = "nanga ... bembøē-fakhanam" (let it bring out fruit, 1:11; 1:12).
+  - script:gloss.py, 2026-10-15, supersedes `term:H6529.g`
+- **`term:H4475.g.gloss`** H4475 / H4910 / H7287 (rule, dominion) → **nøzøwat** [high, decided, attested]
+  - gloss: מֶמְשֶׁלֶת: מֶמְשֶׁ֣לֶת (GEN 1:16) — English (generated): to rule
+  - NT: GEN 1:16 *paveat nøzøwat nonqó*; GEN 1:18 *betē-nøzøwat*; GEN 1:26 *bezømbē-kawaezat*; GEN 1:28 *zozømbó-kawaeztát*
+  - answers: to rule the day, to rule the night, preside over, rule over, rule, dominion
+  - The lights "watch over" the day (nøzøwat, 1:16, 1:18); man rules over animals and brothers with the kawa- stem (kawa = chief).
+  - script:gloss.py, 2026-10-15, supersedes `term:H4475.g`
+- **`term:H3533.g.gloss`** H3533 כָּבַשׁ (subdue) → **vømbø̄e-kawaezat** [high, decided, attested]
+  - gloss: כָּבַשׁ: כִבְשֻׁ֑ (GEN 1:28) — English (generated): and subdue it
+  - NT: GEN 1:28 *vømbø̄e-kawaezat*
+  - answers: subdue, subdue it
+  - Subdue and rule share the kawa- stem in 1:28.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3533.g`
+- **`term:H226.g.gloss`** H226 אוֹת (sign) → **khakhatap** [high, decided, attested]
+  - gloss: אוֹת: אֹתֹת֙ (GEN 1:14) — English (generated): signs to mark
+  - NT: GEN 1:14 *taqá khakhatáp*; GEN 9:12 *khakhatap nqánek*; GEN 17:10 *poev-qa khakhatap*
+  - answers: signs, sign, sign of the covenant, to mark the seasons
+  - Sign of the lights (1:14) and of the covenant (9:12-17, 17:11) alike. umingiap (our draft) is a vision (15:1).
+  - script:gloss.py, 2026-10-15, supersedes `term:H226.g`
+- **`term:H215.g.gloss`** H215 הֵאִיר (give light) → **waev vømbó-etoumāt** [high, decided, attested]
+  - gloss: אוֹר: הָאִ֖יר (GEN 1:15) — English (generated): to shine
+  - gloss: φῶς: φῶς (MAT 4:16) — English (generated): light
+  - NT: GEN 1:15 *waev vømbó-etoumāt*; GEN 1:17 *waev betē-sanqatøve*
+  - answers: shine, to shine upon, give light, shine upon the earth
+  - "give light to it" (1:15) / "let them pour light on" (1:17).
+  - script:gloss.py, 2026-10-15, supersedes `term:H215.g`
+- **`term:H8317.g.gloss`** H8317 שָׁרַץ / H4390 מָלֵא (teem, fill) → **beté-khazem** [high, decided, attested]
+  - gloss: שָׁרַץ: יִשְׁרְצ֣וּ (GEN 1:20) — English (generated): teem
+  - NT: GEN 1:20 *ibøkha beté-khazem*; GEN 1:22 *bēkhazem*; GEN 1:28 *vø̀khazém*
+  - answers: teem, teemed, swarm, fill, fill the waters
+  - The khaz- stem (fill, crowd) carries both "let the waters teem" (1:20) and "fill the waters / the earth" (1:22, 1:28).
+  - script:gloss.py, 2026-10-15, supersedes `term:H8317.g`
+- **`term:H1288god.g.gloss`** H1288 (God blessed them) → **gèkhakheinøvém. Zenda zømbové** [high, decided, attested]
+  - gloss: בָּרַךְ: יְבָ֧רֶךְ (GEN 1:22) — English (generated): blessed
+  - NT: GEN 1:22 *gèkhakheinøvém. Zenda zømbové*; GEN 1:28 *Zenda zømbové*; GEN 5:2 *zenda*
+  - answers: god blessed them, blessed them, and blessed them
+  - "God blessed them" = he made them well and put his hand on them (1:22, 1:28; 5:2). See term:H1288.g for "bless you".
+  - script:gloss.py, 2026-10-15, supersedes `term:H1288god.g`
+- **`term:H6754.g.gloss`** H6754 + H1823 צֶלֶם / דְּמוּת (image, likeness) → **bugug** [high, decided, attested]
+  - gloss: צֶלֶם: צַלְמ֔ (GEN 1:27) — English (generated): in His image
+  - NT: GEN 1:27 *Ekeza bugug me꞉qeív*; GEN 1:26 *niqá bugug ndǿkewagát*; GEN 5:3 *andé ekeza bugúg*
+  - answers: image, in our image, likeness, after our likeness, in his own image, in the image of god, in his own likeness
+  - bugug = shape, appearance (also face: "bugug até manqei-té" face to the ground, 18:2). "in our image" = "they will look after our shape" (1:26); 5:1 "av ekezan nde꞉go" (as he himself is).
+  - script:gloss.py, 2026-10-15, supersedes `term:H6754.g`
+- **`term:H7121curse.g.gloss`** H779 אָרַר / H7043 קָלַל (curse) → **soqain-té qatǿvé** [high, decided, attested]
+  - gloss: אָרַר: אָר֤וּר (GEN 3:14) — English (generated): cursed
+  - NT: GEN 3:14 *soqain-té qatǿvé*; GEN 3:17 *soqain-té qatǿvé*; GEN 4:11 *soqain-té qatǿvé*; GEN 9:25 *bèsoqoév*
+  - answers: cursed, curse, cursed are you, cursed be, cursed is the ground
+  - "I put you into the bad" = you are cursed (God speaking, 3:14, 3:17, 4:11); a wish "may he be cursed" = bèsoqoév / pl bèsoqoezát (9:25, 27:29). The noun soqain is also "left (hand)" (Jonah 4:11).
+  - script:gloss.py, 2026-10-15, supersedes `term:H7121curse.g`
+- **`term:H2233.g.gloss`** H2233 זֶרַע (offspring, descendants) → **qogi qazi** [high, decided, attested]
+  - gloss: זֶרַע: זַ֨רְעֲ (GEN 12:7) — English (generated): to your offspring
+  - NT: GEN 12:7 *qogí qazi*; GEN 13:15 *qogi qazi*; GEN 15:5 *Qogi qazi-qa bawan*; GEN 9:9 *zogi zøzi*
+  - answers: offspring, descendants, your offspring, your descendants, seed
+  - Offspring in the promises is the possessed noun -zi with a possessor prefix: qogi qazi (your sg, 12:7, 13:15, 13:16, 15:5, 17:7, 22:17), zogi zøzi (your pl, 9:9), tegi zi (his, 5:1, 10:13), nøzi (my, 21:23). nakheis = children of one's own (Ruth's choice, also 21:23 "nogi nakheis"). Plant seed: term:H2233seed.g.
+  - script:gloss.py, 2026-10-15, supersedes `term:H2233.g`
+- **`term:H1062.g.gloss`** H1062 בְּכֹרָה (birthright) → **yo-khøuwa touzu iz** [high, decided, attested]
+  - gloss: בְּכֹרָה: בְּכֹרָֽה (GEN 25:34) — English (generated): his birthright
+  - NT: GEN 25:34 *Yo-khøuwa touzu iz*; GEN 25:31 *touzu iz*; GEN 25:33 *yo-khøuwa touzu iz*; GEN 27:36 *yo-khøuwa iz*
+  - answers: birthright, my birthright, sell me your birthright
+  - "the firstborn's inheritance name": yo-khøuwa (firstborn) + touzu iz (25:31-34); short "yo-khøuwa iz" (27:36).
+  - script:gloss.py, 2026-10-15, supersedes `term:H1062.g`
+- **`term:H1060.g.gloss`** H1060 בְּכוֹר (firstborn); also the older son → **yo-khøuwa** [high, decided, attested]
+  - gloss: בְּכֹר: בְּכֹר֖ (GEN 10:15) — English (generated): his firstborn
+  - NT: GEN 10:15 *Yo-khøuwa Saedón*; GEN 22:21 *Yo-khøuwa*; GEN 25:13 *Yo-khøuwa*; GEN 27:15 *yo-khøuwa Isao-qa*
+  - answers: firstborn, the firstborn, older son, elder, older daughter
+  - yo (son) + khøuwa; for a daughter yu khøuwa (19:33). The younger son = "yo okho-qase" (27:15). Firstborn of a flock (4:4) is told as "the first-born young" (sip nakheis, bugukhokhof qaniap).
+  - script:gloss.py, 2026-10-15, supersedes `term:H1060.g`
+- **`term:H7939.g.gloss`** H7939 / H4909 שָׂכָר / מַשְׂכֹּרֶת (wages, reward) → **yaq-fia** [high, decided, attested]
+  - gloss: מַשְׂכֹּרֶת: מַּשְׂכֻּרְתֶּֽ (GEN 29:15) — English (generated): your wages should be
+  - NT: GEN 29:15 *Qo gekha yaq-fia qápoev?*; GEN 30:28 *yaq-fiā*; GEN 30:32 *noqa yaq-fia*; GEN 15:1 *yaq-fia*
+  - answers: wages, my wages, your wages, reward, hire
+  - "pay, return gift": what is your wages = "Qo gekha yaq-fia qápoev?" (what pay do you want, 29:15). "servant of servants" = "yaq-fia mbain sasae ezoqam" (unpaid servant, 9:25-27).
+  - script:gloss.py, 2026-10-15, supersedes `term:H7939.g`
+- **`term:H5650.g.gloss`** H5650 עֶבֶד (servant) → **sasae ezoqam** [high, decided, attested]
+  - gloss: עֶבֶד: עֶ֨בֶד֙ (GEN 24:9) — English (generated): So the servant
+  - NT: GEN 24:9 *sasae ezoqam*; GEN 9:25 *sasae ezoqam*; GEN 24:2 *sasae kawa ezoqam*; GEN 16:1 *sasae mbasønakam*
+  - answers: servant, servants, menservants, chief servant, slave
+  - "work person". The NT form stands; Genesis confirms it (55 verses) and adds the chief servant. A servant's self-reference "your servant" before a superior is "No ezoqam khapúmbá" (formula:humble_self) or just no.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5650.g`
+- **`term:H6629.g.gloss`** H6629 צֹאן (flock, sheep and goats) → **sip** [high, decided, attested]
+  - gloss: צֹאן: צֹאנ֖ (GEN 4:4) — English (generated): of his flock
+  - gloss: πρόβατον: προβάτων (MAT 7:15) — English (generated): sheep s
+  - NT: GEN 4:4 *sip*; GEN 29:2 *sip*; GEN 30:32 *Sip neka naningus*; GEN 30:32 *qogi søvakha gigiap*
+  - answers: flock, flocks, sheep, lamb, lambs
+  - sheep = sip (43 verses); a mixed flock of sheep and goats = "sip neka naningus" (30:32-33); "flocks and herds" = "sip neka kao" (cattle, 12:16, 13:5, 20:14). A ram = "sip anganeam" (22:13).
+  - script:gloss.py, 2026-10-15, supersedes `term:H6629.g`
+- **`term:H3701.g.gloss`** H3701 כֶּסֶף (silver, money) → **silva** [high, decided, attested]
+  - gloss: ἄργυρος: ἄργυρον (MAT 10:9) — English (generated): silver
+  - NT: GEN 13:2 *gol neka silva*; GEN 23:16 *fo andled silva moni*; GEN 20:16 *silva moni mokho*; GEN 17:12 *moni*
+  - answers: silver, shekels of silver, pieces of silver, money, price
+  - Silver as metal is silva (with gold, gol, 13:2, 24:35, 24:53); money is moni. Weighed silver coins: "fo andled silva moni mokho" (400 shekels, 23:16).
+  - script:gloss.py, 2026-10-15, supersedes `term:H3701.g`
+- **`term:H3117today.g.gloss`** H3117 הַיּוֹם (today) → **nqægo** [medium, decided, attested]
+  - gloss: יוֹם: יּֽוֹם (GEN 19:37) — English (generated): today
+  - NT: GEN 30:32 *No nqægo*; GEN 24:12 *nqægo mba*; GEN 24:42 *No nqægo*; GEN 19:37 *ndakin khøuwa-te*
+  - answers: today, this day, now
+  - Genesis has "today" as nqægo (24:12, 24:42, 30:32; Ruth "nqægo khøuwa", formula:matter_settled); nqægo khaiya (the NT-based entry) is not in Genesis. "of today, to this day" = "ndakin khøuwa-te" (19:37, 19:38); "until today" = ndakin (now, 21:26).
+  - script:gloss.py, 2026-10-15, supersedes `term:H3117today.g`
+- **`term:H2472.g.gloss`** H2472 / H2492 חֲלוֹם / חָלַם (dream) → **venanqei tam-te** [high, decided, attested]
+  - gloss: ὄναρ: ὄναρ (MAT 1:20) — English (generated): a dream
+  - NT: GEN 20:3 *Venanqei tam-té*; GEN 28:12 *venanqei ndøtám*; MAT 1:20 *Venanqei-tam-té*; MAT 2:13 *venanqei-tam-té*
+  - answers: dream, dreams, dreamed, had a dream, in a dream
+  - "in sleep-seeing": in a dream = venanqei tam-te (20:3, 20:6; MAT 1:20, 2:13 written venanqei-tam-te); "he dreamed" = "venanqei ndøtám" (28:12) and what he saw follows with "Yaq nqáe!". venanqei alone is sleep (also in "venanqei nonqo" of marital relations). Gen 37, 40-42 need "my dream", "dreams" (plural by context).
+  - script:gloss.py, 2026-10-15, supersedes `term:H2472.g`
+- **`term:H7458.g.gloss`** H7458 רָעָב (famine) → **vikia seke ndømát** [high, decided, attested]
+  - gloss: רָעָב: רָעָב֙ (GEN 26:1) — English (generated): another famine
+  - gloss: λιμός: λιμὸς (ACT 7:11) — English (generated): famine
+  - NT: GEN 12:10 *vikia seke ndømát*; ACT 7:11 *vikia sekeqape ndømát*; RUT 1:1 *vikia sekeqape ndømát*; GEN 26:1 *lou lou-av matev*
+  - answers: famine, there was a famine, the famine was severe, famine in the land
+  - "a great hunger fell" (12:10, ACT 7:11 for Joseph's famine, RUT 1:1); the hunger of a person = ifin (25:32 "No ifin khàpe-nømbe-khouwév" I am famished). Gen 41-47 use it about 25 times: vary with lou lou-av matev as the team does.
+  - script:gloss.py, 2026-10-15, supersedes `term:H7458.g`
+- **`term:H1250.g.gloss`** H1250 / H1715 / H7668 בָּר / דָּגָן / שֶׁבֶר (grain) → **wit** [high, decided, attested]
+  - gloss: דָּגָן: דָּגָ֖ן (GEN 27:28) — English (generated): of grain
+  - NT: GEN 27:28 *wit neka waen*; GEN 27:37 *wit*; JHN 12:24 *wit nanga*
+  - answers: grain, wheat, grain and new wine, buy grain
+  - "grain and new wine" = "wit neka waen" (27:28, 27:37). For the grain bought in Egypt (Gen 41-47) the NT's account of the same story says lou (ACT 7:12); heads of grain in Pharaoh's dream: "wit nanga" (JHN 12:24 kernel).
+  - script:gloss.py, 2026-10-15, supersedes `term:H1250.g`
+- **`term:H5470.g.gloss`** H5470 / H1004 בֵּית הַסֹּהַר (prison) → **ndimbula khoev** [medium, decided, attested]
+  - gloss: φυλακή: φυλακήν (ACT 16:23) — English (generated): prison
+  - NT: ACT 16:23 *ndimbula khoev-té*; ACT 5:18 *ndimbula-te*
+  - answers: prison, jail, into prison, the prison, in prison, prisoners
+  - NT only (111 verses; Genesis 1-30 has no prison). "put in prison" = "ndimbula-te vø̄nqeitaz" (ACT 5:18); the jailer = "ndimbula keoge ezoqam" (ACT 16:23) for the warden of Gen 39:21-23.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5470.g`
+- **`term:steward.g.gloss`** H5921 + H1004 אֲשֶׁר עַל־בֵּיתוֹ (steward, the man over his house) → **sasae kawa ezoqam** [high, decided, attested]
+  - gloss: עֶבֶד: עַבְדּ (GEN 24:2) — English (generated): servant
+  - gloss: οἰκονόμος: οἰκονόμον (LUK 16:1) — English (generated): manager
+  - NT: GEN 24:2 *sasae kawa ezoqam*; LUK 16:1 *sasae ezoqam*
+  - answers: steward, chief servant, in charge of his household, manager, over his house
+  - Abraham's chief servant "who managed all he owned" = "ekeza sasae kawa ezoqam ... teqa gigiap ate ndægo go꞉kawaevtam" (24:2); the NT manager "kewagám" (watched over all, LUK 16:1). Joseph over Potiphar's house (39:4) and Joseph's steward (43:16, 44:1) by these.
+  - script:gloss.py, 2026-10-15, supersedes `term:steward.g`
+- **`term:H56.g.gloss`** H56 / H5594 / H1058 אָבַל / סָפַד / בָּכָה (mourn, lament, weep) → **mutøkhop neka eiv matev** [high, decided, attested]
+  - gloss: בָּכָה: בְכֹּתָֽ (GEN 23:2) — English (generated): and to weep
+  - NT: GEN 23:2 *mutøkhop neka eiv matev*; JON 3:5 *mutøkhop*; ACT 8:2 *eiv*
+  - answers: mourn, mourned, mourning, to mourn and to weep, lament
+  - "mourning and crying" (23:2 Abraham for Sarah; JON 3:5 mutøkhop for fasting grief). "the days of mourning for my father" are told as "my father will die soon" (27:41). Gen 37:34-35, 50:3-11 need it; weep: formula:wept_aloud.g.
+  - script:gloss.py, 2026-10-15, supersedes `term:H56.g`
+- **`term:H6912.g.gloss`** H6912 / H6913 קָבַר / קֶבֶר (bury, tomb) → **manqei pakha <...>-upa** [high, decided, attested]
+  - gloss: קָבַר: אֶקְבְּרָ֥ה (GEN 23:4) — English (generated): so that I can bury
+  - NT: GEN 23:4 *manqei pakha batē-upa*; GEN 23:19 *manqei pakha me꞉-upá*; GEN 25:9 *ginø-otøvém*; GEN 25:10 *tinø-otøvém*
+  - answers: bury, buried, burial site, tomb, grave, bury my dead
+  - "carry (him) to the earth-hole" (23:4, 23:6, 23:19) or "put (him) in" with otøv- (25:9-10). Both stems are attested in Gen 23-25; the Ruth entry stands as the passive. Gen 35, 47:30, 49:29-31, 50 need it.
+  - script:gloss.py, 2026-10-15, supersedes `term:H6912.g`
+- **`term:H4631.g.gloss`** H4631 מְעָרָה (cave) → **nandi nqa** [high, decided, attested]
+  - gloss: מְעָרָה: מְעָרַ֤ת (GEN 23:9) — English (generated): the cave
+  - gloss: σπήλαιον: σπηλαίοις (HEB 11:38) — English (generated): caves
+  - NT: GEN 23:9 *teqa nandi nqa*; GEN 25:9 *Makpela nandi nqa-té*; GEN 19:30 *Nandi nqa-té*; HEB 11:38 *nandi nqa*
+  - answers: cave, the cave, cave of machpelah, in a cave
+  - "stone hole" (19:30, 23:9-19, 25:9; NT the same). Gen 49:29-32, 50:13.
+  - script:gloss.py, 2026-10-15, supersedes `term:H4631.g`
+- **`term:H251brothers.g.gloss`** אֶחָיו (his brothers; Joseph's brothers, Gen 37-50) → **zapikia-za** [high, decided, attested]
+  - gloss: אָח: אֶחָֽי (GEN 9:25) — English (generated): to his brothers
+  - NT: ACT 7:13 *ekeza zapikia-za*; GEN 9:25 *zapikia-za-gé*; GEN 9:22 *zapikia*
+  - answers: his brothers, brothers, joseph's brothers, your brothers, my brothers, twelve brothers
+  - The NT tells Joseph's story with zapikia-za (ACT 7:13 "Zosef ekeza zapikia-za tènezømás" made himself known to his brothers). One brother: term:H251.g (eveqase). Addressing them "brothers!": Jacob to strangers "Nǿfuap" (29:4), so nøfu is the polite address, not kinship.
+  - script:gloss.py, 2026-10-15, supersedes `term:H251brothers.g`
+- **`term:H1581.g.gloss`** H1581 גָּמָל (camel) → **kemol** [high, decided, attested]
+  - gloss: גָּמָל: גְמַלִּ֜ים (GEN 24:10) — English (generated): camels
+  - gloss: κάμηλος: κάμηλον (MAT 19:24) — English (generated): a camel
+  - NT: GEN 24:10 *kemol*; GEN 12:16 *kemol*; MAT 19:24 *kemol*
+  - answers: camel, camels
+  - 20 verses in Gen 1-30. Donkey = donki (12:16, 22:3), cattle = kao (12:16, 13:5), goats = naningus (27:9, 30:32), sheep = sip (term:H6629.g).
+  - script:gloss.py, 2026-10-15, supersedes `term:H1581.g`
+- **`term:H168.g.gloss`** H168 אֹהֶל (tent) → **palai khoev** [high, decided, attested]
+  - gloss: אֹהֶל: אֹהָלִֽים (GEN 13:5) — English (generated): and tents
+  - NT: GEN 13:5 *palai khoev*; GEN 4:20 *palai*
+  - answers: tent, tents, his tent, pitched his tent
+  - palai (13 verses in Gen 1-30); "tents" with khoev (house): palai khoev (13:5).
+  - script:gloss.py, 2026-10-15, supersedes `term:H168.g`
+- **`term:H1.g.gloss`** H1 אָב (father) → **eve** [high, decided, attested]
+  - gloss: אָב: אָבִ֖י (GEN 2:24) — English (generated): his father
+  - gloss: πατήρ: Πατέρα (MAT 3:9) — English (generated): father
+  - NT: GEN 25:19 *tege eve*; GEN 2:24 *eve*; GEN 27:34 *Tát!*; GEN 27:41 *Tat avønín*
+  - answers: father, his father, her father, the father of, my father, your father
+  - A third person's father is eve with the possessor: tege eve (his, 25:19), tugé eve (hers, 29:12), "Lot-gé evé" (11:27), "qogu qavo-ge eve" (your mother's father, 28:2). tat (the NT form of term:H1) is "my/our father" and the address. mother = evo (21 verses; "qogu qavo" your mother, 28:2).
+  - script:gloss.py, 2026-10-15, supersedes `term:H1.g`
+- **`term:H1121sons.g.gloss`** H1121 בָּנִים (sons) → **nakhei angana** [high, decided, attested]
+  - gloss: בֵּן: בָּנִ֖ים (GEN 5:4) — English (generated): sons
+  - NT: GEN 5:4 *nakhei angana*; GEN 29:34 *nakhei angana misiká*; GEN 10:1 *Noa-gi nakhei angana*
+  - answers: sons, his sons, other sons and daughters, three sons, sons of
+  - "male children": sons = nakhei angana (59 verses), daughters = nakhei sakheis / nakhei mbasi (term:H1323pl); one son = yo (term:H1121) or nakhasa anganeam (a male child, at birth). children = nakheis (30:3).
+  - script:gloss.py, 2026-10-15, supersedes `term:H1121sons.g`
+- **`term:H157.g.gloss`** H157 אָהַב (love) → **poev** [high, decided, attested]
+  - gloss: אָהֵב: יֶּאֱהָבֶ֑ (GEN 24:67) — English (generated): loved her
+  - NT: GEN 24:67 *poev kandambá*; GEN 29:20 *poev*; GEN 29:32 *poev ndakin ndǿvé*
+  - answers: love, loved, loved her, will love me, his love for her
+  - A man's love for a woman is poev ("Aezek poev kandambá, tu-te" 24:67; Jacob for Rachel 29:20, 29:30); "my husband will love me" = "Noge anganeam, poev ndakin ndǿvé, no-te" (29:32). Gen 37:3-4 (Israel loved Joseph) and 44:20 need it.
+  - script:gloss.py, 2026-10-15, supersedes `term:H157.g`
+- **`term:H5945.g.gloss`** H5945 + H410 אֵל עֶלְיוֹן (God Most High) → **Mbumbukiam Eqeiwat-Qape** [high, decided, attested]
+  - gloss: ὕψιστος: Ὕψιστος (ACT 7:48) — English (generated): Most High
+  - NT: GEN 14:19 *Mbumbukiam Eqeiwat-Qape*; GEN 14:20 *ndego Eqeiwat-Qape*; ACT 7:48 *Eqeiwat-Qape*
+  - answers: god most high, most high
+  - 14:18-22 (5 verses); NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5945.g`
+- **`term:H776earth.g.gloss`** H776 הָאָרֶץ (the earth, the world) → **manqei-qape** [high, decided, attested]
+  - gloss: אֶרֶץ: אָֽרֶץ (GEN 1:1) — English (generated): the earth
+  - gloss: γῆ: γῆς (MAT 5:13) — English (generated): earth
+  - NT: GEN 1:1 *manqei-qape*; GEN 1:28 *Manqei-qape*; GEN 12:3 *manqei-qape-te*
+  - answers: the earth, earth, all the earth, face of the earth, on the earth, families of the earth
+  - The whole earth = manqei-qape; a land or the ground = manqei. "the families of the earth" = "bawabawan ate nqægo, manqei-qape-te nqago" (12:3).
+  - script:gloss.py, 2026-10-15, supersedes `term:H776earth.g`
+- **`term:H5930.g.gloss`** H5930 עֹלָה (burnt offering) → **søvakha gigiap løvusam matev** [high, decided, attested]
+  - gloss: עֹלָה: עֹלָ֔ה (GEN 22:3) — English (generated): for a burnt offering
+  - NT: GEN 22:3 *søvakha gigiap løvusam matev*; GEN 22:13 *søvakha gigiap løvusam matev*; GEN 8:20 *løvusam*
+  - answers: burnt offering, burnt offerings, offered it as a burnt offering, sacrifice
+  - "animal-burning act" (22:2-13); an offering in general = "etoam matev" (gift act, 4:3-5); altar = lou-qase (term:H4196). Gen 46:1 "offered sacrifices" = term:H2077.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5930.g`
+- **`term:H3004pap.g.gloss`** H3004 יַבָּשָׁה (dry land) → **manqei pap** [high, decided, attested]
+  - gloss: יַבָּשָׁה: יַּבָּשָׁ֑ה (GEN 1:9) — English (generated): so that the dry
+  - gloss: ξηρός: ξηρᾶς (HEB 11:29) — English (generated): dry
+  - NT: GEN 1:9 *manqei pap*; GEN 1:10 *manqei pap*; HEB 11:29 *manqei pap*
+  - answers: dry land, the dry land, dry ground
+  - Gen 1:9-10 and the Red Sea crossing (HEB 11:29); Jonah's "dry land" as the shore is manqei-qape (term:H3004). The earth was dry = "manqei ùni-tønepáp" (8:14).
+  - script:gloss.py, 2026-10-15, supersedes `term:H3004pap.g`
+- **`term:H1589.g.gloss`** H1589 גָּנַב (steal) → **aqon-** [high, decided, attested]
+  - gloss: גָּנַב: גָּנ֥וּב (GEN 30:33) — English (generated): will be considered stolen
+  - NT: GEN 30:33 *nø-aqonøvém*; EPH 4:28 *aqonam matev*; JHN 10:10 *Aqona ezoqam*
+  - answers: stole, stolen, steal, stealing
+  - Rachel stole the household gods = Laisol … gu-aqonøvem (gen031, built on nø-aqonøvém with gu- for a woman). A thief = aqona ezoqam. 'stole the heart' (31:20, 26, 27) is deceive, term:H7411.g.; English: gu-aqonøvem she stole them; nø-aqonøvem I stole them
+  - script:gloss.py, 2026-10-15, supersedes `term:H1589.g`
+- **`term:H7411.g.gloss`** H7411 רִמָּה / גָּנַב לֵב (deceive, cheat) → **khavoz-** [high, decided, attested]
+  - gloss: רָמָה: רִמִּיתָֽ (GEN 29:25) — English (generated): have you deceived me
+  - NT: GEN 29:25 *qoqonømbe-khavoz*; GEN 27:35 *gènømbe-khavozám*; GEN 3:13 *gènømbe-khavóz*
+  - answers: deceived, deceive, cheated, tricked
+  - Jacob to Laban (29:25) and Laban to Jacob (31:26-27) with the same verb; 'he deceived Laban' = Leiben gembøe-khavozám (gen031:20, built on the same pattern).; English: qoqonømbe-khavoz you deceived me; gènømbe-khavozám he deceived me
+  - script:gloss.py, 2026-10-15, supersedes `term:H7411.g`
+- **`term:H7291.g.gloss`** H7291 רָדַף (pursue) → **pav-: Zekop vømbō-pavat; Leiben, Zekop gembopavát** [medium, decided, attested]
+  - gloss: רָדַף: יִּרְדֹּ֖ף (GEN 14:14) — English (generated): and they set out in pursuit
+  - NT: GEN 14:14 *gezøpavát*; MAT 9:19 *vømbō-paevem*
+  - answers: pursued, pursue, chased
+  - Abram pursued the kings = gezøpavát (followed them, 14:14); 'hotly pursued me' (31:36) = nakhamas-té qoqonø-pavat (followed me quickly).; English: follow; English: Leiben, Zekop gembopavát = 'Laban (heading), he pursued Jacob'
+  - script:gloss.py, 2026-10-15, supersedes `term:H7291.g`
+- **`term:H5381.g.gloss`** H5381 הִשִּׂיג / H1692 הִדְבִּיק (overtake, catch up with) → **<X>-te gemøfakhan** [medium, decided, by-rule]
+  - gloss: דָּבַק: יַּדְבֵּ֥ק (GEN 31:23) — English (generated): and overtook
+  - NT: GEN 12:5 *vømø̄fakhaz*; ACT 10:24 *gimøfakhaz*
+  - answers: overtook, overtake, caught up
+  - No verb 'overtake' in the corpus; 'arrived, reached' (møfakhan) with -te on the one reached (gen031:23, 25). The store's built 'gèmø-tøkenøvém' is 'cling' (gap:stay_close) and was not used.; English: reached X
+  - script:gloss.py, 2026-10-15, supersedes `term:H5381.g`
+- **`term:H5674river.g.gloss`** H5674 עָבַר (cross a river, go past) → **qantav-** [high, decided, attested]
+  - gloss: עָבַר: יַּעֲבֵ֨ר (GEN 8:1)
+  - NT: JHN 6:1 *ginøqantáv*; MAT 9:1 *sasa ndøqantav*
+  - answers: crossed, cross, go past, past
+  - Used for crossing the Euphrates (31:21) and for not passing the boundary stones (31:52, negative future nó-/qó-…-ák).; English: Yuflatis kea ndøqantav; 'I will not go past this heap' = nóqantavák
+  - script:gloss.py, 2026-10-15, supersedes `term:H5674river.g`
+- **`term:H1494.g.gloss`** H1494 גָּזַז (shear) → **su qogem-: sip su qogem-qa gewav** [medium, decided, attested]
+  - gloss: גָּזַז: גֹּֽזֲזֵ֤י (GEN 38:12) — English (generated): his sheepshearers
+  - NT: ACT 8:32 *su gimbo-qogemɨn*
+  - answers: shearing, shear, shearer, shearers
+  - The NT's sheep before its shearers (ACT 8:32). Gen 38:12-13 (Judah's sheepshearers) need it.; English: cut the wool; English: he went to shear the sheep
+  - script:gloss.py, 2026-10-15, supersedes `term:H1494.g`
+- **`term:H4376.g.gloss`** H4376 מָכַר (sell) → **wi: ndego ni gèwí** [medium, decided, attested]
+  - gloss: מָכַר: מִכְרָ֥ (GEN 25:31) — English (generated): sell
+  - gloss: ἀποδίδωμι: ἀπέδοντο (ACT 7:9) — English (generated): they sold him as a slave
+  - NT: ACT 7:9 *gèwiím*; GEN 23:9 *tewi*
+  - answers: sold, sell
+  - ACT 7:9 tells Joseph sold into Egypt with gèwiím; the same stem buys (GEN 23:19 gewi). Gen 37:27-28, 45:4-5 need it; who buys from whom is shown with -te.; English: buy and sell; English: he sold us
+  - script:gloss.py, 2026-10-15, supersedes `term:H4376.g`
+- **`term:H6440face.g.gloss`** H6440 פָּנִים (face, countenance; 'his face was not toward him') → **bugug: Leiben-qá bugug ndøqeív** [medium, decided, attested]
+  - gloss: פָּנֶה: פָנֶֽי (GEN 4:6) — English (generated): has your countenance
+  - NT: GEN 4:6 *bugug avus-mba*; GEN 4:5 *Avus-mba mbovoé*
+  - answers: countenance, face, attitude
+  - Cain's fallen face (4:5-6) is bugug; 31:2 and 31:5 'his attitude had changed' = 'his face was not good to me, as before' (eqeieqei mbaín, av bugukhokhof ndægo), built.; English: face; English: he saw Laban's face
+  - script:gloss.py, 2026-10-15, supersedes `term:H6440face.g`
+- **`term:fourteen.g.gloss`** אַרְבַּע־עֶשְׂרֵה (fourteen) → **fotin** [high, decided, attested]
+  - gloss: אַרְבַּע: אַרְבָּעָ֥ה (GEN 46:22) — English (generated): fourteen
+  - NT: GEN 14:5 *viav qamø-fotin*; GAL 2:1 *viav 14-qá*
+  - answers: fourteen
+  - Genesis writes the English loan (feature numerals.g); the NT writes the digits.; English: viav fotin, fourteen years
+  - script:gloss.py, 2026-10-15, supersedes `term:fourteen.g`
+- **`term:H570.g.gloss`** H570 אֶמֶשׁ (last night) → **lova qagoam** [high, decided, attested]
+  - gloss: אֶמֶשׁ: אֶ֖מֶשׁ (GEN 19:34) — English (generated): last night
+  - NT: GEN 19:34 *Lova qagoam*
+  - answers: last night
+  - 'the night that was' (19:34); gen031:29, 42.
+  - script:gloss.py, 2026-10-15, supersedes `term:H570.g`
+- **`term:H1121grand.g.gloss`** בָּנִים of a grandfather (grandchildren); grandson → **zeo; nogi nakhei mbasi neka tigi nakheis** [medium, decided, attested]
+  - gloss: בֵּן: בְּנ֗ (GEN 11:31) — English (generated): his son
+  - NT: GEN 29:5 *Nao-ge zeo*; GEN 11:31 *zeo vø̄khato*
+  - answers: grandchildren, grandson, grandsons
+  - No plural of zeo found; gen031:28 says 'their children'.; English: grandson: Nao-ge zeo; English: my daughters and their children; English: nogi nakhei mbasi neka tigi nakheis = 'grandchildren of Laban'
+  - script:gloss.py, 2026-10-15, supersedes `term:H1121grand.g`
+- **`term:H1497.g.gloss`** H1497 גָּזַל (take by force, seize) → **vimbum-** [medium, decided, attested]
+  - gloss: גָּזַל: גָּזְל֖וּ (GEN 21:25) — English (generated): had seized
+  - NT: GEN 21:25 *gèvimbumém*; GEN 30:15 *mòqote-vimbám*
+  - answers: by force, take by force, seized, take away by force
+  - gen031:31 'lest you take your daughters from me by force' = Soqaín ndøgo, … toqo-vimbumem.; English: gèvimbumém they seized; toqo-vimbumem you would seize
+  - script:gloss.py, 2026-10-15, supersedes `term:H1497.g`
+- **`term:H3950gather.g.gloss`** H3950 לָקַט (gather stones, sticks) → **pizum-** [high, decided, attested]
+  - gloss: לָקַט: לִקְט֣וּ (GEN 31:46) — English (generated): Gather
+  - NT: JHN 6:12 *vø̀pizømém*; ACT 28:3 *ndøpizumát*
+  - answers: gather, gathered, gather some stones
+  - Things gathered; people assembling is pind- / møvab-.; English: Nandi vø̀pizømém! gather stones; vø̄pizumem they gathered
+  - script:gloss.py, 2026-10-15, supersedes `term:H3950gather.g`
+- **`term:H2664.g.gloss`** H2664 חָפַשׂ / H4959 מִשֵּׁשׁ (search, feel through) → **vawa-: ndøvawát, qoqo-vawat** [medium, decided, attested]
+  - gloss: חָפַשׂ: יְחַפֵּ֕שׂ (GEN 31:35) — English (generated): So Laban searched
+  - NT: LUK 2:49 *qazonø-vawat*; ACT 10:19 *vawa*
+  - answers: searched, search, felt
+  - gen031:34-37; Gen 44:12 (the steward searched) needs it. Not found: qeiviáv (did not find, LUK 24:3).; English: look for; English: he searched; English: you searched
+  - script:gloss.py, 2026-10-15, supersedes `term:H2664.g`
+- **`term:H7140.g.gloss`** H2721 חֹרֶב / H7140 קֶרַח (heat, cold, frost) → **khøuwa tatas-qape, qozaq** [high, decided, attested]
+  - gloss: חֹרֶב: חֹ֖רֶב (GEN 31:40) — English (generated): the heat
+  - NT: GEN 18:1 *Khøuwa tatas-qape*; GEN 8:22 *qozaq khøuwa*
+  - answers: heat, frost, cold
+  - gen031:40 'heat by day, frost by night' = Paveat-te, khøuwa tatas-qape … lova-te, qozaq …; English: great heat; English: cold
+  - script:gloss.py, 2026-10-15, supersedes `term:H7140.g`
+- **`term:H5348.g.gloss`** H5348 / H6124 / H1261 נָקֹד עָקֹד בָּרֹד (speckled, streaked, mottled) → **løvugiap, bokhotap-us, khagi papaqa-qasis** [medium, decided, attested]
+  - gloss: נָקֹד: נָקֹ֣ד (GEN 30:32) — English (generated): speckled
+  - NT: GEN 30:32 *løvugiap o bokhotap-us*; GEN 30:35 *khagi papaqa-qasis*; GEN 30:39 *khagi løvugiáp o bokhotap-ús*
+  - answers: speckled, streaked, spotted, mottled
+  - Genesis 30 has only two colour words for three Hebrew ones; gen031:8-12 gives the third as 'with white on it' (30:35). Question for the team.; English: speckled; English: streaked, spotted; English: with white on the body, mottled
+  - script:gloss.py, 2026-10-15, supersedes `term:H5348.g`
+- **`term:H3658.g.gloss`** H3658 כִּנּוֹר (lyre, harp); שִׁיר (song) → **gita; ouv: ouv neka gita namba** [high, decided, attested]
+  - gloss: כִּנּוֹר: כִּנּ֖וֹר (GEN 4:21) — English (generated): the harp
+  - NT: GEN 4:21 *gita*; 1CO 14:7 *Pøinda neka gita*; ACT 16:25 *ouv*
+  - answers: harps, harp, lyre, songs, singing
+  - Gen 4:21 has gita and pøinda (flute). Tambourine: gap:tambourine.g.; English: harp, lyre; English: song
+  - script:gloss.py, 2026-10-15, supersedes `term:H3658.g`
+- **`term:H3409.g.gloss`** H3409 יָרֵךְ / כַּף הַיָּרֵךְ (thigh, hip, socket of the hip) → **bov zapazapa** [high, decided, attested]
+  - gloss: יָרֵךְ: יֶ֥רֶךְ (GEN 24:9) — English (generated): the thigh
+  - NT: GEN 24:2 *bov zapazapa*; GEN 24:9 *teqa bov zapazapa*
+  - answers: hip, thigh, socket of the hip, socket, hip socket
+  - Abraham's 'under my thigh' (24:2, 24:9); bov alone is leg (REV 10:1). gen032:26, 32, 33 use it for the hip and its socket.
+  - script:gloss.py, 2026-10-15, supersedes `term:H3409.g`
+- **`term:H79.g.gloss`** H79 אָבַק (wrestle); H8280 שָׂרָה (struggle with) → **<X> namba gènøfeáp** [medium, decided, by-rule]
+  - gloss: אָבַק: יֵּאָבֵ֥ק (GEN 32:25) — English (generated): wrestled
+  - NT: GAL 5:17 *namba, gènøfeáp*; HEB 11:33 *ginøfeapam*
+  - answers: wrestled, wrestle, struggled, struggle, as they wrestled
+  - nøfeap = fight, oppose; 'as they wrestled' = 'ndigu ginøfeapam ndøgo'. Rachel's wrestling (GEN 30:8, a different Hebrew word) is fifingiap (compete, 1CO 9:25); we kept nøfeap for a bodily fight. 2sg past 'qoqo-nøfeap' (gen032:29) is built on qoqo- (feature second_person_past).; English: fought with X
+  - script:gloss.py, 2026-10-15, supersedes `term:H79.g`
+- **`term:H3201prevail.g.gloss`** H3201 יָכֹל (prevail; could not overpower) → **kopømba-én; kopømba mbaín, … tetømbuatat** [medium, decided, by-rule]
+  - gloss: יָכֹל: יָֽכְל֖וּ (GEN 13:6) — English (generated): that they were unable
+  - NT: GEN 30:8 *mø̀e-kopømba-én*; 1JN 5:5 *tetømbuatat*; JHN 14:30 *kopømba mbaín*
+  - answers: prevailed, prevail, overpower, could not overpower, won
+  - Rachel's 'I have won' (30:8) = mø̀e-kopømba-én; gen032:29 'you have prevailed' = mòqo-kopømba-én (2sg built). Overcome = tømbu- (1JN 2:13 mòzo-tømbuinám, 5:5 tetømbuatat).; English: won; English: kopømba mbaín, … tetømbuatat = 'could not overpower him'
+  - script:gloss.py, 2026-10-15, supersedes `term:H3201prevail.g`
+- **`term:H4264.g.gloss`** H4264 מַחֲנֶה (camp, company, group) → **bawan; bawan menás** [low, decided, by-rule]
+  - gloss: מַחֲנֶה: מַחֲנֵ֥ה (GEN 32:3) — English (generated): is the camp
+  - NT: JHN 19:23 *Møvøyap foá*; ACT 14:23 *bawan vinivinimba*
+  - answers: camp, camps, two camps, company, the camp
+  - No word for a camp in the corpus (the NT's 'camp' in HEB 13:11-13 is 'outside the town'). gen032 renders a group of people and animals as bawan and Mahanaim's meaning as 'Bawan menás'. Question for the team.; English: group; English: bawan menás = 'two camps'
+  - script:gloss.py, 2026-10-15, supersedes `term:H4264.g`
+- **`term:H2673.g.gloss`** H2673 חָצָה (divide into two groups) → **geqatøzo, bawan menás** [medium, decided, by-rule]
+  - gloss: חָצָה: יַּ֜חַץ (GEN 32:8) — English (generated): divided
+  - NT: GEN 21:28 *mø̀ndø-qatozó*; JHN 19:23 *gèmøvøemém*
+  - answers: divided, divide, divided into two, separated, selected
+  - qatøz- (set apart, separate: Abraham's seven lambs 21:28) for dividing people and flocks, then the parts: 'bawan menás' (as 'Møvøyap foá', four parts, JHN 19:23). Also used for 'selected (a gift)' in gen032:14.
+  - script:gloss.py, 2026-10-15, supersedes `term:H2673.g`
+- **`term:H4503.g.gloss`** H4503 מִנְחָה (gift, present, offering) → **etoam matev** [high, decided, attested]
+  - gloss: מִנְחָה: מִנְחָ֖ה (GEN 4:3) — English (generated): as an offering
+  - NT: GEN 4:3 *etoam matev*; GEN 4:4 *etoam matev*
+  - answers: gift, gifts, present, offering, a gift for
+  - The same Hebrew word as Cain's and Abel's offering (4:3-5). Jacob's gift to Esau (32:14-22, 33:10) = etoam matev; 'to give to Esau' = 'Isao-te etoam matev nonqo'.
+  - script:gloss.py, 2026-10-15, supersedes `term:H4503.g`
+- **`term:female_male.g.gloss`** female / male animals (עִזִּים / תְּיָשִׁים, רְחֵלִים / אֵילִים, פָּרוֹת / פָּרִים, אֲתֹנֹת / עְיָרִם) → **<animal> sakheis / <animal> angana** [high, decided, attested]
+  - gloss: עֵז: עִזִּים֙ (GEN 30:35) — English (generated): female goat
+  - NT: GEN 30:35 *naningus angana neka sakheis*; GEN 12:16 *donki angana neka sakheis*; GEN 21:28 *Sakheis mbá*
+  - answers: female goats, male goats, ewes, rams, cows, bulls, female donkeys, male donkeys, milk camels, heifer
+  - The team marks sex with angana / sakheis after the animal (30:35, 12:16; ewe lambs 21:28). One ram = sip anganeam (22:13); a heifer = kao-yu (HEB 9:13). Milk camels: 'kemol sakheis … tiqa nakheis namba' (gap:milk_camels.g).; English: female; English: male
+  - script:gloss.py, 2026-10-15, supersedes `term:female_male.g`
+- **`term:H6413.g.gloss`** H6413 פְּלֵיטָה (escape, the remnant that escapes) → **khokhoz-: kopømbá tikhokhoz** [high, decided, attested]
+  - gloss: ἐκφεύγω: ἐκφύγωσιν (1TH 5:3) — English (generated): they will not escape
+  - NT: 1TH 5:3 *kopømba mbaín tikhokhoz*; 2CO 11:33 *tøtø-khokhón*
+  - answers: escape, can escape, escaped
+  - 'they will not escape' (1TH 5:3) turned positive for gen032:9; flee = khokhon (term:H1272).; English: flee; English: they can escape
+  - script:gloss.py, 2026-10-15, supersedes `term:H6413.g`
+- **`term:H3190prosper.g.gloss`** H3190 הֵיטִיב עִם (do good to, make prosper) → **matev eqeieqei nøtaqá-matanám** [medium, decided, by-rule]
+  - gloss: יָטַב: אֵיטִ֥יבָה (GEN 32:10) — English (generated): and I will make you prosper
+  - NT: GEN 28:14 *matev eqeieqei nøzǿ-matanám*; GEN 19:19 *matev eqeieqei qonø-matanám*
+  - answers: prosper, make you prosper, i will make you prosper, surely make you prosper, do good
+  - God's promise 'I will do good to you' on the pattern of 28:14 (nøzǿ- I to them → nøtaqá- I to you sg, as 13:16 nøtaqá-etoám). gen032:10, 13.; English: I will do good to you
+  - script:gloss.py, 2026-10-15, supersedes `term:H3190prosper.g`
+- **`term:H2603.g.gloss`** חָנַן (be gracious to, graciously give) → **tanakh + go: Mbumbukiam no tanakh genøgo** [medium, decided, by-rule]
+  - gloss: חָנַן: חָנַ֥ן (GEN 33:5) — English (generated): has graciously given
+  - NT: PHP 2:27 *tanakh mbogó*; LUK 18:13 *No tanakh gènøgó*
+  - answers: graciously, gracious, graciously given, has been gracious
+  - The NT's 'have mercy on me' (tanakh gènøgó, imperative) and 'God had mercy on him' (tanakh mbogó); the 3sg past with nø- (me) is built. Same word as favour (term:H2580). gen033:5, 11.; English: God had mercy on me
+  - script:gloss.py, 2026-10-15, supersedes `term:H2603.g`
+- **`term:last_rear.g.gloss`** רִאשֹׁנָה / אַחֲרֹנִים (first, next, last; in front, at the rear) → **bugukhokhof … Taqa zita-te … Yaq vaev-te** [medium, decided, attested]
+  - gloss: ἔσχατος: ἔσχατον (1CO 15:8) — English (generated): last
+  - NT: 1CO 15:8 *Yaq vaev-te*; LUK 20:32 *Yaq vaev*
+  - answers: rear, at the rear, last, in front, next, then joseph
+  - Order of a line of people (gen033:2) and 'and then Joseph and Rachel' (33:7).; English: first; English: after that; English: last of all
+  - script:gloss.py, 2026-10-15, supersedes `term:last_rear.g`
+- **`term:H5066.g.gloss`** נָגַשׁ (draw near, approach) → **ginduzáv; gèkhanøgím; X avønin-te** [high, decided, attested]
+  - gloss: נָגַשׁ: יִּגַּ֥שׁ (GEN 18:23) — English (generated): stepped forward
+  - NT: MRK 7:1 *ginduzáv*; GEN 27:27 *gèkhanøgím*; GEN 27:22 *avønin-te vø̄khanøgim*
+  - answers: approached, drew near, came near, approach
+  - gen033:6-7 'X avønin-te ginduzáv'.; English: they came, pl; English: gèkhanøgím = 'he came near'; X avønin-te = 'near X'
+  - script:gloss.py, 2026-10-15, supersedes `term:H5066.g`
+- **`term:frail.g.gloss`** רַכִּים (tender, frail children) → **kha bazaføgakh mbaín** [medium, decided, attested]
+  - gloss: ἀσθένεια: ἀσθενείᾳ (1CO 2:3) — English (generated): weakness
+  - NT: 1CO 2:3 *kha bazaføgakh mbaín*
+  - answers: frail, weak, tender
+  - gen033:13.; English: the body has no strength
+  - script:gloss.py, 2026-10-15, supersedes `term:frail.g`
+- **`term:nursing.g.gloss`** עָלוֹת (nursing animals) / מֵינִיקוֹת (nursing) → **nakhei tete ndizøloge; nakheis tete nduzø-etoam** [medium, decided, attested]
+  - gloss: θηλάζω: θηλαζούσαις (LUK 21:23) — English (generated): nursing
+  - NT: LUK 21:23 *nakhei tete ndizøloge*; 1TH 2:7 *nakheis tete nduzø-etoam*
+  - answers: nursing, nursing their young, that are nursing
+  - Said of ewes and cows in gen033:13 ('sip neka kao sakheis … nakhei tete ndizøloge'). Settles part of gap:milk_camels.g for later chapters.; English: they suckle young: nursing mothers; English: nakheis tete nduzø-etoam = 'a mother nursing'
+  - script:gloss.py, 2026-10-15, supersedes `term:nursing.g`
+- **`term:H5521.g.gloss`** סֻכָּה / סֻכּוֹת (booth, shelter) → **khoev-qasis + puan** [high, decided, attested]
+  - gloss: σκηνή: σκηνὰς (LUK 9:33) — English (generated): shelters
+  - NT: LUK 9:33 *khoev-qasis*; JHN 7:2 *khoev-qasis gipuanumatun*
+  - answers: shelters, booths, shelter, tabernacles
+  - Peter's three shelters and the Feast of Tabernacles. Also Succoth's meaning (name:succoth.g). gen033:17.; English: little houses; English: put up
+  - script:gloss.py, 2026-10-15, supersedes `term:H5521.g`
+- **`term:H8003safely.g.gloss`** שָׁלֵם (safely, in peace; arrived safely) → **sambi-té** [medium, decided, by-rule]
+  - gloss: εἰρήνη: εἰρήνῃ (1CO 16:11) — English (generated): peace
+  - NT: 1CO 16:11 *Sambi-té*; 1TH 5:13 *sambi bèzøgó*
+  - answers: safely, in peace, arrived safely
+  - 'send him in peace'. gen033:18 'sambi-té, Sekem taon-te gemøfakhan' follows the BSB (safely), not the place Shalem.; English: in peace
+  - script:gloss.py, 2026-10-15, supersedes `term:H8003safely.g`
+- **`term:H7069.g.gloss`** קָנָה (buy, purchase from) → **<seller>-te gewi; vømbō-etoam / vøzø̄-etoam** [high, decided, attested]
+  - gloss: קָנָה: יִּ֜קֶן (GEN 33:19) — English (generated): he purchased
+  - NT: GEN 23:20 *Hit-ak ezoqam-te gewi*; GEN 23:16 *vømbō-etoam*
+  - answers: purchased, bought, buy
+  - Abraham's field (23:16-20, 25:10). gen033:19.; English: he bought from X; English: vømbō-etoam / vøzø̄-etoam = 'the price given'
+  - script:gloss.py, 2026-10-15, supersedes `term:H7069.g`
+- **`term:H2930defile.g.gloss`** טִמֵּא (defile a woman, Gen 34:5, 13, 27) → **<X> namba mambe matev gego** [medium, decided, by-rule]
+  - gloss: טָמֵא: טִמֵּא֙ (GEN 34:5) — English (generated): Shechem had defiled
+  - NT: REV 18:3 *tu namba mambe matev*
+  - answers: defiled, had defiled, been defiled
+  - No model for 'defile' a person (ACT 21:28 'vø̄ngiu' is for a holy place). The kings 'were immoral with her' (REV 18:3) gives the construction; gego (he did) as LUK 1:25 'matev kandambá gego'; 3pl gigonem. gen034:5, 13, 27.; English: did an immoral act with her
+  - script:gloss.py, 2026-10-15, supersedes `term:H2930defile.g`
+- **`term:H2734fury.g.gloss`** וַיִּחַר לָהֶם מְאֹד (they were very angry) → **qaqa kandambá gigonem** [high, decided, attested]
+  - gloss: θυμός: θυμοῦ (ACT 19:28) — English (generated): enraged
+  - NT: ACT 19:28 *qaqa kandambá gigonem*; ACT 5:33 *qaqa kandambá gigonem*
+  - answers: fury, furious, enraged, very angry
+  - gen034:7. Singular: qaqa kandambá gego (MAT 22:7).
+  - script:gloss.py, 2026-10-15, supersedes `term:H2734fury.g`
+- **`term:grief.g.gloss`** וַיִּתְעַצְּבוּ (they were grieved) → **mbøni vaev matev zøfakhán** [medium, decided, by-rule]
+  - gloss: λυπέω: λελύπηκεν (2CO 2:5) — English (generated): has caused grief
+  - NT: 2CO 2:5 *mbøni vaev matev gengaz*
+  - answers: grief, grieved, filled with grief
+  - Like term:distress.g (mbøni vaev matev mbofakhán) with zø- (them). gen034:7.; English: sorrow came to them
+  - script:gloss.py, 2026-10-15, supersedes `term:grief.g`
+- **`term:outrage.g.gloss`** נְבָלָה (outrage, disgraceful thing) → **soqa matev kandambaqape** [medium, decided, by-rule]
+  - gloss: נְבָלָה: נְבָלָ֞ה (GEN 34:7) — English (generated): an outrage
+  - NT: 1JN 1:9 *soqa matev*
+  - answers: outrage, committed an outrage
+  - term:H7451 soqa matev + kandambaqape. 'in Israel' = 'Izlael bawan mokho-te'. gen034:7.; English: a great evil deed
+  - script:gloss.py, 2026-10-15, supersedes `term:outrage.g`
+- **`term:tenderly.g.gloss`** דִּבֶּר עַל־לֵב (spoke tenderly to her) → **manqat eqeieqei gumbo-ein** [medium, decided, by-rule]
+  - gloss: דָבַר: יְדַבֵּ֖ר (GEN 34:3) — English (generated): and spoke to her tenderly
+  - NT: 1CO 4:13 *manqat eqeieqeí*
+  - answers: tenderly, spoke tenderly
+  - 'we answer gently' = 'manqat eqeieqeí qeizømbe-qavøiuín' (1CO 4:13); gumbo-ein (to her). gen034:3.; English: spoke good words to her
+  - script:gloss.py, 2026-10-15, supersedes `term:tenderly.g`
+- **`term:intermarry.g.gloss`** הִתְחַתְּנוּ אֹתָנוּ (intermarry with us) → **Ni neka zo, bizi-tøkuaném** [low, decided, by-rule]
+  - gloss: חָתַן: הִֽתְחַתְּנ֖וּ (GEN 34:9) — English (generated): Intermarry with us
+  - NT: MRK 10:7 *mé꞉tøkuaném*; ACT 4:26 *mø̀ndø-tøkuaném*
+  - answers: intermarry, intermarry with us
+  - tøkuanem = unite, of man and wife (MRK 10:7) and of a gathering; hortative bizi- (feature hortative). The giving and taking of daughters follows as its own sentences. gen034:9.; English: let us unite
+  - script:gloss.py, 2026-10-15, supersedes `term:intermarry.g`
+- **`term:trade.g.gloss`** סָחַר (trade, move about freely) → **bisnis <...>-gonem** [high, decided, attested]
+  - gloss: סָחַר: סֹּחֵֽר (GEN 23:16) — English (generated): of the merchants
+  - NT: JAS 4:13 *bisnis vizimǿ-gonēm*
+  - answers: trade, move about freely
+  - Loan bisnis (7×). 2pl command built 'bisnis vozomǿ-gonēm' (gen034:10), 3pl wish 'bisnis bègonem' (34:21).; English: do business
+  - script:gloss.py, 2026-10-15, supersedes `term:trade.g`
+- **`term:property.g.gloss`** הֵאָחֲזוּ בָהּ (acquire property in it) → **manqei vø̀wím** [low, decided, by-rule]
+  - gloss: אָחַז: הֵֽאָחֲז֖וּ (GEN 34:10) — English (generated): and acquire your own property
+  - NT: LUK 14:18 *manqei*
+  - answers: property, acquire, acquire your own property
+  - wi = buy (term:H7069); imperative chain vø̀- (feature imperative_chain). gen034:10.; English: buy land
+  - script:gloss.py, 2026-10-15, supersedes `term:property.g`
+- **`term:uncircumcised.g.gloss`** עָרְלָה / אִישׁ אֲשֶׁר־לוֹ עָרְלָה (an uncircumcised man) → **ezoqam, ndego ngusum kepøtøzateav gegoam** [high, decided, attested]
+  - gloss: ἀκροβυστία: ἀκροβυστίᾳ (1CO 7:18) — English (generated): still uncircumcised
+  - NT: 1CO 7:18 *ngusum kepøtøzateav gegoam*
+  - answers: uncircumcised, uncircumcised man
+  - gen034:14.
+  - script:gloss.py, 2026-10-15, supersedes `term:uncircumcised.g`
+- **`term:circumcise.g.gloss`** נִמּוֹל / הִמֹּל (be circumcised) → **ngusu bèzøqogøzát; ngusu vø̄qogaz; ngusu qogøzat-qa** [high, decided, attested]
+  - gloss: מוּל: הִמּ֥וֹל (GEN 17:10) — English (generated): must be circumcised
+  - NT: GEN 17:10 *ngusu bèzøqogøzát*; GEN 17:27 *ngusu vø̄qogaz*; GAL 6:13 *ngusu qogøzat-qa*
+  - answers: circumcised, be circumcised, are circumcised
+  - The team's Genesis 17. Also 'circumcise him' = ngusu vømbō-kepøtaz (17:23). gen034:15, 17, 22, 24.; English: let them be circumcised; English: they were circumcised; English: ngusu qogøzat-qa = 'to be circumcised'
+  - script:gloss.py, 2026-10-15, supersedes `term:circumcise.g`
+- **`term:males.g.gloss`** כָּל־זָכָר (every male) → **angana ate ndi꞉gu / angana ate gi꞉goam** [high, decided, attested]
+  - gloss: זָכָר: זָכָֽר (GEN 17:10) — English (generated): male among you
+  - NT: GEN 17:10 *angana ate ndi꞉gu*; GEN 17:23 *angana ate gi꞉goam*
+  - answers: males, every male, every one of your males
+  - ndi꞉gu in speech (present), gi꞉goam in narrative. gen034:15, 22, 24, 25.
+  - script:gloss.py, 2026-10-15, supersedes `term:males.g`
+- **`term:deceitfully.g.gloss`** בְּמִרְמָה (deceitfully) → **<them> zømbe-khavozám** [medium, decided, by-rule]
+  - gloss: מִרְמָה: מִרְמָ֖ה (GEN 34:13) — English (generated): deceitfully
+  - NT: LUK 20:47 *zømbe-khavozumatún*
+  - answers: deceitfully, deceit
+  - khavoz (term:H7411.g) with zømbe- (them). gen034:13.; English: they deceived them
+  - script:gloss.py, 2026-10-15, supersedes `term:deceitfully.g`
+- **`term:respected.g.gloss`** נִכְבָּד מִכֹּל (the most respected of all) → **ezoqa ate gi꞉goam, ndego gèmbo-vizupám** [high, decided, attested]
+  - gloss: כָּבֵד: נִכְבָּ֔ד (GEN 34:19) — English (generated): the most respected
+  - NT: ACT 22:12 *ndego gèmbo-vizupám*
+  - answers: respected, most respected
+  - Ananias, 'highly regarded by all the Jews'. gen034:19.; English: all respected him
+  - script:gloss.py, 2026-10-15, supersedes `term:respected.g`
+- **`term:hesitate.g.gloss`** לֹא אֵחַר (did not hesitate, did not delay) → **nakhamas-té** [medium, decided, by-rule]
+  - gloss: אָחַר: אֵחַ֤ר (GEN 34:19) — English (generated): hesitate
+  - NT: 1TI 3:14 *nakhamas-té*
+  - answers: hesitate, did not hesitate
+  - The negated delay as its positive; no word for hesitate found. gen034:19.; English: quickly
+  - script:gloss.py, 2026-10-15, supersedes `term:hesitate.g`
+- **`term:unsuspecting.g.gloss`** בֶּטַח (unsuspecting, off guard) → **<people> zøtezateáv** [medium, decided, by-rule]
+  - gloss: בֶּטַח: בֶּ֑טַח (GEN 34:25) — English (generated): the unsuspecting
+  - NT: 1CO 8:7 *zøtezateáv*
+  - answers: unsuspecting
+  - Told as its own short sentence: 'Taon ezoqam zøtezateáv.' gen034:25.; English: they did not know
+  - script:gloss.py, 2026-10-15, supersedes `term:unsuspecting.g`
+- **`term:slaughtered.g.gloss`** הָרַג (kill, slaughter many) → **pakhapakha vøzø̄-khanæmam** [high, decided, attested]
+  - gloss: הָרַג: יַּהַרְגֵֽ (GEN 4:8) — English (generated): and killed him
+  - gloss: ἀποκτείνω: ἀποκτέννοντες (MRK 12:5) — English (generated): they killed
+  - NT: MRK 12:5 *pakhapakha vøzø̄-khanæmam*
+  - answers: slaughtered, killed, they killed
+  - Singular object: pakhapakha mbokhanøém (MRK 12:5), vømbō-khana (1JN 3:12). gen034:25, 26.; English: and they killed them
+  - script:gloss.py, 2026-10-15, supersedes `term:slaughtered.g`
+- **`term:plunder.g.gloss`** בָּזַז / שָׁבָה (plunder, loot; carry off) → **gigiap vø̄-aqonømem; vø̄-upøgimem; vøzø̄-geanem** [high, decided, attested]
+  - gloss: διαρπάζω: διαρπάσει (MAT 12:29) — English (generated): he can plunder
+  - NT: MAT 12:29 *gigiap voqombó-aqonām*; GEN 14:11 *vø̄-upøgimem*; GEN 14:12 *vømbō-geanem*
+  - answers: looted, plundered, carried off, plunder
+  - Genesis 14 tells the raid on Sodom with upøgim (goods) and gean (Lot seized). gen034:27-29.; English: stole the goods; English: built; English: vø̄-upøgimem = 'carried off'; vøzø̄-geanem = 'captives'
+  - script:gloss.py, 2026-10-15, supersedes `term:plunder.g`
+- **`term:stench.g.gloss`** הַבְאִישֵׁנִי (you made me a stench to) → **<people> no gèsanqaná** [medium, decided, by-rule]
+  - gloss: בָּאַשׁ: הַבְאִישֵׁ֨ (GEN 34:30) — English (generated): by making me a stench
+  - NT: JHN 7:7 *no, gèsanqaná*
+  - answers: stench, making me a stench
+  - Image to meaning (image_to_meaning). gen034:30.; English: they hate me
+  - script:gloss.py, 2026-10-15, supersedes `term:stench.g`
+- **`term:brought_trouble.g.gloss`** עֲכַרְתֶּם אֹתִי (you have brought trouble on me) → **Zo no soqain-te qazo-amb.** [medium, decided, by-rule]
+  - gloss: בּוֹא: הֵבֵ֧אתָ (GEN 20:9) — English (generated): you have brought
+  - gloss: עָכַר: עֲכַרְתֶּ֣ם (GEN 34:30) — English (generated): You have brought trouble
+  - NT: GEN 20:9 *ni soqain-te toqo-amb*
+  - answers: brought trouble, trouble, you have brought trouble
+  - Abimelech's 'you have brought guilt on us' with 2pl qazo- (qazo-kopo꞉nem ACT 5:9). gen034:30.
+  - script:gloss.py, 2026-10-15, supersedes `term:brought_trouble.g`
+- **`term:prostitute.g.gloss`** זוֹנָה (prostitute) → **mambe sævam** [high, decided, attested]
+  - gloss: πόρνη: πόρνῃ (1CO 6:16) — English (generated): with a prostitute
+  - NT: 1CO 6:16 *mambe okho sævam*
+  - answers: prostitute, like a prostitute
+  - mambe = immoral (mambe matev immorality, REV 18:3). gen034:31.
+  - script:gloss.py, 2026-10-15, supersedes `term:prostitute.g`
+- **`term:few.g.gloss`** מְתֵי מִסְפָּר (few in number) → **Ni ezoqa khapimbá.** [medium, decided, by-rule]
+  - gloss: ὀλίγος: ὀλίγοι (MAT 7:14) — English (generated): only a few
+  - NT: MAT 7:14 *khapimba*
+  - answers: few in number, few
+  - khapimba 'few' (15×), khapemba 'little' (44×). gen034:30.
+  - script:gloss.py, 2026-10-15, supersedes `term:few.g`
+- **`term:sister.g.gloss`** אָחוֹת (sister) → **sævømiu** [high, decided, attested]
+  - gloss: אָחוֹת: אֲחֹ֣תִ (GEN 12:19) — English (generated): my sister
+  - NT: GEN 12:19 *nogū sævømiū*; PHM 1:2 *nigu Klisten nøfu*
+  - answers: sister, our sister, their sister
+  - Abram's 'she is my sister' (12:19); possessive -gu for a woman. gen034:13, 14, 17, 27, 31.; Kuni: our sister = nigu sævømiu; their = tigu sævømiu
+  - script:gloss.py, 2026-10-15, supersedes `term:sister.g`
+- **`term:in_pain.g.gloss`** כֹּאֲבִים (in pain) → **zua nqosøgeap giyogem** [medium, decided, by-rule]
+  - gloss: כָּאַב: כֹּֽאֲבִ֗ים (GEN 34:25) — English (generated): still in pain
+  - NT: GEN 3:16 *nqosøgeap kandambá, toqombo-ewagat*
+  - answers: in pain, still in pain
+  - ewag = hear, feel (3pl past giyogem). gen034:25.; English: they still felt pain
+  - script:gloss.py, 2026-10-15, supersedes `term:in_pain.g`
+- **`term:H5141.g.gloss`** נֶזֶם (ring, earring, nose ring) → **agiwa-qasi** [medium, decided, attested]
+  - gloss: נֶזֶם: נֶ֣זֶם (GEN 24:22) — English (generated): ring
+  - NT: GEN 24:22 *agiwa-qasi*; GEN 24:47 *agiwa-qasi nombo-føláb*
+  - answers: earrings, ring, rings, nose ring
+  - The ring Abraham's servant gave Rebekah (24:22, 24:47, worn on the nose: kesov-te). Earrings = 'agiwa-qasi, tiqa gea-te gi꞉goam' (rings that were on their ears; gea ear) in gen035:4, built.
+  - script:gloss.py, 2026-10-15, supersedes `term:H5141.g`
+- **`term:H2934.g.gloss`** טָמַן (hide, bury objects) → **gèkhonáb; nòkhonáb. Manqei-té qæmø-otáz** [medium, decided, attested]
+  - gloss: טָמַן: יִּטְמֹ֤ן (GEN 35:4) — English (generated): buried
+  - NT: ACT 5:2 *nøme gèkhonáb*; MAT 25:25 *Manqei-té qæmø-otáz*
+  - answers: buried, hid, hide, buried them
+  - For objects hidden in the ground, not for burying the dead (term:H6912.g). gen035:4 'gèkhonáb. Manqei-té gemø-otáz' (3sg gemø- built on 1sg qæmø-).; English: he hid it; English: nòkhonáb. Manqei-té qæmø-otáz = 'hid it in the ground'
+  - script:gloss.py, 2026-10-15, supersedes `term:H2934.g`
+- **`term:H3205labor.g.gloss`** תֵּלֶד / תְּקַשׁ בְּלִדְתָּהּ (give birth; hard labour) → **nqosøgeap + gui-ovaɨn** [medium, decided, attested]
+  - gloss: ὠδίν: ὠδὶν (1TH 5:3) — English (generated): labor pains
+  - NT: 1TH 5:3 *sævam-qa nqosøgeap, gui-ovaɨn*
+  - answers: labor, severe labor, difficult, began to give birth, her labor was difficult
+  - 'labor pains on a pregnant woman' (1TH 5:3). gen035:16 'Laisol gui-ovaɨn. Tuqa nqosøgeap kandambá tantáv.'; English: pain; English: she was about to give birth
+  - script:gloss.py, 2026-10-15, supersedes `term:H3205labor.g`
+- **`term:right_hand.g.gloss`** יָמִין (right hand; Benjamin 'son of the right hand') → **nakeamo zenda** [high, decided, attested]
+  - gloss: יָמִין: יָּמִ֖ין (GEN 13:9) — English (generated): you go to the right
+  - NT: 1PE 3:22 *nakeamo zenda-te vømø̄qom*; ACT 2:33 *teqa nakeamo zenda-te*
+  - answers: right hand, right
+  - Used in the meaning of Benjamin, gen035:18 '(Taqa manqa mokho: Noqa nakeamo zenda-ge yó.)'.
+  - script:gloss.py, 2026-10-15, supersedes `term:right_hand.g`
+- **`term:H2891purify.g.gloss`** הִטַּהֲרוּ (purify yourselves) → **Mbumbukiam-qa bøi-te, vø̀-eqeieqei-éz** [medium, decided, by-rule]
+  - gloss: טָהֵר: הִֽטַּהֲר֔וּ (GEN 35:2) — English (generated): Purify yourselves
+  - NT: 1PE 1:22 *vozō-eqeieqei-ez*; ACT 21:24 *Mbumbukiam-qa bøi-te eqeieqei*
+  - answers: purify, purify yourselves, purified
+  - The NT's 'purify' is 'become right/clean in God's eyes' (1PE 1:22, ACT 21:24); the 2pl imperative is built with the chain prefix vø̀- (feature imperative_chain). gen035:2.; English: become clean before God
+  - script:gloss.py, 2026-10-15, supersedes `term:H2891purify.g`
+- **`term:change_clothes.g.gloss`** וְהַחֲלִיפוּ שִׂמְלֹתֵיכֶם (change your garments) → **zoqa ndabua ndakinak zó-uzám** [medium, decided, by-rule]
+  - gloss: ἐνδύω: Ἐνδύσασθε (COL 3:12) — English (generated): clothe yourselves with
+  - NT: COL 3:12 *ndakinak zó-uzám*
+  - answers: change, change your garments, garments, change clothes
+  - COL 3:12 'clothe yourselves' = 'matev ndakinak zó-uzám' (put on new ways); with ndabua (clothes) in gen035:2. No corpus verse changes clothes (searched 'change(d) ... clothes|garments').; English: put on new clothes
+  - script:gloss.py, 2026-10-15, supersedes `term:change_clothes.g`
+- **`term:nurse.g.gloss`** מֵינֶקֶת (nurse of a woman, Rebekah's nurse) → **<nurse> ndugu sævam, ma <X> gumbi꞉-kewagam** [high, decided, attested]
+  - gloss: מֵינֶקֶת: מֵנִקְתָּ֑ (GEN 24:59) — English (generated): along with her nurse
+  - NT: GEN 24:59 *sævam ma gumbi꞉-kewagam*
+  - answers: nurse, rebekah's nurse
+  - The same woman as Gen 24:59 (Rebekah's nurse, unnamed there). Ruth's nurse to a child is term:H539nurse.h. gen035:8.; English: the woman who looked after her
+  - script:gloss.py, 2026-10-15, supersedes `term:nurse.g`
+- **`term:oak.g.gloss`** אֵלָה / אַלּוֹן (oak, terebinth, great tree) → **tae kandambaqape; tae kandambaqape guzuguzu-te** [high, decided, attested]
+  - gloss: אֵלוֹן: אֵל֣וֹן (GEN 12:6) — English (generated): of the Oak
+  - NT: GEN 12:6 *tae kandambaqape qo꞉yam*; GEN 18:8 *Tae guzuguzu-te ndøgo*
+  - answers: oak, under the oak, great tree, terebinth
+  - The Oak of Moreh = 'big tree' (12:6); the Oaks of Mamre 'tae kandakanda' (13:18); 'under the tree' = in its shade (18:8). gen035:4, 8.; English: in its shade; English: tae kandambaqape guzuguzu-te = 'under the oak'
+  - script:gloss.py, 2026-10-15, supersedes `term:oak.g`
+- **`term:distance.g.gloss`** כִּבְרַת־הָאָרֶץ (some distance from) → **<X> fakhaneav ndøgoám. Zua qambaqapé** [medium, decided, attested]
+  - gloss: כִּבְרָה: כִּבְרַת (GEN 35:16) — English (generated): some distance
+  - NT: JHN 11:30 *fakhaneav ndøgoám*; ACT 9:38 *qambaqapé mbá*
+  - answers: distance, some distance, still, while they were still
+  - Jesus had not yet come into the village (JHN 11:30); far = qambaqapé (ACT 9:38 'not far'). gen035:16.; English: they had not yet arrived at X; English: still far
+  - script:gloss.py, 2026-10-15, supersedes `term:distance.g`
+- **`term:stone_marker.g.gloss`** מַצֶּבֶת אָבֶן / מַצֵּבָה (pillar, stone marker) → **Andé uk me me꞉wuáb** [high, decided, attested]
+  - gloss: מַצֵּבָה: מַצֵּבָ֑ה (GEN 28:18) — English (generated): as a pillar
+  - NT: GEN 28:18 *Andé uk me me꞉wuáb*
+  - answers: marker, stone marker, pillar, marks
+  - With 'nandi … sasa ndøwuab' before it (formula:set_up_pillar.g). 'it marks Rachel's tomb to this day' = 'nqanek nandi, Laisol-qa manqei pakha-te me꞉yám' (stands at the tomb; me꞉yám from GEN 19:26), gen035:20.
+  - script:gloss.py, 2026-10-15, supersedes `term:stone_marker.g`
+- **`term:H5262.g.gloss`** נֶסֶךְ (drink offering) → **Mbumbukiam-te etoam matev, waen … vō꞉qouz** [medium, decided, by-rule]
+  - gloss: נָסַךְ: יַּסֵּ֤ךְ (GEN 35:14) — English (generated): and he poured out
+  - NT: 2TI 4:6 *waen gi꞉qouzumatun*; GEN 28:18 *oil vō꞉qouz*
+  - answers: drink offering, poured out, drink
+  - The NT's drink offering is wine poured out (2TI 4:6, PHP 2:17); the Hebrew does not name the liquid. gen035:14. Question for the Kuni team whether 'waen' should stand.; English: poured wine as a gift to God
+  - script:gloss.py, 2026-10-15, supersedes `term:H5262.g`
+- **`term:H7462tend.g.gloss`** רָעָה (pasture, tend animals) → **gezø-kewagám** [high, decided, attested]
+  - gloss: רָעָה: רֹ֣עֵה (GEN 4:2) — English (generated): a keeper
+  - NT: GEN 30:36 *até gezø-kewagám*; GEN 30:31 *até bazøkeogé*
+  - answers: pasturing, tending, shepherding, pasture
+  - Jacob tending Laban's flocks (30:31, 30:36). gen036:24 'tege eve Zibeon-gi donki gezø-kewagám'.; English: he tended them
+  - script:gloss.py, 2026-10-15, supersedes `term:H7462tend.g`
+- **`term:H4672found.g.gloss`** מָצָא (find, found something) → **geqeivi; ndø-qeivím** [high, decided, attested]
+  - gloss: מָצָא: יִּ֨מְצְאוּ (GEN 26:19) — English (generated): and found
+  - NT: GEN 26:19 *ibøkha bæbæs-qape ndø-qeivím*; GEN 26:32 *ibøkha mø̀iqeivím*
+  - answers: found, find
+  - Isaac's servants found water (26:19, 26:32); geqeivi 3sg (10× in the corpus). gen036:24.; English: he found; English: ndø-qeivím = 'they found'
+  - script:gloss.py, 2026-10-15, supersedes `term:H4672found.g`
+- **`term:seventeen.g.gloss`** שְׁבַע־עֶשְׂרֵה (seventeen); אַחַד עָשָׂר (eleven) → **seventin; ileven** [high, decided, attested]
+  - gloss: שֶׁבַע: שְׁבַֽע (GEN 37:2) — English (generated): seventeen
+  - NT: GEN 7:11 *khøuwa qamø-seventin*; GEN 8:4 *gimø-seventin-ez*; ACT 1:26 *u-anim ileven-te*
+  - answers: seventeen, eleven
+  - Numbers as English loans (numerals.g). 'Joseph was seventeen years old' = 'Zosef viav seventin qamømbo-ndap' (age_and_years). gen037:2, 9.; English: 17; English: 11
+  - script:gloss.py, 2026-10-15, supersedes `term:seventeen.g`
+- **`term:coat_ornate.g.gloss`** כְּתֹנֶת פַּסִּים (Joseph's ornate robe, robe of many colours; GEN 37:3, 23, 31-33) → **ndabua sekeqape, khagi vinivinimba-ús** [low, decided, by-rule]
+  - gloss: כֻּתֹּנֶת: כְּתֹ֥נֶת (GEN 37:3) — English (generated): a robe
+  - gloss: ἱμάτιον: ἱμάτιον (REV 19:13) — English (generated): a robe
+  - NT: REV 19:13 *ndabua sekeqape*; REV 9:17 *Taqa khagi, køkóuk.*; ACT 25:23 *agiwa-qasis khagi-us*; GEN 1:11 *bugug vinivinimba*
+  - answers: robe, robe of many colors, ornate robe, tunic, coat
+  - Built: ndabua sekeqape (long robe, the seamless tunic and the rider's robe) + khagi (colour, skin: REV 9:17, REV 4:3) + vinivinimba (of different kinds) + -us (having). The robe alone later in the chapter = 'Zosef-qa ndabua', 'ta ndabua'. Tearing one's clothes = 'ekeza ndabua vø̄keqa' (MRK 14:63). gen037:3, 23, 31-33. Question for the Kuni team: a better word for a coloured garment?; English: a long garment with many colours
+  - script:gloss.py, 2026-10-15, supersedes `term:coat_ornate.g`
+- **`term:dreamer.g.gloss`** בַּעַל הַחֲלֹמוֹת (master of dreams, dreamer) → **venanqei tam ezoqam** [medium, decided, by-rule]
+  - gloss: ἐνυπνιάζομαι: ἐνυπνιαζόμενοι (JUD 1:8) — English (generated): dreamers
+  - NT: GEN 20:3 *Venanqei tam-té genø-omét*; JUD 1:8 *venanqei-tam-te gi꞉manqatatun*
+  - answers: dreamer, that dreamer
+  - Agent noun (feature agent_noun) on 'venanqei tam' (dream). 'Here comes that dreamer' = 'Ndǽ! Ngenek venanqei tam ezoqam ngegeav.' (GEN 29:6 'Ndǽ'). gen037:19.
+  - script:gloss.py, 2026-10-15, supersedes `term:dreamer.g`
+- **`term:lift_out.g.gloss`** מָשַׁךְ / הֶעֱלָה מִן־הַבּוֹר (pull up, lift out of the pit) → **vø̄livav** [medium, decided, by-rule]
+  - gloss: מָשַׁךְ: יִּמְשְׁכוּ֙ (GEN 37:28) — English (generated): his brothers pulled
+  - NT: MAT 12:11 *Ndø̀liváv.*; JON 2:7 *mòqoliván*
+  - answers: pulled, pulled up, lifted out, drew up
+  - The man lifts his sheep out of the pit (MAT 12:11); God raised Jonah from the pit (JON 2:7). The chain form vø̄livav is built (imperative_chain). gen037:28.; English: and lifted him out
+  - script:gloss.py, 2026-10-15, supersedes `term:lift_out.g`
+- **`term:traders.g.gloss`** סֹחֲרִים (traders, merchants) → **bisnis ezoqam** [high, decided, attested]
+  - gloss: ἔμπορος: ἔμποροι (REV 18:3) — English (generated): merchants
+  - NT: REV 18:3 *bisnis ezoqam*; REV 18:11 *bisnis ezoqam*
+  - answers: traders, merchants, merchant, midianite traders
+  - The merchants of the earth (REV 18). 'Midianite traders' = 'Midian bawan bisnis ezoqam'. gen037:28.
+  - script:gloss.py, 2026-10-15, supersedes `term:traders.g`
+- **`term:captain_guard.g.gloss`** שַׂר הַטַּבָּחִים (captain of the guard) → **vos keoge ezoqam-ge kawa** [medium, decided, by-rule]
+  - gloss: στρατηγός: στρατηγὸς (ACT 4:1) — English (generated): captain
+  - NT: ACT 4:1 *vos keoge ezoqam-ge kawa*; ACT 5:24 *vos keoge ezoqam-ge kawa*
+  - answers: captain of the guard, captain
+  - The captain of the temple guard (ACT 4:1, 5:24) without 'temple': 'Felo-gi vos keoge ezoqam-ge kawa'. gen037:36; 39:1; 40:3-4.; English: the chief of the guards
+  - script:gloss.py, 2026-10-15, supersedes `term:captain_guard.g`
+- **`term:our_brother.g.gloss`** אָחִינוּ (our brother) → **nigi nøfu** [medium, decided, by-rule]
+  - gloss: ἀδελφός: ἀδελφὸς (1CO 1:1) — English (generated): brother
+  - NT: 1CO 1:1 *nigi Klisten nøfu*
+  - answers: our brother
+  - 'our brother Sosthenes'. The kin noun eveqase has the possessor in its stem (e- his, qa- your, zø- your pl); no 1pl form was found, so gen037:26-27 use nøfu. 'he is our own flesh' = 29:14 in the 1pl: 'Ndego unimanqatin nigí nøfú. Uni-nikeza-kouk-ín.' (GEN 29:14 'Uni-nøkeza-kouk-ín'). Question for the Kuni team.
+  - script:gloss.py, 2026-10-15, supersedes `term:our_brother.g`
+- **`term:father_in_law.g.gloss`** חָם / חָמִיךְ / חָמִיהָ (father-in-law) → **zimui; qoge zimui; tuge zimui** [low, decided, attested]
+  - gloss: חָם: חָמִ֛י (GEN 38:13) — English (generated): Your father in law
+  - NT: JHN 18:13 *Kayafas-gé zimuí*
+  - answers: father-in-law, your father-in-law, her father-in-law
+  - One NT model, a man's father-in-law. Kin nouns may change their stem with the possessor's person (zakhapuka/qakhapuka, ziwap/qæwap): the 2nd-person form is unknown. Question for the Kuni team. gen038:13, 25.; Kuni: Kayafas-gé zimuí; English: built; English: qoge zimui = 'your'; tuge zimui = 'her'
+  - script:gloss.py, 2026-10-15, supersedes `term:father_in_law.g`
+- **`term:daughter_in_law_your.h.gloss`** כַּלָּתֶךָ / כַּלָּתוֹ (your / his daughter-in-law) → **qogu qæwap-pakha; ekeza ziwap-pakha** [high, decided, attested]
+  - gloss: כַּלָּה: כַלָּתֵ֤ (RUT 4:15) — English (generated): your daughter in law
+  - NT: RUT 4:15 *Qogu qæwap-pakha*; RUT 2:22 *ziwap-pakha*
+  - answers: your daughter-in-law, his daughter-in-law, daughter-in-law
+  - Kin form with -pakha and the 2nd-person stem qæwap (feature kin_pakha). gen038:11, 16, 24.; English: your; English: his
+  - script:gloss.py, 2026-10-15, supersedes `term:daughter_in_law_your.h`
+- **`term:signet_seal.g.gloss`** חֹתָם / חֹתֶמֶת (seal, signet) → **khakhatap gone nonqo** [medium, decided, attested]
+  - gloss: σφραγίς: σφραγῖδα (REV 7:2) — English (generated): seal
+  - NT: REV 7:2 *khakhatap gone nonqo*
+  - answers: seal, signet, your seal
+  - The angel's 'seal of the living God' (REV 7:2). 'put a seal on' = 'mbusa ndømøpá' (JHN 6:27, 2CO 1:22). gen038:18, 25; 41:42 needs it.; English: sign-making thing
+  - script:gloss.py, 2026-10-15, supersedes `term:signet_seal.g`
+- **`term:pledge.g.gloss`** עֵרָבוֹן (pledge) → **khakhatap** [medium, decided, attested]
+  - gloss: עֵרָבוֹן: עֵרָב֖וֹן (GEN 38:17) — English (generated): something as a pledge
+  - gloss: ἀρραβών: ἀρραβῶνα (2CO 5:5) — English (generated): as a pledge of what is to come
+  - NT: 2CO 5:5 *andé khakhatáp*; 2CO 1:22 *andé khakhatáp*
+  - answers: pledge, as a pledge, what pledge
+  - khakhatap = sign; the Spirit 'as a pledge' (2CO 5:5). gen038:17-18, 20.
+  - script:gloss.py, 2026-10-15, supersedes `term:pledge.g`
+- **`term:items.g.gloss`** עֵרָבוֹן / אֵלֶּה (the items, these things) → **gigiap** [medium, decided, attested]
+  - gloss: עֵרָבוֹן: עֵרָב֖וֹן (GEN 38:20) — English (generated): the items he had left with
+  - NT: GEN 20:14 *sip neka kao*
+  - answers: items, the items, these items
+  - The BSB's 'items' (the pledge) are 'gigiap ndigu' (those things), 'nginik gigiap' (these things). gen038:20, 23, 25-26.; Kuni: gigiap ndigu / nginik gigiap
+  - script:gloss.py, 2026-10-15, supersedes `term:items.g`
+- **`term:friend_his.g.gloss`** רֵעֵהוּ (his friend) → **tege zifu** [medium, decided, attested]
+  - gloss: φίλος: φίλον (LUK 11:5) — English (generated): friend
+  - NT: LUK 11:5 *zifu-qa khoev-te*
+  - answers: friend, his friend
+  - zifu / zifuap (JHN 15:13); the address 'friend!' is Khanánqa (term:H7453friend.h). tege zifu (his) is built on the possessive series. gen038:12, 20.
+  - script:gloss.py, 2026-10-15, supersedes `term:friend_his.g`
+- **`term:young_goat.g.gloss`** גְּדִי עִזִּים (a young goat, kid) → **naningus-yu** [high, decided, attested]
+  - gloss: ἔριφος: ἔριφον (LUK 15:29) — English (generated): a young goat
+  - NT: LUK 15:29 *naningus-yu kopó-a*
+  - answers: young goat, a young goat, kid
+  - Young goats in the plural = naningus nakheis (27:9, 27:16). gen038:17, 20, 23.
+  - script:gloss.py, 2026-10-15, supersedes `term:young_goat.g`
+- **`term:shrine_prostitute.g.gloss`** קְדֵשָׁה (cult prostitute) → **mambe sævam** [medium, decided, by-rule]
+  - gloss: קָדֵשׁ: קְּדֵשָׁ֛ה (GEN 38:21) — English (generated): is the shrine prostitute
+  - gloss: πόρνη: πόρνῃ (1CO 6:16) — English (generated): with a prostitute
+  - NT: 1CO 6:16 *Mambe okho sævam*
+  - answers: shrine prostitute
+  - No word for a temple prostitute; the same word as זוֹנָה (term for prostitute, gen034:31), so Hirah's word and Judah's thought (38:15) stay one. gen038:21-22.
+  - script:gloss.py, 2026-10-15, supersedes `term:shrine_prostitute.g`
+- **`term:sheepshearers.g.gloss`** גֹּזְזֵי צֹאנוֹ (his sheepshearers) → **tegi sip su qogem ezoqam** [low, decided, by-rule]
+  - gloss: גָּזַז: גֹּֽזֲזֵ֤י (GEN 38:12) — English (generated): his sheepshearers
+  - NT: ACT 8:32 *sip*
+  - answers: sheepshearers, shearers
+  - Agent noun (feature agent_noun) on term H1494 (su qogem-, shear). gen038:12.
+  - script:gloss.py, 2026-10-15, supersedes `term:sheepshearers.g`
+- **`term:H6743.g.gloss`** מַצְלִיחַ / הִצְלִיחַ (prosper, make successful) → **mokho qafakhan; matev ate ndægo, ndego gematanam, Evezøza ndego gembo-tøke, yaq mokho qafakhan** [medium, decided, attested]
+  - gloss: צָלֵחַ: מַצְלִ֑יחַ (GEN 39:2) — English (generated): a successful
+  - NT: GEN 24:21 *mokho qafakhan*; GEN 24:56 *mokho mø̀ndøfakhán*
+  - answers: successful, success, prosper, gave him success, made him prosper
+  - The servant's journey made successful (24:21, 24:40, 24:56: "Evezøza, mø̀ndønø-tøké … mokho mø̀ndøfakhán"). gembo-tøke (helped him) is built on 24:56. gen039:2, 3, 23; 24:40.; English: it came to fruit, it succeeded; English: matev ate ndægo, ndego gematanam, Evezøza ndego gembo-tøke, yaq mokho qafakhan = 'the LORD made all he did succeed'
+  - script:gloss.py, 2026-10-15, supersedes `term:H6743.g`
+- **`term:H6711.g.gloss`** צַחֵק בְּ (make sport of, mock) → **otøotam vewe-: "ni otøotam vewe-qa"** [medium, decided, attested]
+  - gloss: צָחַק: מְצַחֵֽק (GEN 21:9) — English (generated): was mocking
+  - NT: GEN 21:9 *Aezek otøotam me꞉vewát*; ACT 13:41 *otøotam ndøzøte-vewe*
+  - answers: sport, make sport, mock, mocking
+  - Ishmael mocking Isaac (21:9, the same Hebrew verb). The purpose form vewe-qa (feature suffix_purpose) is built. gen039:14, 17.; English: make fun of; English: to mock us
+  - script:gloss.py, 2026-10-15, supersedes `term:H6711.g`
+- **`term:H7121cry.g.gloss`** קָרָא בְּקוֹל גָּדוֹל / הֵרִים קוֹל (cry out, scream, raise the voice) → **qæ-akhá; "noqa akhayam"; manqat bazaføgakh-ús** [medium, decided, attested]
+  - gloss: קָרָא: קָ֠רָאתִי (JON 2:3) — English (generated): I called
+  - NT: ACT 24:21 *qæ-akhá*; JON 2:3 *noqa akhayam*; ACT 14:10 *manqat bazaføgakh-ús*
+  - answers: screamed, scream, cried out, raised my voice
+  - Jonah's "you heard my voice" = "noqa akhayam mòqo-ewág" (JON 2:3); a loud call = "with strong words" (ACT 14:10). gen039:14, 15, 18.; English: I cried out; English: my crying; English: manqat bazaføgakh-ús = 'loudly'
+  - script:gloss.py, 2026-10-15, supersedes `term:H7121cry.g`
+- **`term:H8610.g.gloss`** תָּפַשׂ (seize, grab hold of) → **geagim: pingi vøzø̄geagim; Zosef-qa ndabua gu-geagim** [medium, decided, attested]
+  - gloss: תָּפַשׂ: תִּתְפְּשֵׂ֧ (GEN 39:12) — English (generated): She grabbed
+  - NT: GEN 19:16 *pingi vøzø̄geagim*; GEN 14:16 *gizøgeagim*
+  - answers: grabbed, seized, caught
+  - gu-geagim (she grabbed) is built with gu- (verb_subject_prefix.2). gen039:12.; English: grab, hold; English: built; English: pingi vøzø̄geagim = 'the men grabbed his hand'; Zosef-qa ndabua gu-geagim = 'she grabbed him by his cloak'
+  - script:gloss.py, 2026-10-15, supersedes `term:H8610.g`
+- **`term:H2820.g.gloss`** חָשַׂךְ מִן (withhold from) → **keaeqateáv: "ndego gigiap-qase keaeqateáv, no-te"** [medium, decided, attested]
+  - gloss: חָשַׂךְ: חָשַׂ֛כְתָּ (GEN 22:12) — English (generated): withheld
+  - NT: GEN 22:12 *qo keaeqateáv*; GEN 22:16 *keaeqateav voqōgoam*
+  - answers: withheld, withhold
+  - Abraham did not withhold his son (22:12, 22:16); the same form for 3sg in gen039:9.; English: did not withhold
+  - script:gloss.py, 2026-10-15, supersedes `term:H2820.g`
+- **`term:handsome.g.gloss`** יְפֵה־תֹאַר וִיפֵה מַרְאֶה (handsome in form and appearance) → **<X>, ndego bugug keogé. Qanimáv tentév.** [high, decided, attested]
+  - gloss: תֹּאַר: תֹּ֖אַר (GEN 29:17)
+  - NT: GEN 29:17 *ndugu bugug keogé*; GEN 29:17 *Qanimáv tuntúv*
+  - answers: handsome, well-built, well built, beautiful
+  - Rachel shapely and beautiful (29:17, the same Hebrew pair) with the masculine tentév (attested 2×) for tuntúv. gen039:6.; English: he looked fine; he was very good
+  - script:gloss.py, 2026-10-15, supersedes `term:handsome.g`
+- **`term:H5127run.g.gloss`** וַיָּנָס וַיֵּצֵא הַחוּצָה (he fled and ran outside) → **gèbǿin, bavokhó genøfakhán** [medium, decided, attested]
+  - gloss: נוּס: יָּ֖נָס (GEN 39:12) — English (generated): he escaped
+  - NT: ACT 19:16 *ndigu gèbǿin, khoev vø̄-ivøvem*; ACT 9:40 *bavokhó genø-khofotáz*
+  - answers: escaped, ran outside, ran out, fled, run
+  - ACT 19:16 the men ran out of the house; flee from a person = khokhon (16:6). genøfakhán (9× genøfakhan) with the tones of the model verbs. gen039:12, 13, 15, 18.; English: he ran, he went out outside
+  - script:gloss.py, 2026-10-15, supersedes `term:H5127run.g`
+- **`term:H2617god.g.gloss`** וַיֵּט אֵלָיו חֶסֶד (the LORD showed him kindness) → **Teqa kuku matev, <X>-te kandambá.** [medium, decided, attested]
+  - gloss: חֶסֶד: חַסְדּ֛ (GEN 24:27) — English (generated): His kindness
+  - NT: GEN 24:27 *Teqa kuku matev*; JON 4:2 *kuku matev-us Mbumbukiám*
+  - answers: extended kindness, kindness, showed him kindness
+  - God's loving devotion = kuku matev (gap:loving_devotion); the servant's "his kindness to my master" (24:27). gen039:21.; English: his kindness to X was great
+  - script:gloss.py, 2026-10-15, supersedes `term:H2617god.g`
+- **`term:H6485charge.g.gloss`** הִפְקִיד עַל (put in charge of, make overseer) → **<X>, teqa khoev-te keoge ezoqam ndøvé** [medium, decided, by-rule]
+  - gloss: καθίστημι: καταστήσει (LUK 12:44) — English (generated): he will put him in charge
+  - NT: GEN 27:37 *No ndego kawa nøvé*; LUK 12:44 *keoge ezoqam ndégo tévé*
+  - answers: put him in charge, charge, in charge of
+  - "I have made him master" (27:37) and "he will make him keeper" (LUK 12:44) with the narrative past ndøvé (16×). gen039:4, 5; 41:41.; English: made him keeper of his house
+  - script:gloss.py, 2026-10-15, supersedes `term:H6485charge.g`
+- **`term:attendant.g.gloss`** שֵׁרֵת (attend, serve as personal attendant) → **tege sasae ezoqam ndøgoám, te avønin-te** [low, decided, by-rule]
+  - gloss: עֶבֶד: עַבְדּ (GEN 24:2) — English (generated): servant
+  - NT: GEN 24:2 *ekeza sasae kawa ezoqam*; ACT 22:13 *noqa avønin-te*
+  - answers: personal attendant, attendant, served, attended
+  - No word for a personal attendant; "servant near him" built. gen039:4; 40:4.; English: he was his servant, near him
+  - script:gloss.py, 2026-10-15, supersedes `term:attendant.g`
+- **`term:warden.g.gloss`** שַׂר בֵּית הַסֹּהַר (the prison warden) → **ndimbula keoge ezoqam** [high, decided, attested]
+  - gloss: δεσμοφύλαξ: δεσμοφύλακι (ACT 16:23) — English (generated): jailer
+  - NT: ACT 16:23 *ndimbula keoge ezoqam*; ACT 16:36 *ndimbula keoge ezoqam*
+  - answers: warden, prison warden, jailer
+  - The Philippian jailer. Prisoners = ndimbula ezoqa (ACT 16:25); the king's prisoners = kawa ezoqam-gi ndimbula ezoqa. gen039:21-23; 40:3.
+  - script:gloss.py, 2026-10-15, supersedes `term:warden.g`
+- **`term:prison_throw.g.gloss`** וַיִּתְּנֵהוּ אֶל־בֵּית הַסֹּהַר (put him in prison) → **<X> ndøndáf, ndimbula-te vø̄-utav** [high, decided, attested]
+  - gloss: φυλακή: φυλακὴν (MAT 18:30) — English (generated): prison
+  - NT: MAT 18:30 *ndimbula-te vø̄-utav*; ACT 12:5 *ndimbula mokho-te ge-utavam*
+  - answers: thrown into the prison, had him thrown, prison, confined
+  - "was kept in prison" = "ndimbula mokho-te ge-utavam" (ACT 12:5), a model for "where the prisoners were confined" (gen039 wrote "gi꞉goam", were there). gen039:20; 40:3, 15; 41:10.
+  - script:gloss.py, 2026-10-15, supersedes `term:prison_throw.g`
+- **`term:day_after_day.g.gloss`** יוֹם יוֹם (day after day) → **khøuwa kopoav** [medium, decided, attested]
+  - gloss: יוֹם: י֣וֹם (GEN 39:10) — English (generated): day
+  - gloss: ἡμέρα: ἡμέρας (2PE 2:8) — English (generated): day
+  - NT: 2PE 2:8 *khøuwa kopoav*; HEB 10:11 *khøuwa kopoav*
+  - answers: day after day, although
+  - "living among them day after day" (2PE 2:8); "although … he refused" = two sentences joined by Geté. gen039:10.; English: many days
+  - script:gloss.py, 2026-10-15, supersedes `term:day_after_day.g`
+- **`term:cupbearer.g.gloss`** מַשְׁקֶה / שַׂר הַמַּשְׁקִים (cupbearer; chief cupbearer) → **waen etoam ezoqam; waen etoam ezoqam kandambaqape** [medium, decided, by-rule]
+  - gloss: מַשְׁקֶה: מַשְׁקֵ֥ה (GEN 40:1) — English (generated): cupbearer
+  - NT: 1CO 3:8 *ibøkha etoam ezoqam*; ACT 5:17 *iziz ezoqam kandambaqape*
+  - answers: cupbearer, chief cupbearer, cupbearer s
+  - No cupbearer in the corpus (searched cupbearer|master of the banquet|wine steward: only JHN 2:8-9 'lou loge megeat ezoqam', the banquet master). Agent noun (feature agent_noun) on the waterer of 1CO 3:8; a single chief as the high priest 'iziz ezoqam kandambaqape' (ACT 5:17), so that kawa (head, also chief) stays free for 'lift up the head'. gen040 names them 'kandambaqape' once (40:2) and then by the plain title, as the BSB's 'the cupbearer'. Gen 41:9 needs it.; English: wine-giving man; English: waen etoam ezoqam kandambaqape = 'the chief one'
+  - script:gloss.py, 2026-10-16, supersedes `term:cupbearer.g`
+- **`term:baker.g.gloss`** אֹפֶה / שַׂר הָאֹפִים (baker; chief baker); מַעֲשֵׂה אֹפֶה (baked goods) → **flawa løvusam ezoqam; flawa løvusam ezoqam kandambaqape; lou … flawa løvusam ezoqam gi꞉løvusumatun** [medium, decided, by-rule]
+  - gloss: אָפָה: אֹפֶ֑ה (GEN 40:1) — English (generated): and baker
+  - NT: GEN 19:3 *flawa vø̄løvusømem*; GEN 18:6 *voqó-løvusām*
+  - answers: baker, chief baker, baked, baked goods
+  - løvus- = bake bread (Lot 19:3, Sarah 18:6) and roast offerings (8:20 'søvakha gigiap løvusam nonqo'); agent noun as term:cupbearer.g. Gen 41:10 needs it.; English: bread-baking man; English: food the bakers bake; English: flawa løvusam ezoqam kandambaqape = 'chief'; lou … flawa løvusam ezoqam gi꞉løvusumatun = 'baked goods'
+  - script:gloss.py, 2026-10-16, supersedes `term:baker.g`
+- **`term:basket.g.gloss`** סַל (basket) → **yakhav** [high, decided, attested]
+  - gloss: סַל: סַלֵּ֥י (GEN 40:16) — English (generated): baskets
+  - gloss: κόφινος: κοφίνους (JHN 6:13) — English (generated): baskets
+  - NT: JHN 6:13 *Yakhav tuélv*; LUK 11:33 *yakhav mokho-te*
+  - answers: basket, baskets
+  - The twelve baskets of leftovers (JHN 6:13, LUK 9:17) and the basket over a lamp. Paul's basket down the wall is ava (bag, 2CO 11:33). gen040:16-18.
+  - script:gloss.py, 2026-10-16, supersedes `term:basket.g`
+- **`term:cup.g.gloss`** כּוֹס (cup, Pharaoh's cup; Joseph's silver cup) → **kap** [high, decided, attested]
+  - gloss: כּוֹס: כ֥וֹס (GEN 40:11) — English (generated): cup
+  - NT: LUK 11:39 *kap neka melek*; MRK 7:4 *kap neka pot*
+  - answers: cup
+  - The loan kap (cup and dish). The 'cup' of suffering is ibøkha khaqain-qape (JHN 18:11), not this. gen040:11, 13, 21; 44:2-17 (the silver cup: silva kap, by rule).
+  - script:gloss.py, 2026-10-16, supersedes `term:cup.g`
+- **`term:grapes.g.gloss`** גֶּפֶן / עֲנָבִים / אַשְׁכֹּל (vine, grapes, clusters) → **waen tae; waen tae nanga; tang** [high, decided, attested]
+  - gloss: ἄμπελος: ἀμπέλου (LUK 22:18) — English (generated): vine
+  - NT: LUK 22:18 *waen tae nanga-qa et*; REV 14:18 *waen tae nanga*; JHN 15:6 *tang*
+  - answers: vine, grapes, clusters, branches
+  - The fruit of the vine (LUK 22:18, MAT 26:29), the grapes of the earth (REV 14:18-19). gen040:9-11; 49:11 needs it.; English: vine; English: grapes, clusters; English: tang = 'branches'
+  - script:gloss.py, 2026-10-16, supersedes `term:grapes.g`
+- **`term:blossom_ripen.g.gloss`** פָּרַח / נֵץ / הִבְשִׁיל (bud, blossom, ripen) → **mbusa qafakhan; flawas; qakhatøkhatoam** [medium, decided, by-rule]
+  - gloss: פָּרַח: פֹרַ֨חַת֙ (GEN 40:10) — English (generated): budded
+  - NT: HEB 9:4 *mbusa ekezan mba qambo-fakhan*; JAS 1:10 *flawas*; MAT 9:37 *qakhatøkhatoam*
+  - answers: budded, blossoms, ripened, opened
+  - Aaron's staff that budded (HEB 9:4), the flower of the field (JAS 1:10-11, the loan flawas), the harvest that is ripe (MAT 9:37, LUK 10:2). Put together in gen040:10.; English: buds came out; English: flowers; English: it is ripe
+  - script:gloss.py, 2026-10-16, supersedes `term:blossom_ripen.g`
+- **`term:squeeze.g.gloss`** שָׂחַט (squeeze, press grapes) → **pesegim: vø̄pesegim** [low, decided, by-rule]
+  - gloss: שָׂחַט: אֶשְׂחַ֤ט (GEN 40:11) — English (generated): squeezed
+  - NT: MAT 21:33 *waen nanga pesegim nonqo*; REV 14:19 *waen pesegim nonqo*
+  - answers: squeezed, squeeze
+  - Only the noun 'pressing thing' (winepress) is attested; the verb is built from it. A question for the team. gen040:11.; English: press; English: and pressed them
+  - script:gloss.py, 2026-10-16, supersedes `term:squeeze.g`
+- **`term:hang.g.gloss`** תָּלָה עַל־עֵץ (hang on a tree) → **tae-té <…>-tøkew: genø-tøkéw, ndø̀qanø-tøkéw** [medium, decided, by-rule]
+  - gloss: ξύλον: ξύλου (ACT 10:39) — English (generated): a tree
+  - NT: ACT 10:39 *Tae mutui-té ginø-tøkewém*; ACT 5:30 *tae mutui-te qazo-tøkewem*
+  - answers: hang, hanged, hang you on a tree
+  - Jesus hanged on a tree (ACT 5:30, 10:39; tae mutui is the cross). Plain tae (tree) for עֵץ. The 3sg forms are built on the 3pl ginø-tøkewém. Judas hanging himself is 'ekeza monqo møfók' (MAT 27:5). gen040:19, 22; 41:13.; English: he hanged him; English: he will hang you
+  - script:gloss.py, 2026-10-16, supersedes `term:hang.g`
+- **`term:magician.g.gloss`** חַרְטֹם (magician, Gen 41:8, 24) → **manqa-sisi ezoqam** [high, decided, attested]
+  - gloss: חַרְטֹם: חַרְטֻמֵּ֥י (GEN 41:8) — English (generated): the magicians
+  - NT: ACT 13:6 *manqa-sisi ezoqám*; ACT 8:9 *manqa-sisi matev*
+  - answers: magicians, magician, sorcerer
+  - The NT's sorcerer Bar-Jesus / Elymas (ACT 13:6, 13:8); glossary Manqa-sisi = magic, sorcery. 'all the magicians of Egypt' = 'Izip manqei-gi manqa-sisi ezoqam ate gi꞉goam'. gen041:8, 24.
+  - script:gloss.py, 2026-10-16, supersedes `term:magician.g`
+- **`term:graze.g.gloss`** רָעָה בָּאָחוּ (graze among the reeds) → **gagayag-te givagimám** [medium, decided, attested]
+  - gloss: רָעָה: תִּרְעֶ֖ינָה (GEN 41:2) — English (generated): and began to graze
+  - NT: LUK 8:32 *givagimám*; LUK 7:24 *gagayag*
+  - answers: graze, grazing, reeds, began to graze
+  - The herd of pigs feeding (LUK 8:32, MRK 5:11); reeds = gagayag (grass; the reed of LUK 7:24). gen041:2, 18.; English: they were feeding in the grass
+  - script:gloss.py, 2026-10-16, supersedes `term:graze.g`
+- **`term:fat_thin.g.gloss`** יְפֵה מַרְאֶה / בְּרִיא בָשָׂר; רַע מַרְאֶה / דַּק / רַק בָּשָׂר (sleek, fat; ugly, thin, gaunt) → **bugug keogé; kha bazaføgakh-ús; bugug soqøsoqa; kha bazaføgakh mbaín** [medium, decided, by-rule]
+  - gloss: יָפֶה: יְפַת (GEN 29:17) — English (generated): shapely
+  - NT: 1CO 2:3 *kha bazaføgakh mbaín*; GEN 29:17 *Bugug keogé*
+  - answers: sleek, well-fed, fat, plump, thin, sickly, ugly, gaunt, lean
+  - No word for fat or thin animals in the corpus (searched thin|lean|fat|plump). Built from 1CO 2:3 (weak body) and -us (having). Thin heads of grain = wit nanga khasøkhasis (small). gen041:2-7, 18-27. Question for the Kuni team: words for fat and thin cattle?; English: strong body; English: body without strength; English: bugug keogé = 'sleek'; kha bazaføgakh-ús = 'fat'; bugug soqøsoqa = 'ugly'; kha bazaføgakh mbaín = 'thin'; later references just eqeieqei / soqøsoqa
+  - script:gloss.py, 2026-10-16, supersedes `term:fat_thin.g`
+- **`term:wither.g.gloss`** צָנַם / שְׁדוּפֹת קָדִים / צָמַח (withered, scorched by the east wind, sprouted) → **gi-eqanat; gèkusíz; khamøe tatas-qape-te** [medium, decided, attested]
+  - gloss: רוּחַ: ר֤וּחַ (JON 4:8) — English (generated): wind
+  - gloss: ξηραίνω: ἐξηράνθη (LUK 8:6) — English (generated): withered
+  - NT: LUK 8:6 *gèkusíz*; LUK 8:8 *gi-eqanat*; JON 4:8 *khamøe tatas-qape*
+  - answers: sprouted, growing, withered, scorched, came up
+  - The sower's seed that sprang up (LUK 8:8) and withered (LUK 8:6); the hot east wind of JON 4:8. On one stalk = tang kopo-te (tang branch, JHN 15:6; no word for stalk). gen041:5-6, 22-23, 27.; English: gi-eqanat = 'sprouted, grew'; gèkusíz = 'withered, scorched'; khamøe tatas-qape-te = 'by the east wind'
+  - script:gloss.py, 2026-10-16, supersedes `term:wither.g`
+- **`term:swallow.g.gloss`** בָּלַע (swallow up) → **ndøkhoug; vø̄khoug** [high, decided, attested]
+  - gloss: καταπίνω: κατέπιεν (REV 12:16) — English (generated): to swallow up
+  - NT: 2CO 5:4 *ndǿkhóug*; REV 12:16 *ibøkha vø̄khoug*
+  - answers: swallowed, swallowed up, swallow
+  - The earth swallowing the river (REV 12:16). gen041:7, 24.; English: narrative; English: chain
+  - script:gloss.py, 2026-10-16, supersedes `term:swallow.g`
+- **`term:chariot.g.gloss`** מֶרְכָּבָה / הִרְכִּיב בְּמִרְכֶּבֶת (chariot; had him ride in a chariot) → **manqei khagua wil-us; ekeza manqei khagua wil-us nøme-te, ndøvé** [high, decided, attested]
+  - gloss: מִרְכֶּבֶת: מִרְכֶּ֤בֶת (GEN 41:43) — English (generated): chariot
+  - NT: ACT 8:28 *Manqei khagua wil-us-té*; ACT 8:29 *hos manqei khagua*
+  - answers: chariot, chariots, ride, second chariot
+  - The Ethiopian's chariot (ACT 8:28-29, drawn by a horse, hos). 'put him in' = ndøvé (formula:assigned_to.g). Gen 46:29, 50:9 need it too. gen041:43.; English: a land vessel with wheels; English: ekeza manqei khagua wil-us nøme-te, ndøvé = 'had him ride in his second chariot'
+  - script:gloss.py, 2026-10-16, supersedes `term:chariot.g`
+- **`term:chain_neck.g.gloss`** רְבִד הַזָּהָב עַל־צַוָּארוֹ (a gold chain around his neck) → **gol sen, teqa monqo-te vømbō-møpøtøz** [medium, decided, by-rule]
+  - gloss: ἅλυσις: ἁλύσεσιν (ACT 12:6) — English (generated): chains
+  - NT: ACT 12:6 *auli sén*; LUK 17:2 *monqo-te timbo-møpøtøzemɨn*
+  - answers: chain, gold chain, neck, around his neck
+  - sen = chain (loan; auli sen iron chains, ACT 12:6-7); gol = gold; the millstone hung around the neck (LUK 17:2). The 3sg chain form vømbō-møpøtøz is built. gen041:42.; English: built
+  - script:gloss.py, 2026-10-16, supersedes `term:chain_neck.g`
+- **`term:signet_ring.g.gloss`** טַבַּעַת (signet ring) removed and put on another's hand → **mbimak, khakhatap gone nonqo; ndøkhofoe; X-qa zenda-te vømbō-utøz** [medium, decided, by-rule]
+  - gloss: δακτύλιος: δακτύλιον (LUK 15:22) — English (generated): a ring
+  - NT: LUK 15:22 *kokosov-te mbimak*; REV 7:2 *khakhatap*
+  - answers: signet ring, ring, removed, finger
+  - The father's ring for the prodigal (LUK 15:22, mbimak; vozombó-utøzēm put it on); seal = term:signet_seal.g. The Hebrew says hand: zenda. gen041:42.; English: built; English: ndøkhofoe = 'took off'; X-qa zenda-te vømbō-utøz = 'put it on X's hand'
+  - script:gloss.py, 2026-10-16, supersedes `term:signet_ring.g`
+- **`term:storehouse.g.gloss`** אֲשֶׁר בָּהֶם / אוֹצָרוֹת (storehouses); צָבַר (store up grain) → **lou nqeitam khoev; vø̄-nqeitaz / ndø-nqeitáz** [high, decided, attested]
+  - gloss: צָבַר: יִצְבְּרוּ (GEN 41:35) — English (generated): and lay up
+  - NT: LUK 12:18 *Lou nqeitam khoev*; LUK 12:18 *tøtú꞉-nqeitám*
+  - answers: storehouses, storehouse, stored, stored up, store up, barns, lay up
+  - The rich fool's barns (LUK 12:18). nqeitaz = put in (also prison, ACT 5:18). gen041:35, 48-49, 56.; English: storehouse; English: vø̄-nqeitaz / ndø-nqeitáz = 'store up'
+  - script:gloss.py, 2026-10-16, supersedes `term:storehouse.g`
+- **`term:abundance.g.gloss`** שָׂבָע (abundance, the years of plenty) → **avøe kopoav; viav seven, avøe kopoav ndøgo** [medium, decided, by-rule]
+  - gloss: שָׂבָע: שָׂבָ֥ע (GEN 41:29) — English (generated): seven
+  - NT: REV 14:15 *Avøe gigiap*; JHN 3:23 *kandambá*
+  - answers: abundance, plenty, years of abundance, bountifully, excess
+  - No word for abundance (searched plenty|plentiful|abundant|surplus). avøe gigiap = crops (REV 14:15) + kopoav (many). The land produced = 'avøe gigiap kopoav-qapé ndøqatáz' (qataz bear fruit, LUK 8:8 'nanga vø̄qataz'). Chosen over 'lou kopoav' to keep lou (food) for food. gen041:29-31, 34, 47, 53.; English: plenty of crops; English: viav seven, avøe kopoav ndøgo = 'the years of plenty'
+  - script:gloss.py, 2026-10-16, supersedes `term:abundance.g`
+- **`term:shave.g.gloss`** גִּלַּח (shave) → **izu ndøqogáz** [high, decided, attested]
+  - gloss: גָּלַח: יְגַלַּח֙ (GEN 41:14) — English (generated): After he had shaved
+  - NT: ACT 18:18 *izu ndøqogáz*
+  - answers: shaved, shave
+  - Paul cut his hair at Cenchrea (ACT 18:18). Changed his clothes = 'ndabua ndakinak vø̄-uzam' (formula of gen035:2). gen041:14.; English: cut his hair
+  - script:gloss.py, 2026-10-16, supersedes `term:shave.g`
+- **`term:youngest.g.gloss`** הַקָּטֹן (the youngest son, brother) → **okhov-qase** [medium, decided, attested]
+  - gloss: קָטָן: קָּטָֽן (GEN 9:24) — English (generated): his youngest
+  - NT: GEN 9:24 *yo okhov-qase*
+  - answers: youngest, youngest brother, youngest son
+  - Ham as Noah's youngest son (9:24); feminine okhov-qasu (1×). 'your youngest brother' = 'zøveqase okhov-qase' (zø- your pl, term:H251.g). gen042:13, 15, 20, 32, 34; 43:29, 44.
+  - script:gloss.py, 2026-10-16, supersedes `term:youngest.g`
+- **`term:sack.g.gloss`** שַׂק / אַמְתַּחַת / כְּלִי / צְרוֹר (sack, bag) → **moqos** [medium, decided, attested]
+  - gloss: πήρα: πήραν (LUK 9:3) — English (generated): bag
+  - NT: LUK 9:3 *moqos*; MRK 6:8 *moqos*
+  - answers: sack, sacks, bag, bags
+  - The travel bag the disciples were not to take (LUK 9:3, MAT 10:10, MRK 6:8). Used for the grain sacks and the bags of Gen 42-44; 'in his sack' = 'moqos mokho-te'; 'the mouth of the sack' not rendered. The money bag of JHN 12:6 has no word ('moni'), so the 'bag of silver' (42:35) is just 'teqa moni'. Sackcloth is ndabua soqøsoqa (another word).
+  - script:gloss.py, 2026-10-16, supersedes `term:sack.g`
+- **`term:plead.g.gloss`** הִתְחַנֵּן (plead, beg for mercy) → **vi꞉mam** [medium, decided, attested]
+  - gloss: חָנַן: הִתְחַֽנְנ֥ (GEN 42:21) — English (generated): when he pleaded
+  - NT: 2CO 12:8 *mø̀embo-vi꞉mám*; ACT 21:12 *qeimbøe-viømém*
+  - answers: pleaded, plead, begged
+  - 'when he pleaded with us' = 'ndego ni gènimbø-vi꞉mám ndøgo' (built, ni- us). gen042:21.; English: mø̀embo-vi꞉mám I pleaded with him; qeimbøe-viømém we pleaded with him
+  - script:gloss.py, 2026-10-16, supersedes `term:plead.g`
+- **`term:bind.g.gloss`** אָסַר (bind, tie up a prisoner) → **mboløvønam; mboløvønem** [high, decided, attested]
+  - gloss: אָסַר: אֲסוּרִ֑ים (GEN 39:20) — English (generated): were confined
+  - gloss: δέω: ἔδησαν (JHN 18:12) — English (generated): bound
+  - NT: JHN 18:12 *sasa mboløvønem*; LUK 10:34 *sasa mboløvønam*
+  - answers: bound, bind, had him bound
+  - The soldiers bound Jesus (JHN 18:12); ACT 21:11 bound hands and feet (løvøn-). 'before their eyes' = 'tiqa bøi-te'. gen042:24.; English: he bound him; English: they bound him
+  - script:gloss.py, 2026-10-16, supersedes `term:bind.g`
+- **`term:n_times.g43.gloss`** פְּעָמִים / יָדוֹת (N times: twice, five times) → **khøuwa <N>** [medium, decided, attested]
+  - gloss: פַּעַם: פַעֲמָֽיִם (GEN 43:10) — English (generated): twice
+  - NT: 2CO 11:24 *Khøuwa faev*
+  - answers: twice, five times, times, seven times, ten times
+  - Paul's 'Five times I received …' (2CO 11:24) counts with khøuwa + numeral. Settles the open gaps for 'N times' (gen031 built gèmbo-ten, gen033 put the bare numeral). gen043:10 'khøuwa menás', 43:34 'khøuwa faev'. Also settles gap:n_times.g33.; English: khøuwa menás twice, khøuwa faev five times
+  - script:gloss.py, 2026-10-16, supersedes `term:n_times.g43`
+- **`term:dine.g43.gloss`** אָכַל לֶחֶם (eat a meal, dine) → **lou log-** [high, decided, attested]
+  - gloss: אָכַל: יֹּאכְל֖וּ (GEN 26:30) — English (generated): and they ate
+  - NT: GEN 26:30 *lou sasa ndølog*; LUK 13:26 *Ni lou zilogám*
+  - answers: dine, eat a meal, meal, feasted
+  - The future gilógát is built (future = high tone). gen043:16, 25, 32.; English: lou + the eating verb: 'no namba lou gilógát' they will eat with me
+  - script:gloss.py, 2026-10-16, supersedes `term:dine.g43`
+- **`term:private_room.g43.gloss`** חֶדֶר (inner, private room) → **khoev mokho; khoev mokho-té genø-ón** [high, decided, attested]
+  - gloss: חֶדֶר: חַ֖דְרָ (GEN 43:30) — English (generated): to a private room
+  - NT: MAT 6:6 *khoev mokho-té*; LUK 12:3 *khoev mokho-te*
+  - answers: private room, inner room, room
+  - MAT 6:6 'go into your inner room'. kouwat (room, HEB 9:7) is the temple's room. gen043:30.; English: inside the house; English: khoev mokho-té genø-ón = 'he went into a private room'
+  - script:gloss.py, 2026-10-16, supersedes `term:private_room.g43`
+- **`term:delay.g43.gloss`** הִתְמַהְמַהּ (delay, linger) → **føløtaz-** [high, decided, attested]
+  - gloss: מָהַהּ: הִתְמַהְמָ֑הְנוּ (GEN 43:10) — English (generated): delayed
+  - NT: HEB 10:37 *khøuwa géføløtazák*; 1TI 3:15 *khøuwa tæføløtaz*
+  - answers: delayed, delay, linger
+  - gen043:10 'Ni føløtazeav tøgonɨn' (built negative counterfactual); Gen 19:16 lingered is the same verb in Hebrew.; English: khøuwa føløtaz, delay
+  - script:gloss.py, 2026-10-16, supersedes `term:delay.g43`
+- **`term:detestable.g43.gloss`** תּוֹעֵבָה (detestable, abomination to someone) → **khafeáp: 'Matev av nqægo, <X>-te khafeáp'** [medium, decided, attested]
+  - gloss: תּוֹעֵבַה: תוֹעֵבָ֥ה (GEN 43:32) — English (generated): was detestable
+  - NT: MAT 12:4 *Matev av nqægo khafeáp*
+  - answers: detestable, abomination, that was detestable to them
+  - The bread not lawful for David's men (MAT 12:4). gen043:32; 46:34 (shepherds detestable to the Egyptians) needs it.; English: forbidden
+  - script:gloss.py, 2026-10-16, supersedes `term:detestable.g43`
+- **`term:separately.g43.gloss`** לְבַדּוֹ / לְבַדָּם (by himself, by themselves, separately) → **yakhapús** [high, decided, attested]
+  - gloss: בַּד: בַדּ֑ (GEN 2:18) — English (generated): alone
+  - NT: GEN 2:18 *yakhapus teyagat*
+  - answers: separately, alone, by themselves
+  - 'It is not good for the man to be alone' (2:18). gen043:32.; English: alone
+  - script:gloss.py, 2026-10-16, supersedes `term:separately.g43`
+- **`term:treasure.g43.gloss`** מַטְמוֹן (hidden treasure) → **gigiap qaniqanim** [high, decided, attested]
+  - gloss: מַטְמֹן: מַטְמוֹן֙ (GEN 43:23) — English (generated): the treasure
+  - NT: MAT 13:52 *gigiap qaniqanim*
+  - answers: treasure
+  - The householder's treasures (MAT 13:52). gen043:23.; English: precious things
+  - script:gloss.py, 2026-10-16, supersedes `term:treasure.g43`
+- **`term:donkey.g43.gloss`** חֲמוֹר (donkey) → **donki** [high, decided, attested]
+  - gloss: חֲמוֹר: חֲמֹרִ֔ים (GEN 12:16) — English (generated): male and female donkeys
+  - NT: LUK 10:34 *ekeza donki-qa*
+  - answers: donkeys, donkey
+  - Loan donki (4 NT verses); 'their donkeys' = tigi donki; fodder for them = lou (the team's 24:32 'gagayag neka lou' for camels). gen042:26-27; 43:18, 24; 44:3, 13.
+  - script:gloss.py, 2026-10-16, supersedes `term:donkey.g43`
+- **`term:elderly.g43.gloss`** זָקֵן (old, elderly) → **lawaqape** [high, decided, attested]
+  - gloss: זָקֵן: זְקֵנִ֔ים (GEN 18:11) — English (generated): were already old
+  - NT: LUK 1:18 *No lawaqapé.*
+  - answers: elderly, old, your elderly father
+  - Zechariah 'I am an old man'; the team's 24:1 'ùnime꞉-lawaqape-év'. gen042:38; 43:27; 44:20.
+  - script:gloss.py, 2026-10-16, supersedes `term:elderly.g43`
+- **`term:additional.g43.gloss`** אַחֵר (other, additional) → **nøme: 'moni nøme', 'zøveqase nøme'** [high, decided, attested]
+  - gloss: אַחֵר: אַחֵ֔ר (GEN 4:25) — English (generated): another
+  - gloss: ἄλλος: ἄλλοι (MAT 16:14) — English (generated): others
+  - NT: GEN 19:12 *qakeza ezoqa nøme*
+  - answers: additional, other, another
+  - gen043:14, 22.; English: another, other; English: more money; English: your other brother
+  - script:gloss.py, 2026-10-16, supersedes `term:additional.g43`
+- **`term:divination.g44.gloss`** נִחֵשׁ (divine, practise divination; Joseph's cup) → **manqa-sisi matev ndømatønumám; manqa-sisi ezoqam** [medium, decided, attested]
+  - gloss: נָחַשׁ: נַחֵ֥שׁ (GEN 44:5) — English (generated): and uses for divination
+  - NT: ACT 8:9 *manqa-sisi matev ndømatønumám*; ACT 13:6 *manqa-sisi ezoqám*
+  - answers: divination, divine, uses for divination, divine the truth
+  - Simon's sorcery (ACT 8:9, 11) and the sorcerer Bar-Jesus; the store's magician (term:magician.g) uses the same noun. 'the cup he uses for divination' = 'taqa mokho-te … manqa-sisi matev ndømatønumám' (gen044:5); 'a man like me can divine' (44:15) built with kopømbaqapé + te-otev.; English: he practised sorcery; English: manqa-sisi ezoqam = 'the diviner'
+  - script:gloss.py, 2026-10-16, supersedes `term:divination.g44`
+- **`term:went_from.g44.gloss`** וַיֵּצֵא הָאֶחָד מֵאִתִּי (one of them went out from me, was gone) → **<X> gè-iváv** [medium, decided, attested]
+  - gloss: יָצָא: יֵּצֵ֤א (GEN 44:28) — English (generated): was gone
+  - NT: MAT 11:1 *gè-iváv*
+  - answers: was gone, gone, went out from me
+  - ivav = leave (Jesus left the village, MAT 11:1; lexicon left: -ivav). gen044:28 'Kopo ndego, no gè-iváv.'; English: he left X
+  - script:gloss.py, 2026-10-16, supersedes `term:went_from.g44`
+- **`term:wagon.g45.gloss`** עֲגָלוֹת (wagons, carts, Gen 45:19, 21, 27; 46:5) → **manqei khagua wil-us** [medium, decided, by-rule]
+  - gloss: עֲגָלָה: עֲגָל֗וֹת (GEN 45:19) — English (generated): wagons
+  - NT: ACT 8:28 *Manqei khagua wil-us-té*; ACT 8:29 *manqei khagua wil-us*
+  - answers: wagons, wagon, carts, cart
+  - No word for wagon or cart in the corpus (searched BSB wagon|cart: none, glossary none); the chariot term covers any wheeled vehicle. gen045:19, 21, 27.; English: a land vessel with wheels; English: term:chariot.g; English: as the chariot
+  - script:gloss.py, 2026-10-16, supersedes `term:wagon.g45`
+- **`term:attendants.g45.gloss`** הַנִּצָּבִים עָלָיו (those standing by him, his attendants) → **ezoqa ate ndigu, avønin-te giwaniapam** [medium, decided, by-rule]
+  - gloss: נָצַב: נִּצָּבִים֙ (GEN 45:1) — English (generated): his attendants
+  - NT: ACT 12:22 *giwaniapam*; GEN 27:26 *noqa avønin-te*
+  - answers: attendants, attendant, those standing by
+  - giwaniapam = they stood (around), ACT 12:22, 16:22; the NT's 'attendant' is a sasae ezoqam of one person (ACT 13:7), not a group standing by. gen045:1.; English: all the people standing near
+  - script:gloss.py, 2026-10-16, supersedes `term:attendants.g45`
+- **`term:splendor.g45.gloss`** כְּבוֹדִי (my honour, splendour) → **noqa iz eqawat** [medium, decided, attested]
+  - gloss: δόξα: δόξα (JHN 8:54) — English (generated): glory
+  - NT: JHN 8:54 *iz eqawat*
+  - answers: splendor, glory, honor
+  - Jesus 'my glory' (JHN 8:54); the splendour of the stars is 'bugug keoge' (1CO 15:41), the look of a thing. gen045:13 'noqa iz eqawat-qa yaq-te' (about my glory).; English: my name raised: my glory
+  - script:gloss.py, 2026-10-16, supersedes `term:splendor.g45`
+- **`term:ill.g48.gloss`** חֹלֶה (ill, sick) → **<X> enqoni mbogó** [high, decided, attested]
+  - gloss: ἀσθενέω: ἀσθενεῖ (JHN 11:3) — English (generated): is sick
+  - NT: JHN 11:3 *enqoni mbogó*; JHN 11:1 *enqoni mbogoám*
+  - answers: ill, sick, is ill
+  - 'Your father is ill' = 'Qoge qave, enqoni mbogó.' gen048:1.
+  - script:gloss.py, 2026-10-21, supersedes `term:ill.g48`
+- **`term:sat_up.g48.gloss`** וַיֵּשֶׁב עַל־הַמִּטָּה (sat up in bed) → **venanqei nonqo-te sègeqóm** [high, decided, attested]
+  - gloss: ἀνακαθίζω: ἀνεκάθισεν (LUK 7:15) — English (generated): sat up
+  - NT: LUK 7:15 *sègeqóm*
+  - answers: sat up, sat up in bed
+  - The dead young man sat up (LUK 7:15); bed venanqei nonqo (gen047:31). gen048:2.
+  - script:gloss.py, 2026-10-21, supersedes `term:sat_up.g48`
+- **`term:eyesight_poor.g48.gloss`** עֵינֵי … כָּבְדוּ מִזֹּקֶן (his eyes were heavy from old age) → **<X> ùnime꞉-lawaqape-év, yaq teqa bøi waev vømbø̄i-navøem** [high, decided, attested]
+  - gloss: עַיִן: עֵינָ֖י (GEN 27:1) — English (generated): and his eyes
+  - NT: GEN 27:1 *bøi waev vømbø̄i-navøem*; GEN 25:8 *ùnime꞉-lawaqape-év*
+  - answers: eyesight, eyesight was poor, old age, could hardly see
+  - Isaac's eyes (27:1); 'he could hardly see' = 'Ndego kopømba mbaín, eqeieqei te-omet.' gen048:10.
+  - script:gloss.py, 2026-10-21, supersedes `term:eyesight_poor.g48`
+- **`term:stretched_out_hand.g48.gloss`** וַיִּשְׁלַח … אֶת־יְמִינוֹ (stretched out his right hand) → **teqa nakeamo pingim sège-ovøyám** [high, decided, attested]
+  - gloss: χείρ: χεῖρα (MAT 12:13) — English (generated): hand
+  - NT: MAT 12:13 *pingim sège-ovøyám*
+  - answers: stretched out, stretched, stretched out his hand
+  - Arm = pingim; right = nakeamo, left = yogea (MAT 20:21). gen048:14.
+  - script:gloss.py, 2026-10-21, supersedes `term:stretched_out_hand.g48`
+- **`term:boys.g48.gloss`** הַנְּעָרִים (the boys) → **nakhasam** [high, decided, attested]
+  - gloss: נַעַר: נַּ֣עַר (GEN 21:12) — English (generated): the boy
+  - NT: GEN 21:12 *Nakhasam*
+  - answers: boys, boy, lads
+  - Ishmael 'the boy' (21:12). gen048:16 'nginik nakhasam'.
+  - script:gloss.py, 2026-10-21, supersedes `term:boys.g48`
+- **`term:multiply_wish.g48.gloss`** וְיִדְגּוּ לָרֹב (may they grow into a multitude) → **bawan bèzø-khouwevtét** [high, decided, attested]
+  - gloss: רָבָה: רְב֗וּ (GEN 1:22) — English (generated): and multiply
+  - NT: GEN 1:22 *bawan bèzø-khouwevtét*
+  - answers: multitude, grow into a multitude, multiply
+  - The creation blessing (1:22, 9:1). gen048:16.
+  - script:gloss.py, 2026-10-21, supersedes `term:multiply_wish.g48`
+- **`term:peoples.g48.gloss`** קְהַל עַמִּים / מְלֹא־הַגּוֹיִם (a company of peoples, a multitude of nations) → **ezoqa bawabawan kopoav ndǿgoát** [medium, decided, attested]
+  - gloss: גּוֹי: גוֹיִ֑ם (GEN 17:6) — English (generated): nations
+  - NT: GEN 17:6 *ezoqa bawabawan kandakanda*
+  - answers: peoples, multitude of peoples, multitude of nations, nations
+  - As our 35:11; GEN 17:6 'they will be great nations'. gen048:4, 19.
+  - script:gloss.py, 2026-10-21, supersedes `term:peoples.g48`
+- **`term:bow.g48.gloss`** קֶשֶׁת (bow) → **føif** [high, decided, attested]
+  - gloss: קֶשֶׁת: קַשְׁתֶּ֑ (GEN 27:3) — English (generated): and bow
+  - NT: GEN 27:3 *Føif neka sanqava*
+  - answers: bow, bow and arrows
+  - Isaac's 'your quiver and bow' (27:3); sword kaiya (term:H2719). gen048:22.
+  - script:gloss.py, 2026-10-21, supersedes `term:bow.g48`
+- **`term:knees.g48.gloss`** בִּרְכַּיִם (knees, lap) → **manazap** [medium, decided, attested]
+  - gloss: γόνυ: γόνατα (HEB 12:12) — English (generated): knees
+  - NT: HEB 12:12 *manazap*
+  - answers: knees
+  - gen048:12 'tege eve-qa manazap-te'.
+  - script:gloss.py, 2026-10-21, supersedes `term:knees.g48`
+- **`term:council.g49.gloss`** סוֹד (council, 49:6) → **manqa ovøyam** [high, decided, attested]
+  - gloss: סוֹד: סֹדָ (GEN 49:6) — English (generated): their council
+  - gloss: συνέδριον: συνέδρια (MAT 10:17) — English (generated): councils
+  - NT: MAT 10:17 *manqa ovøyam-té*
+  - answers: council
+  - Glossary: Zu ezoqam-gi manqa ovøyam megetapak (Council). gen049:6 'No tiqa manqa ovøyam-te nógoák' (I will not be in their council).
+  - script:gloss.py, 2026-10-21, supersedes `term:council.g49`
+- **`term:join_neg1sg.g49.gloss`** אַל־תֵּחַד כְּבֹדִי (may I never join, 49:6) → **nótøkuák** [low, decided, by-rule]
+  - gloss: יָחַד: תֵּחַ֣ד (GEN 49:6) — English (generated): join
+  - NT: ACT 5:13 *tøkuateáv*
+  - answers: join, assembly
+  - Join = tøkua (ACT 5:13 'did not join them'); 1sg negative future nó-...-ák (nólogák, nóndapák). Built. gen049:6.; English: built
+  - script:gloss.py, 2026-10-21, supersedes `term:join_neg1sg.g49`
+- **`term:hamstring.g49.gloss`** עִקְּרוּ־שׁוֹר (hamstrung oxen) → **kao-qa tokhotapak vø̄kepøtøzem** [low, decided, by-rule]
+  - gloss: עִקֵּר: עִקְּרוּ (GEN 49:6) — English (generated): and hamstring
+  - NT: LUK 14:19 *kao*; MAT 22:4 *kao angana*
+  - answers: hamstring, oxen
+  - No word for hamstring; 'cut the legs' with kepøtøz (cut). kao = cattle/oxen. gen049:6.; English: cut the cattle's legs
+  - script:gloss.py, 2026-10-21, supersedes `term:hamstring.g49`
+- **`term:scatter_1sg_fut.g49.gloss`** אֲחַלְּקֵם / אֲפִיצֵם (I will divide / scatter them) → **ndæ̀zø-panqasam / ndæ̀zø-ngeasám** [low, decided, by-rule]
+  - gloss: חָלַק: אֲחַלְּקֵ֣ (GEN 49:7) — English (generated): I will disperse them
+  - NT: GEN 11:8 *ndø-panqasam*; JHN 10:12 *segé-ngeasám*
+  - answers: disperse, scatter
+  - 1sg future with zø- as ndæ̀zø-etoám (48:4). gen049:7.; English: built
+  - script:gloss.py, 2026-10-21, supersedes `term:scatter_1sg_fut.g49`
+- **`term:neck.g49.gloss`** עֹרֶף / צַוָּאר (neck) → **monqo** [medium, decided, attested]
+  - gloss: עֹרֶף: עֹ֣רֶף (GEN 49:8) — English (generated): shall be on the necks
+  - NT: LUK 17:2 *monqo*
+  - answers: necks, neck
+  - gen049:8 'qogi qaqa ezoqam-qa monqo-te' (on your enemies' necks).
+  - script:gloss.py, 2026-10-21, supersedes `term:neck.g49`
+- **`term:lion.g49.gloss`** אַרְיֵה / גּוּר אַרְיֵה / לָבִיא (lion, young lion, lioness) → **layon; layon ndakinak; layon sævam** [medium, decided, attested]
+  - gloss: אַרְיֵה: אַרְיֵה֙ (GEN 49:9) — English (generated): lion
+  - gloss: λέων: λέων (1PE 5:8) — English (generated): lion
+  - NT: 1PE 5:8 *layon*; JHN 12:14 *donki ndakinak*; REV 4:7 *kao anganeám*
+  - answers: lion, young lion, lioness
+  - Glossary Layon; young = ndakinak; female animal by sævam (as kao anganeam for a bull). gen049:9.
+  - script:gloss.py, 2026-10-21, supersedes `term:lion.g49`
+- **`term:rouse.g49.gloss`** מִי יְקִימֶנּוּ (who will rouse him?) → **Gê, gekha ezoqām, ndego gembo-tiû?** [low, decided, by-rule]
+  - gloss: קוּם: יְקִימֶֽ (GEN 49:9) — English (generated): dares to rouse him
+  - NT: ACT 12:7 *vø̄tiu*
+  - answers: rouse, dares
+  - tiu = wake someone (ACT 12:7); 3sg + mbo- + question circumflex built. gen049:9.; English: built
+  - script:gloss.py, 2026-10-21, supersedes `term:rouse.g49`
+- **`term:tie_donkey.g49.gloss`** אֹסְרִי לַגֶּפֶן עִירֹה (tying his donkey to the vine) → **donki, waen tae-te, gemopotavám** [low, decided, by-rule]
+  - gloss: אָסַר: אֹסְרִ֤י (GEN 49:11) — English (generated): He ties
+  - NT: MAT 21:2 *gémopotavát*; JHN 15:1 *waen táe*
+  - answers: ties, tied, vine
+  - tie = mopotav (a donkey tied, MAT 21:2; gumopotavám once); 3sg past built. colt = donki nakhasam (LUK 19:30). gen049:11.; English: built
+  - script:gloss.py, 2026-10-21, supersedes `term:tie_donkey.g49`
+- **`term:wash_clothes.g49.gloss`** כִּבֵּס לְבֻשׁוֹ (washed his garments) → **ndabua ... gesunguz** [medium, decided, attested]
+  - gloss: πλύνω: πλύνοντες (REV 22:14) — English (generated): wash
+  - NT: REV 7:14 *ginisungúz*; REV 22:14 *ndabua ndisunguzu*
+  - answers: washes, wash
+  - gesunguz attested 2x. gen049:11.
+  - script:gloss.py, 2026-10-21, supersedes `term:wash_clothes.g49`
+- **`term:harbor.g49.gloss`** חוֹף אֳנִיּוֹת (haven for ships) → **palai khagua-qa pu** [medium, decided, attested]
+  - gloss: חוֹף: ח֥וֹף (GEN 49:13) — English (generated): by the seashore
+  - gloss: λιμήν: Λιμένας (ACT 27:8) — English (generated): Havens
+  - NT: ACT 27:8 *khagua pu*; ACT 20:13 *palai khagua*
+  - answers: harbor, ships, ship
+  - Seashore = ndaola ndøgeg (HEB 11:12). gen049:13.
+  - script:gloss.py, 2026-10-21, supersedes `term:harbor.g49`
+- **`term:sheepfold.g49.gloss`** מִשְׁפְּתַיִם (sheepfolds) → **sip-qa khoev** [medium, decided, attested]
+  - gloss: αὐλή: αὐλὴν (JHN 10:1)
+  - NT: JHN 10:1 *sip-qa khoev-te*
+  - answers: sheepfolds, sheepfold
+  - gen049:14.
+  - script:gloss.py, 2026-10-21, supersedes `term:sheepfold.g49`
+- **`term:judge_people.g49.gloss`** יָדִין עַמּוֹ (he will judge his people) → **ekeza bawan ezoqa gezømbó-kawaevtát** [medium, decided, attested]
+  - gloss: דִּין: יָדִ֣ין (GEN 49:16) — English (generated): shall provide justice
+  - NT: REV 2:27 *gezømbó-kawaevtát*
+  - answers: provide justice, judge, justice
+  - Tribe = khagua bawan (HEB 7:14). gen049:16.; English: he will rule his people
+  - script:gloss.py, 2026-10-21, supersedes `term:judge_people.g49`
+- **`term:viper_bite.g49.gloss`** שְׁפִיפֹן / הַנֹּשֵׁךְ (viper, that bites) → **waza soqaqape; vømbōtag** [medium, decided, attested]
+  - gloss: שְׁפִיפֹן: שְׁפִיפֹ֖ן (GEN 49:17) — English (generated): a viper
+  - NT: LUK 3:7 *waza soqøsoqa*; ACT 28:3 *vømbōtag*
+  - answers: viper, bites
+  - Rider = ezoqam ... hos vō꞉qotam (REV 6:2); fell = vø̄bøi. gen049:17.; English: bit
+  - script:gloss.py, 2026-10-21, supersedes `term:viper_bite.g49`
+- **`term:wait_for.g49.gloss`** קִוִּיתִי (I wait for) → **nqækewag** [low, decided, by-rule]
+  - gloss: קָוָה: קִוִּ֥יתִי (GEN 49:18) — English (generated): I await
+  - NT: ACT 1:4 *tozombøé-kewagát*; ACT 17:16 *gezømbo-kewagam*
+  - answers: await, wait
+  - kewag = wait for; 1sg present nqæ- (feature present_nq). gen049:18.; English: built
+  - script:gloss.py, 2026-10-21, supersedes `term:wait_for.g49`
+- **`term:raiders.g49.gloss`** גְּדוּד (band of raiders) → **nakhag ezoqa ... ndǿnøfeapāt** [medium, decided, attested]
+  - gloss: גְּדוּד: גְּד֣וּד (GEN 49:19) — English (generated): by raiders
+  - NT: REV 6:2 *Nakhag ezoqam*; 1CO 9:7 *nakhag ezoqa*
+  - answers: raiders, attacked, attack
+  - gen049:19.; English: fighters will fight
+  - script:gloss.py, 2026-10-21, supersedes `term:raiders.g49`
+- **`term:wolf.g49.gloss`** זְאֵב יִטְרָף (a wolf that tears) → **gaqo khobos** [high, decided, attested]
+  - gloss: זְאֵב: זְאֵ֣ב (GEN 49:27) — English (generated): is a ravenous wolf
+  - gloss: λύκος: λύκον (JHN 10:12) — English (generated): wolf
+  - NT: JHN 10:12 *gaqo khobos*
+  - answers: wolf, ravenous
+  - gen049:27; plunder divided = 'gives things to each' (izuizu ndøzø-etoam).
+  - script:gloss.py, 2026-10-21, supersedes `term:wolf.g49`
+- **`term:archers.g49.gloss`** בַּעֲלֵי חִצִּים (archers) → **føif ezoqam; sanqava** [low, decided, by-rule]
+  - gloss: βέλος: βέλη (EPH 6:16) — English (generated): arrows
+  - NT: EPH 6:16 *sanqava*; REV 6:2 *føif mbogoám*
+  - answers: archers, arrows
+  - Bow man; built. gen049:23.; English: sanqava = 'arrows'
+  - script:gloss.py, 2026-10-21, supersedes `term:archers.g49`
+- **`term:fruitful_bough.g49.gloss`** בֵּן פֹּרָת (fruitful bough) → **tae nanga-us** [low, decided, by-rule]
+  - gloss: פֹּרָת: פֹּרָת֙ (GEN 49:22) — English (generated): is a fruitful
+  - NT: JHN 15:4 *tae-te*; REV 22:2 *tae nanga*
+  - answers: fruitful, fruitful vine
+  - -us having suffix on nanga (fruit). Spring = ibøkha ozu. gen049:22.; English: built
+  - script:gloss.py, 2026-10-21, supersedes `term:fruitful_bough.g49`
+- **`term:help_opt.g49.gloss`** וְיַעְזְרֶךָּ (and he will help you, blessing) → **qo betaqa-tøké** [low, decided, by-rule]
+  - gloss: עָזַר: יַעְזְרֶ֗ (GEN 49:25) — English (generated): who helps you
+  - NT: 2CO 1:11 *zòni-tøkeé*; GEN 27:10 *betaqambē-ve*
+  - answers: helps, help
+  - Optative betaqa- (for you sg) + tøke (help). Likewise 'may he give you' betaqa-etoám. gen049:25.; English: built
+  - script:gloss.py, 2026-10-21, supersedes `term:help_opt.g49`
+- **`term:physicians.g50.gloss`** הָרֹפְאִים (the physicians, 50:2) → **mulømula etoam ezoqam** [high, decided, attested]
+  - gloss: ἰατρός: ἰατρὸς (COL 4:14) — English (generated): physician
+  - NT: COL 4:14 *mulømula etoam ezoqam*; LUK 4:23 *Mulømula etoam ezoqam*
+  - answers: physicians, physician
+  - The NT's 'medicine-giving man'. gen050:2.
+  - script:gloss.py, 2026-10-21, supersedes `term:physicians.g50`
+- **`term:embalm.g50.gloss`** חָנַט (embalm, 50:2, 50:26) → **kha, tae etet sisip mbomømboma namba, vø̄e-gutøvem** [medium, decided, attested]
+  - gloss: חָנַט: חֲנֹ֖ט (GEN 50:2) — English (generated): to embalm
+  - NT: JHN 19:40 *vø̄e-gutøvem*; JHN 19:39 *tae etet sisip mbomømboma*
+  - answers: embalm, embalmed, embalming
+  - No NT word for embalming; described with Jesus' burial (spices, wrapping). Command form bèzø-gutøvém (let them wrap) built with the optative bè-. gen050:2, 26.; English: wrapped the body with sweet-smelling spices
+  - script:gloss.py, 2026-10-21, supersedes `term:embalm.g50`
+- **`term:coffin.g50.gloss`** אָרוֹן (coffin, 50:26) → **tae kumøkuma** [low, decided, by-rule]
+  - gloss: σορός: σοροῦ (LUK 7:14) — English (generated): coffin
+  - NT: LUK 7:14 *kumøkuma*
+  - answers: coffin
+  - The NT's bier; tae 'wood'. gen050:26.
+  - script:gloss.py, 2026-10-21, supersedes `term:coffin.g50`
+- **`term:horsemen.g50.gloss`** פָּרָשִׁים (horsemen, 50:9) → **hos-us ezoqam** [medium, decided, attested]
+  - gloss: ἱππεύς: ἱππεῖς (ACT 23:32) — English (generated): horsemen
+  - NT: ACT 23:32 *hos-us*
+  - answers: horsemen
+  - gen050:9.
+  - script:gloss.py, 2026-10-21, supersedes `term:horsemen.g50`
+- **`term:numbers.g46.gloss`** שְׁלֹשִׁים וְשָׁלֹשׁ, שֵׁשׁ עֶשְׂרֵה, שִׁשִּׁים וָשֵׁשׁ (33, 16, 66) → **teti-tri, sikstin, siksti-siks** [medium, decided, by-rule]
+  - gloss: שָׁלֹשׁ: שְׁלֹשִׁ֥ים (GEN 46:15) — English (generated): thirty three
+  - NT: GEN 5:4 *tuenti-tri*; GEN 14:5 *fotin*
+  - answers: thirty, thirty-three, sixteen, sixty, sixty-six
+  - Numerals as English loans (feature numerals.g): teti-tri after tuenti-tri and teti-faev; sikstin built after fotin (14); siksti-siks after siksti-faev. sikstin is not in the corpus. gen046:15, 18, 26.; English: 33; English: 16; English: 66
+  - script:gloss.py, 2026-10-21, supersedes `term:numbers.g46`
+- **`term:shepherd.g46.gloss`** רֹעֵי צֹאן / אַנְשֵׁי מִקְנֶה (shepherds; men of livestock) → **sip keoge ezoqam; søvakha gigiap nanak keoge ezoqam** [high, decided, attested]
+  - gloss: רָעָה: רֹ֣עֵי (GEN 46:32) — English (generated): The men
+  - gloss: θρέμμα: θρέμματα (JHN 4:12) — English (generated): livestock
+  - NT: GEN 29:3 *sip keoge ezoqam*; JHN 4:12 *søvakha gigiap nanak*
+  - answers: shepherds, shepherd, raise livestock, men of livestock
+  - The team's shepherds at the well (29:3); the livestock keepers built with the same agent noun (feature agent_noun). As a nominal predicate: 'Ndigu sip keoge ezoqám.' gen046:32, 34; Gen 47:3 needs it.; English: shepherds; English: keepers of livestock, built
+  - script:gloss.py, 2026-10-21, supersedes `term:shepherd.g46`
+- **`term:severe_famine.g47.gloss`** כָּבֵד הָרָעָב (the famine was severe) → **vikia seke unimé꞉-soqá** [high, decided, attested]
+  - gloss: כָּבֵד: כָבֵ֥ד (GEN 12:10) — English (generated): was severe
+  - NT: GEN 12:10 *ùnime꞉-soqá*; 1PE 4:17 *unimé꞉-soqá*
+  - answers: severe, so severe
+  - The team's 12:10 'because the famine was severe' ends 'ùnime꞉-soqá'; the corpus writes unimé꞉-soqá more often (22 to 6). gen047:4, 13, 20 ('ti-te unimé꞉-soqá' upon them).; English: the famine was very bad
+  - script:gloss.py, 2026-10-21, supersedes `term:severe_famine.g47`
+- **`term:languished.g47.gloss`** וַתֵּלַהּ אֶרֶץ (the land languished, was exhausted) → **yage føgakh kandambá** [medium, decided, attested]
+  - gloss: יָלַהּ: תֵּ֜לַהּ (GEN 47:13) — English (generated): had been exhausted
+  - NT: ACT 7:11 *Yage føgakh kandambá.*
+  - answers: exhausted, languished
+  - ACT 7:11 tells the same famine in Egypt and Canaan. gen047:13 '… yage føgakh kandambá, vikia seke-qa yaq-te'.; English: great suffering
+  - script:gloss.py, 2026-10-21, supersedes `term:languished.g47`
+- **`term:collect_money.g47.gloss`** לִקֵּט (collect, gather up) → **ndøpisám** [medium, decided, attested]
+  - gloss: לָקַט: יְלַקֵּ֣ט (GEN 47:14) — English (generated): collected
+  - NT: RUT 2:2 *tæmǿpisám*
+  - answers: collected, collect, gathered
+  - pisam = pick up, gather (gleaning, RUT 2); our gen041:48 'lou ate ndægo … ndøpisám'. gen047:14 'moni ate ndægo … ndøpisám'.; English: he gathered
+  - script:gloss.py, 2026-10-21, supersedes `term:collect_money.g47`
+- **`term:palace.g47.gloss`** בֵּית פַּרְעֹה (Pharaoh's palace, house) → **Felo-qa khoev** [high, decided, attested]
+  - gloss: בַּיִת: בֵּ֥ית (GEN 12:15) — English (generated): into the palace
+  - NT: GEN 12:15 *teqa khoev-te*
+  - answers: palace, pharaoh's palace
+  - The team's 12:15 (Sarai taken into Pharaoh's house). gen047:14.
+  - script:gloss.py, 2026-10-21, supersedes `term:palace.g47`
+- **`term:not_buy.g47.gloss`** לֹא קָנָה / לֹא מָכְרוּ (he did not buy; they did not sell) → **wieáv** [low, decided, by-rule]
+  - gloss: קָנָה: קָנָ֑ה (GEN 47:22) — English (generated): acquire
+  - NT: 2TI 4:17 *veeáv*
+  - answers: did not acquire, did not sell, acquire
+  - The negative past is the stem + -eáv without a subject prefix (veeáv did not put, ngegeav, oneav); wi (buy, sell) has no negative in the corpus. gen047:22 twice.; English: did not buy / sell
+  - script:gloss.py, 2026-10-21, supersedes `term:not_buy.g47`
+- **`term:pasture.g47.gloss`** אֵין מִרְעֶה (there is no pasture) → **loge gagayag mbaín** [medium, decided, by-rule]
+  - gloss: מִרְעֶה: מִרְעֶ֗ה (GEN 47:4) — English (generated): pasture
+  - NT: LUK 12:28 *gagayag-te*; GEN 1:30 *loge*
+  - answers: pasture, no pasture
+  - gagayag = grass (lexicon pasture: gagayag 3/0.75). gen047:4 'qogi sasae ezoqam-gi sip, loge gagayag mbaín'.; English: no grass to eat
+  - script:gloss.py, 2026-10-21, supersedes `term:pasture.g47`
+- **`term:priests_allotment.g47.gloss`** חֹק לַכֹּהֲנִים (the priests' allotment from Pharaoh) → **Felo iziz ezoqam-te lou ndøkhofotáv** [medium, decided, by-rule]
+  - gloss: חֹק: חֹ֨ק (GEN 47:22)
+  - gloss: ἱερεύς: ἱερεῖς (ACT 4:1) — English (generated): priests
+  - NT: JON 2:1 *ndokhofotáv*; ACT 4:1 *iziz ezoqam*
+  - answers: rations, supplied, allotment, portion, priests
+  - No word for portion or ration (gap:portion): the allotment as food sent (term:H4487). gen047:22.; English: Pharaoh sent the priests food
+  - script:gloss.py, 2026-10-21, supersedes `term:priests_allotment.g47`
+- **`term:sow.g47.gloss`** זָרַע (sow) → **vø̄zøgeakh** [medium, decided, attested]
+  - gloss: זָרַע: זְרַעְתֶּ֖ם (GEN 47:23) — English (generated): to sow
+  - NT: GEN 9:20 *vø̄zøgeakh*
+  - answers: sow, to sow
+  - zøgeakh = sow (lexicon sow 6/0.43; toqo-zøgeakh, tezøgeakh). gen047:23.; English: and sow; chain
+  - script:gloss.py, 2026-10-21, supersedes `term:sow.g47`
+- **`term:statute.g47.gloss`** וַיָּשֶׂם אֹתָהּ … לְחֹק (made it a statute) → **guguna manqat ndøvé** [medium, decided, by-rule]
+  - gloss: שׂים: יָּ֣שֶׂם (GEN 47:26) — English (generated): established
+  - NT: RUT 2:20 *guguna manqat*
+  - answers: law, statute, established
+  - guguna manqat = law (term:H8451); ve = put. 'it is in effect to this day' = 'Até ndakin khøuwa-té-a, guguna manqat ndøgo zua qagó' (formula:to_this_day; qagó it is there). gen047:26.; English: he put down a law
+  - script:gloss.py, 2026-10-21, supersedes `term:statute.g47`
+- **`term:H6456.team`** H6456 / H457 / H1544 (idol, carved image) → **khape mbumbuk** [high, decided, attested]
+  - gloss: פָּסִיל: פְסִילֵי (DEU 7:5) — English (generated): their idols
+  - NT: 1CO 8:4 *khape mbumbuk*; 1CO 8:7 *khape mbumbuk*
+  - answers: idol, idols
+  - The team chose khape mbumbuk for 'idols' (over khokho mbumbuk). The corpus's usual phrase for idols: khape mbumbuk in 16 verses, khokho mbumbuk in 4 (JON 2:9 'worthless idols' and NT 'false'). Jonah's khokho mbumbuk (term:H1892.gloss, H1892 'worthless') is not touched by this answer. Answers questions.md 1.
+  - team:kuni-team, 2026-10-26, supersedes `term:H6456`
+- **`term:H2617.team`** H2617 → **kuku matev** [high, decided, attested]
+  - gloss: חֶסֶד: חַסְדְּ (GEN 19:19) — English (generated): kindness
+  - NT: JON 2:9 *kuku matev*; JON 4:2 *kuku matev-us*
+  - answers: loving devotion, love, grace
+  - The team: love/grace = kuku (matev); mercy = tanakh (term:H7355.team). So God's חֶסֶד (loving devotion) is kuku matev, not tanakh matev. The corpus: kuku matev in 210 verses, tanakh matev in 36. Human kindness in Ruth stays matev mbomømboma (term:H2617.h.gloss). Answers questions.md 2.
+  - team:kuni-team, 2026-10-26, supersedes `term:H2617.gloss`
+- **`term:H7355.team`** H7355 / H7356 (have compassion, mercy) → **tanakh** [high, decided, attested]
+  - NT: 1CO 7:25 *tanakh*; 1PE 1:3 *tanakh*
+  - answers: mercy, compassion, have mercy, compassionate
+  - The team: mercy = tanakh (love/grace = kuku matev, term:H2617.team). tanakh is the corpus's usual word (103 verses).
+  - team:kuni-team, 2026-10-26, supersedes `term:H7355.gloss`
+<!-- store:end sha=fbc459b8 -->

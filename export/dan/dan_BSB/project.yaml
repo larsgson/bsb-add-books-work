@@ -19,10 +19,12 @@ style_from: [den-frie-bibel]
 # Books to keep from the drafting agents (added to the editions' quarantine).
 quarantine: []
 
-# Files or folders the agents must not open: test drafts and evaluations, not a model for new chapters.
-do_not_open: [export/dan/dan_BSB/_eval/local/]
+# Files or folders the agents must not open: our test drafts, not a model for new chapters. _eval/genesis-test/ holds
+# our drafts of chapters that Den Frie Bibel has since published (Gen 1-19, 28; in quarantine/ until 2026-10-15),
+# _eval/variance-test/ the repeated runs of Gen 18 and 28 that tested the clause packages.
+do_not_open: [export/dan/dan_BSB/_eval/genesis-test/, export/dan/dan_BSB/_eval/variance-test/, export/dan/dan_BSB/_eval/local/]
 
-# Presentation, as in Den Frie Bibel and the drafts so far.
+# Presentation, as in Den Frie Bibel (tekst/) and the drafts so far.
 quotes: ">><<"                       # >>…<< (Den Frie Bibel's own markup), nested ›…‹ as in its files
 chapter_word: kapitel
 book_titles:                         # the drafts' own titles for gen/jos/dan; Den Frie Bibel's for the rest

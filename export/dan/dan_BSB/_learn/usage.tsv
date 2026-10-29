@@ -1,1 +1,19 @@
 date	chapter	familiarity	tokens	calls	minutes	note
+2026-10-15	gen028	known	183509	34	15.0	test A: alignment at the end (quarantine; draft in _eval/local)
+2026-10-15	gen028	known	201291	41	7.3	test B: tagged with clause packages (quarantine; draft in _eval/local)
+2026-10-15	gen018	known	201667	37	8.9	test A: alignment at the end (quarantine; draft in _eval/local)
+2026-10-15	gen018	known	197286	40	13.9	test B: tagged with clause packages (quarantine; draft in _eval/local)
+2026-10-15	gen028	known	184577	30	6.4	test A2: alignment at the end, repeat (quarantine; draft in _eval/local)
+2026-10-15	gen028	known	219093	45	8.7	test B2: tagged, repeat with the same package (quarantine; draft in _eval/local)
+2026-10-15	gen028	known	245671	47	9.5	test B3: tagged with packages v2 (senses, speakers per line; quarantine; draft in _eval/local)
+2026-10-15	gen028	known	178969	35	7.1	test B4: tagged with the lean known-level package (quarantine; draft in _eval/local)
+2026-10-15	gen028	known	188429	41	7.5	test B5: tagged, lean package with function-word glosses (quarantine; draft in _eval/local)
+2026-10-22	ezr001	known	277981	102	28	
+2026-10-22	ezr010	known	131048	39	7	
+2026-10-22	neh001	known	271998	94	23	
+2026-10-22	neh010	known	203219	59	15	
+2026-10-22	est001	known	228759	72	19	
+2026-10-23	lev001	known	143577	34	6	
+2026-10-23	1sa001	known	360609	588	224	
+2026-10-23	pro001	known	282637	184	59	
+2026-10-28	hos001	known	129907	201	75	

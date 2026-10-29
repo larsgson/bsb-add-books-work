@@ -4,7 +4,7 @@ Dato: 09.10.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 
 ## Hvad udkastet er
 
-- Oversat direkte fra den **hebraiske** tekst i `orig/heb/dan012.txt`, sammenholdt med Berean Standard Bible (`reference/BSB/dan012.txt`). BSB er kun brugt til at afgøre valg hvor grundteksten tillader mere end én gengivelse.
+- Oversat direkte fra den **hebraiske** tekst i `orig/heb/dan012.txt`, sammenholdt med Berean Standard Bible (`reference/BSB/dan012.txt`). BSB er kun brugt til at afgøre valg hvor grundteksten tillader mere end én gengivelse. SVK er ikke brugt.
 - Husstil efter `dan_style_guide.md`.
 - **13 vers**; versnummereringen er den samme i `orig/` og BSB.
 - To overskrifter: v1-4 (»Endens tid«: Mikael, trængslen, opstandelsen, forseglingen), v5-13 (»Hvor længe?«: de to skikkelser ved floden, tallene og afslutningen).

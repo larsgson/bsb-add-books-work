@@ -1,0 +1,146 @@
+!!<Translation: machine draft from the Hebrew (orig/heb/gen049.txt), checked against the BSB, Kuni learned from the Kuni NT, Ruth and Jonah>!!
+!!<Status: experiment, not reviewed>!!
+!!<Date: 21.10.2026>!!
+
+===Iqandengaz (Genesis), chapter 49===
+
+==Zekop ekeza nakhei angana zenda gezømbove==
+
+v1 Yaq Zekop ekeza nakhei angana gezø-akha, gezø-ein, “Vø̀møváb! Yaq
+ndǿgo, no zo nqazø-manqate, ande gekha matev me zo-te
+tøfakhan, khøuwa vaev-te.
+
+//1 v2 Zekop-gi nakhei angana! Vø̀møváb, neka manqat vø̄yogem.
+//2 Zoge zøve, Izlael-qa manqat vø̄yogem.
+
+//1 v3 Lúben! Qo noge yo-khøuwá.
+//2 Qo noqa bazaføgakh, neka noqa umingiap-qa ibugukhokhof.
+//1 Qo vizap-ús kandambaqapé,
+//2 neka bazaføgakh-ús kandambaqapé.
+
+//1 v4 Geté qo andé ibøkha me, bazaføgakh mbaín.
+//2 Qo sekemba ezoqa kandambaqape qógoák.
+//1 Zapa ndǿgo, qo qoge qave-qa venanqei nonqo-te qoqo-oq.
+//2 Yaq noqa venanqei nonqo ndøgo, matev soqaqape qoqo-matanam.
+
+//1 v5 Simeon neka Livai, ndigu zapikia-za.
+//2 Tiqa kaiya, khaneam møqæ matev-qa nakhag gigiáp.
+
+//1 v6 No tiqa manqa ovøyam-te nógoák.
+//2 No tiqa bawan namba nótøkuák.
+//1 Zapa ndǿgo, ndigu qaqa ndøgó, ezoqa pakhapakha vøzø̄-khanæmam.
+//2 Neka ekeza poev-te mba, kao-qa tokhotapak vø̄kepøtøzem.
+
+//1 v7 Tiqa qaqa bèsoqoév. Zapa ndǿgo, kandambaqapé.
+//2 Neka tiqa qaqa bèsoqoév. Zapa ndǿgo, khobos-qapé.
+//1 No ndigu, Zekop-gi zi mokho-te, ndæ̀zø-panqasam.
+//2 Neka Izlael-gi zi mokho-te, ndæ̀zø-ngeasám.
+
+//1 v8 Zúda! Qogi zapikia-za, qoqa iz yàbeto-eqawát.
+//2 Qoqa zenda, qogi qaqa ezoqam-qa monqo-te ndǿgoát.
+//2 Qoge qave-gi nakhei angana, qoqa megemege-te bēfoyamat.
+
+//1 v9 Zuda, ndego andé layon ndakinak me.
+//2 Áti! Qo søvakha vømbō-khana, yaq nango qoqotøndoqav.
+//1 Ndego gèkhafutáv, sasa gebuv, andé layon me,
+//2 andé layon sævam me.
+//1 Gê, gekha ezoqām, ndego gembo-tiû?
+
+//1 v10 Kawa ezoqam-qa khamokh, Zuda-te ndøgo, gemǿ-navøemák.
+//2 Neka kawa tatuag, teqa tokhotapak livin-te ndøgo, gemǿ-navøemák.
+//1 Atema Sailo tendowav.
+//2 Yaq bawabawan ate ndægo, teqa manqat giyogem.
+
+//1 v11 Ndego donki, waen tae-te, gemopotavám.
+//2 Neka donki nakhasam, waen tae eqeieqei-te.
+//1 Ndego teqa ndabua, waen-te gesunguz.
+//2 Neka ndabua nøme, waen nanga-qa kóuk-te.
+
+//1 v12 Teqa bøi, waen zapaya, bøivun-ús.
+//2 Neka khaya, tete zapaya, ùnime꞉-papaqá.
+
+//1 v13 Zebulon, ndaola ndøgeg-te temøqóm.
+//2 Neka ndego, palai khagua-qa pu ndǿgoát.
+//2 Neka teqa manqei vaev, atema Saedon taon-te.
+
+//1 v14 Isaka, ndego andé donki bazaføgakh-us me.
+//2 Sip-qa khoev menas livin-te, sasa gebuv.
+
+//1 v15 Yaq ndego ge-omet, av nqægo, pusup manqei eqeieqeí.
+//2 Neka manqei ndøgo, qanimáv.
+//1 Yaq ndego viniv, teqa nqanqa-te ndøve.
+//2 Yaq ndego sasae ezoqam ndøgoám, ezoqa nøme-te.
+
+//1 v16 Den ekeza bawan ezoqa gezømbó-kawaevtát,
+//2 andé Izlael-gi khagua bawan kopo me.
+
+//1 v17 Den andé wazeam me ndǿgoát, nakhoa-te.
+//2 Ndego waza soqaqapé, nakhoa avønin-te.
+//1 Ndego hos-qa tokhotapak vømbōtag.
+//2 Yaq ezoqam, ndego hos vō꞉qotam, zita-te vø̄bøi.
+
+//1 v18 Evézøza! No qoqa khandi nqækewag.
+
+//1 v19 Gad, nakhag ezoqa, ndego namba ndǿnøfeapāt.
+//2 Geté ndego, tiqa zita-te, até ndǿnøfeapāt.
+
+//1 v20 Asa, teqa lou enaq-ús.
+//2 Neka ndego kawa ezoqam, lou mbomømboma mbó-etoám.
+
+//1 v21 Naftali, ndego andé søvakha sævam me, ndøkhofotáv.
+//2 Ndego manqat qanimáv ge-ein.
+
+//1 v22 Zosef, ndego andé tae nanga-us me.
+//2 Tae nanga-us ndøgo, ibøkha ozu avønin-te.
+//2 Teqa tang, uta ova-te ndøqavíg.
+
+//1 v23 Føif ezoqam, ndego namba ndønøfeap.
+//2 Yaq sanqava ndøkhofotáz, ndego-te.
+//2 Ndigu ndego-te, qaqa kandambá.
+
+//1 v24 Geté teqa føif, bazaføgakh-ús qagoam.
+//2 Neka teqa pingim bazaføgakh ndøgoám.
+//1 Ndøgo Zekop-ge Mbumbukiam bazaføgakh-ús, zenda-te ndøgo.
+//2 Ndego Izlael-ge sip keoge ezoqam, neka nandi føgøføgákh.
+
+//1 v25 Qoge qave-ge Mbumbukiam, ndego qo betaqa-tøké.
+//2 Neka Bazaføgakh-Qape, ndego qo bèkhakheinøqavém.
+//1 Ndego yan ova-te ndøgo, gigiap eqeieqei betaqa-etoám.
+//2 Manqei mokho-te ibøkha ndøgo, gigiap eqeieqei até kopó.
+//2 Neka nakheis kopoav, tete namba, gigiap eqeieqei.
+
+//1 v26 Qoge qave-gi gigiap eqeieqei nginik,
+//2 nogi atanakha-zapazapa-za-gi gigiap eqeieqei mø̀ndøløvú,
+//2 atema manqei popotap miavmiav-qa gigiap eqeieqei.
+//1 Ndigu Zosef-qa kawa-te begó.
+//2 Neka ekeza zapikia-za-ge kawa ezoqam-qa kawa-te begó.
+
+//1 v27 Benzamin, ndego andé gaqo khobos me.
+//2 Qanaqanus ndøgo, søvakha ndølóg.
+//2 Khagus ndøgo, gigiap izuizu ndøzø-etoam.”
+
+v28 Nginik ate ndi꞉gu, Izlael-gi khagua bawan, tuelv. Nqanek manqat
+ndøgo, tige eve ndigu gezø-ein. Yaq ndego zenda gezømbove.
+Ezoqa kopokopo, zenda gembøeve, av ekeza matev ndøgo.
+
+==Zekop genanim==
+
+v29 Yaq ndego manqa āv gezø-løvuá nqǽgo, “No avønín ndænaním.
+Nøkeza ezoqam nø̀zøpāev, ndigu bugukhokhof go꞉pakhaez. Yaq zo no,
+nogi atanakha-zapazapa-za namba, nandi nqa-te zó-otøvém. Ndøgo Eflon-qa
+manqei-té qagó. Eflon ndego Hit-ak ezoqam.
+
+v30 Ta nandi nqa ndøgo, Makpela manqei-te qagó, Mamle avønin-te
+, Keinan manqei-te. Ta manqei ndøgo, Eibleem Hit-ak
+ezoqam Eflon-te gewi, manqei pakha upøgim nonqo.
+
+v31 Ndǿgo, Eibleem neka tegu zas Sæla, tinø-otøvém. Ndǿgo até,
+Aezek neka tegu zas Lebeka, tinø-otøvém. Neka ndǿgo, no
+Lia qæ-otøvém.
+
+v32 Ta manqei neka nandi nqa, ndøgo mokho-te qagó, Eibleem Hit-ak
+ezoqam-te gewi.”
+
+v33 Yaq Zekop ekeza nakhei angana manqa løvuat qamømbøe-navøem. Yaq ekeza
+tokhotapak, venanqei nonqo-te, nango ndøve. Yaq sasa ndønanim. Yaq
+ndego ekeza ezoqam zøpaév, ndigu bugukhokhof go꞉pakhaez.

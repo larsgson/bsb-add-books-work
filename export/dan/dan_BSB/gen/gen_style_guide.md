@@ -1,15 +1,16 @@
 # 1 Mosebog – arbejdsstilark for udkastene (`export/dan/dan_BSB/gen/genNNN.txt`)
 
-Stand: 09.10.2026. Afledt af `export/dan/dan_BSB/jos/jos_style_guide.md`.
+Stand: 09.10.2026 · Pilot: kapitel 1-3. Afledt af `export/dan/dan_BSB/jos/jos_style_guide.md`.
 
 ## Grundlag
 
 - Der oversættes **fra hebraisk** (`orig/heb/genNNN.txt`, klausul-opdelt). Eneste hjælpeoversættelse er **BSB** (`reference/BSB/genNNN.txt`), som kun bruges til at afgøre valg hvor hebraisken tillader mere end én gengivelse.
+- **Ingen SVK.** `svk-text/`, `svk-add*` og `svk-tsv/` åbnes ikke.
 - Én dansk version pr. kapitel (`genNNN.txt`) + `genNNN_notes.md`.
-- Alle generelle konventioner gælder uændret fra `export/dan/dan_BSB/jos/jos_style_guide.md`: filhoved og layout, `==…==`-overskrifter i sætningsform, `vN` inline, `>>…<<`, HERREN med versaler, ca. 100 tegn pr. linje, tal (1-9 med bogstaver, 10 og derover med cifre), måleenheder + `{N: gt-mål}`, notesystemet (`{T:}`, 2-5 `{E:}` pr. kapitel, `{H:}`, `{N:}`), translitterationsregler for navne.
-- Versnummerering: hebraisk/dansk som i `orig/`.
+- Alle generelle konventioner gælder uændret fra `export/dan/dan_BSB/jos/jos_style_guide.md`: filhoved og layout, `==…==`-overskrifter i sætningsform, `vN` inline, `>>…<<`, HERREN med versaler, ca. 100 tegn pr. linje, tal (1-9 med bogstaver, 10 og derover med cifre), måleenheder + `{N: gt-mål}`, notesystemet (`{T:}`, 2-5 `{E:}` pr. kapitel, `{H:}`, `{N:}`), translitterationsregler for navne. Hvor Josva-stilarket har særskilte `_svk`/`_BSB`-gengivelser, gælder **kun `_BSB`-kolonnen**.
+- Versnummerering: hebraisk/dansk som i `orig/` (i 1 Mos 1-3 identisk med BSB).
 
-## Notetæthed og translitteration
+## Notetæthed og translitteration (efter piloten, 09.10.2026)
 
 - Som de færdige Mosebøger i `import/CC0/dan/den-frie-bibel/text/` (2 Mos: ca. 9 {T:}, 3 {E:}, 0,3 {H:} pr. kapitel):
   - `{T:}` kun hvor ordlyden ændrer betydningen eller bærer et genkendeligt billede/ordspil, ca. 5-10 pr. kapitel;
@@ -92,7 +93,7 @@ Rækkefølge for navneformer: 1) husform i `import/CC0/dan/den-frie-bibel/text/`
 ===1 Mosebog, kapitel N===
 ```
 
-## Genesis-gengivelser (belæg fra `import/CC0/dan/den-frie-bibel/text/`)
+## Genesis-gengivelser (forslag til piloten, belæg fra `import/CC0/dan/den-frie-bibel/text/`)
 
 | Hebraisk | Dansk | Belæg / begrundelse |
 |---|---|---|

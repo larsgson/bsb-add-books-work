@@ -5,3 +5,179 @@ title: Log
 
 - 2026-10-14, scripts/memory_prompt.py --init: empty store and wiki
 - 2026-10-14, agent:memory-setup: store 176 entries (25 features, 12 letters, 6 gaps; 61 terms, 19 formulas, 53 names; 23 open) from DFB, the 66 drafts, style guides and review overviews; 9 pages (gudsnavne, termer, daniel, formler, navne, stil, tal-og-maal, gen-1-19, spoergsmaal with 22 questions)
+- 2026-10-22 agent:ezr001: Ezra 1 oversat; nye faste gengivelser (himlens Gud, de bortførte, overhovederne for fædrenehusene, Sheshbassar, Mitredat).
+- 2026-10-22 agent:ezr002-009: Ezra 2-9 oversat; faste gengivelser i style_guide.md (Fixed renderings) og store (tempeltjenerne, statholderen, Hinsides Floden, Dareios, Artaxerxes, skriftlærd, troløshed m.fl.). Dareios afviger fra name:darius (Daniel) – åbent.
+- 2026-10-22 agent:ezr010: Ezra 10 oversat (bogen færdig); store: Shekanja, Eljashib, Elija (lægmand; DFB Elias om profeten – åbent), formlen »giftet sig med fremmede kvinder«.
+- 2026-10-22 agent:ezr010 (brugerens beslutning): navne følger DFB hvor den har personen: Dareios (afløser name:darius; Daniel skal rettes senere), ypperstepræsten Josva (Ezra 2-5, 10); ›…‹ inde i >>…<< bekræftet; {E:} ved Ezra 4,6 om tidsspringet.
+- 2026-10-22 agent:neh001-009: Nehemias' Bog 1-9 oversat; store: Nehemias, Sanballat, Tobija, Geshem, kislev/nisan/elul, byggelistens formler, »Husk mig, min Gud, til gode«, »åger«, »Moses' lovbog«, løvhytter/festforsamling, 2 Mos 34,6-formlen, »gjorde deres nakke stiv«. Titel »Nehemias' Bog« åben.
+- 2026-10-22 agent:neh010: Nehemias 10 oversat (hebraisk 10,1 = BSB 9,38 fortsætter levitternes tale); store: »fast aftale« (*ʔămānāh*, ikke »pagt«), »fornemme« (*ʔaddîrîm*, adskilt fra »stormændene«), »kamrene«, »offerydelse«, »tiende«.
+- 2026-10-22 agent:neh011: Nehemias 11 oversat; store: slægtsrækker »X, søn af Y, søn af Z«, *bᵊnōtêhā* »med tilhørende byer«, »tapre krigere«; *ʔămānāh* 11,23 »fast aftale« som 10,1.
+- 2026-10-22 agent:neh012: Nehemias 12 oversat; store: »takkekor«, »David, Guds mand«, »Vagtporten«, »hvad de skulle have dag for dag«; ypperstepræsten Josva / levitten Jeshua holdt adskilt.
+- 2026-10-22 agent:neh013: Nehemias 13 oversat (bogen færdig); store: »Husk mig, min Gud, for dette«, *rîb* »gik i rette med«, *ʕzb* »svigte« (10,40 = 13,11).
+- 2026-10-22 agent:est001: Esters Bog 1 oversat; titel »Esters Bog«, heltinden »Ester«; store: Vashti, Memukan, *sārîs* »hofmand«, *mištê* »gilde«, *śārôt* »fyrstinderne«, »Persiens og Mediens love«.
+- 2026-10-22 agent:est002: Esters Bog 2 oversat; store: Ester, Mordokaj, Hegaj, »kvindehuset«, »skønhedsmidler«, »kongens port«, tebet.
+- 2026-10-22 agent:est003: Esters Bog 3 oversat; store: Haman, »jødernes fjende«, pur, »udrydde, dræbe og tilintetgøre«, adar, »ilbudene«.
+- 2026-10-22 agent:est004: Esters Bog 4 oversat; store: Hatak, »guldscepter«, »sæk og aske«.
+- 2026-10-22 agent:est005: Esters Bog 5 oversat; store: Zeresh, »det halve kongerige«, *šᵊʔēlāh* »ønske«, *ʕēṣ* »pæl«.
+- 2026-10-22 agent:est006: Esters Bog 6 oversat; store: omkvædet »den mand som kongen gerne vil ære«, »jøden Mordokaj«.
+- 2026-10-22 agent:est007: Esters Bog 7 oversat; formlerne fra 3,13 og 5,6.8 genbrugt; ingen nye store-poster.
+- 2026-10-22 agent:est008: Esters Bog 8 oversat; brevformlerne fra kap. 3 genbrugt; store: sivan, »glæde og fryd«, »festdag«.
+- 2026-10-22 agent:est009: Esters Bog 9 oversat; store: purim, omkvædet »Men de lagde ikke hånd på byttet«, »sender hinanden gaver«.
+- 2026-10-22 agent:est010: Esters Bog 10 oversat (bogen færdig, kun hebraisk tekst); store: »Krønikebogen for Mediens og Persiens konger«.
+- 2026-10-23 agent:lev001: 3 Mosebog 1 oversat; store: offerordene (brændoffer, offergave, forsamlingsteltet, lydefri, skaffe soning, brænde, ildoffer/liflig duft, for HERRENS ansigt, stænke, blive godtaget).
+- 2026-10-23 agent:1sa001: Første Samuelsbog 1 oversat; store: navnene Elkana, Hanna, Peninna, Samuel, Eli, Hofni; »tjenestepige«, »medhustru«; »Hærskarers HERRE« første gang i udkastene.
+- 2026-10-23 agent:1sa002: Første Samuelsbog 2 oversat (Hannas lovsang som poesi); store: »nidding«, »en Guds mand«, »hans salvede«.
+- 2026-10-23 agent:1sa003: Første Samuelsbog 3 oversat; store: edsformlen »Må Gud gøre således mod dig igen og igen«, »Her er jeg«, »Guds ark«.
+- 2026-10-23 agent:1sa004: Første Samuelsbog 4 oversat; store: filistrene, Eben-Ezer, Ikabod, hebræerne.
+- 2026-10-23 agent:1sa005: Første Samuelsbog 5 oversat; store: filisterfyrsterne, bylder, Dagon.
+- 2026-10-23 agent:1sa006: Første Samuelsbog 6 oversat; store: skyldoffer, spåmænd, Ashkelon, Bet-Shemesh.
+- 2026-10-23 agent:1sa007: Første Samuelsbog 7 oversat; store: »var dommer for«, astarterne, Mispa, Abinadab.
+- 2026-10-23 agent:1sa008: Første Samuelsbog 8 oversat; store: »kongens ret«, »førere over tusind …«, Joel/Abija.
+- 2026-10-23 agent:1sa009: Første Samuelsbog 9 oversat; store: Saul, Kish, »regent«, »seeren«, »offerhøjen«, »karl«.
+- 2026-10-23 agent:1sa010: Første Samuelsbog 10 oversat; store: »HERRENS Ånd kom over ham med kraft«, »profetisk henrykkelse«, takofre, »Leve kongen!«, farbror.
+- 2026-10-23 agent:1sa011: Første Samuelsbog 11 oversat; store: Jabesh i Gilead, Nahash, »slutte en pagt«.
+- 2026-10-23 agent:1sa012: Første Samuelsbog 12 oversat; store: »trodse HERRENS befaling«, Jerub-Ba'al.
+- 2026-10-23 agent:1sa013: Første Samuelsbog 13 oversat; store: Jonatan, Mikmas, »forpost«, »en mand efter sit hjerte«.
+- 2026-10-23 agent:1sa014: Første Samuelsbog 14 oversat; store: våbendrager, »så sandt HERREN lever«, Mikal, Abner, Ahija.
+- 2026-10-23 agent:1sa015: Første Samuelsbog 15 oversat; store: fortryde, Agag, husguder, Israels Herlighed.
+- 2026-10-23 agent:1sa016: Første Samuelsbog 16 oversat; store: Isaj, David, citer, »en ond ånd«.
+- 2026-10-23 agent:1sa017: Første Samuelsbog 17 oversat; store: Goliat, Ela-dalen, »den levende Gud«, slagrækker, forkæmper.
+- 2026-10-23 agent:1sa018: Første Samuelsbog 18 oversat; store: »have held med sig«, svigersøn, brudepris.
+- 2026-10-23 agent:1sa019: Første Samuelsbog 19 oversat; store: Najot, »være i profetisk henrykkelse«.
+- 2026-10-23 agent:1sa020: Første Samuelsbog 20 oversat; store: nymåne, »han er dødsens«; ḥesed »trofasthed«.
+- 2026-10-23 agent:1sa021: Første Samuelsbog 21 oversat (hebraisk nummerering); store: Ahimelek, Akish, Doeg, skuebrødene.
+- 2026-10-23 agent:1sa022: Første Samuelsbog 22 oversat; store: Ebjatar, Adullam-hulen, klippeborg, »spørge HERREN til råds«.
+- 2026-10-23 agent:1sa023: Første Samuelsbog 23 oversat; store: Keila, Zif, Maon, Horesha.
+- 2026-10-23 agent:1sa024: Første Samuelsbog 24 oversat (hebraisk nummerering); store: En-Gedi, »HERRENS salvede«.
+- 2026-10-23 agent:1sa025: Første Samuelsbog 25 oversat; store: Nabal, Abigajil, »komme i blodskyld«.
+- 2026-10-23 agent:1sa026: Første Samuelsbog 26 oversat; store: Abishaj, Seruja, Joab, vognborg.
+- 2026-10-23 agent:1sa027: Første Samuelsbog 27 oversat; store: Siklag, Negev.
+- 2026-10-23 agent:1sa028: Første Samuelsbog 28 oversat; store: dødemaner, sandsiger, Gilboa, En-Dor.
+- 2026-10-23 agent:1sa029: Første Samuelsbog 29 oversat; store: śāṭān »modstander«.
+- 2026-10-23 agent:1sa030: Første Samuelsbog 30 oversat; store: røverbande, Besor-bækken, kreterne.
+- 2026-10-23 agent:1sa031: Første Samuelsbog 31 oversat; bogen færdig.
+- 2026-10-23 agent:2sa001: Anden Samuelsbog 1 oversat; klagesangen som poesi; store: Den Retskafnes Bog, omkvædet.
+- 2026-10-23 agent:2sa002: Anden Samuelsbog 2 oversat; store: Ishboshet, Asahel, troskab.
+- 2026-10-23 agent:2sa003: Anden Samuelsbog 3 oversat; store: Absalom, Amnon, Adonija, Rizpa, medhustru.
+- 2026-10-23 agent:2sa004: Anden Samuelsbog 4 oversat; store: Mefiboshet, Rekab, Ba'ana.
+- 2026-10-23 agent:2sa005: Anden Samuelsbog 5 oversat; store: Davidsbyen, Millo, Hiram, Refaim-dalen.
+- 2026-10-23 agent:2sa006: Anden Samuelsbog 6 oversat; store: Obed-Edom, Uzza, harpe.
+- 2026-10-23 agent:2sa007: Anden Samuelsbog 7 oversat; store: Herre HERRE, Natan.
+- 2026-10-23 agent:2sa008: Anden Samuelsbog 8 oversat; store: Hadad-Ezer, kansler, kreterne og pleterne.
+- 2026-10-23 agent:2sa009: Anden Samuelsbog 9 oversat; store: Ziba, Lo-Debar.
+- 2026-10-23 agent:2sa010: Anden Samuelsbog 10 oversat; store: Hanun, Shobak.
+- 2026-10-23 agent:2sa013: Anden Samuelsbog 13 oversat; store: Tamar, Jonadab, krænke, hjertekage.
+- 2026-10-23 agent:2sa014: Anden Samuelsbog 14 oversat; store: blodhævneren, Tekoa.
+- 2026-10-23 agent:2sa015: Anden Samuelsbog 15 oversat; store: Ahitofel, Ittaj, Hushaj, Ahima'as, Kedronbækken.
+- 2026-10-23 agent:2sa016: Anden Samuelsbog 16 oversat; store: Shim'i.
+- 2026-10-23 agent:2sa017: Anden Samuelsbog 17 oversat; store: Amasa, Barzillaj, Rogel-kilden.
+- 2026-10-23 agent:2sa018: Anden Samuelsbog 18 oversat.
+- 2026-10-23 agent:2sa019: Anden Samuelsbog 19 oversat; store: Kimham.
+- 2026-10-23 agent:2sa020: Anden Samuelsbog 20 oversat; store: Sheba, Abel-Bet-Ma'aka, Adoram.
+- 2026-10-23 agent:2sa021: Anden Samuelsbog 21 oversat; store: gibeonitterne, Rafa, Elhanan.
+- 2026-10-23 agent:2sa022: Anden Samuelsbog 22 (= Sl 18) oversat som poesi.
+- 2026-10-23 agent:2sa023: Anden Samuelsbog 23 oversat; store: Urias, Eleasar, Så siger David.
+- 2026-10-23 agent:2sa024: Anden Samuelsbog 24 oversat; bogen færdig; store: Aravna, Gad, seer.
+- 2026-10-23 agent:1ki012: Første Kongebog 12 oversat; store: Rehabeam, Jeroboam, Sikem, Akija, pligtarbejdet, Guds mand, offerhøj.
+- 2026-10-23 agent:1ki013: Første Kongebog 13 oversat; store: Josija, på HERRENS ord, indvie.
+- 2026-10-23 agent:1ki014: Første Kongebog 14 oversat; kongeformlerne fastlagt; store: Krøniken, lagde sig til hvile, Ashera-pæle, stenstøtter, Tirsa, Abijam.
+- 2026-10-23 agent:1ki015: Første Kongebog 15 oversat; store: Basha, Asa, Mispa, kongemoder, afgudsbilleder, hjerte helt med HERREN.
+- 2026-10-23 agent:1ki016: Første Kongebog 16 oversat; store: Akab, Jezabel, Omri, Samaria, tomme afguder.
+- 2026-10-23 agent:1ki017: Første Kongebog 17 oversat; store: Elias, Sarepta, Kerit-bækken, tagkammeret.
+- 2026-10-23 agent:1ki018: Første Kongebog 18 oversat; store: Obadja, Karmel-bjerget, Kishonbækken, halte.
+- 2026-10-23 agent:1ki019: Første Kongebog 19 oversat; store: Elisa, Hazael, Horeb, gyvelbusk, en stille, svag susen.
+- 2026-10-23 agent:1ki020: Første Kongebog 20 oversat; store: distriktsstyrere, profetsønnerne, ved årsskiftet, lagt band på.
+- 2026-10-23 agent:1ki021: Første Kongebog 21 oversat; store: Nabot, de fornemme, forbandet (eufemisme), solgt dig til at gøre det onde.
+- 2026-10-23 agent:1ki022: Første Kongebog 22 oversat; bogen færdig. Store: Ramot i Gilead, Mika, Sidkija, Ahazja, Esjongeber, en løgnens ånd.
+- 2026-10-23 agent:2ki001: Anden Kongebog 1 oversat; store: Ba'al-Zebub, Joram, høvedsmand, refrænet om Gud i Israel.
+- 2026-10-23 agent:2ki002: Anden Kongebog 2 oversat; store: stormvind, Israels vogne og dets ryttere, en dobbelt del, edsformlen.
+- 2026-10-23 agent:2ki003: Anden Kongebog 3 oversat; store: Mesha, Kir-Hareset, harpespiller.
+- 2026-10-23 agent:2ki004: Anden Kongebog 4 oversat; store: Gehazi, shunemitinden, Ba'al-Shalisha, suppe.
+- 2026-10-23 agent:2ki006: Anden Kongebog 6 oversat; store: Dotan, blindhed.
+- 2026-10-23 agent:2ki007: Anden Kongebog 7 oversat; store: adjudanten, sluser på himlen, spedalske.
+- 2026-10-23 agent:2ki008: Anden Kongebog 8 oversat; store: Atalja, Libna, en lampe.
+- 2026-10-23 agent:2ki009: Anden Kongebog 9 oversat; store: Bidkar, Bet-Haggan, Kommer I med fred, tosse.
+- 2026-10-23 agent:2ki010: Anden Kongebog 10 oversat; store: Joahaz, Jonadab, formyndere, festforsamling.
+- 2026-10-23 agent:2ki011: Anden Kongebog 11 oversat; store: Jojada, Josheba, Joash, karerne, høvedsmændene.
+- 2026-10-23 agent:2ki012: Anden Kongebog 12 oversat; store: Amazja, Sibja, skaderne, kendinge.
+- 2026-10-23 agent:2ki013: Anden Kongebog 13 oversat; store: befrier, sejrspil.
+- 2026-10-23 agent:2ki014: Anden Kongebog 14 oversat; store: Azarja, Jeroboam, Jokte'el, Arabahavet.
+- 2026-10-23 agent:2ki015: Anden Kongebog 15 oversat; store: Uzzija, Menahem, Peka, Hosea, Tiglat-Pileser, Akaz, Jotam.
+- 2026-10-23 agent:2ki016: Anden Kongebog 16 oversat; store: Hizkija, Urija, gave.
+- 2026-10-23 agent:2ki017: Anden Kongebog 17 oversat; store: Shalmaneser, Sefarvajim, skikken hos landets gud, spådom.
+- 2026-10-23 agent:2ki018: Anden Kongebog 18 oversat; store: Sankerib, hovedforhandler, Eljakim, slotsforvalter.
+- 2026-10-23 agent:2ki019: Anden Kongebog 19 oversat; store: Esajas, Tirhaka, Asarhaddon, Israels Hellige.
+- 2026-10-23 agent:2ki020: Anden Kongebog 20 oversat; store: Manasse, Berodak-Bal'adan, trin.
+- 2026-10-23 agent:2ki021: Anden Kongebog 21 oversat; store: Amon, Josija, Hefsiba, dødemanere og sandsigere.
+- 2026-10-23 agent:2ki022: Anden Kongebog 22 oversat; store: Shafan, Hulda, Ahikam, lovbogen, den nye bydel.
+- 2026-10-23 agent:2ki023: Anden Kongebog 23 oversat; store: Jojakim, Neko, afgudspræster, stjernebillederne, pagtsbogen.
+- 2026-10-23 agent:2ki024: Anden Kongebog 24 oversat; store: Jojakin, Nebukadnesar, Sidkija.
+- 2026-10-23 agent:2ki025: Anden Kongebog 25 oversat; bogen færdig; store: Nebuzar'adan, Gedalja, Ismael, chefen for livvagten.
+- 2026-10-23 agent:pro001: Ordsprogenes Bog 1 oversat; visdomsordforrådet lagt fast (visdom, tugt, indsigt, kundskab, enfoldig, dåre/tåbe, spotter); store: 14 poster.
+- 2026-10-23 agent:pro002: Ordsprogenes Bog 2 oversat; store: forstand, den fremmede kvinde / den udenlandske, dødningene, sund visdom.
+- 2026-10-23 agent:pro004: Ordsprogenes Bog 4 oversat; store: lærdom, lægedom.
+- 2026-10-23 agent:pro005: Ordsprogenes Bog 5 oversat; store: dårskab, din ungdoms hustru, den elskelige hind.
+- 2026-10-23 agent:pro006: Ordsprogenes Bog 6 oversat; store: den dovne, mangler forstand, skøge, vederstyggelighed.
+- 2026-10-23 agent:pro007: Ordsprogenes Bog 7 oversat; store: elskov (dodim), øjesten.
+- 2026-10-23 agent:pro008: Ordsprogenes Bog 8 oversat; store: Salig, urdybet, mester.
+- 2026-10-23 agent:pro009: Ordsprogenes Bog 9 oversat; store: tåbelighed, »Frygt for HERREN er visdoms begyndelse«.
+- 2026-10-23 agent:pro010: Ordsprogenes Bog 10 oversat; Salomos ordsprog begynder; store: undergang.
+- 2026-10-23 agent:pro011: Ordsprogenes Bog 11 oversat; store: den gudløse, en vederstyggelighed for HERREN, et livets træ.
+- 2026-10-23 agent:pro012: Ordsprogenes Bog 12 oversat; store: en dygtig kvinde, Bedre … end, den kloge, rænker.
+- 2026-10-23 agent:pro013: Ordsprogenes Bog 13 oversat; store: stok, skænd.
+- 2026-10-23 agent:pro014: Ordsprogenes Bog 14 oversat; store: 14,12 = 16,25 (fast ordlyd), hidsig.
+- 2026-10-23 agent:pro015: Ordsprogenes Bog 15 oversat; store: afgrunden, »forud for ære går ydmyghed«.
+- 2026-10-23 agent:pro016: Ordsprogenes Bog 16 oversat; store: »det er sikkert«, bagtaler.
+- 2026-10-23 agent:pro017: Ordsprogenes Bog 17 oversat; store: nar (nabal).
+- 2026-10-23 agent:pro018: Ordsprogenes Bog 18 oversat; store: »HERRENS navn er et stærkt tårn«.
+- 2026-10-23 agent:pro019: Ordsprogenes Bog 19 oversat; store: »Et falsk vidne går ikke fri«.
+- 2026-10-23 agent:pro020: Ordsprogenes Bog 20 oversat; store: to slags lodder, øl.
+- 2026-10-23 agent:pro021: Ordsprogenes Bog 21 oversat; store: »Bedre at bo i et hjørne af taget«, en trættekær hustru.
+- 2026-10-23 agent:pro022: Ordsprogenes Bog 22 oversat; »De vises ord« begynder ved 22,17; store: et ældgammelt skel.
+- 2026-10-23 agent:pro023: Ordsprogenes Bog 23 oversat; store: løser.
+- 2026-10-23 agent:pro024: Ordsprogenes Bog 24 oversat; 24,33-34 = 6,10-11; store: rænkesmed.
+- 2026-10-23 agent:pro025: Ordsprogenes Bog 25 oversat; 25,24 = 21,9; {H: Rom 12,20}.
+- 2026-10-23 agent:pro026: Ordsprogenes Bog 26 oversat; 26,22 = 18,8; {H: 2 Pet 2,22}.
+- 2026-10-23 agent:pro027: Ordsprogenes Bog 27 oversat; 27,12 = 22,3; 27,13 = 20,16.
+- 2026-10-23 agent:pro028: Ordsprogenes Bog 28 oversat; tôrāh uden ejefald = loven.
+- 2026-10-23 agent:pro029: Ordsprogenes Bog 29 oversat; 29,20b = 26,12b; 29,1 ~ 6,15.
+- 2026-10-23 agent:pro030: Ordsprogenes Bog 30 (Agurs ord) oversat; navne Agur, Jake, Itiel, Ukal.
+- 2026-10-23 agent:pro031: Ordsprogenes Bog 31 oversat (Lemuel; den dygtige kvinde); Ordsprogenes Bog færdig (1-2, 4-31).
+- 2026-10-23 agent:ecc001: Prædikerens Bog 1 oversat; flygtig, Prædikeren, fordel, slid, under solen, jagen efter vind.
+- 2026-10-23 agent:ecc002: Prædikerens Bog 2 oversat; omkvæd »Også det er flygtigt«; skæbne, lod.
+- 2026-10-23 agent:ecc004: Prædikerens Bog 4 oversat (4,17 = BSB 5,1).
+- 2026-10-23 agent:ecc005: Prædikerens Bog 5 oversat (5,1-19 = BSB 5,2-20); run paused after ecc 5 (coordinator).
+- 2026-10-28 agent:hos001: Hoseas' Bog 1 oversat (De Små Profeter begynder); store: Hoseas, Gomer, Lo-Ruhama, Lo-Ammi, utugt, hore, forbarme sig, »Det skal ske på den dag«.
+- 2026-10-28 agent:hos002: Hoseas' Bog 2 oversat (hebr. 2,1-25 = BSB 1,10-2,23); store: elskere, ægteskabsbrud, skøgeløn, trolove, »kornet, druemosten og olien«.
+- 2026-10-28 agent:hos003: Hoseas' Bog 3 oversat; store: rosinkager, »i de sidste dage«.
+- 2026-10-28 agent:hos004: Hoseas' Bog 4 oversat; store: retssag, kundskab om Gud, troskab, »Hør HERRENS ord«, en utugtens ånd.
+- 2026-10-28 agent:hos005: Hoseas' Bog 5 oversat; store: trompet, handle troløst, Mispa.
+- 2026-10-28 agent:hos006: Hoseas' Bog 6 oversat; store: »For trofasthed ønsker jeg og ikke offer«, vende skæbne, forårsregn.
+- 2026-10-28 agent:hos007: Hoseas' Bog 7 oversat; store: Ve dem, løskøbe, enfoldig.
+- 2026-10-28 agent:hos008: Hoseas' Bog 8 oversat; store: afgudsbilleder, Samarias kalv, »vind sår de, og storm skal de høste«.
+- 2026-10-28 agent:hos009: Hoseas' Bog 9 oversat; store: Nof, Ba'al-Peor, Skammen, vægter.
+- 2026-10-28 agent:hos010: Hoseas' Bog 10 oversat; store: afgudspræster, »Dæk os! … Fald over os!«, bryde nyjord.
+- 2026-10-28 agent:hos011: Hoseas' Bog 11 oversat; store: »fra Egypten kaldte jeg min søn« (DFB Matt 2,15), gudebilleder.
+- 2026-10-28 agent:hos012: Hoseas' Bog 12 oversat (hebr. 12,1 = BSB 11,12); store: HERREN, Hærskarers Gud; Kana'an.
+- 2026-10-28 agent:hos013: Hoseas' Bog 13 oversat; store: »Død, hvor er din pest? …« ({H: 1 Kor 15,55}), frelser, støbte billeder.
+- 2026-10-28 agent:hos014: Hoseas' Bog 14 oversat (hebr. 14,1 = BSB 13,16); bogen færdig; store: »Vend om, Israel …«, frafald, den faderløse.
+- 2026-10-28 agent:jol001: Joels Bog 1 oversat; store: græshoppeordene, HERRENS dag (DFB Es 13,6), afgrødeoffer og drikoffer, Joel.
+- 2026-10-28 agent:jol002: Joels Bog 2 oversat; store: »Flæng jeres hjerte …«, nådeformlen, efterårsregn.
+- 2026-10-28 agent:jol004: Joels Bog 4 oversat (= BSB 3); bogen færdig; store: Josafats dal, plovjern til sværd, grækerne, erklære uskyldigt.
+- 2026-10-28 agent:amo001: Amos' Bog 1 oversat; store: omkvædet »For tre overtrædelser …«, »Så sender jeg ild …«, Amos.
+- 2026-10-28 agent:amo002: Amos' Bog 2 oversat; store: nasiræer, løgne (afguder).
+- 2026-10-28 agent:amo003: Amos' Bog 3 oversat; store: Herren HERREN, Hærskarers Gud; sôd plan.
+- 2026-10-28 agent:amo004: Amos' Bog 4 oversat; store: omkvædet »Alligevel vendte I ikke om til mig«, »gør dig rede …«, hymnestrofen.
+- 2026-10-28 agent:amo005: Amos' Bog 5 oversat; store: »Søg mig, så skal I leve«, klagesang, lovprisningsoffer (Amos 4,5 rettet fra takoffer), »lad retten vælde frem«.
+- 2026-10-28 agent:amo006: Amos' Bog 6 oversat; store: de sorgløse, Karnajim.
+- 2026-10-28 agent:amo007: Amos' Bog 7 oversat; store: synsformlen, blylod, Amazja.
+- 2026-10-28 agent:amo009: Amos' Bog 9 oversat; bogen færdig; store: Davids faldne hytte, Herren, Hærskarers HERRE, vende skæbne.
+- 2026-10-28 agent:mic001: Mikas Bog 1 oversat; store: Mika fra Moreshet, skøgeløn, bynavnene i 1,10-15.
+- 2026-10-28 agent:mic002: Mikas Bog 2 oversat; store: prædike (dryppe), Israels rest.
+- 2026-10-28 agent:mic004: Joel 4,10 rettet: »Smed jeres hakker om til sværd« (DFB Es 2,4 »hakker«), før »plovjern«.
+- 2026-10-28 agent:mic004: Mikas Bog 4 oversat (4,14 = BSB 5,1); 4,1-3 som DFB Es 2,2-4; Joel 4,10 rettet til »hakker«; store: sværd til hakker, vinstok og figentræ, hjordens tårn.
+- 2026-10-28 agent:mic005: Mikas Bog 5 oversat (= BSB 5,2-15); store: Betlehem Efrata, Jakobs rest, sandsigere.
+- 2026-10-28 agent:mic007: Mikas Bog 7 oversat; bogen færdig; store: »Hvem er en Gud som du«, husfolk.
+- 2026-10-28 agent:mal001: Malakias' Bog 1 oversat; store: Malakias, Jakob/Esau (DFB Rom 9,13), statholder.
+- 2026-10-28 agent:mal002: Malakias' Bog 2 oversat; store: Levis pagt, ungdoms hustru, skilsmisse.
+- 2026-10-28 agent:mal003: Malakias' Bog 3 oversat; bogen og løbet færdigt; store: budbringer, Elias, ejendomsfolk.

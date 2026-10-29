@@ -1,0 +1,1462 @@
+---
+title: Names and divine names
+entries: [term:H430, term:H7706.g, term:H5945.g, term:gods, letter:*, name:*, term:H3068.team]
+---
+# Names and divine names
+
+## How names are spelled
+
+Two sources now: the NT (newer revision) for names it has, and the human Ruth and Jonah (2015)
+for OT names. Ruth and Jonah confirm the consonant rules the NT-only agents found and correct
+the vowel rule.
+
+Consonants (store `letter:*`):
+- r → l: Lut (Ruth), Lam (Ram), Pelez (Perez), Ezlon (Hezron), Mala (Mara), Izlael, Laisol
+  (Rachel). r before a consonant drops: Opa (Orpah), Tasis (Tarshish), NT Atemis; a final r
+  drops: Tama (Tamar).
+- j / Hebrew y → z: Zuda, Zesi (Jesse); **Jo- → Zio-**: Ziona (Jonah), Ziopa (Joppa), as the
+  NT's Zion (John).
+- h drops at the start (Ezlon), inside (Malon Mahlon, Nason Nahshon) and at the end (Zuda,
+  Opa, Niniva Nineveh, Eflat Ephrath).
+- ch, k → k (Elimelek, Kilion); sh → s (Tasis, Nason); ph → f (Eflat); th → t (Eflat,
+  Betliem); double consonants are written single (Amitai, Ziopa, Aminadab).
+
+Vowels: the NT's well-known names have English-sounding forms (Deivid, Eibleem, Aezek,
+Laisol, Zesi) and keep them in the OT (RUT 4:11, 4:17-22). **Names new in the OT stay close to
+the spelling**: Naomi (not our Neomi), Elimelek, Kilion, Malon, Obed, Amitai; Nineveh is
+Niniva. So for a new name: start from the BSB spelling, apply the consonant rules, and keep
+the vowels as written; use the NT form wherever the NT has the name (check `concord.py kvg`
+and the glossary first).
+
+Corrections to the first version of this page: "Leia (Leah)" was never attested — the form is
+**Lia** (built by the Ruth 4 agent, confirmed by RUT 4:11); Naomi, not Neomi; Ephrath(ah) is **Eflat**
+("Eflat khagua bawan-ák", of the Ephrath clan, RUT 1:2), not Eflata.
+
+Places take a class noun: "Betliem vemiav" (village), "Moab manqei" (land), "Niniva taon",
+"Tasis taon" (JON 1:3) or "Tasis manqei" (JON 4:2), "Ziopa taon". People of a place: "-ak"
+("Niniva taon-ak" Ninevites, JON 3:5; "Moab-ak", RUT 2:21). A clan: "Eflat khagua bawan".
+A people: "Iblu ezoqám" (a Hebrew, JON 1:9).
+
+Names of Ruth and Jonah: Elimelek, Naomi, Malon, Kilion, Opa, Lut, Boaz, Mala, Eflat, Moab,
+Betliem, Zuda, Izlael, Laisol, Lia, Pelez, Tama, Ezlon, Lam, Aminadab, Nason, Salmon, Obed,
+Zesi, Deivid, Mozes (added in RUT 2:20); Ziona, Amitai, Niniva, Tasis, Ziopa, Iblu.
+
+## Divine names
+
+- **God** (אֱלֹהִים) = Mbumbukiam, in both books (RUT 1:16, JON 1:6); "the LORD God" =
+  "Evezøza, ndego Mbumbukiam" (JON 1:1, 4:6); "the LORD his God" = "Evezøza ..., tege
+  Mbumbukiam" (JON 2:2); "the God of the heavens" = "Mbumbukiam, yan-te ngo꞉yage" (JON 1:9).
+- **Shaddai** = "Mbumbukiam Bazaføgakh-Qape" (RUT 1:20), as our decision; in 1:21 the human
+  leaves the second Shaddai out.
+- **gods** = mbumbuk ("ekeza mbumbuk-te", JON 1:5; "mbumbuk-té", RUT 1:15); idols = "khokho
+  mbumbuk" (false gods, JON 2:9).
+  The team chose **khape mbumbuk** for idols (T6, term:H6456.team); khokho mbumbuk stays for Jonah's "worthless
+  idols".
+- **YHWH**: the 2015 edition has two forms. Ruth writes **Yawe** (18×; the first, RUT 1:6,
+  with the glossary star *Yawe, though the NT glossary has no Yawe entry); Jonah writes
+  **Evezøza** (26×), the NT's word for the Lord, which the NT also uses in OT quotations
+  (Act 7:49). Vocative: "Evézøza." (JON 1:14, 4:2). Blessings and oaths with the name: "Yawe
+  zenda ndò꞉vé qo-te" (RUT 2:4), "No Yawe-qá bugug-té qataqambø-manqaté" (RUT 3:13).
+  Until the team decides, drafts use **Evezøza** (term:H3068.h, open) and the chapter notes
+  say so. *Since 15.10.2026: Genesis has Evezøza only (see Genesis 1–30 below, term:H3068.g).*
+
+> **Question for the Kuni team:** For the other OT books, should YHWH be *Yawe* (as in Ruth) or
+> *Evezøza* (as in Jonah and the NT)? If Yawe, should it be written with the glossary star and
+> get a glossary entry, and should "the LORD God" become "Yawe, ndego Mbumbukiam"?
+
+**The team decided (T5, 26.10.2026): Evezøza everywhere.** They first used Yawe, but the church leaders chose
+Evezøza (a term like "Lord"); Yawe is not used in any book (term:H3068.team, name:yahweh.team).
+
+> **Question for the Kuni team:** Is "Mbumbukiam Bazaføgakh-Qape" (Almighty God, RUT 1:20) the
+> form you want for every Shaddai (Genesis 17:1, Job), and "Evezøza Bazaføgakh-qape" (Jas 5:4)
+> for "the LORD of Hosts"?
+
+## Book titles
+
+The NT titles books by a name (Metiu, Lom) or a description (Acts = Keliso-gi u-anim). For
+Genesis the agent draft gen001 proposes **Ibugukhokhof** (In the beginning, the book's first
+word, as Jhn 1:1 opens), store entry `name:genesis_title` [open].
+
+> **Question for the Kuni team:** What should Genesis be called?
+
+## NT forms of OT names (From the study runs on the NT (2026-10-15, checked by agent:curation-study))
+
+About 50 OT names the NT already has are now `name:` entries with their NT form (Eibleem,
+Aezek, Zekop, Zosef, Mozes's brother Elon, Felo, Izip, Zelusalem, Bebilon, Keinan …): use them
+as they stand. Four letter rules were added for such names: long a → ei (letter:long_a), long i
+→ ai/ae (letter:long_i), s sounded z → z (letter:s_z), soft c → s (letter:c_soft), and final -er
+→ -a (letter:final_er). They describe the NT's English-based forms; a name new in the OT still
+follows letter:vowels.2 (close to the spelling), see question 3 on the [questions page](questions.md).
+
+## Genesis 1–30 (the team, 15.10.2026)
+
+**Genesis settles the divine name and the book title.** YHWH is **Evezøza** in 153 verses and
+Yawe in none, so the question above is answered for Genesis: drafts use Evezøza
+(term:H3068.g), "the LORD God" = "Evezøza Mbumbukiam" (GEN 2:7, 17 verses) or "Evezøza, ndego
+Mbumbukiam" (2:4); "Lord GOD" (vocative) = "Evézøza, Mbumbukiam!" (15:2). God Almighty =
+"Mbumbukiam, ndego Bazaføgakh-Qape" (28:3; "No Mbumbukiam ndégo, Bazaføgakh-Qape" 17:1);
+God Most High = "Mbumbukiam Eqeiwat-Qape" (14:19). The book is **Iqandengaz** (the heading of
+the team's Genesis); Ibugukhokhof is the first word of 1:1 ("in the beginning").
+
+**Names.** Every name of Gen 1–30 that comes back in Gen 31–50 has a `name:<x>.g` entry with
+its Hebrew lexeme and Genesis count. Where the NT has the name, Genesis has the same form
+(Zekop, Isao, Aezek, Eibleem, Sæla, Laisol, Luben, Simeon, Livai, Zuda, Naftali, Gad, Asa,
+Isaka, Zebulon, Zosef, Keinan, Izip, Felo, Elan, Nao, Lot) with one exception: **Hagar is Hæga
+in Genesis** (13 verses), Hega in Galatians; Genesis wins for the OT. New in Genesis: Eiblam
+(Abram), Salai (Sarai), Leiben (Laban), Lebeka (Rebekah), Bila, Zilpa, Den (Dan), Daina
+(Dinah), Edom, Sia (Seir), Betel and Luz, Padan-Alam and Alam (Aram), Besiba (Beersheba),
+Ismael, Abimelek, Gela (Gerar), Hiblon, Mamle, Makpela, Eflon, Betuel, Milka, Tela, Sekem.
+
+Peoples: "Keinan-ak" (Canaanites), "Hit-ak" (Hittites; Heth the man is Hit), "Izip manqei-ak"
+(an Egyptian), "Alam manqei-ák" (the Aramean), "Filistai ezoqam" (the Philistines). The land of
+X: "X manqei" ("Keinan manqei-té", 23:2).
+
+**Meanings in brackets.** At every naming whose meaning the Hebrew explains, the team adds it in
+brackets: "Yaq ndugu iz Livai mbo-akhá. (Taqa manqa mokho: Tøkuát.)" (29:34). For Gen 31–50:
+Mahanaim, Peniel, Israel, Ben-oni/Benjamin, Manasseh, Ephraim, Abel-mizraim.
+Done in our drafts: Maanaim "(Bawan menás)" and Peniel (gen032), Sukot "(Khoev-qasis)" and
+El-Eloe-Izlael "(Mbumbukiam, ndego Izlael-ge Mbumbukiam)" (gen033: inner h of Elohe dropped as in
+Bila, Zilpa). Hamor is the NT's Hamo (ACT 7:16), "Shechem's father" "Sekem-gé evé" (as 11:27).
+
+**Letters, corrected.** Initial h is kept in most Genesis names (Hæga, Hæm, Hiblon, Hit), so
+the rule "h drops at the start" (from Ruth's Ezlon) is superseded by letter:h.g; Haran = Elan
+is the exception. Short a varies (Hæga, Den, Gad: letter:short_a.g, low). r → l holds in ten
+more names (letter:r_l.g).
+
+**The team on new names (T8, 26.10.2026).** New names **follow the sound**, not the spelling (letter:vowels.team,
+superseding letter:vowels.2 and the "close to the spelling" rule above). Kuni writes no c, no h (except in kh), no j
+and no r (letter:alphabet.team); the team does not like the H in some names, so a new name gets **no h**
+(letter:h.team, superseding letter:h.g). Names Genesis already writes with H (Hæga, Hiblon, Hit) stay until the team
+answers our question back.
+
+**Genesis 38 (agent:gen038).** Er is Luke's **E** (LUK 3:28, final r drops); Perez and Zerah are
+Matthew's **Pelez** and **Zela** (MAT 1:3), Tamar **Tama**, Shelah **Sela** (the form of Shelah son
+of Arpachshad, 10:24). By the letter rules: Onan, Sua (Shua), Hila (Hirah, initial h kept),
+Adulam-ak (Adullamite), Kezib vemiav (Chezib), Timna taon (Timnah), Enaim vemiav.
+
+## Store entries
+
+<!-- store:begin (generated by scripts/wiki.py sync from profile/; change the store, not this block) -->
+- **`term:H7706.g`** H7706 שַׁדַּי (El Shaddai, God Almighty) → **Bazaføgakh-Qape** [high, decided, attested]
+  - gloss: שַׁדַּי: שַׁדַּ֔י (GEN 17:1) — English (generated): Almighty
+  - NT: GEN 17:1 *Bazaføgakh-Qape*; GEN 28:3 *ndego Bazaføgakh-Qape*; RUT 1:20 *Bazaføgakh-Qape*
+  - answers: god almighty, almighty, the almighty
+  - "I am God Almighty" = "No Mbumbukiam ndégo, Bazaføgakh-Qape" (17:1); "God Almighty" in a wish = "Mbumbukiam, ndego Bazaføgakh-Qape" (28:3). Gen 35:11, 43:14, 48:3, 49:25 need it.
+  - agent:memory-setup, 2026-10-15, supersedes `term:H7706`
+- **`term:H3068.team`** H3068 → **Evezøza** [high, decided, attested]
+  - gloss: יהוה: יְהוָ֥ה (GEN 2:4) — English (generated): that the LORD
+  - NT: GEN 2:4 *Evezøza*; JON 1:3 *Evezøza*
+  - answers: lord, the lord, the lord god, o lord
+  - The team: Evezøza everywhere for the LORD's name. They had first used Yawe (Ruth 2015), but the church leaders decided on Evezøza (a term similar to 'Lord'). Yawe is not used in any draft. The corpus's usual form: Evezøza and its suffixed forms about 800 tokens, Yawe 16 (Ruth only). Answers questions.md 10.
+  - team:kuni-team, 2026-10-26, supersedes `term:H3068.g.gloss`
+- **`letter:th`** **th → t** [high, observed]
+  - NT: LUK 2:4 *Betliem*; LUK 1:5 *Elizabet*
+  - agent:rut001, 2026-10-14
+- **`letter:r.2`** **r → l (Lut, Lam, Pelez, Ezlon, Izlael, Mala, Laisol); r before a consonant drops (Opa, Tasis) and so does a final r (Tama)** [high, observed]
+  - NT: RUT 4:19 *Lam*; RUT 4:18 *Pelez*; RUT 1:4 *Opa*; JON 1:3 *Tasis*
+  - Confirmed by every r in Ruth/Jonah.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `letter:r`
+- **`letter:j.2`** **j (Hebrew y) → z; Jo- → Zio- (Ziona Jonah, Ziopa Joppa, as NT Zion John)** [high, observed]
+  - NT: JON 1:3 *Ziona*; JON 1:3 *Ziopa*; RUT 4:22 *Zesi*; RUT 1:1 *Zuda*
+  - agent:curate-rut-jon, 2026-10-14, supersedes `letter:j`
+- **`letter:ch.2`** **ch, k → k (Elimelek, Kilion)** [high, observed]
+  - NT: RUT 1:2 *Elimelék*; RUT 1:2 *Kilion*
+  - Confirmed.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `letter:ch`
+- **`letter:sh`** **sh → s (Tasis Tarshish, Nason Nahshon)** [high, observed]
+  - NT: JON 1:3 *Tasis*; RUT 4:20 *Nason*
+  - agent:curate-rut-jon, 2026-10-14
+- **`letter:ph`** **ph → f (Eflat Ephrath)** [high, observed]
+  - NT: RUT 1:2 *Eflat*
+  - agent:curate-rut-jon, 2026-10-14
+- **`letter:double`** **double consonants are written single (Amitai Amittai, Ziopa Joppa, Aminadab Amminadab)** [high, observed]
+  - NT: JON 1:1 *Amitai*; JON 1:3 *Ziopa*; RUT 4:19 *Aminadab*
+  - agent:curate-rut-jon, 2026-10-14
+- **`letter:long_a`** **English long a /ei/ → ei (Eibleem Abraham, Deivid David, Keinan Canaan, Kein Cain, Leiab Rahab, Eibol Abel)** [high, observed]
+  - NT: 1PE 3:6 *Eibleem*; ACT 7:11 *Keinan*; 1JN 3:12 *Kein*
+  - For names the NT has; a name new in the OT follows letter:vowels.2 (close to the spelling). From study-v2b.
+  - agent:curation-study, 2026-10-15
+- **`letter:long_i`** **English long i /ai/ → ai or ae (Sainai, Saitan, Aezaya Isaiah, Livai Levi, Ilaiza Elijah, Saemon Simon, Saedon Sidon, Aezek Isaac)** [medium, observed]
+  - NT: ACT 7:30 *Sainai*; 1CO 5:5 *Saitan*; ACT 8:28 *Aezaya*
+  - For names the NT has; new OT names follow letter:vowels.2. From study-v2b.
+  - agent:curation-study, 2026-10-15
+- **`letter:s_z`** **s sounded /z/ in English → z (Mozes Moses, Izlael Israel, Izip Egypt, Aezek Isaac)** [high, observed]
+  - NT: MRK 1:44 *Mozes*; MAT 2:6 *Izlael*; ACT 7:11 *Izip*
+  - From study-v2.
+  - agent:curation-study, 2026-10-15
+- **`letter:c_soft`** **soft c → s (Siza Caesar)** [medium, observed]
+  - NT: LUK 2:1 *Siza*
+  - Siza in 24 verses. From study-v2.
+  - agent:curation-study, 2026-10-15
+- **`letter:final_er`** **a final -er / -ar / -ah sounds as -a (Pita Peter, Hega Hagar, Asa Asher, Zelemaya, Aezaya)** [medium, observed]
+  - NT: ACT 1:13 *Pita*; GAL 4:24 *Hega*; LUK 2:36 *Asa*
+  - From study-v2b (letter:final); with letter:h.2 (final -h drops) and letter:r.2 (final r drops: Tama). Initial h may drop (Elon Aaron, Isao Esau) or stay (Hega).
+  - agent:curation-study, 2026-10-15
+- **`letter:short_a.g`** **English short a varies: æ in Hæga (Hagar), Hæm (Ham), Sæla (Sarah); e in Den (Dan); a kept in Gad, Asa (Asher), Alam (Aram), Padan, Naftali** [low, observed]
+  - NT: GEN 16:1 *Hæga*; GEN 5:32 *Hæm*; GEN 23:1 *Sæla*; GEN 30:6 *Den*
+  - No rule settles it; build a new name with a, and list it in the chapter notes for the team.
+  - agent:memory-setup, 2026-10-15
+- **`letter:r_l.g`** **r → l holds through Genesis: Lebeka (Rebekah), Laisol (Rachel), Luben (Reuben), Alam (Aram), Gela (Gerar: final r drops), Mamle (Mamre), Hiblon (Hebron), Eflon (Ephron), Tela (Terah), Besiba (Beersheba: r before a consonant drops)** [high, observed]
+  - NT: GEN 25:20 *Lebeka*; GEN 29:32 *Luben*; GEN 26:1 *Gela*; GEN 25:9 *Mamle*
+  - Confirms letter:r.2 with 10 Genesis names; no counter-case in Gen 1-30.
+  - agent:memory-setup, 2026-10-15
+- **`letter:vowels.team`** **new names follow the sound (the pronunciation), not the spelling; the spelling is based somewhat on the English pronunciation, not very consistently** [high, decided]
+  - The team chose 'follow the sound' (T8). Supersedes letter:vowels.2 (new OT names close to the spelling, after Ruth's Naomi). Names the NT or Genesis has keep their form. Answers questions.md 3.
+  - team:kuni-team, 2026-10-26, supersedes `letter:vowels.2`
+- **`letter:alphabet.team`** **Kuni orthography has no c, no h (except in kh), no j and no r** [high, decided]
+  - The team (T8). The corpus agrees for c and j (none) and r (only the loans tri and kilogrém); h outside kh only in names (Hæga, Hæm, Hiblon, Hit, Havila, Hosána).
+  - team:kuni-team, 2026-10-26
+- **`letter:h.team`** **no h in new names (h is written only in kh)** [high, decided]
+  - The team: H is used in some names now, but people don't like it, so it probably needs to change. Supersedes letter:h.g (keep initial h in new names). Project decision 2026-10-26: the rule holds for every name we write from now on, including names Genesis or the NT already write with H (Hæga -> Æga, Hiblon -> Iblon, Hit-ak -> It-ak, Hæm -> Æm); the name entries are rewritten without H; drafts made before stay as they are; no question back to the team. Answers questions.md 8.
+  - team:kuni-team, 2026-10-26, supersedes `letter:h.g`
+- **`name:boaz`** בֹּעַז → **Boaz** [high, decided, attested]
+  - gloss: בֹּעַז: בֹּֽעַז (RUT 2:1) — English (generated): Boaz
+  - NT: MAT 1:5; LUK 3:32
+  - agent:rut001, 2026-10-14
+- **`name:chilion`** כִּלְיוֹן → **Kilion** [medium, decided, by-rule]
+  - gloss: כִּלְיוֹן: כִלְיוֹן֙ (RUT 1:2) — English (generated): and Chilion
+  - NT: LUK 1:5
+  - agent:rut001, 2026-10-14
+- **`name:orpah`** עָרְפָּה → **Opa** [medium, decided, by-rule]
+  - gloss: עׇרְפָּה: עָרְפָּ֔ה (RUT 1:4) — English (generated): Orpah
+  - NT: ACT 19:24
+  - r before a consonant drops (Atemis, Mak)
+  - agent:rut001, 2026-10-14
+- **`name:tamar`** תָּמָר → **Tama** [high, decided, attested]
+  - gloss: תָּמָר: תָמָ֖ר (RUT 4:12) — English (generated): Tamar
+  - NT: MAT 1:3 *Tigu evo, Tamá.*
+  - Mat 1:3
+  - agent:rut004, 2026-10-14
+- **`name:salmon`** שַׂלְמָה / שַׂלְמוֹן → **Salmon** [high, decided, attested]
+  - gloss: שַׂלְמָה: שַׂלְמָֽה (RUT 4:20) — English (generated): Salmon
+  - NT: MAT 1:5 *Salmon*
+  - Mat 1 genealogy ; Heb. v20 Salmah given as Salmon with the BSB
+  - agent:rut004, 2026-10-14
+- **`name:ephrathah.h`** אֶפְרָתִי / אֶפְרָתָה → **Eflat** [high, decided, attested]
+  - gloss: אֶפְרָתִי: אֶפְרָתִ֔ים (RUT 1:2) — English (generated): They were Ephrathites
+  - NT: RUT 1:2 *Eflat khagua bawan-ák*; RUT 4:11 *Eflat khagua bawan mokho-te*
+  - answers: ephrathites, ephrathah
+  - Ours was Eflata. 'Ephrathites' = 'Eflat khagua bawan-ák' (of the Ephrath clan; khagua bawan = clan, as NT 'Asa khagua bawan-ák', Luk 2:36); 'in Ephrathah' = 'Eflat khagua bawan mokho-te' (among the Ephrath clan). ph → f, r → l, th → t, final -ah drops.
+  - agent:curate-rut-jon, 2026-10-14, supersedes `name:ephrathah`
+- **`name:amittai`** אֲמִתַּי → **Amitai** [high, decided, attested]
+  - gloss: אֲמִתַּי: אֲמִתַּ֖י (JON 1:1) — English (generated): of Amittai
+  - NT: JON 1:1 *Amitai-ge yo*
+  - answers: amittai
+  - Double t simplified.
+  - agent:curate-rut-jon, 2026-10-14
+- **`name:tarshish`** תַּרְשִׁישׁ → **Tasis** [high, decided, attested]
+  - gloss: תַּרְשִׁישׁ: תַּרְשִׁ֔ישָׁ (JON 1:3) — English (generated): to Tarshish
+  - NT: JON 1:3 *Tasis taon-te*; JON 4:2 *Tasis manqei-te*
+  - answers: tarshish
+  - r before a consonant drops, sh → s. Class noun taon (1:3) or manqei (4:2).
+  - agent:curate-rut-jon, 2026-10-14
+- **`name:moses`** מֹשֶׁה → **Mozes** [high, decided, attested]
+  - gloss: מֹשֶׁה: מֹשֶׁ֔ה (EXO 2:10) — English (generated): Moses
+  - NT: RUT 2:20 *Mozes-qa guguna manqat*
+  - answers: moses, law of moses
+  - Added by the human in 2:20 to explain the redeemer's duty (not in the Hebrew).
+  - agent:curate-rut-jon, 2026-10-14
+- **`name:eve`** חַוָּה → **Iv** [high, observed, attested]
+  - gloss: חַוָּה: חַוָּ֑ה (GEN 3:20) — English (generated): Eve
+  - NT: 1TI 2:13 *Iv*; 2CO 11:3 *Iv*
+  - answers: eve
+  - NT form: in 2 of 2 verses whose BSB names Eve. From study run v2b.
+  - agent:curation-study, 2026-10-15
+- **`name:joshua`** יְהוֹשֻׁעַ → **Zosua** [high, observed, attested]
+  - gloss: יְהֹושֻׁעַ: יְהוֹשֻׁ֨עַ֙ (EXO 17:9) — English (generated): Joshua
+  - NT: ACT 7:45 *Zosua*; HEB 4:8 *Zosua*
+  - answers: joshua
+  - NT form: in 3 of 3 verses whose BSB names Joshua. From study run v2b.
+  - agent:curation-study, 2026-10-15
+- **`name:genesis_title.g`** בְּרֵאשִׁית (book title, Genesis) → **Iqandengaz** [high, decided, by-rule]
+  - gloss: רֵאשִׁית: רֵאשִׁ֖ית (GEN 1:1) — English (generated): In the beginning
+  - NT: GEN 1:1 *Ibugukhokhof*
+  - answers: genesis
+  - The team's book heading is "Iqandengaz (Genesis)" (the heading line of gen001.txt, not a verse, so cited by rule); Ibugukhokhof is "In the beginning" (1:1), not the title.
+  - agent:memory-setup, 2026-10-15, supersedes `name:genesis_title`
+- **`name:dan.g`** דָּן hbo:1835 (H1835) → **Den** [high, decided, attested]
+  - gloss: דָּן: דָּֽן (GEN 30:6) — English (generated): Dan
+  - NT: GEN 30:6 *Den*; GEN 14:14 *Den*
+  - answers: dan
+  - Genesis 1-30: 2 verses. Son and town alike (14:14). Short a varies: Den, Gad, Hæga (letter:short_a.g).
+  - agent:memory-setup, 2026-10-15
+- **`name:gad.g`** גָּד hbo:1410 (H1410) → **Gad** [high, decided, attested]
+  - gloss: גָּד: גָּֽד (GEN 30:11) — English (generated): So she named
+  - NT: GEN 30:11 *Gad*; REV 7:5 *Gad*
+  - answers: gad
+  - Genesis 1-30: 1 verses. NT the same.
+  - agent:memory-setup, 2026-10-15
+- **`name:seir.g`** שֵׂעִיר H8165 → **Sia** [medium, decided, attested]
+  - gloss: שֵׂעִיר: שֵׂעִ֑יר (GEN 14:6) — English (generated): Seir
+  - NT: GEN 14:6 *Sia manqei popotap-te*
+  - answers: seir, mount seir, hill country of seir
+  - Genesis 1-30: 1 verses. "the hill country of Seir" = "Sia manqei popotap" (14:6). Medium: one verse.
+  - agent:memory-setup, 2026-10-15
+- **`name:bethel.g`** בֵּית־אֵל hbo:1008 (H1008) → **Betel** [high, decided, attested]
+  - gloss: בֵּית אֵל: בֵּֽית (GEN 28:19) — English (generated): Bethel
+  - NT: GEN 28:19 *Betel*; GEN 12:8 *Betel*
+  - answers: bethel
+  - Genesis 1-30: 3 verses. Meaning in brackets at 28:19 "(Taqa manqa mokho: Mbumbukiam-qá khoév.)"; older name Luz (28:19).
+  - agent:memory-setup, 2026-10-15
+- **`name:paddan_aram.g`** פַּדַּן אֲרָם hbo:6307 (H6307) → **Padan-Alam** [high, decided, attested]
+  - gloss: פַּדָּן: פַּדֶּ֣נָֽ (GEN 28:2) — English (generated): to Paddan aram
+  - NT: GEN 28:2 *Padan-Alam manqei-té*; GEN 25:20 *Padan-Alam*
+  - answers: paddan-aram, paddan aram
+  - Genesis 1-30: 5 verses. With the place class noun manqei (28:2).
+  - agent:memory-setup, 2026-10-15
+- **`name:aram.g`** אֲרָם hbo:0758 (H758) → **Alam** [high, decided, attested]
+  - gloss: אֲרָם: אֲרָֽם (GEN 22:21) — English (generated): of Aram
+  - NT: GEN 22:21 *Alam-gé*; GEN 25:20 *Alam manqei-ák*
+  - answers: aram, aramean, the aramean
+  - Genesis 1-30: 3 verses. The Aramean = "Alam manqei-ák" (25:20 of Bethuel and Laban).
+  - agent:memory-setup, 2026-10-15
+- **`name:beersheba.g`** בְּאֵר שֶׁבַע hbo:0884 (H884) → **Besiba** [high, decided, attested]
+  - gloss: בְּאֵר: בְּאֵ֣ר (GEN 21:31) — English (generated): Beersheba
+  - NT: GEN 21:31 *Besiba*; GEN 21:14 *Besiba taon*
+  - answers: beersheba
+  - Genesis 1-30: 8 verses. Meaning in brackets at 21:31 "(Taqa manqa mokho: Manqa mbusa ibøkha ozú.)". The wilderness of Beersheba = "leg-av manqei ... Besiba taon ... avønin-te" (21:14).
+  - agent:memory-setup, 2026-10-15
+- **`name:gerar.g`** גְּרָר hbo:1642 (H1642) → **Gela** [high, decided, attested]
+  - gloss: גְּרָר: גְּרָֽרָ (GEN 26:1) — English (generated): at Gerar
+  - NT: GEN 26:1 *Gela manqei-te*; GEN 20:2 *Gela*
+  - answers: gerar
+  - Genesis 1-30: 8 verses. Final r drops, inner r → l.
+  - agent:memory-setup, 2026-10-15
+- **`name:philistines.g`** פְּלִשְׁתִּים hbo:6430 (H6430) → **Filistai ezoqam** [high, decided, attested]
+  - gloss: פְּלִשְׁתִּי: פְּלִשְׁתִּ֖ים (GEN 26:1) — English (generated): of the Philistines
+  - NT: GEN 26:1 *Filistai ezoqam-ge kawa*; GEN 26:8 *Filistai ezoqam-gi*
+  - answers: philistines, philistine
+  - Genesis 1-30: 7 verses. With ezoqam (people), not -ak.
+  - agent:memory-setup, 2026-10-15
+- **`name:hittites.g`** חֵת / חִתִּי hbo:2845 (H2845) → **It-ak** [high, decided, attested]
+  - gloss: חֵת: חֵ֑ת (GEN 23:16)
+  - NT: GEN 23:16 *Hit-ak*; GEN 26:34 *Hit-ak*; GEN 10:15 *Hit*
+  - answers: hittites, hittite, heth, sons of heth
+  - Genesis 1-30: 14 verses. Heth the man = Hit (10:15); the Hittites = Hit-ak (23:3-20, 26:34); "Ephron the Hittite" = "Hit-ak ezoqam" (25:9). Initial h kept (letter:h.g). Closes gap:peoples for the Hittites. Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hit-ak').
+  - agent:memory-setup, 2026-10-15
+- **`name:shechem.g`** שְׁכֶם H7927 → **Sekem** [high, decided, attested]
+  - gloss: שְׁכֶם: שְׁכֶ֔ם (GEN 12:6) — English (generated): at Shechem
+  - NT: GEN 12:6 *Sekem*; ACT 7:16 *Sekem*
+  - answers: shechem
+  - Genesis 1-30: 1 verses. Place (12:6, ACT 7:16 "Sekem manqei"); the man Shechem of Gen 34 by the same form. Hamor = Hamo (ACT 7:16).
+  - agent:memory-setup, 2026-10-15
+- **`name:galeed.g`** גַּלְעֵד (Galeed) → **Galed** [low, decided, by-rule]
+  - gloss: גַּלְעֵד: גַּלְעֵֽד (GEN 31:47) — English (generated): Galeed
+  - NT: GEN 21:31 *iz Besiba mbo-akhayám*
+  - answers: galeed
+  - Built: the double vowel written single like double consonants. Meaning in brackets (Khakhatap nandí, 'sign stones').
+  - agent:gen031, 2026-10-15
+- **`name:jegar_sahadutha.g`** יְגַר שָׂהֲדוּתָא (Jegar-sahadutha, Aramaic) → **Zega-Saaduta** [low, decided, by-rule]
+  - gloss: יְגַר: יְגַ֖ר (GEN 31:47) — English (generated): Jegar sahadutha
+  - NT: GEN 21:31 *iz Besiba mbo-akhayám*
+  - answers: jegar, sahadutha, jegar-sahadutha
+  - Built by the letter rules: j → z, final r drops, inner h drops, th → t. Marked '(Alam manqat-te.)' (in Aramaic) after Iblu manqat-te (GEN 29:32 note).
+  - agent:gen031, 2026-10-15
+- **`name:mizpah.g`** מִצְפָּה (Mizpah) → **Mizpa** [low, decided, by-rule]
+  - gloss: מִצְפָּה: מִּצְפָּה֙ (GEN 31:49) — English (generated): also Mizpah
+  - NT: GEN 16:14 *mbo-akhayám*
+  - answers: mizpah
+  - Built: final -ah → -a (letter rule). Meaning in brackets: Kewagam manqei (watching place).
+  - agent:gen031, 2026-10-15
+- **`name:mahanaim.g`** מַחֲנַיִם (Mahanaim) → **Maanaim** [low, decided, by-rule]
+  - gloss: מַחֲנַיִם: מַֽחֲנָֽיִם (GEN 32:3) — English (generated): Mahanaim
+  - NT: GEN 26:20 *mbo-akhá*
+  - answers: mahanaim
+  - Not in the corpus; inner h drops (letter rule), the vowels kept. Meaning in brackets: 'Bawan menás' (two groups).
+  - agent:gen032, 2026-10-15
+- **`name:peniel.g`** פְּנִיאֵל / פְּנוּאֵל (Peniel, Penuel) → **Peniel; Penuel** [low, decided, by-rule]
+  - gloss: פְּנִיאֵל: פְּנִיאֵ֑ל (GEN 32:31) — English (generated): Peniel
+  - NT: GEN 26:20 *mbo-akhá*
+  - answers: peniel, penuel
+  - Not in the corpus; kept as spelled (both forms, as the Hebrew). Meaning in brackets: 'Mbumbukiam-qa bugug' (the face of God).
+  - agent:gen032, 2026-10-15
+- **`name:perizzite.g`** פְּרִזִּי (Perizzite) → **Pelez-ak** [high, decided, attested]
+  - gloss: פְּרִזִּי: פְּרִזִּ֔י (GEN 13:7) — English (generated): and the Perizzites
+  - NT: GEN 13:7 *Keinan-ak neka Pelez-ak*
+  - answers: perizzite, perizzites
+  - The team's form in 13:7, beside Keinan-ak. gen034:30.
+  - agent:gen034, 2026-10-15
+- **`name:deborah.g`** דְּבֹרָה (Deborah) → **Debola** [medium, decided, by-rule]
+  - gloss: דְּבוֹרָה: דְּבֹרָה֙ (GEN 35:8) — English (generated): Now Deborah
+  - NT: GEN 23:2 *gunaním*
+  - answers: deborah
+  - r → l (letter rules); not in the corpus. gen035:8.
+  - agent:gen035, 2026-10-15
+- **`name:edomites.g`** אֱדוֹם as a people (the Edomites) → **Edom-ak** [medium, decided, by-rule]
+  - gloss: אֱדוֹם: אֱד֑וֹם (GEN 36:9) — English (generated): of the Edomites
+  - NT: GEN 19:37 *Moab-ak*; GEN 14:7 *Amalek-ak-qa manqei*
+  - answers: edomites, edomite
+  - Origin suffix -ak (suffix_origin), as Moab-ak (19:37); the land is 'Edom manqei'. gen036:9, 43; heading 'Edom manqei-ak-gi kawakawa-za'.
+  - agent:gen036, 2026-10-15
+- **`name:reuel.g`** רְעוּאֵל (Reuel) → **Leuel** [medium, decided, by-rule]
+  - gloss: רְעוּאֵל: רְעוּאֵֽל (GEN 36:4) — English (generated): Reuel
+  - NT: GEN 29:32 *Luben*
+  - answers: reuel
+  - r → l (letter rules; Luben for Reuben). Also Moses' father-in-law Reuel (Exod 2:18). gen036:4-17.
+  - agent:gen036, 2026-10-15
+- **`name:oholibamah.g`** אָהֳלִיבָמָה (Oholibamah, a woman; also a chief, 36:41) → **Olibama** [low, decided, by-rule]
+  - gloss: אׇהֳלִיבָמָה: אָהֳלִֽיבָמָה֙ (GEN 36:2) — English (generated): Oholibamah
+  - NT: GEN 26:34 *Basømát*
+  - answers: oholibamah
+  - Inner h drops (letter rules: Bila, Nao); the strict rule gives 'Oolibama', simplified to Olibama (no Kuni word in the corpus starts with oo). Question for the Kuni team. gen036:2-41.
+  - agent:gen036, 2026-10-15
+- **`name:amalek.g`** עֲמָלֵק (Amalek; the Amalekites) → **Amalek; the people Amalek-ak** [high, decided, attested]
+  - gloss: עֲמָלֵק: עֲמָלֵ֑ק (GEN 36:12) — English (generated): Amalek
+  - NT: GEN 14:7 *Amalek-ak-qa manqei*
+  - answers: amalek, amalekites
+  - 14:7 'Amalek-ak' (the Amalekites' land). gen036:12, 16.
+  - agent:gen036, 2026-10-15
+- **`name:korah.g`** קֹרַח (Korah) → **Kola** [medium, decided, by-rule]
+  - gloss: קֹרַח: קֹ֑רַח (GEN 36:5) — English (generated): and Korah
+  - NT: GEN 11:24 *Tela*
+  - answers: korah
+  - r → l, final h drops (Tela Terah). Also Korah of Num 16. gen036:5-18.
+  - agent:gen036, 2026-10-15
+- **`name:jalam.g`** יַעְלָם (Jalam) → **Zalam** [medium, decided, by-rule]
+  - gloss: יַעְלָם: יַעְלָ֖ם (GEN 36:5) — English (generated): Jalam
+  - NT: GEN 11:24 *Tela*
+  - answers: jalam
+  - j → z. gen036:5, 14, 18.
+  - agent:gen036, 2026-10-15
+- **`name:teman.g`** תֵּימָן (Teman; the Temanites) → **Teman; the Temanites = Teman manqei-ak** [medium, decided, by-rule]
+  - gloss: תֵּימָן: תֵּימָ֣ן (GEN 36:11) — English (generated): Teman
+  - NT: RUT 2:6 *Moab manqei-ak*
+  - answers: teman, temanites
+  - Kept as spelled; 'from the land of the Temanites' = 'Teman manqei-ák' (RUT 2:6 Moab manqei-ak). gen036:11, 15, 34, 42.
+  - agent:gen036, 2026-10-15
+- **`name:hadad.g`** הֲדַד / הֲדַר (Hadad; Hadar) → **Adad** [high, decided, attested]
+  - gloss: הֲדַד: הֲדַ֣ד (GEN 36:35) — English (generated): Hadad
+  - NT: GEN 25:15 *neka Hadad*
+  - answers: hadad
+  - Ishmael's son Hadad (25:15). 36:39 Hebrew Hadar = Hada (final r drops, as in Tama); the BSB's Hadad there follows 1 Chr 1:50, not the Hebrew. gen036:35-39. Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hadad').
+  - agent:gen036, 2026-10-15
+- **`name:bela.g`** בֶּלַע (Bela) → **Bela** [high, decided, attested]
+  - gloss: בֶּלַע: בֶּ֖לַע (GEN 14:2) — English (generated): of Bela
+  - NT: GEN 14:2 *Bela taon-ak-ge kawa*
+  - answers: bela
+  - The town Bela (14:2, 14:8) and its king; here a king of Edom. gen036:32-33.
+  - agent:gen036, 2026-10-15
+- **`name:beor.g`** בְּעוֹר (Beor) → **Beol** [high, decided, attested]
+  - gloss: בְּעוֹר: בְּע֑וֹר (GEN 36:32) — English (generated): of Beor
+  - NT: 2PE 2:15 *Beol-ge yo*
+  - answers: beor
+  - Balaam son of Beor (2PE 2:15). gen036:32.
+  - agent:gen036, 2026-10-15
+- **`name:rehoboth.g`** רְחֹבוֹת (Rehoboth) → **Leobot** [high, decided, attested]
+  - gloss: רְחֹבוֹת: רְחֹב֔וֹת (GEN 26:22) — English (generated): Rehoboth
+  - NT: GEN 26:22 *iz, Leobot mbo-akhá*
+  - answers: rehoboth
+  - Isaac's well (26:22); Rehoboth-Ir = Leobot-I (10:11). 'Rehoboth on the River' = 'Leobot taon-ák, Yuflatis kea avønin-te' (gen036:37).
+  - agent:gen036, 2026-10-15
+- **`name:shaul_edom.g`** שָׁאוּל (Shaul, king of Edom) → **Sol** [medium, decided, attested]
+  - gloss: שָׁאוּל: שָׁא֖וּל (GEN 36:37) — English (generated): Shaul
+  - NT: ACT 13:21 *Sol*
+  - answers: shaul
+  - The same Hebrew name as King Saul (name:saul, Sol); the BSB writes Shaul to tell them apart. Question for the Kuni team whether to distinguish. gen036:37-38.
+  - agent:gen036, 2026-10-15
+- **`name:onan.g`** אוֹנָן (Onan) → **Onan** [medium, decided, by-rule]
+  - gloss: אוֹנָן: אוֹנָֽן (GEN 38:4) — English (generated): Onan
+  - NT: GEN 29:33 *Simeon mbo-akhá*
+  - answers: onan
+  - Not in the corpus; kept as spelt (no letter rule applies). gen038:4, 8-10; 46:12.
+  - agent:gen038, 2026-10-15
+- **`name:hirah.g`** חִירָה (Hirah) → **Ila** [medium, decided, by-rule]
+  - gloss: חִירָה: חִירָֽה (GEN 38:1) — English (generated): Hirah
+  - NT: GEN 23:2 *Hiblón*
+  - answers: hirah
+  - Not in the corpus. Initial h kept as in Genesis names (Hiblon, Hit), r → l, final h drops. gen038:1, 12. Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hila').
+  - agent:gen038, 2026-10-15
+- **`name:zaphenath.g`** צָפְנַת פַּעְנֵחַ (Zaphenath-paneah) → **Zafenat-Panea** [medium, decided, by-rule]
+  - gloss: צָפְנַת פַּעְנֵחַ: צָֽפְנַ֣ת (GEN 41:45) — English (generated): Zaphenath paneah
+  - NT: GEN 30:6 *Den*
+  - answers: zaphenath, paneah, zaphenath-paneah
+  - ph → f, final -ah → -a, th → t (letter rules). gen041:45.
+  - agent:gen041, 2026-10-16
+- **`name:potiphera.g`** פּוֹטִי פֶרַע (Potiphera, priest of On) → **Potifela; priest of On = On taon-ge iziz ezoqam** [medium, decided, by-rule]
+  - gloss: פּוֹטִי פֶרַע: פּ֥וֹטִי (GEN 41:45) — English (generated): of Potiphera
+  - NT: GEN 37:36 *Potifa*
+  - answers: potiphera, priest of on
+  - ph → f, r → l (letter rules); kept apart from Potiphar = Potifa (gen037:36, 39:1), whose final r drops. On = 'On taon' (place_class_noun). gen041:45, 50; 46:20.
+  - agent:gen041, 2026-10-16
+- **`name:on.g`** אֹן (On, Heliopolis) → **On taon** [medium, decided, by-rule]
+  - gloss: אֹן: אֹ֖ן (GEN 41:45) — English (generated): of On
+  - NT: GEN 13:12 *Sodom taon*
+  - answers: on
+  - A town: name + taon (place_class_noun). gen041:45, 50.
+  - agent:gen041, 2026-10-16
+- **`name:shiloh.g49`** שִׁילֹה (Shiloh, 49:10) → **Sailo** [low, decided, by-rule]
+  - gloss: שִׁלֹו: שִׁיל֔וֹ (GEN 49:10) — English (generated): Shiloh
+  - NT: GEN 30:18 *Isaka mbo-akhá*
+  - answers: shiloh
+  - Not in the corpus; letter rules sh -> s, long i -> ai (Saemon, Saedon). Read as a name as the BSB; the other reading (the one to whom tribute belongs) is for the team. gen049:10.
+  - agent:gen049, 2026-10-21
+- **`name:gen46_attested.g46`** names of Gen 46 already in the corpus: Hanoch, Zohar, Elon, Naaman, Hezron, Shaul, Er, Onan, Shelah, Perez, Zerah, Bela → **Anok, Zoal, Elon, Naeman, Ezlon, Sol, E, Onan, Sela, Pelez, Zela, Bela** [high, decided, attested]
+  - NT: GEN 25:4 *Hanok*; GEN 23:8 *Zoal-ge yo*; GEN 26:34 *Elon-gú yú*; LUK 4:27 *Naeman*
+  - answers: hanoch, zohar, elon, naaman, hezron, shaul, er, onan, shelah, perez, zerah, bela
+  - Same Hebrew name, same form: Hanoch son of Reuben = Hanok (Midian's son, the team's 25:4); Zohar son of Simeon = Zoal (Ephron's father, 23:8); Elon son of Zebulun = Elon (26:34); Naaman = the NT's Naeman (LUK 4:27); both Hezrons = Ezlon (MAT 1:3, RUT 4:18). gen046:9-21. Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hanok, Zoal, Elon, Naeman, Ezlon, Sol, E, Onan, Sela, Pelez, Zela, Bela').
+  - agent:gen046, 2026-10-21
+- **`name:jacob_vocative.g46`** יַעֲקֹב יַעֲקֹב (Jacob, Jacob!, God calling) → **Zékop! Zékop!** [high, decided, by-rule]
+  - gloss: יַעֲקֹב: יַעֲקֹ֣ב (GEN 46:2) — English (generated): Jacob
+  - NT: GEN 22:11 *Éibleem! Éibleem!*; ACT 9:10 *Ánanayas*
+  - answers: jacob, jacob
+  - The vocative accent on the first syllable (feature vocative.2), as the team's 'Éibleem! Éibleem!' (22:11); gen031:11 has 'Zékop!'. check_draft lists it as a spelling because the corpus has Zekop only outside the vocative. gen046:2.
+  - agent:gen046, 2026-10-21
+- **`name:rameses.g47`** רַעְמְסֵס (Rameses, the district) → **Lameses manqei** [medium, decided, by-rule]
+  - gloss: רַעַמְסֵס: רַעְמְסֵ֑ס (GEN 47:11) — English (generated): of Rameses
+  - NT: GEN 25:18 *Sul manqei*
+  - answers: rameses, district of rameses
+  - No corpus form (searched BSB Rameses|Raamses: none). r → l, a district takes manqei (place_class_noun). gen047:11; Exod 1:11, 12:37 and Num 33 need it.
+  - agent:gen047, 2026-10-21
+- **`name:ruth.gloss`** רוּת → **Lut** [high, decided, attested]
+  - gloss: רוּת: ר֑וּת (RUT 1:4) — English (generated): Ruth
+  - NT: MAT 1:5
+  - the book title is Rut (project.yaml); see gap:ruth_name
+  - script:gloss.py, 2026-10-14, supersedes `name:ruth`
+- **`name:bethlehem.gloss`** בֵּית לֶחֶם → **Betliem** [high, decided, attested]
+  - gloss: Βηθλέεμ: Βηθλεέμ (LUK 2:4) — English (generated): Bethlehem
+  - NT: LUK 2:4; MAT 2:1
+  - Betliem vemiav
+  - script:gloss.py, 2026-10-14, supersedes `name:bethlehem`
+- **`name:judah.gloss`** יְהוּדָה → **Zuda** [high, decided, attested]
+  - gloss: יְהוּדָה: יְהוּדָ֑ה (GEN 29:35) — English (generated): Judah
+  - gloss: Ἰούδας: Ἰούδα (MAT 2:6) — English (generated): of Judah
+  - NT: MAT 2:6
+  - Zuda manqei (land of Judah)
+  - script:gloss.py, 2026-10-14, supersedes `name:judah`
+- **`name:israel.gloss`** יִשְׂרָאֵל → **Izlael** [high, decided, attested]
+  - gloss: Ἰσραήλ: Ἰσραήλ (LUK 1:68) — English (generated): of Israel
+  - NT: LUK 1:68; 1CO 10:18
+  - script:gloss.py, 2026-10-14, supersedes `name:israel`
+- **`name:moab.gloss`** מוֹאָב → **Moab** [high, decided, by-rule]
+  - gloss: מוֹאָב: מוֹאָ֑ב (GEN 19:37) — English (generated): Moab
+  - NT: MAT 2:6
+  - From the glossary (Balam entry: 'Moab manqei'); not in the NT text itself. Moab manqei = land of Moab.
+  - script:gloss.py, 2026-10-14, supersedes `name:moab`
+- **`name:elimelech.gloss`** אֱלִימֶלֶךְ → **Elimelek** [medium, decided, by-rule]
+  - gloss: אֱלִימֶלֶךְ: אֱֽלִימֶ֡לֶךְ (RUT 1:2) — English (generated): was Elimelech
+  - NT: LUK 1:5
+  - ch → k (Zekalaya)
+  - script:gloss.py, 2026-10-14, supersedes `name:elimelech`
+- **`name:mahlon.gloss`** מַחְלוֹן → **Malon** [medium, decided, by-rule]
+  - gloss: מַחְלוֹן: מַחְל֤וֹן (RUT 1:2) — English (generated): were Mahlon
+  - NT: LUK 1:5
+  - h dropped
+  - script:gloss.py, 2026-10-14, supersedes `name:mahlon`
+- **`name:mara.gloss`** מָרָא → **Mala** [medium, decided, by-rule]
+  - gloss: מַר: מָרָ֔א (RUT 1:20) — English (generated): Mara
+  - NT: LUK 1:27
+  - r → l; the pun (bitter) is lost
+  - script:gloss.py, 2026-10-14, supersedes `name:mara`
+- **`name:ephrathah.gloss`** אֶפְרָת → **Eflata** [low, decided, by-rule]
+  - gloss: אֶפְרָת: אֶפְרָ֑תָה (GEN 35:16) — English (generated): from Ephrath
+  - NT: LUK 2:36
+  - Ephrathites = Eflata bawan-ák (after 'Asa khagua bawan-ák')
+  - script:gloss.py, 2026-10-14, supersedes `name:ephrathah`
+- **`name:rachel.gloss`** רָחֵל → **Laisol** [high, decided, attested]
+  - gloss: רָחֵל: רָחֵ֣ל (GEN 29:6) — English (generated): Rachel
+  - NT: MAT 2:18 *Laisol-gi zi*
+  - also the glossary (Benzamin)
+  - script:gloss.py, 2026-10-14, supersedes `name:rachel`
+- **`name:leah.gloss`** לֵאָה → **Lia** [low, decided, by-rule]
+  - gloss: לֵאָה: לֵאָ֔ה (GEN 29:16) — English (generated): Leah
+  - NT: LUK 3:32 *Zesi*; LUK 2:36 *Ená*
+  - not in the NT; English 'Lee-uh' with i as in Zesi and final -a as in Ena; the learning notes' 'Leia' is not attested (Leiab = Rahab)
+  - script:gloss.py, 2026-10-14, supersedes `name:leah`
+- **`name:perez.gloss`** פֶּרֶץ → **Pelez** [high, decided, attested]
+  - gloss: Φάρες: Φαρὲς (MAT 1:3) — English (generated): Perez
+  - NT: MAT 1:3 *Pelez*; LUK 3:33 *Pelez*
+  - Mat 1:3, Luk 3:33
+  - script:gloss.py, 2026-10-14, supersedes `name:perez`
+- **`name:hezron.gloss`** חֶצְרוֹן → **Ezlon** [high, decided, attested]
+  - gloss: חֶצְרוֹן: חֶצְר֥וֹן (GEN 46:9) — English (generated): Hezron
+  - gloss: Ἑσρώμ: Ἑσρώμ (MAT 1:3) — English (generated): Hezron
+  - NT: MAT 1:3 *Ezlon*
+  - Mat 1 genealogy
+  - script:gloss.py, 2026-10-14, supersedes `name:hezron`
+- **`name:ram.gloss`** רָם → **Lam** [high, decided, attested]
+  - gloss: רָם: רָ֔ם (RUT 4:19) — English (generated): Ram
+  - gloss: Ἀράμ: Ἀράμ (MAT 1:3) — English (generated): Ram
+  - NT: MAT 1:3 *Lam*
+  - Mat 1 genealogy
+  - script:gloss.py, 2026-10-14, supersedes `name:ram`
+- **`name:amminadab.gloss`** עַמִּינָדָב → **Aminadab** [high, decided, attested]
+  - gloss: Ἀμιναδάβ: Ἀμιναδάβ (MAT 1:4) — English (generated): Amminadab
+  - NT: MAT 1:4 *Aminadab*
+  - Mat 1 genealogy
+  - script:gloss.py, 2026-10-14, supersedes `name:amminadab`
+- **`name:nahshon.gloss`** נַחְשׁוֹן → **Nason** [high, decided, attested]
+  - gloss: נַחְשׁוֹן: נַחְשׁ֖וֹן (EXO 6:23) — English (generated): of Nahshon
+  - gloss: Ναασσών: Ναασσών (MAT 1:4) — English (generated): Nahshon
+  - NT: MAT 1:4 *Nason*
+  - Mat 1 genealogy
+  - script:gloss.py, 2026-10-14, supersedes `name:nahshon`
+- **`name:obed.gloss`** עוֹבֵד → **Obed** [high, decided, attested]
+  - gloss: עוֹבֵד: עוֹבֵ֔ד (RUT 4:17) — English (generated): Obed
+  - gloss: Ἰωβήδ: Ἰωβὴδ (MAT 1:5) — English (generated): Obed
+  - NT: MAT 1:5 *Obed*
+  - Mat 1 genealogy
+  - script:gloss.py, 2026-10-14, supersedes `name:obed`
+- **`name:jesse.gloss`** יִשַׁי → **Zesi** [high, decided, attested]
+  - gloss: Ἰεσσαί: Ἰεσσαὶ (MAT 1:6) — English (generated): Jesse
+  - NT: MAT 1:6 *Zesi*
+  - Mat 1 genealogy
+  - script:gloss.py, 2026-10-14, supersedes `name:jesse`
+- **`name:david.gloss`** דָּוִד → **Deivid** [high, decided, attested]
+  - gloss: Δαυίδ: Δαυὶδ (MAT 1:6) — English (generated): David David
+  - NT: MAT 1:6 *Deivid*
+  - Mat 1 genealogy
+  - script:gloss.py, 2026-10-14, supersedes `name:david`
+- **`name:naomi.h.gloss`** נָעֳמִי → **Naomi** [high, decided, attested]
+  - gloss: נׇעֳמִי: נָעֳמִ֜י (RUT 1:2) — English (generated): was Naomi
+  - NT: RUT 1:2 *Naomí*; RUT 1:20 *Naomi*; RUT 4:17 *Naomi*
+  - answers: naomi
+  - Ours was Neomi, built from the English pronunciation (letter:vowels). The human Ruth writes Naomi 33×, close to the spelling: for names the NT never uses, follow the spelling (see letter:vowels.2).
+  - script:gloss.py, 2026-10-14, supersedes `name:naomi.h`
+- **`name:jonah.gloss`** יוֹנָה → **Ziona** [high, decided, attested]
+  - gloss: יוֹנָה: יוֹנָה֙ (JON 1:3) — English (generated): Jonah however
+  - gloss: Ἰωνᾶς: Ἰωνᾶ (MAT 12:39) — English (generated): Jonah
+  - NT: JON 1:3 *Ziona*; JON 4:4 *Zíona*
+  - answers: jonah
+  - Also the NT glossary (Mat 12:39). Jo- → Zio- (as Zion for John); vocative Zíona (4:4).
+  - script:gloss.py, 2026-10-14, supersedes `name:jonah`
+- **`name:nineveh.gloss`** נִינְוֵה → **Niniva** [high, decided, attested]
+  - gloss: נִינְוֵה: נִֽינְוֵ֛ה (JON 1:2) — English (generated): of Nineveh
+  - gloss: Νινευίτης: Νινευῖται (MAT 12:41) — English (generated): of Nineveh
+  - NT: JON 1:2 *Niniva taon kandambaqape-té*; JON 3:5 *Niniva taon-ak*
+  - answers: nineveh, ninevites
+  - With the class noun taon (town): 'Niniva taon kandambaqape' (the great city); Ninevites = 'Niniva taon-ak' (3:5); the king of Nineveh = 'Niniva taon-ak-ge kawa' (3:6), 'Niniva kawa' (3:7). Glossary entry Niniva. NT Mat 12:41 'Niniva vemiav-ak', Luk 11:32 'Niniva ezoqám'.
+  - script:gloss.py, 2026-10-14, supersedes `name:nineveh`
+- **`name:joppa.gloss`** יָפוֹ → **Ziopa** [high, decided, attested]
+  - gloss: יָפוֹ: יָפ֜וֹ (JON 1:3) — English (generated): to Joppa
+  - gloss: Ἰόππη: Ἰόππην (ACT 10:5) — English (generated): Joppa
+  - NT: JON 1:3 *Ziopa taon-te*
+  - answers: joppa
+  - Jo- → Zio-, double p simplified; class noun taon. The NT (Acts 9-11) may spell Joppa differently: check before using it in Acts-related notes.
+  - script:gloss.py, 2026-10-14, supersedes `name:joppa`
+- **`name:hebrew.gloss`** עִבְרִי → **Iblu ezoqám** [high, decided, attested]
+  - gloss: עִבְרִי: עִבְרִ֣י (JON 1:9) — English (generated): a Hebrew
+  - NT: JON 1:9 *No Iblu ezoqám*
+  - answers: hebrew, i am a hebrew
+  - As the NT (Iblu, glossary Aleluya 'Iblu manqát').
+  - script:gloss.py, 2026-10-14, supersedes `name:hebrew`
+- **`name:jesus.gloss`** Ἰησοῦς (NT) → **Yesu** [high, observed, attested]
+  - gloss: Ἰησοῦς: Ἰησοῦ (1CO 1:1) — English (generated): Jesus
+  - NT: 1CO 1:1 *Yesu*; 1CO 1:2 *Yesu*
+  - answers: jesus
+  - NT form: in 1359 of 1379 verses whose BSB names Jesus. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:jesus`
+- **`name:christ.gloss`** Χριστός (NT; מָשִׁיחַ) → **Keliso** [high, observed, attested]
+  - gloss: Χριστός: Χριστοῦ (1CO 1:1) — English (generated): of Christ
+  - NT: 1CO 1:1 *Keliso*; 1CO 1:2 *Keliso*
+  - answers: christ
+  - NT form: in 456 of 514 verses whose BSB names Christ. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:christ`
+- **`name:adam.gloss`** אָדָם → **Adam** [high, observed, attested]
+  - gloss: אָדָם: אָדָ֛ם (GEN 1:26) — English (generated): man
+  - gloss: Ἀδάμ: Ἀδὰμ (1CO 15:22) — English (generated): Adam
+  - NT: 1CO 15:22 *Adam*; 1CO 15:45 *Adam*
+  - answers: adam
+  - NT form: in 7 of 7 verses whose BSB names Adam. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:adam`
+- **`name:noah.gloss`** נֹחַ → **Noa** [high, observed, attested]
+  - gloss: נֹחַ: נֹ֖חַ (GEN 5:29) — English (generated): Noah
+  - gloss: Νῶε: Νῶε (1PE 3:20) — English (generated): of Noah
+  - NT: 1PE 3:20 *Noa*; 2PE 2:5 *Noa*
+  - answers: noah
+  - NT form: in 8 of 8 verses whose BSB names Noah. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:noah`
+- **`name:abraham.gloss`** אַבְרָהָם → **Eibleem** [high, observed, attested]
+  - gloss: אַבְרָהָם: אַבְרָהָ֔ם (GEN 17:5) — English (generated): Abraham
+  - gloss: Ἀβραάμ: Ἀβραάμ (1PE 3:6) — English (generated): Abraham
+  - NT: 1PE 3:6 *Eibleem*; 2CO 11:22 *Eibleem*
+  - answers: abraham
+  - NT form: in 78 of 78 verses whose BSB names Abraham. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:abraham`
+- **`name:sarah.gloss`** שָׂרָה → **Sæla** [high, observed, attested]
+  - gloss: Σάρρα: Σάρρα (1PE 3:6) — English (generated): Sarah
+  - NT: 1PE 3:6 *Sæla*; HEB 11:11 *Sæla*
+  - answers: sarah
+  - NT form: in 4 of 4 verses whose BSB names Sarah. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:sarah`
+- **`name:isaac.gloss`** יִצְחָק → **Aezek** [high, observed, attested]
+  - gloss: יִצְחָק: יִצְחָ֑ק (GEN 17:19) — English (generated): Isaac
+  - gloss: Ἰσαάκ: Ἰσαὰκ (ACT 3:13) — English (generated): Isaac
+  - NT: ACT 3:13 *Aezek*; ACT 7:8 *Aezek*
+  - answers: isaac
+  - NT form: in 18 of 19 verses whose BSB names Isaac. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:isaac`
+- **`name:jacob.gloss`** יַעֲקֹב → **Zekop** [high, observed, attested]
+  - gloss: יַעֲקֹב: יַעֲקֹ֑ב (GEN 25:26) — English (generated): Jacob
+  - gloss: Ἰακώβ: Ἰακώβ (ACT 3:13) — English (generated): Jacob
+  - NT: ACT 3:13 *Zekop*; ACT 7:8 *Zekop*
+  - answers: jacob
+  - NT form: in 25 of 25 verses whose BSB names Jacob. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:jacob`
+- **`name:esau.gloss`** עֵשָׂו → **Isao** [high, observed, attested]
+  - gloss: Ἠσαῦ: Ἠσαῦ (HEB 11:20) — English (generated): Esau
+  - NT: HEB 11:20 *Isao*; HEB 12:16 *Isao*
+  - answers: esau
+  - NT form: in 3 of 3 verses whose BSB names Esau. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:esau`
+- **`name:joseph.gloss`** יוֹסֵף → **Zosef** [high, observed, attested]
+  - gloss: יוֹסֵף: יוֹסֵ֖ף (GEN 30:24) — English (generated): Joseph
+  - gloss: Ἰωσήφ: Ἰωσὴφ (ACT 1:23) — English (generated): Joseph
+  - NT: ACT 1:23 *Zosef*; ACT 4:36 *Zosef*
+  - answers: joseph
+  - NT form: in 37 of 37 verses whose BSB names Joseph. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:joseph`
+- **`name:levi.gloss`** לֵוִי → **Livai** [high, observed, attested]
+  - gloss: לֵוִי: לֵוִֽי (GEN 29:34) — English (generated): Levi
+  - gloss: Λευί: Λευὶ (HEB 7:5) — English (generated): of Levi
+  - NT: HEB 7:5 *Livai*; HEB 7:6 *Livai*
+  - answers: levi
+  - NT form: in 12 of 12 verses whose BSB names Levi. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:levi`
+- **`name:benjamin.gloss`** בִּנְיָמִין → **Benzamin** [high, observed, attested]
+  - gloss: Βενιαμίν: Βενιαμίν (ACT 13:21) — English (generated): of Benjamin
+  - NT: ACT 13:21 *Benzamin*; PHP 3:5 *Benzamin*
+  - answers: benjamin
+  - NT form: in 4 of 4 verses whose BSB names Benjamin. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:benjamin`
+- **`name:aaron.gloss`** אַהֲרֹן → **Elon** [high, observed, attested]
+  - gloss: אַהֲרֹן: אַהֲרֹ֤ן (EXO 4:14) — English (generated): Aaron
+  - gloss: Ἀαρών: Ἀαρών (ACT 7:40) — English (generated): to Aaron
+  - NT: ACT 7:40 *Elon*; HEB 5:4 *Elon*
+  - answers: aaron
+  - NT form: in 5 of 5 verses whose BSB names Aaron. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:aaron`
+- **`name:pharaoh.gloss`** פַּרְעֹה → **Felo** [high, observed, attested]
+  - gloss: Φαραώ: Φαραὼ (ACT 7:10) — English (generated): Pharaoh
+  - NT: ACT 7:10 *Felo*; ACT 7:13 *Felo*
+  - answers: pharaoh
+  - NT form: in 5 of 5 verses whose BSB names Pharaoh. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:pharaoh`
+- **`name:egypt.gloss`** מִצְרַיִם → **Izip** [high, observed, attested]
+  - gloss: מִצְרַיִם: מִצְרַ֨יְמָ (GEN 12:10) — English (generated): to Egypt
+  - gloss: Αἴγυπτος: Αἴγυπτον (ACT 2:10) — English (generated): Egypt
+  - NT: ACT 2:10 *Izip*; ACT 7:9 *Izip*
+  - answers: egypt
+  - NT form: in 23 of 23 verses whose BSB names Egypt. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:egypt`
+- **`name:jordan.gloss`** יַרְדֵּן → **Zoden** [high, observed, attested]
+  - gloss: Ἰορδάνης: Ἰορδάνου (JHN 1:28) — English (generated): Jordan
+  - NT: JHN 1:28 *Zoden*; JHN 3:26 *Zoden*
+  - answers: jordan
+  - NT form: in 15 of 15 verses whose BSB names Jordan. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:jordan`
+- **`name:rahab.gloss`** רָחָב → **Leiab** [high, observed, attested]
+  - gloss: רָחָב: רָחָ֖ב (JOS 2:1) — English (generated): Rahab
+  - gloss: Ῥαάβ: Ῥαὰβ (HEB 11:31) — English (generated): Rahab
+  - NT: HEB 11:31 *Leiab*; JAS 2:25 *Leiab*
+  - answers: rahab
+  - NT form: in 3 of 3 verses whose BSB names Rahab. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:rahab`
+- **`name:jericho.gloss`** יְרִיחוֹ → **Zeliko** [high, observed, attested]
+  - gloss: Ἰεριχώ: Ἰεριχὼ (HEB 11:30) — English (generated): of Jericho
+  - NT: HEB 11:30 *Zeliko*; LUK 10:30 *Zeliko*
+  - answers: jericho
+  - NT form: in 6 of 6 verses whose BSB names Jericho. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:jericho`
+- **`name:solomon.gloss`** שְׁלֹמֹה → **Solomon** [high, observed, attested]
+  - gloss: Σολομών: Σολομῶντος (ACT 3:11) — English (generated): Solomon s
+  - NT: ACT 3:11 *Solomon*; ACT 5:12 *Solomon*
+  - answers: solomon
+  - NT form: in 10 of 10 verses whose BSB names Solomon. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:solomon`
+- **`name:samuel.gloss`** שְׁמוּאֵל → **Samuel** [high, observed, attested]
+  - gloss: Σαμουήλ: Σαμουὴλ (ACT 3:24) — English (generated): Samuel on
+  - NT: ACT 3:24 *Samuel*; ACT 13:20 *Samuel*
+  - answers: samuel
+  - NT form: in 3 of 3 verses whose BSB names Samuel. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:samuel`
+- **`name:saul.gloss`** שָׁאוּל → **Sol** [high, observed, attested]
+  - gloss: Σαῦλος: Σαύλου (ACT 7:58) — English (generated): Saul
+  - NT: ACT 7:58 *Sol*; ACT 8:1 *Sol*
+  - answers: saul
+  - NT form: in 30 of 31 verses whose BSB names Saul. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:saul`
+- **`name:elijah.gloss`** אֵלִיָּהוּ → **Ilaiza** [high, observed, attested]
+  - gloss: Ἠλίας: Ἠλίας (JAS 5:17) — English (generated): Elijah
+  - NT: JAS 5:17 *Ilaiza*; JHN 1:21 *Ilaiza*
+  - answers: elijah
+  - NT form: in 28 of 29 verses whose BSB names Elijah. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:elijah`
+- **`name:isaiah.gloss`** יְשַׁעְיָהוּ → **Aezaya** [high, observed, attested]
+  - gloss: Ἠσαΐας: Ἠσαΐαν (ACT 8:28) — English (generated): Isaiah
+  - NT: ACT 8:28 *Aezaya*; ACT 8:30 *Aezaya*
+  - answers: isaiah
+  - NT form: in 22 of 22 verses whose BSB names Isaiah. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:isaiah`
+- **`name:jeremiah.gloss`** יִרְמְיָהוּ → **Zelemaya** [high, observed, attested]
+  - gloss: יִרְמְיָהוּ: יִרְמְיָ֖הוּ (2KI 23:31) — English (generated): of Jeremiah
+  - gloss: Ἰερεμίας: Ἰερεμίου (MAT 2:17) — English (generated): Jeremiah
+  - NT: MAT 2:17 *Zelemaya*; MAT 16:14 *Zelemaya*
+  - answers: jeremiah
+  - NT form: in 3 of 3 verses whose BSB names Jeremiah. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:jeremiah`
+- **`name:babylon.gloss`** בָּבֶל → **Bebilon** [high, observed, attested]
+  - gloss: Βαβυλών: Βαβυλῶνι (1PE 5:13) — English (generated): Babylon
+  - NT: 1PE 5:13 *Bebilon*; ACT 7:43 *Bebilon*
+  - answers: babylon
+  - NT form: in 11 of 11 verses whose BSB names Babylon. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:babylon`
+- **`name:jerusalem.gloss`** יְרוּשָׁלַיִם → **Zelusalem** [high, observed, attested]
+  - gloss: Ἱεροσόλυμα: Ἰερουσαλήμ (1CO 16:3) — English (generated): Jerusalem
+  - NT: 1CO 16:3 *Zelusalem*; ACT 1:4 *Zelusalem*
+  - answers: jerusalem
+  - NT form: in 141 of 141 verses whose BSB names Jerusalem. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:jerusalem`
+- **`name:zion.gloss`** צִיּוֹן → **Zayon** [high, observed, attested]
+  - gloss: צִיּוֹן: צִיּ֑וֹן (2SA 5:7) — English (generated): of Zion
+  - gloss: Σιών: Σιὼν (1PE 2:6) — English (generated): Zion
+  - NT: 1PE 2:6 *Zayon*; HEB 12:22 *Zayon*
+  - answers: zion
+  - NT form: in 7 of 7 verses whose BSB names Zion. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:zion`
+- **`name:canaan.gloss`** כְּנַעַן → **Keinan** [high, observed, attested]
+  - gloss: Χανάαν: Χανάαν (ACT 7:11) — English (generated): Canaan
+  - NT: ACT 7:11 *Keinan*; ACT 13:19 *Keinan*
+  - answers: canaan
+  - NT form: in 2 of 2 verses whose BSB names Canaan. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:canaan`
+- **`name:sinai.gloss`** סִינַי → **Sainai** [high, observed, attested]
+  - gloss: סִינַי: סִינָ֑י (EXO 16:1) — English (generated): and Sinai
+  - gloss: Σινᾶ: Σινᾶ (ACT 7:30) — English (generated): Sinai
+  - NT: ACT 7:30 *Sainai*; ACT 7:38 *Sainai*
+  - answers: sinai
+  - NT form: in 4 of 4 verses whose BSB names Sinai. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:sinai`
+- **`name:sodom.gloss`** סְדֹם → **Sodom** [high, observed, attested]
+  - gloss: סְדֹם: סְדֹ֧מָ (GEN 10:19) — English (generated): toward Sodom
+  - gloss: Σόδομα: Σοδόμων (2PE 2:6) — English (generated): of Sodom
+  - NT: 2PE 2:6 *Sodom*; JUD 1:7 *Sodom*
+  - answers: sodom
+  - NT form: in 9 of 9 verses whose BSB names Sodom. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:sodom`
+- **`name:gomorrah.gloss`** עֲמֹרָה → **Gomola** [high, observed, attested]
+  - gloss: עֲמֹרָה: עֲמֹרָ֛ה (GEN 10:19) — English (generated): Gomorrah
+  - gloss: Γόμορρα: Γομόρρας (2PE 2:6) — English (generated): Gomorrah
+  - NT: 2PE 2:6 *Gomola*; JUD 1:7 *Gomola*
+  - answers: gomorrah
+  - NT form: in 4 of 4 verses whose BSB names Gomorrah. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:gomorrah`
+- **`name:abel.gloss`** הֶבֶל → **Eibol** [high, observed, attested]
+  - gloss: הֶבֶל: הָ֑בֶל (GEN 4:2) — English (generated): Abel
+  - gloss: Ἅβελ: Ἅβελ (HEB 11:4) — English (generated): Abel
+  - NT: HEB 11:4 *Eibol*; HEB 12:24 *Eibol*
+  - answers: abel
+  - NT form: in 4 of 4 verses whose BSB names Abel. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:abel`
+- **`name:cain.gloss`** קַיִן → **Kein** [high, observed, attested]
+  - gloss: קַיִן: קַ֔יִן (GEN 4:1) — English (generated): Cain
+  - gloss: Κάϊν: Κάϊν (1JN 3:12) — English (generated): Cain
+  - NT: 1JN 3:12 *Kein*; HEB 11:4 *Kein*
+  - answers: cain
+  - NT form: in 3 of 3 verses whose BSB names Cain. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:cain`
+- **`name:enoch.gloss`** חֲנוֹךְ → **Inok** [high, observed, attested]
+  - gloss: חֲנוֹךְ: חֲנ֑וֹךְ (GEN 4:17) — English (generated): Enoch
+  - gloss: Ἑνώχ: Ἑνὼχ (HEB 11:5) — English (generated): Enoch
+  - NT: HEB 11:5 *Inok*; JUD 1:14 *Inok*
+  - answers: enoch
+  - NT form: in 3 of 3 verses whose BSB names Enoch. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:enoch`
+- **`name:melchizedek.gloss`** מַלְכִּי־צֶדֶק → **Melkizedek** [high, observed, attested]
+  - gloss: Μελχισέδεκ: Μελχισέδεκ (HEB 5:6) — English (generated): of Melchizedek
+  - NT: HEB 5:6 *Melkizedek*; HEB 5:10 *Melkizedek*
+  - answers: melchizedek
+  - NT form: in 11 of 11 verses whose BSB names Melchizedek. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:melchizedek`
+- **`name:hagar.gloss`** הָגָר → **Ega** [high, observed, attested]
+  - gloss: הָגָר: הָגָֽר (GEN 16:1) — English (generated): Hagar
+  - gloss: Ἁγάρ: Ἁγάρ (GAL 4:24) — English (generated): Hagar
+  - NT: GAL 4:24 *Hega*; GAL 4:25 *Hega*
+  - answers: hagar
+  - NT form: in 2 of 2 verses whose BSB names Hagar. From study run v2b. Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hega').
+  - script:gloss.py, 2026-10-15, supersedes `name:hagar`
+- **`name:samaria.gloss`** שֹׁמְרוֹן → **Samalia** [high, observed, attested]
+  - gloss: Σαμάρεια: Σαμαρείᾳ (ACT 1:8) — English (generated): Samaria
+  - NT: ACT 1:8 *Samalia*; ACT 8:1 *Samalia*
+  - answers: samaria
+  - NT form: in 10 of 10 verses whose BSB names Samaria. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:samaria`
+- **`name:satan.gloss`** שָׂטָן → **Saitan** [high, observed, attested]
+  - gloss: Σατανᾶς: Σατανᾷ (1CO 5:5) — English (generated): to Satan
+  - NT: 1CO 5:5 *Saitan*; 1CO 7:5 *Saitan*
+  - answers: satan
+  - NT form: in 33 of 33 verses whose BSB names Satan. From study run v2b. Satan as the accuser of Job and Zech 3 may need a decision.
+  - script:gloss.py, 2026-10-15, supersedes `name:satan`
+- **`name:galilee.gloss`** גָּלִיל → **Gelili** [high, observed, attested]
+  - gloss: Γαλιλαία: Γαλιλαίας (ACT 9:31) — English (generated): Galilee
+  - NT: ACT 1:11 *Gelili*; ACT 9:31 *Gelili*
+  - answers: galilee
+  - NT form: in 60 of 60 verses whose BSB names Galilee. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:galilee`
+- **`name:reuben.gloss`** רְאוּבֵן → **Luben** [high, observed, attested]
+  - gloss: רְאוּבֵן: רְאוּבֵ֑ן (GEN 29:32) — English (generated): Reuben
+  - gloss: Ῥουβήν: Ῥουβὴν (REV 7:5) — English (generated): of Reuben
+  - NT: REV 7:5 *Luben*
+  - answers: reuben
+  - NT form: in 1 of 1 verses whose BSB names Reuben. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:reuben`
+- **`name:naphtali.gloss`** נַפְתָּלִי → **Naftali** [high, observed, attested]
+  - gloss: Νεφθαλίμ: Νεφθαλίμ (MAT 4:13) — English (generated): Naphtali
+  - NT: MAT 4:13 *Naftali*; MAT 4:15 *Naftali*
+  - answers: naphtali
+  - NT form: in 3 of 3 verses whose BSB names Naphtali. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:naphtali`
+- **`name:zebulun.gloss`** זְבוּלֻן → **Zebulon** [high, observed, attested]
+  - gloss: זְבוּלֻן: זְבֻלֽוּן (GEN 30:20) — English (generated): Zebulun
+  - gloss: Ζαβουλών: Ζαβουλὼν (MAT 4:13) — English (generated): of Zebulun
+  - NT: MAT 4:13 *Zebulon*; MAT 4:15 *Zebulon*
+  - answers: zebulun
+  - NT form: in 3 of 3 verses whose BSB names Zebulun. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:zebulun`
+- **`name:manasseh.gloss`** מְנַשֶּׁה → **Manase** [high, observed, attested]
+  - gloss: Μανασσῆ: Μανασσῆ (MAT 1:10) — English (generated): Manasseh
+  - NT: MAT 1:10 *Manase*; REV 7:6 *Manase*
+  - answers: manasseh
+  - NT form: in 2 of 2 verses whose BSB names Manasseh. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:manasseh`
+- **`name:ephraim.gloss`** אֶפְרַיִם → **Eflaim** [high, observed, attested]
+  - gloss: אֶפְרַיִם: אֶפְרָ֑יִם (GEN 41:52) — English (generated): Ephraim
+  - NT: JHN 11:54 *Eflaim*
+  - answers: ephraim
+  - NT form: in 1 of 1 verses whose BSB names Ephraim. From study run v2b.
+  - script:gloss.py, 2026-10-15, supersedes `name:ephraim`
+- **`name:lot.gloss`** לוֹט → **Lot** [high, observed, attested]
+  - gloss: לוֹט: לֽוֹט (GEN 11:27) — English (generated): Lot
+  - gloss: Λώτ: Λὼτ (2PE 2:7) — English (generated): Lot
+  - NT: 2PE 2:7 *Lot-za*; LUK 17:28 *Lot-qá*
+  - answers: lot
+  - NT form: in 4 of 7 verses whose BSB names Lot. From study run v2.
+  - script:gloss.py, 2026-10-15, supersedes `name:lot`
+- **`name:hezekiah.gloss`** חִזְקִיָּהוּ → **Ezekaya** [high, observed, attested]
+  - gloss: Ἑζεκίας: Ἑζεκίαν (MAT 1:9) — English (generated): Hezekiah
+  - NT: MAT 1:9 *Ezekaya*; MAT 1:10 *Ezekaya*
+  - answers: hezekiah
+  - NT form: in 2 of 2 verses whose BSB names Hezekiah. From study run v2.
+  - script:gloss.py, 2026-10-15, supersedes `name:hezekiah`
+- **`name:tyre.gloss`** צֹר → **Taya** [high, observed, attested]
+  - gloss: צֹר: צֹ֥ר (2SA 5:11) — English (generated): of Tyre
+  - NT: ACT 12:20 *Taya*; ACT 21:3 *Taya*
+  - answers: tyre
+  - NT form: in 13 of 13 verses whose BSB names Tyre. From study run v2.
+  - script:gloss.py, 2026-10-15, supersedes `name:tyre`
+- **`name:sidon.gloss`** צִידוֹן → **Saedon** [high, observed, attested]
+  - gloss: צִידוֹן: צִידֹ֥ן (GEN 10:15) — English (generated): Sidon
+  - gloss: Σιδώνιος: Σιδωνίοις (ACT 12:20) — English (generated): Sidon
+  - NT: ACT 12:20 *Saedon*; ACT 27:3 *Saedon*
+  - answers: sidon
+  - NT form: in 11 of 11 verses whose BSB names Sidon. From study run v2.
+  - script:gloss.py, 2026-10-15, supersedes `name:sidon`
+- **`name:syria.gloss`** אֲרָם → **Silia** [high, observed, attested]
+  - gloss: אֲרָם: אֲרָֽם (GEN 10:22) — English (generated): and Aram
+  - gloss: Συρία: Συρίαν (ACT 15:23) — English (generated): Syria
+  - NT: ACT 15:23 *Silia*; ACT 15:41 *Silia*
+  - answers: syria
+  - NT form: in 8 of 8 verses whose BSB names Syria. From study run v2.
+  - script:gloss.py, 2026-10-15, supersedes `name:syria`
+- **`name:judea.gloss`** יְהוּדָה (the province) → **Zudia** [high, observed, attested]
+  - gloss: Ἰουδαία: Ἰουδαίᾳ (1TH 2:14) — English (generated): Judea
+  - NT: 1TH 2:14 *Zudia*; ACT 1:8 *Zudia*
+  - answers: judea
+  - NT form: in 42 of 44 verses whose BSB names Judea. From study run v2. Zudia is the Roman province; the tribe and kingdom are Zuda (name:judah).
+  - script:gloss.py, 2026-10-15, supersedes `name:judea`
+- **`name:jacob.g.gloss`** יַעֲקֹב hbo:3290 (H3290) → **Zekop** [high, decided, attested]
+  - gloss: יַעֲקֹב: יַעֲקֹ֑ב (GEN 25:26) — English (generated): Jacob
+  - gloss: Ἰακώβ: Ἰακὼβ (ACT 7:12) — English (generated): Jacob
+  - NT: GEN 25:26 *Zekop*; GEN 27:36 *Zekóp*; ACT 7:12 *Zekop*
+  - answers: jacob
+  - Genesis 1-30: 67 verses. NT the same. Meaning given at 25:26 "(Taqa manqa mokho: Zenda-tu geawát.)" and 27:36.
+  - script:gloss.py, 2026-10-15, supersedes `name:jacob.g`
+- **`name:esau.g.gloss`** עֵשָׂו hbo:6215 (H6215) → **Isao** [high, decided, attested]
+  - gloss: עֵשָׂו: עֵשָֽׂו (GEN 25:25) — English (generated): Esau
+  - gloss: Ἠσαῦ: Ἠσαῦ (HEB 12:16) — English (generated): Esau
+  - NT: GEN 25:25 *Isao*; GEN 27:34 *Isao*; HEB 12:16 *Isao*
+  - answers: esau
+  - Genesis 1-30: 30 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:esau.g`
+- **`name:isaac.g.gloss`** יִצְחָק hbo:3327 (H3327) → **Aezek** [high, decided, attested]
+  - gloss: יִצְחָק: יִצְחָ֣ק (GEN 21:4) — English (generated): Isaac
+  - gloss: Ἰσαάκ: Ἰσαάκ (MAT 1:2) — English (generated): Isaac
+  - NT: GEN 21:4 *Aezek*; GEN 25:20 *Aezek*
+  - answers: isaac
+  - Genesis 1-30: 70 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:isaac.g`
+- **`name:abraham.g.gloss`** אַבְרָהָם hbo:0085 (H85) → **Eibleem** [high, decided, attested]
+  - gloss: אַבְרָהָם: אַ֨בְרָהָ֔ם (GEN 17:24) — English (generated): So Abraham
+  - gloss: Ἀβραάμ: Ἀβραάμ (MAT 1:1) — English (generated): of Abraham
+  - NT: GEN 17:24 *Eibleem*; GEN 22:1 *Éibleem*
+  - answers: abraham
+  - Genesis 1-30: 115 verses. NT the same; vocative Éibleem (22:1, 22:11). Before 17:5 he is Eiblam (name:abram.g).
+  - script:gloss.py, 2026-10-15, supersedes `name:abraham.g`
+- **`name:abram.g.gloss`** אַבְרָם hbo:0087 (H87) → **Eiblam** [high, decided, attested]
+  - gloss: אַבְרָם: אַבְרָ֗ם (GEN 12:4) — English (generated): So Abram
+  - NT: GEN 12:4 *Eiblam*; GEN 15:1 *Éiblam*
+  - answers: abram
+  - Genesis 1-30: 58 verses. Not in the NT. Vocative Éiblam (15:1).
+  - script:gloss.py, 2026-10-15, supersedes `name:abram.g`
+- **`name:sarah.g.gloss`** שָׂרָה hbo:8283 (H8283) → **Sæla** [high, decided, attested]
+  - gloss: שָׂרָה: שָׂרָ֔ה (GEN 23:1) — English (generated): Sarah
+  - gloss: Σάρρα: Σάρρᾳ (ROM 9:9) — English (generated): Sarah
+  - NT: GEN 23:1 *Sæla*; GEN 25:12 *Sæla-gu*
+  - answers: sarah
+  - Genesis 1-30: 29 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:sarah.g`
+- **`name:sarai.g.gloss`** שָׂרַי hbo:8297 (H8297) → **Salai** [high, decided, attested]
+  - gloss: שָׂרַי: שָׂרַ֜י (GEN 16:2) — English (generated): So Sarai
+  - NT: GEN 16:2 *Salai*; GEN 16:3 *Salai*
+  - answers: sarai
+  - Genesis 1-30: 14 verses. Not in the NT.
+  - script:gloss.py, 2026-10-15, supersedes `name:sarai.g`
+- **`name:rachel.g.gloss`** רָחֵל hbo:7354 (H7354) → **Laisol** [high, decided, attested]
+  - gloss: רָחֵל: רָחֵל֙ (GEN 30:6) — English (generated): Then Rachel
+  - NT: GEN 30:6 *Laisol*; GEN 29:11 *Laisol*; MAT 2:18 *Laisol*
+  - answers: rachel
+  - Genesis 1-30: 24 verses. NT the same; also Laisól (3 verses).
+  - script:gloss.py, 2026-10-15, supersedes `name:rachel.g`
+- **`name:leah.g.gloss`** לֵאָה hbo:3812 (H3812) → **Lia** [high, decided, attested]
+  - gloss: לֵאָה: לֵאָה֙ (GEN 29:32) — English (generated): And Leah
+  - NT: GEN 29:32 *Lia*; GEN 30:11 *Lia*
+  - answers: leah
+  - Genesis 1-30: 22 verses. Ruth 4:11 the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:leah.g`
+- **`name:laban.g.gloss`** לָבָן hbo:3837 (H3837) → **Leiben** [high, decided, attested]
+  - gloss: לָבָן: לָבָן֙ (GEN 29:15) — English (generated): Laban
+  - NT: GEN 29:15 *Leiben*; GEN 24:29 *Leibén*; GEN 28:2 *Leiben-gi*
+  - answers: laban
+  - Genesis 1-30: 32 verses. Not in the NT. Letter rule: long a → ei (letter:long_a).
+  - script:gloss.py, 2026-10-15, supersedes `name:laban.g`
+- **`name:rebekah.g.gloss`** רִבְקָה hbo:7259 (H7259) → **Lebeka** [high, decided, attested]
+  - gloss: רִבְקָה: רִבְקָ֗ה (GEN 25:20) — English (generated): Rebekah
+  - NT: GEN 25:20 *Lebeka*; GEN 27:15 *Lebeka*
+  - answers: rebekah
+  - Genesis 1-30: 27 verses. Not in the NT text.
+  - script:gloss.py, 2026-10-15, supersedes `name:rebekah.g`
+- **`name:nahor.g.gloss`** נָחוֹר hbo:5152 (H5152) → **Nao** [high, decided, attested]
+  - gloss: נָחוֹר: נָח֖וֹר (GEN 11:27) — English (generated): Nahor
+  - gloss: Ναχώρ: Ναχὼρ (LUK 3:34) — English (generated): of Nahor
+  - NT: GEN 11:27 *Nao*; GEN 22:20 *Nao*; LUK 3:34 *Nao*
+  - answers: nahor
+  - Genesis 1-30: 15 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:nahor.g`
+- **`name:bilhah.g.gloss`** בִּלְהָה hbo:1090 (H1090) → **Bila** [high, decided, attested]
+  - gloss: בִּלְהָה: בִלְהָ֖ה (GEN 30:3) — English (generated): Bilhah
+  - NT: GEN 30:3 *Bila*; GEN 29:29 *Bila*
+  - answers: bilhah
+  - Genesis 1-30: 5 verses. h before a consonant and final h drop.
+  - script:gloss.py, 2026-10-15, supersedes `name:bilhah.g`
+- **`name:zilpah.g.gloss`** זִלְפָּה hbo:2153 (H2153) → **Zilpa** [high, decided, attested]
+  - gloss: זִלְפָּה: זִלְפָּ֖ה (GEN 29:24) — English (generated): Zilpah
+  - NT: GEN 29:24 *Zilpa*; GEN 30:9 *Zilpa*
+  - answers: zilpah
+  - Genesis 1-30: 4 verses.
+  - script:gloss.py, 2026-10-15, supersedes `name:zilpah.g`
+- **`name:reuben.g.gloss`** רְאוּבֵן hbo:7205 (H7205) → **Luben** [high, decided, attested]
+  - gloss: רְאוּבֵן: רְאוּבֵ֑ן (GEN 29:32) — English (generated): Reuben
+  - gloss: Ῥουβήν: Ῥουβὴν (REV 7:5) — English (generated): of Reuben
+  - NT: GEN 29:32 *Luben*; REV 7:5 *Luben*
+  - answers: reuben
+  - Genesis 1-30: 2 verses. NT the same. Meaning at 29:32.
+  - script:gloss.py, 2026-10-15, supersedes `name:reuben.g`
+- **`name:simeon.g.gloss`** שִׁמְעוֹן H8095 → **Simeon** [high, decided, attested]
+  - gloss: שִׁמְעוֹן: שִׁמְעֽוֹן (GEN 29:33) — English (generated): Simeon
+  - gloss: Συμεών: Συμεών (LUK 2:25) — English (generated): Simeon
+  - NT: GEN 29:33 *Simeon*; LUK 2:25 *Simeon*
+  - answers: simeon
+  - Genesis 1-30: 1 verses. NT the same (also the NT Simeon of Luke 2). Not "Saemon" (Simon).
+  - script:gloss.py, 2026-10-15, supersedes `name:simeon.g`
+- **`name:levi.g.gloss`** לֵוִי hbo:3878 (H3878) → **Livai** [high, decided, attested]
+  - gloss: לֵוִי: לֵוִֽי (GEN 29:34) — English (generated): Levi
+  - gloss: Λευί: Λευὶ (HEB 7:5) — English (generated): of Levi
+  - NT: GEN 29:34 *Livai*; HEB 7:5 *Livai*
+  - answers: levi
+  - Genesis 1-30: 1 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:levi.g`
+- **`name:judah.g.gloss`** יְהוּדָה hbo:3063 (H3063) → **Zuda** [high, decided, attested]
+  - gloss: יְהוּדָה: יְהוּדָ֑ה (GEN 29:35) — English (generated): Judah
+  - gloss: Ἰούδας: Ἰούδα (HEB 7:14) — English (generated): Judah
+  - NT: GEN 29:35 *Zuda*; HEB 7:14 *Zuda*; RUT 1:1 *Zuda*
+  - answers: judah
+  - Genesis 1-30: 1 verses. NT and Ruth the same. The Roman province Judea is Zudia (name:judea).
+  - script:gloss.py, 2026-10-15, supersedes `name:judah.g`
+- **`name:naphtali.g.gloss`** נַפְתָּלִי hbo:5321 (H5321) → **Naftali** [high, decided, attested]
+  - gloss: Νεφθαλίμ: Νεφθαλίμ (MAT 4:13) — English (generated): Naphtali
+  - NT: GEN 30:8 *Naftali*; MAT 4:13 *Naftali*
+  - answers: naphtali
+  - Genesis 1-30: 1 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:naphtali.g`
+- **`name:asher.g.gloss`** אָשֵׁר hbo:0836 (H836) → **Asa** [high, decided, attested]
+  - gloss: Ἀσήρ: Ἀσήρ (LUK 2:36) — English (generated): of Asher
+  - NT: GEN 30:13 *Asa*; LUK 2:36 *Asa*
+  - answers: asher
+  - Genesis 1-30: 1 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:asher.g`
+- **`name:issachar.g.gloss`** יִשָּׂשכָר hbo:3485 (H3485) → **Isaka** [high, decided, attested]
+  - gloss: Ἰσσαχάρ: Ἰσσαχὰρ (REV 7:7) — English (generated): of Issachar
+  - NT: GEN 30:18 *Isaka*; REV 7:7 *Isaka*
+  - answers: issachar
+  - Genesis 1-30: 1 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:issachar.g`
+- **`name:zebulun.g.gloss`** זְבוּלֻן hbo:2074 (H2074) → **Zebulon** [high, decided, attested]
+  - gloss: זְבוּלֻן: זְבֻלֽוּן (GEN 30:20) — English (generated): Zebulun
+  - gloss: Ζαβουλών: Ζαβουλὼν (MAT 4:13) — English (generated): of Zebulun
+  - NT: GEN 30:20 *Zebulon*; MAT 4:13 *Zebulon*
+  - answers: zebulun
+  - Genesis 1-30: 1 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:zebulun.g`
+- **`name:dinah.g.gloss`** דִּינָה hbo:1783 (H1783) → **Daina** [high, decided, attested]
+  - gloss: דִּינָה: דִּינָֽה (GEN 30:21) — English (generated): Dinah
+  - NT: GEN 30:21 *Daina*
+  - answers: dinah
+  - Genesis 1-30: 1 verses. Long i → ai (letter:long_i).
+  - script:gloss.py, 2026-10-15, supersedes `name:dinah.g`
+- **`name:joseph.g.gloss`** יוֹסֵף hbo:3130 (H3130) → **Zosef** [high, decided, attested]
+  - gloss: יוֹסֵף: יוֹסֵ֖ף (GEN 30:24) — English (generated): Joseph
+  - gloss: Ἰωσήφ: Ἰωσὴφ (ACT 7:13) — English (generated): Joseph
+  - NT: GEN 30:24 *Zosef*; GEN 30:25 *Zosef*; ACT 7:13 *Zosef*
+  - answers: joseph
+  - Genesis 1-30: 2 verses. NT the same; vocative Zósef (MAT 1:20).
+  - script:gloss.py, 2026-10-15, supersedes `name:joseph.g`
+- **`name:edom.g.gloss`** אֱדוֹם hbo:0123 (H123) → **Edom** [high, decided, attested]
+  - gloss: אֱדוֹם: אֱדֽוֹם (GEN 25:30) — English (generated): Edom
+  - NT: GEN 25:30 *Edom*
+  - answers: edom
+  - Genesis 1-30: 1 verses. Esau's other name, with its meaning in brackets (25:30 "Køkoúk", red). The land: "Edom manqei" by the place-class rule (feature place_class_noun).
+  - script:gloss.py, 2026-10-15, supersedes `name:edom.g`
+- **`name:canaan.g.gloss`** כְּנַעַן hbo:3667 (H3667) → **Keinan** [high, decided, attested]
+  - gloss: כְּנַעַן: כְּנָ֑עַן (GEN 23:2) — English (generated): of Canaan
+  - gloss: Χανάαν: Χανάαν (ACT 7:11) — English (generated): Canaan
+  - NT: GEN 23:2 *Keinan manqei-té*; GEN 9:25 *Keinan*; ACT 7:11 *Keinan*
+  - answers: canaan, land of canaan
+  - Genesis 1-30: 15 verses. NT the same; the land = Keinan manqei (23:2, 28:1).
+  - script:gloss.py, 2026-10-15, supersedes `name:canaan.g`
+- **`name:canaanites.g.gloss`** כְּנַעֲנִי H3669 → **Keinan-ak** [high, decided, attested]
+  - gloss: כְּנַעֲנִי: כְּנַעֲנִ֖י (GEN 12:6) — English (generated): the Canaanites
+  - NT: GEN 12:6 *Keinan-ak*; GEN 24:3 *Keinan-ak-gi*
+  - answers: canaanites, canaanite
+  - Genesis 1-30: 7 verses. Origin suffix -ak (feature suffix_origin).
+  - script:gloss.py, 2026-10-15, supersedes `name:canaanites.g`
+- **`name:egypt.g.gloss`** מִצְרַיִם hbo:4714 (H4714) → **Izip** [high, decided, attested]
+  - gloss: מִצְרַיִם: מִצְרַ֨יְמָ (GEN 12:10) — English (generated): to Egypt
+  - gloss: Αἴγυπτος: Αἰγύπτου (ACT 7:10) — English (generated): of Egypt
+  - NT: GEN 12:10 *Izip manqei-té*; ACT 7:10 *Izip manqei*
+  - answers: egypt, land of egypt, mizraim
+  - Genesis 1-30: 20 verses. NT the same; the land = Izip manqei; "the king of Egypt" = "Izip kawa ezoqam" (12:16); Mizraim the person = Izip (10:13).
+  - script:gloss.py, 2026-10-15, supersedes `name:egypt.g`
+- **`name:egyptian.g.gloss`** מִצְרִי hbo:4713 (H4713) → **Izip manqei-ak** [high, decided, attested]
+  - gloss: מִצְרִי: מִצְרִ֖ית (GEN 16:1) — English (generated): she had an Egyptian
+  - NT: GEN 16:1 *Izip manqei-ak*; GEN 25:12 *Izip manqei-ak*
+  - answers: egyptian, egyptians
+  - Genesis 1-30: 3 verses. Hagar the Egyptian (16:1, 16:3, 25:12); ACT 7:24 the same pattern.
+  - script:gloss.py, 2026-10-15, supersedes `name:egyptian.g`
+- **`name:pharaoh.g.gloss`** פַּרְעֹה hbo:6547 (H6547) → **Felo** [high, decided, attested]
+  - gloss: פַּרְעֹה: פַרְעֹ֔ה (GEN 12:15) — English (generated): When Pharaoh s
+  - gloss: Φαραώ: Φαραὼ (ACT 7:10) — English (generated): Pharaoh
+  - NT: GEN 12:15 *Felo*; ACT 7:10 *Felo*
+  - answers: pharaoh
+  - Genesis 1-30: 4 verses. NT the same; he is "Izip kawa ezoqam" (the king of Egypt, 12:16; ACT 7:10 "Izip manqei-ak-ge kawa").
+  - script:gloss.py, 2026-10-15, supersedes `name:pharaoh.g`
+- **`name:luz.g.gloss`** לוּז H3870 → **Luz** [high, decided, attested]
+  - gloss: לוּז: ל֥וּז (GEN 28:19) — English (generated): Luz
+  - NT: GEN 28:19 *Luz*
+  - answers: luz
+  - Genesis 1-30: 1 verses.
+  - script:gloss.py, 2026-10-15, supersedes `name:luz.g`
+- **`name:haran.g.gloss`** חָרָן hbo:2771a (H2771) → **Elan** [high, decided, attested]
+  - gloss: חָרָן: חָרָֽן (GEN 12:4) — English (generated): Haran
+  - NT: GEN 12:4 *Elan taon*; GEN 11:31 *Elan taon*; ACT 7:4 *Elan*
+  - answers: haran
+  - Genesis 1-30: 11 verses. Town: "Elan taon" (11:31, 12:4, 29:4 "Elan taon-ák" from Haran); Abram's brother Haran is Elan too (11:27). NT the same. Initial h drops here (letter:h.g).
+  - script:gloss.py, 2026-10-15, supersedes `name:haran.g`
+- **`name:ishmael.g.gloss`** יִשְׁמָעֵאל hbo:3458 (H3458) → **Ismael** [high, decided, attested]
+  - gloss: יִשְׁמָעֵאל: יִשְׁמָעֵ֔אל (GEN 16:11) — English (generated): Ishmael
+  - NT: GEN 16:11 *Ismael*; GEN 25:17 *Ismael*
+  - answers: ishmael
+  - Genesis 1-30: 16 verses. Ishmaelites (37:25 ff.) by rule: "Ismael-ak" or "Ismael-gi zi".
+  - script:gloss.py, 2026-10-15, supersedes `name:ishmael.g`
+- **`name:hagar.g.gloss`** הָגָר hbo:1904 (H1904) → **Æga** [high, decided, attested]
+  - gloss: הָגָר: הָגָֽר (GEN 16:1) — English (generated): Hagar
+  - gloss: Ἁγάρ: Ἁγάρ (GAL 4:24) — English (generated): Hagar
+  - NT: GEN 16:1 *Hæga*; GEN 21:17 *Hǽga*; GAL 4:24 *Hega*
+  - answers: hagar
+  - Genesis 1-30: 13 verses. Genesis Hæga (17 verses with Hǽga), the NT Hega (GAL 4:24, 4:25): Genesis wins for the OT. Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hæga').
+  - script:gloss.py, 2026-10-15, supersedes `name:hagar.g`
+- **`name:lot.g.gloss`** לוֹט hbo:3876 (H3876) → **Lot** [high, decided, attested]
+  - gloss: לוֹט: ל֗וֹט (GEN 13:8) — English (generated): Lot
+  - gloss: Λώτ: Λώτ (LUK 17:28) — English (generated): of Lot
+  - NT: GEN 13:8 *Lot*; LUK 17:28 *Lot*
+  - answers: lot
+  - Genesis 1-30: 30 verses. NT the same.
+  - script:gloss.py, 2026-10-15, supersedes `name:lot.g`
+- **`name:bethuel.g.gloss`** בְּתוּאֵל hbo:1328 (H1328) → **Betuel** [high, decided, attested]
+  - gloss: בְּתוּאֵל: בְתוּאֵ֖ל (GEN 28:2) — English (generated): Bethuel
+  - NT: GEN 28:2 *Betuel*; GEN 25:20 *Betuel*
+  - answers: bethuel
+  - Genesis 1-30: 9 verses.
+  - script:gloss.py, 2026-10-15, supersedes `name:bethuel.g`
+- **`name:milcah.g.gloss`** מִלְכָּה hbo:4435 (H4435) → **Milka** [high, decided, attested]
+  - gloss: מִלְכָּה: מִלְכָּ֥ה (GEN 22:20) — English (generated): Milcah
+  - NT: GEN 22:20 *Milká-ya*
+  - answers: milcah
+  - Genesis 1-30: 5 verses.
+  - script:gloss.py, 2026-10-15, supersedes `name:milcah.g`
+- **`name:abimelech.g.gloss`** אֲבִימֶלֶךְ hbo:0040 (H40) → **Abimelek** [high, decided, attested]
+  - gloss: אֲבִימֶלֶךְ: אֲבִימֶ֜לֶךְ (GEN 20:8) — English (generated): Abimelech
+  - NT: GEN 20:8 *Abimelek*; GEN 26:8 *Abimelek*
+  - answers: abimelech
+  - Genesis 1-30: 24 verses.
+  - script:gloss.py, 2026-10-15, supersedes `name:abimelech.g`
+- **`name:hebron.g.gloss`** חֶבְרוֹן hbo:2275 (H2275) → **Iblon** [high, decided, attested]
+  - gloss: חֶבְרוֹן: חֶבְר֖וֹן (GEN 23:2) — English (generated): Hebron
+  - NT: GEN 23:2 *Hiblón*; GEN 23:19 *Hiblon*
+  - answers: hebron
+  - Genesis 1-30: 3 verses. Explained as the other name of Kiriath-arba (23:2 "Iz nøme nqambógo, Hiblón"). Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hiblon').
+  - script:gloss.py, 2026-10-15, supersedes `name:hebron.g`
+- **`name:mamre.g.gloss`** מַמְרֵא hbo:4471a (H4471) → **Mamle** [high, decided, attested]
+  - gloss: מַמְרֵא: מַמְרֵֽא (GEN 25:9) — English (generated): Mamre
+  - NT: GEN 25:9 *Mamle*; GEN 23:19 *Mamle*
+  - answers: mamre
+  - Genesis 1-30: 7 verses.
+  - script:gloss.py, 2026-10-15, supersedes `name:mamre.g`
+- **`name:machpelah.g.gloss`** מַכְפֵּלָה hbo:4375 (H4375) → **Makpela** [high, decided, attested]
+  - gloss: מַכְפֵּלָה: מַּכְפֵּלָה֙ (GEN 23:9) — English (generated): of Machpelah
+  - NT: GEN 23:9 *Makpela*; GEN 25:9 *Makpela nandi nqa-té*
+  - answers: machpelah, cave of machpelah
+  - Genesis 1-30: 4 verses. "the cave of Machpelah" = "Makpela nandi nqa" (25:9; 49:30, 50:13 will need it).
+  - script:gloss.py, 2026-10-15, supersedes `name:machpelah.g`
+- **`name:ephron.g.gloss`** עֶפְרוֹן hbo:6085 (H6085) → **Eflon** [high, decided, attested]
+  - gloss: עֶפְרוֹן: עֶפְרוֹן֒ (GEN 23:16) — English (generated): Ephron s terms
+  - NT: GEN 23:16 *Eflon*; GEN 25:9 *Eflon-qa*
+  - answers: ephron
+  - Genesis 1-30: 7 verses.
+  - script:gloss.py, 2026-10-15, supersedes `name:ephron.g`
+- **`name:terah.g.gloss`** תֶּרַח hbo:8646 (H8646) → **Tela** [high, decided, attested]
+  - gloss: תֶּרַח: תֶּ֔רַח (GEN 11:27) — English (generated): of Terah
+  - gloss: Θάρα: Θάρα (LUK 3:34) — English (generated): of Terah
+  - NT: GEN 11:27 *Tela*
+  - answers: terah
+  - Genesis 1-30: 8 verses.
+  - script:gloss.py, 2026-10-15, supersedes `name:terah.g`
+- **`name:gilead.g.gloss`** גִּלְעָד (Gilead) → **Gilead** [low, decided, by-rule]
+  - gloss: גִּלְעָד: גִּלְעָֽד (GEN 31:21) — English (generated): of Gilead
+  - NT: GEN 12:8 *Betel manqei popotap*
+  - answers: gilead
+  - Not in the corpus; kept as spelled (no r, no h; vowels close to the spelling). Place class noun for hill country as GEN 12:8, LUK 1:39.; Kuni: Gilead manqei popotap (the hill country of Gilead)
+  - script:gloss.py, 2026-10-15, supersedes `name:gilead.g`
+- **`name:jabbok.g.gloss`** יַבֹּק (Jabbok) → **Zabok** [low, decided, by-rule]
+  - gloss: יַבֹּק: יַבֹּֽק (GEN 32:23) — English (generated): of the Jabbok
+  - NT: MRK 1:5 *Zoden kea*
+  - answers: jabbok
+  - j → z, double consonant single; river class noun kea (place_class_noun).; Kuni: Zabok kea
+  - script:gloss.py, 2026-10-15, supersedes `name:jabbok.g`
+- **`name:succoth.g.gloss`** סֻכּוֹת (Succoth) → **Sukot; meaning '(Taqa manqa mokho: Khoev-qasis.)'** [medium, decided, by-rule]
+  - gloss: סֻכּוֹת: סֻכֹּ֔תָ (GEN 33:17) — English (generated): to Succoth
+  - NT: GEN 21:31 *mbo-akhayám*
+  - answers: succoth
+  - Not in the corpus: k for kk, th → t (letter rules). Naming as 21:31 'iz … mbo-akhayám' with the meaning in brackets.; Kuni: Sukot manqei
+  - script:gloss.py, 2026-10-15, supersedes `name:succoth.g`
+- **`name:hamor.g.gloss`** חֲמוֹר (Hamor) → **Amo** [high, decided, attested]
+  - gloss: חֲמוֹר: חֲמ֖וֹר (GEN 33:19) — English (generated): of Hamor
+  - NT: ACT 7:16 *Hamo-gi nakheis-qa*
+  - answers: hamor
+  - 'the sons of Hamor' = Hamo-gi nakheis (ACT 7:16); 'Shechem's father' = 'Sekem-gé evé' (pattern 11:27). Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hamo').
+  - script:gloss.py, 2026-10-15, supersedes `name:hamor.g`
+- **`name:el_elohe_israel.g.gloss`** אֵל אֱלֹהֵי יִשְׂרָאֵל (El-Elohe-Israel) → **El-Eloe-Izlael; meaning '(Taqa manqa mokho: Mbumbukiam, ndego Izlael-ge Mbumbukiam.)'** [low, decided, by-rule]
+  - gloss: אֵל: אֵ֖ל (GEN 33:20) — English (generated): El Elohe Israel
+  - NT: GEN 28:19 *Taqa manqa mokho*
+  - answers: el-elohe-israel, elohe, el elohe israel
+  - Not in the corpus: inner h drops (Bila, Zilpa), Izlael attested; meaning as the BSB note (God, the God of Israel).
+  - script:gloss.py, 2026-10-15, supersedes `name:el_elohe_israel.g`
+- **`name:hivite.g.gloss`** חִוִּי (Hivite) → **Iv-ak** [high, decided, attested]
+  - gloss: חִוִּי: חִוִּ֥י (GEN 10:17) — English (generated): the Hivites
+  - NT: GEN 10:17 *Hiv-ak*
+  - answers: hivite, hivites
+  - Origin suffix -ak (suffix_origin). gen034:2 'Hiv-ak Hamo-ge yo'. Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hiv-ak').
+  - script:gloss.py, 2026-10-15, supersedes `name:hivite.g`
+- **`name:allon_bacuth.g.gloss`** אַלּוֹן בָּכוּת (Allon-bacuth) → **Alon-Bakut; meaning '(Taqa manqa mokho: Eiv matev-qa tae.)'** [medium, decided, by-rule]
+  - gloss: אַלֹּון: אַלּ֥וֹן (GEN 35:8) — English (generated): the oak
+  - NT: GEN 23:2 *eiv matev ndøgó*
+  - answers: allon, bacuth, allon-bacuth
+  - Double consonants single, ch/k → k. eiv matev (weeping, 23:2) + tae (tree). gen035:8.
+  - script:gloss.py, 2026-10-15, supersedes `name:allon_bacuth.g`
+- **`name:el_bethel.g.gloss`** אֵל בֵּית־אֵל (El-bethel) → **El-Betel; meaning '(Taqa manqa mokho: Betel-qa Mbumbukiam.)'** [medium, decided, by-rule]
+  - gloss: אֵל: אֵ֖ל (GEN 35:7)
+  - NT: GEN 28:19 *iz Betel mbo-akhá*
+  - answers: el-bethel, el
+  - Like El-Eloe-Izlael (gen033:20). gen035:7.
+  - script:gloss.py, 2026-10-15, supersedes `name:el_bethel.g`
+- **`name:ben_oni.g.gloss`** בֶּן־אוֹנִי (Ben-oni) → **Ben-Oni; meaning '(Taqa manqa mokho: Noqa nqosøgeap-ge yó.)'** [medium, decided, by-rule]
+  - gloss: בֶּן אֹונִי: בֶּן (GEN 35:18) — English (generated): vvv
+  - NT: GEN 19:38 *Iz Ben-Ami mbo-akhá.*
+  - answers: ben, oni, ben-oni
+  - Like Ben-Ami (19:38). The meaning 'son of my pain' uses nqosøgeap (1TH 5:3) with -ge yo (Ezoqam-ge Yo pattern). gen035:18.
+  - script:gloss.py, 2026-10-15, supersedes `name:ben_oni.g`
+- **`name:eder.g.gloss`** מִגְדַּל־עֵדֶר (Migdal-eder, the Tower of Eder) → **Eda-qa khoev eqawat-qape** [medium, decided, by-rule]
+  - gloss: מִגְדַּל עֵדֶר: מִגְדַּל (GEN 35:21) — English (generated): the Tower of Eder
+  - NT: LUK 13:4 *khoev eqawat-qape qandonqoe*
+  - answers: eder, tower, tower of eder
+  - The BSB translates migdal; LUK 13:4 the tower of Siloam = khoev eqawat-qape. Final -er → -a (letter rules). gen035:21.; English: Eder's tall house
+  - script:gloss.py, 2026-10-15, supersedes `name:eder.g`
+- **`name:kiriath_arba.g.gloss`** קִרְיַת הָאַרְבַּע (Kiriath-arba) → **Kiliat-Aba** [high, decided, attested]
+  - gloss: קִרְיַת אַרְבַּע: קִרְיַ֥ת (GEN 23:2) — English (generated): in Kiriath arba
+  - NT: GEN 23:2 *Kiliat-Aba taon-té gunaním.*
+  - answers: kiriath, arba, kiriath-arba
+  - The team's form (23:2), explained there as Hiblon. gen035:27.; Kuni: Kiliat-Aba taon
+  - script:gloss.py, 2026-10-15, supersedes `name:kiriath_arba.g`
+- **`name:horites.g.gloss`** חֹרִי (Horite, Horites) → **Ol bawan; a Horite = Ol bawan-ák** [high, decided, attested]
+  - gloss: חֹרִי: חֹרִ֖י (GEN 14:6) — English (generated): the Horites
+  - NT: GEN 14:6 *Hol bawan vøzø̄khana*
+  - answers: horite, horites
+  - 14:6 'Hol bawan' (the Horite people, Mount Seir). Seir the Horite = 'Sia, ndego Hol bawan-ák' (gen036:20, after RUT 1:2 'Eflat khagua bawan-ák'). Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Hol bawan; a Horite = Hol bawan-ák').
+  - script:gloss.py, 2026-10-15, supersedes `name:horites.g`
+- **`name:eliphaz.g.gloss`** אֱלִיפַז (Eliphaz) → **Elifaz** [medium, decided, by-rule]
+  - gloss: אֱלִיפַז: אֱלִיפָ֑ז (GEN 36:4) — English (generated): Eliphaz
+  - NT: GEN 26:34 *Basømát*
+  - answers: eliphaz
+  - ph → f (letter rules). Also Job's friend Eliphaz the Temanite (Job 2:11) if the team wants one form. gen036:4-16.
+  - script:gloss.py, 2026-10-15, supersedes `name:eliphaz.g`
+- **`name:adah.g.gloss`** עָדָה (Adah) → **Eida** [high, decided, attested]
+  - gloss: עָדָה: עָדָ֔ה (GEN 4:19) — English (generated): Adah
+  - NT: GEN 4:19 *Eida nekā Zila*
+  - answers: adah
+  - Lamech's wife Adah (4:19); the same name for Esau's wife. gen036:2-16.
+  - script:gloss.py, 2026-10-15, supersedes `name:adah.g`
+- **`name:basemath.g.gloss`** בָּשְׂמַת (Basemath) → **Basømat** [high, decided, attested]
+  - gloss: בָּשְׂמַת: בָּ֣שְׂמַ֔ת (GEN 26:34) — English (generated): and Basemath
+  - NT: GEN 26:34 *Neka nømu ndugu, Basømát.*
+  - answers: basemath
+  - Esau's wife (26:34). gen036:3-17.; English: final accent: Basømát
+  - script:gloss.py, 2026-10-15, supersedes `name:basemath.g`
+- **`name:jeush.g.gloss`** יְעוּשׁ (Jeush) → **Zeus** [medium, decided, by-rule]
+  - gloss: יְעוּשׁ: יְע֥וּשׁ (GEN 36:5) — English (generated): Jeush
+  - NT: ACT 14:12 *Zus-qá iz*
+  - answers: jeush
+  - j → z, sh → s. The Greek god is 'Zus' in the NT (ACT 14:12), so no clash. gen036:5, 14, 18.
+  - script:gloss.py, 2026-10-15, supersedes `name:jeush.g`
+- **`name:jobab.g.gloss`** יוֹבָב (Jobab) → **Zobab** [high, decided, attested]
+  - gloss: יוֹבָב: יוֹבָ֑ב (GEN 10:29) — English (generated): and Jobab
+  - NT: GEN 10:29 *neka Zobab*
+  - answers: jobab
+  - Joktan's son Jobab (10:29); the king of Edom has the same name. gen036:33-34.
+  - script:gloss.py, 2026-10-15, supersedes `name:jobab.g`
+- **`name:midian.g.gloss`** מִדְיָן (Midian) → **Midian; the Midianites = Midian bawan** [high, decided, attested]
+  - gloss: מִדְיָן: מִדְיָ֑ן (GEN 25:2) — English (generated): Midian
+  - NT: GEN 25:2 *neka Midian*
+  - answers: midian, midianites
+  - Abraham's son (25:2). 'defeated Midian' = 'Midian bawan zøkhaná' (14:5 'Lefai bawan zøkhaná'). gen036:35.
+  - script:gloss.py, 2026-10-15, supersedes `name:midian.g`
+- **`name:uz.g.gloss`** עוּץ (Uz) → **Uz** [high, decided, attested]
+  - gloss: עוּץ: ע֥וּץ (GEN 10:23) — English (generated): Uz
+  - NT: GEN 10:23 *Uz neka Hul*
+  - answers: uz
+  - Aram's son Uz (10:23), Nahor's Uz (22:21). gen036:28.
+  - script:gloss.py, 2026-10-15, supersedes `name:uz.g`
+- **`name:gen036_others.g.gloss`** the other names of Gen 36 (by the letter rules) → **Ana, Zibeon, Nebayot, Oma, Zefo, Gatam, Kenaz, Timna, Naat, Zela, Sama, Miza, Lotan, Sobal, Dison, Eza, Disan, Oli, Emam, Alvan, Manaat, Ebal, Sefo, Onam, Aya, Emdan, Esban, Itlan, Kelan, Bilan, Zaavan, Akan, Alan, Dinaba, Bozla, Usam, Bedad, Avit, Samla, Masleka, Bal-Anan, Akbo, Pau, Meetabel, Matled, Me-Zaab, Alva, Zetet, Ela, Pinon, Mibza, Magdiel, Ilam** [medium, decided, by-rule]
+  - NT: GEN 28:9 *Nebayot-gú sævømiú*; GEN 10:23 *Uz neka Hul*
+  - answers: anah, zibeon, nebaioth, omar, zepho, gatam, kenaz, timna, nahath, zerah, shammah, mizzah, lotan, shobal, dishon, ezer, dishan, hori, hemam, alvan, manahath, ebal, shepho, onam, aiah, hemdan, eshban, ithran, cheran, bilhan, zaavan, akan, aran, dinhabah, bozrah, husham, bedad, avith, samlah, masrekah, baal, hanan, achbor, pau, mehetabel, matred, zahab, alvah, jetheth, elah, pinon, mibzar, magdiel, iram
+  - Letter rules (names page): r → l, final r drops, inner h drops, sh → s, j → z, ch → k, th → t, double consonants single. Zerah = Zela like Terah = Tela (also Judah's son Zerah, MAT 1:3 'Pelez neka Zela'). Names that recur later (Zerah, Kenaz, Timna, Teman, Anah) should keep these forms. gen036.; English: Anah; English: Nebaioth, attested 28:9; English: Omar; English: Zepho; English: Nahath; English: Zerah; English: Shammah; English: Mizzah; English: Ezer; English: Hori; English: Manahath; English: Shepho; English: Aiah; English: Ithran; English: Cheran; English: Bilhan; English: Aran; English: Dinhabah; English: Bozrah; English: Husham; English: Avith; English: Samlah; English: Masrekah; English: Baal-hanan; English: Achbor; English: Mehetabel; English: Matred; English: Me-zahab; English: Alvah; English: Jetheth; English: Elah; English: Mibzar; English: Iram Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Ana, Zibeon, Nebayot, Oma, Zefo, Gatam, Kenaz, Timna, Naat, Zela, Sama, Miza, Lotan, Sobal, Dison, Eza, Disan, Holi, Hemam, Alvan, Manaat, Ebal, Sefo, Onam, Aya, Hemdan, Esban, Itlan, Kelan, Bilan, Zaavan, Akan, Alan, Dinaba, Bozla, Husam, Bedad, Avit, Samla, Masleka, Bal-Hanan, Akbo, Pau, Meetabel, Matled, Me-Zaab, Alva, Zetet, Ela, Pinon, Mibza, Magdiel, Ilam').
+  - script:gloss.py, 2026-10-15, supersedes `name:gen036_others.g`
+- **`name:ishmaelites.g.gloss`** יִשְׁמְעֵאלִים (the Ishmaelites; a caravan of Ishmaelites) → **Ismael bawan; a caravan = Ismael bawan ezoqa kopoav, kemol namba** [medium, decided, by-rule]
+  - gloss: יִשְׁמְעֵאלִי: יִשְׁמְעֵאלִ֔ים (GEN 37:25) — English (generated): of Ishmaelites
+  - NT: GEN 16:15 *iz Ismael mbo-akhá*; GEN 14:5 *Lefai bawan zøkhaná*
+  - answers: ishmaelites, ishmaelite, caravan
+  - As the store's Midian bawan (Midianites): the people of Ishmael = Ismael bawan. No word for a caravan: 'many Ishmaelites with camels'. gen037:25, 27, 28; 39:1.; Kuni: Ismael bawan ezoqa
+  - script:gloss.py, 2026-10-15, supersedes `name:ishmaelites.g`
+- **`name:dothan.g.gloss`** דֹּתָן (Dothan) → **Dotan** [medium, decided, by-rule]
+  - gloss: דֹּתָן: דֹּתָ֑יְנָ (GEN 37:17) — English (generated): at Dothan
+  - NT: ACT 9:30 *Sæzalia taon-té ginø-ituím*
+  - answers: dothan
+  - Not in the corpus. th → t (letter rule); a town takes taon (place_class_noun). gen037:17.; Kuni: Dotan taon
+  - script:gloss.py, 2026-10-15, supersedes `name:dothan.g`
+- **`name:medanites.g.gloss`** מְדָנִים (the Medanites, Gen 37:36 Hebrew; the BSB has Midianites) → **Medan bawan** [medium, decided, attested]
+  - gloss: מְדָנִי: מְּדָנִ֔ים (GEN 37:36) — English (generated): Meanwhile the Midianites
+  - NT: GEN 25:2 *Medan neka Midian*
+  - answers: medanites
+  - Medan, Abraham's son, is in the team's 25:2. The Hebrew of 37:36 has הַמְּדָנִים (Medanites), the BSB 'Midianites' (as 37:28 and 39:1); the draft follows the Hebrew and the notes give the BSB form.
+  - script:gloss.py, 2026-10-15, supersedes `name:medanites.g`
+- **`name:er.g.gloss`** עֵר (Er, Judah's firstborn) → **E** [medium, decided, attested]
+  - gloss: עֵר: עֵֽר (GEN 38:3) — English (generated): Er
+  - NT: LUK 3:28 *E-gé yó*
+  - answers: er
+  - Luke 3:28-29 writes the ancestor Er as E (final r drops, as Eba for Eber). gen038:3, 6-7; 46:12.
+  - script:gloss.py, 2026-10-15, supersedes `name:er.g`
+- **`name:shua.g.gloss`** שׁוּעַ (Shua, Judah's Canaanite father-in-law) → **Sua** [medium, decided, by-rule]
+  - gloss: שׁוּעַ: שׁ֑וּעַ (GEN 38:2) — English (generated): Shua
+  - NT: GEN 14:2 *Sodom*
+  - answers: shua
+  - Not in the corpus. sh → s (letter rule, Tasis). The Hebrew 38:2 lets 'his name' refer to the man (BSB); 38:12 'bat-Shua' = 'Sua-gu yu'. gen038:2, 12.; Kuni: Sua-gu yu (the daughter of Shua)
+  - script:gloss.py, 2026-10-15, supersedes `name:shua.g`
+- **`name:adullamite.g.gloss`** עֲדֻלָּמִי (Adullamite; Adullam) → **Adulam-ak** [medium, decided, by-rule]
+  - gloss: עֲדֻלָּמִי: עֲדֻלָּמִ֖י (GEN 38:1) — English (generated): an Adullamite
+  - NT: ACT 8:27 *Itiopia manqei-ák*
+  - answers: adullamite, adullam
+  - Double consonants single; origin suffix -ak (suffix_origin). gen038:1, 12, 20.; English: Adulam
+  - script:gloss.py, 2026-10-15, supersedes `name:adullamite.g`
+- **`name:chezib.g.gloss`** כְּזִיב (Chezib) → **Kezib** [low, decided, by-rule]
+  - gloss: כְּזִיב: כְזִ֖יב (GEN 38:5) — English (generated): at Chezib
+  - NT: RUT 1:19 *Betliem vemiav*
+  - answers: chezib
+  - Not in the corpus. ch → k; a small place takes vemiav (place_class_noun). gen038:5.; Kuni: Kezib vemiav
+  - script:gloss.py, 2026-10-15, supersedes `name:chezib.g`
+- **`name:timnah.g.gloss`** תִּמְנָתָה (Timnah) → **Timna** [medium, decided, by-rule]
+  - gloss: תִּמְנָה: תִּמְנָֽתָ (GEN 38:12) — English (generated): at Timnah
+  - NT: JHN 2:13 *Zelusalem taon-té*
+  - answers: timnah
+  - Final h drops (as the chief Timna, gen036). Gen 38:12-14.; Kuni: Timna taon
+  - script:gloss.py, 2026-10-15, supersedes `name:timnah.g`
+- **`name:enaim.g.gloss`** עֵינַיִם / פֶּתַח עֵינַיִם (Enaim, the entrance to Enaim) → **Enaim** [low, decided, by-rule]
+  - gloss: עֵינַיִם: עֵינַ֔יִם (GEN 38:14) — English (generated): to Enaim
+  - NT: RUT 4:1 *vemiav mboqog tambav-té*
+  - answers: enaim, entrance to enaim
+  - Not in the corpus. 'Entrance' as the village gate (RUT 4:1). gen038:14, 21.; Kuni: Enaim vemiav mboqog tambav-te (at the gate of Enaim)
+  - script:gloss.py, 2026-10-15, supersedes `name:enaim.g`
+- **`name:nile.g.gloss`** יְאֹר (the Nile) → **Nael kea** [medium, decided, by-rule]
+  - gloss: יְאֹר: יְאֹֽר (GEN 41:1) — English (generated): the Nile
+  - NT: MRK 1:5 *Zoden kea*
+  - answers: nile
+  - Not in the corpus. By the letter rules (English /ai/ → ae, as Sainai) with the river class noun kea (place_class_noun; Zoden kea, Yuflatis kea). After the first mention 'ta kea'. gen041:1-3, 17-18.
+  - script:gloss.py, 2026-10-16, supersedes `name:nile.g`
+- **`name:asenath.g.gloss`** אָסְנַת (Asenath) → **Asenat** [medium, decided, by-rule]
+  - gloss: אָסְנַת: אָֽסְנַ֗ת (GEN 41:45) — English (generated): Asenath
+  - NT: MAT 1:5 *Bowaz*
+  - answers: asenath
+  - th → t (letter rules). gen041:45, 50; 46:20.
+  - script:gloss.py, 2026-10-16, supersedes `name:asenath.g`
+- **`name:goshen.g45.gloss`** גֹּשֶׁן (Goshen) → **Gosen** [medium, decided, by-rule]
+  - gloss: גֹּשֶׁן: גֹּ֗שֶׁן (GEN 45:10) — English (generated): of Goshen
+  - NT: GEN 13:12 *Keinan manqei-té*
+  - answers: goshen, land of goshen
+  - Not in the corpus or the glossary; sh → s (name letters), a land takes manqei (place_class_noun). gen045:10; 46-47, 50:8 need it.; Kuni: Gosen manqei
+  - script:gloss.py, 2026-10-16, supersedes `name:goshen.g45`
+- **`name:atad.g50.gloss`** גֹּרֶן הָאָטָד (the threshing floor of Atad, 50:10-11) → **Atad** [medium, decided, by-rule]
+  - gloss: גֹּרֶן: גֹּ֣רֶן (GEN 50:10) — English (generated): the threshing floor
+  - NT: RUT 3:2 *bali nanga tøkuza manqei*
+  - answers: atad
+  - Name by the letter table (unchanged); threshing floor as the human Ruth (term:H1637.h). gen050:10-11.; Kuni: Atad-qa bali nanga tøkuza manqei
+  - script:gloss.py, 2026-10-21, supersedes `name:atad.g50`
+- **`name:abel_mizraim.g50.gloss`** אָבֵל מִצְרַיִם (Abel-mizraim, 50:11) → **Eibol-Mizlaim** [low, decided, by-rule]
+  - gloss: אָבֵל מִצְרַיִם: אָבֵ֣ל (GEN 50:11) — English (generated): the mourning
+  - NT: GEN 4:8 *Eibol*
+  - answers: mizraim, abel-mizraim
+  - Eibol as the store's Abel (same letters in the Hebrew of the first part is 'mourning', not Abel's name), r -> l. The pun (mourning of Egypt) is not shown; for the team. gen050:11.
+  - script:gloss.py, 2026-10-21, supersedes `name:abel_mizraim.g50`
+- **`name:machir.g50.gloss`** מָכִיר (Machir, 50:23) → **Makil** [low, decided, by-rule]
+  - gloss: מָכִיר: מָכִיר֙ (GEN 50:23) — English (generated): of Machir
+  - NT: MAT 1:5 *Boaz*
+  - answers: machir
+  - Letter rules ch -> k, r -> l. gen050:23.
+  - script:gloss.py, 2026-10-21, supersedes `name:machir.g50`
+- **`name:gen46_list.g46.gloss`** the names of Jacob's grandsons and great-grandsons, Gen 46:9-24 (also Num 26, 1 Chr 2-8) → **Palu, Kami, Zemuel, Zamin, Oad, Zakin, Geson, Koat, Melali, Amul, Tola, Puva, Zob, Simlon, Seled, Zaleel, Zifion, Agi, Suni, Ezbon, Eli, Alodi, Aleli, Imna, Isva, Isvi, Belia, Sela, Eba, Malkiel, Beka, Asbel, Gela, Ei, Los, Mupim, Upim, Ad, Usim, Zazeel, Zeza, Silem** [medium, decided, by-rule]
+  - NT: GEN 25:4 *Hanok*; GEN 36:11 *Zefo*
+  - answers: pallu, carmi, jemuel, jamin, ohad, jachin, gershon, kohath, merari, hamul, tola, puvah, job, shimron, sered, jahleel, ziphion, haggi, shuni, ezbon, eri, arodi, areli, imnah, ishvah, ishvi, beriah, serah, heber, malchiel, becher, ashbel, gera, ehi, rosh, muppim, huppim, ard, hushim, jahzeel, jezer, shillem, dinah, dan, hushim
+  - By the letter rules (names page): r → l (Melali, Simlon, Seled, Alodi, Aleli, Belia, Gela, Los), r before a consonant or final drops (Kami, Ad, Heba, Beka, Zeza), j/y → z (Zemuel, Zamin, Zakin, Zaleel, Zazeel, Zeza, Zob), sh → s, ch → k, ph → f, inner h drops (Oad, Zaleel, Zazeel, Ei), initial h kept (Hamul, Hagi, Heba, Hupim, Husim), double consonants single. Three forms fall together with other names: Eli (Eri) with the NT's Eli, Sela (Serah, a woman) with Sela (Shelah), Gela (Gera) with Gela (Gerar): question for the Kuni team. Zob (יוֹב) is not Job (אִיּוֹב, NT Zob, JAS 5:11) but comes out the same. gen046:9-24; Num 26 and 1 Chr need them.; English: Pallu; English: Carmi; English: Jemuel; English: Jamin; English: Ohad; English: Jachin; English: Gershon; English: Kohath; English: Merari; English: Hamul; English: Tola; English: Puvah; English: Job: יוֹב; English: Shimron; English: Sered; English: Jahleel; English: Ziphion; English: Haggi; English: Shuni; English: Ezbon; English: Eri; English: Arodi; English: Areli; English: Imnah; English: Ishvah; English: Ishvi; English: Beriah; English: Serah; English: Heber; English: Malchiel; English: Becher; English: Ashbel; English: Gera; English: Ehi; English: Rosh; English: Muppim; English: Huppim; English: Ard; English: Hushim; English: Jahzeel; English: Jezer; English: Shillem Written without H from 2026-10-26 (project decision on T8: no H in any name we write; earlier drafts keep 'Palu, Kami, Zemuel, Zamin, Oad, Zakin, Geson, Koat, Melali, Hamul, Tola, Puva, Zob, Simlon, Seled, Zaleel, Zifion, Hagi, Suni, Ezbon, Eli, Alodi, Aleli, Imna, Isva, Isvi, Belia, Sela, Heba, Malkiel, Beka, Asbel, Gela, Ei, Los, Mupim, Hupim, Ad, Husim, Zazeel, Zeza, Silem').
+  - script:gloss.py, 2026-10-21, supersedes `name:gen46_list.g46`
+- **`name:yahweh.team`** יְהוָה → **Evezøza** [high, decided, attested]
+  - gloss: יהוה: יְהוָ֥ה (GEN 2:4) — English (generated): that the LORD
+  - NT: GEN 2:4 *Evezøza*; GEN 15:2 *Evézøza*
+  - answers: lord, the lord
+  - The team: Evezøza everywhere, not Yawe (see term:H3068.team). Ruth's Yawe (name:yahweh_ruth.gloss) is retired.
+  - team:kuni-team, 2026-10-26, supersedes `name:yahweh.g.gloss`
+<!-- store:end sha=ff4e2660 -->

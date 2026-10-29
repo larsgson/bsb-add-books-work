@@ -4,7 +4,7 @@ Dato: 09.10.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 
 ## Hvad udkastet er
 
-- Oversat direkte fra den hebraiske tekst i `orig/heb/gen033.txt`, sammenholdt med Berean Standard Bible (`reference/BSB/gen033.txt`). BSB er kun brugt til at afgøre valg hvor hebraisken tillader mere end én gengivelse.
+- Oversat direkte fra den hebraiske tekst i `orig/heb/gen033.txt`, sammenholdt med Berean Standard Bible (`reference/BSB/gen033.txt`). BSB er kun brugt til at afgøre valg hvor hebraisken tillader mere end én gengivelse. SVK er ikke brugt.
 - Husstil efter `gen_style_guide.md` (navnetabellen for kap. 21-50 fulgt). Kap. 31-32 var ikke tilgængelige som udkast (kap. 32 skrives parallelt); henvisninger til kap. 32 følger den hebraiske versnummerering i `orig/` (Mahanajim 32,3; Israel 32,29; Peniel 32,31).
 - 20 vers, versnummerering som i `orig/` (identisk med BSB i kap. 33).
 - Inline-noter: `{T:}` 7 (v8, v10, v11, v14, v17, v19, v20), `{E:}` 3 (v3, v4, v18), `{H:}` 0, `{N:}` 1 (v10 `Ansigt`).
