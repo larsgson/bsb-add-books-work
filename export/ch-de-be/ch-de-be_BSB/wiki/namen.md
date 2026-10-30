@@ -1,6 +1,6 @@
 ---
 title: Namen
-entries: [letter_h, letter_sh, letter_ts, letter_tradition, name:*, letter_greek_os, letter_greek_ph, letter_greek_ai, letter_greek_ia, letter_greek_ky, letter_greek_y, letter_th, name:midian, name:reuel, name:zipporah, name:gershom, name:canaanites, name:hittites, name:perizzites, name:hivites, name:jebusites, name:jethro, name:aaron, name:hanoch, name:pallu, name:hezron, name:carmi, name:jemuel, name:jamin, name:ohad, name:jachin, name:zohar, name:shaul, name:gershon, name:kohath, name:merari, name:libni, name:shimei, name:amram, name:izhar, name:uzziel, name:mahli, name:mushi, name:jochebed, name:korah, name:nepheg, name:zichri, name:mishael, name:elzaphan, name:sithri, name:elisheba, name:amminadab, name:nahshon, name:nadab, name:abihu, name:eleazar, name:ithamar, name:assir, name:elkanah, name:abiasaph, name:korahites, name:putiel, name:goshen]
+entries: [letter_h, letter_sh, letter_ts, letter_tradition, name:*, letter_greek_os, letter_greek_ph, letter_greek_ai, letter_greek_ia, letter_greek_ky, letter_greek_y, letter_th, name:midian, name:reuel, name:zipporah, name:gershom, name:canaanites, name:hittites, name:perizzites, name:hivites, name:jebusites, name:jethro, name:aaron, name:hanoch, name:pallu, name:hezron, name:carmi, name:jemuel, name:jamin, name:ohad, name:jachin, name:zohar, name:shaul, name:gershon, name:kohath, name:merari, name:libni, name:shimei, name:amram, name:izhar, name:uzziel, name:mahli, name:mushi, name:jochebed, name:korah, name:nepheg, name:zichri, name:mishael, name:elzaphan, name:sithri, name:elisheba, name:amminadab, name:nahshon, name:nadab, name:abihu, name:eleazar, name:ithamar, name:assir, name:elkanah, name:abiasaph, name:korahites, name:putiel, name:goshen, name:abib, name:etham, name:pi_hahiroth, name:migdol, name:baal_zephon, name:miriam, name:shur, name:elim, name:sin_desert, name:sinai, name:rephidim, name:hur, name:joshua, name:eliezer, name:ephod, name:bezalel, name:uri, name:oholiab, name:ahisamach, name:nun]
 ---
 # Namen
 
@@ -382,6 +382,126 @@ Für griechische Namen, die das Korpus nicht hat, gelten seine Muster: -ος →
   - answers: goshen
   - Wie in den Genesis-Entwürfen (1Mo 45-47).
   - agent:exo008, 2026-10-30
+- **`name:abib`** אָבִיב → **Abib** [high, decided, by-rule]
+  - gloss: אָבִיב: אָבִֽיב (EXO 13:4) — English (generated): of Abib
+  - NT: EXO 13:4 *im Monet Abib*
+  - answers: abib
+  - Monat der Ähren (Frühling); 23,15; 34,18.
+  - agent:exo013, 2026-10-30
+- **`name:etham`** אֵתָם → **Etam** [high, decided, by-rule]
+  - gloss: אֵתָם: אֵתָ֔ם (EXO 13:20) — English (generated): at Etham
+  - NT: EXO 13:20 *z Etam*
+  - answers: etham
+  - Umschrift; th → t.
+  - agent:exo013, 2026-10-30
+- **`name:pi_hahiroth`** פִּי הַחִירֹת → **Pi-Hachirot** [high, decided, by-rule]
+  - gloss: פִּי הַחִירֹת: הַחִירֹ֔ת (EXO 14:2) — English (generated): Pi hahiroth
+  - NT: EXO 14:2 *vor Pi-Hachirot*
+  - answers: pi-hahiroth
+  - Umschrift (ḥ → ch).
+  - agent:exo014, 2026-10-30
+- **`name:migdol`** מִגְדֹּל → **Migdol** [high, decided, by-rule]
+  - gloss: מִגְדֹּל: מִגְדֹּ֖ל (EXO 14:2) — English (generated): Migdol
+  - NT: EXO 14:2 *zwüsche Migdol*
+  - answers: migdol
+  - Umschrift.
+  - agent:exo014, 2026-10-30
+- **`name:baal_zephon`** בַּעַל צְפֹן → **Baal-Zefon** [high, decided, by-rule]
+  - gloss: בַּעַל צְפֹן: בַּ֣עַל (EXO 14:2) — English (generated): Baal zephon
+  - NT: EXO 14:2 *vor Baal-Zefon*
+  - answers: baal-zephon
+  - Umschrift (ph → f, ṣ → z).
+  - agent:exo014, 2026-10-30
+- **`name:miriam`** מִרְיָם → **Mirjam** [high, decided, by-rule]
+  - gloss: מִרְיָם: מִרְיָ֨ם (EXO 15:20) — English (generated): Then Miriam
+  - NT: EXO 15:20 *d Prophetin Mirjam*
+  - answers: miriam
+  - Hebräische Form (nicht Maria); Prophetin, Schwester Aarons.
+  - agent:exo015, 2026-10-30
+- **`name:shur`** שׁוּר → **Schur** [high, decided, by-rule]
+  - gloss: שׁוּר: שׁ֑וּר (EXO 15:22) — English (generated): of Shur
+  - NT: GEN 16:7 *Schur*; EXO 15:22 *d Wüeschti Schur*
+  - answers: shur
+  - Wie 1Mo 16,7; 20,1; 25,18 (Entwürfe).
+  - agent:exo015, 2026-10-30
+- **`name:elim`** אֵילִם → **Elim** [high, decided, by-rule]
+  - gloss: אֵילִם: אֵילִ֔מָ (EXO 15:27) — English (generated): to Elim
+  - NT: EXO 15:27 *uf Elim*
+  - answers: elim
+  - Umschrift; 16,1.
+  - agent:exo015, 2026-10-30
+- **`name:sin_desert`** סִין → **d Wüeschti Sin** [high, decided, by-rule]
+  - gloss: סִין: סִ֔ין (EXO 16:1) — English (generated): of Sin
+  - NT: EXO 16:1 *d Wüeschti Sin*
+  - answers: wilderness of sin
+  - סִין (nicht צִן »Zin«); zwischen Elim und Sinai.
+  - agent:exo016, 2026-10-30
+- **`name:sinai`** סִינַי → **Sinai** [high, decided, attested]
+  - gloss: סִינַי: סִינָ֑י (EXO 16:1) — English (generated): and Sinai
+  - NT: GAL 4:24 *Sinai*; EXO 16:1 *Sinai*
+  - answers: sinai
+  - Wie Bietenhard (Gal 4,24; Apg 7,30).
+  - agent:exo016, 2026-10-30
+- **`name:rephidim`** רְפִידִים → **Refidim** [high, decided, by-rule]
+  - gloss: רְפִידִים: רְפִידִ֔ים (EXO 17:1) — English (generated): at Rephidim
+  - NT: EXO 17:1 *Z Refidim*
+  - answers: rephidim
+  - Umschrift; 17,8; 19,2.
+  - agent:exo017, 2026-10-30
+- **`name:hur`** חוּר → **Hur** [high, decided, by-rule]
+  - gloss: חוּר: ח֔וּר (EXO 17:10) — English (generated): and Hur
+  - NT: EXO 17:10 *der Hur*
+  - answers: hur
+  - Begleiter Moses (17,10.12; 24,14); Grossvater Bezalels (31,2).
+  - agent:exo017, 2026-10-30
+- **`name:joshua`** יְהֹושֻׁעַ → **Josua** [high, decided, attested]
+  - gloss: יְהֹושֻׁעַ: יְהוֹשֻׁ֨עַ֙ (EXO 17:9) — English (generated): Joshua
+  - NT: HEB 4:8 *Josua*; EXO 17:9 *zum Josua*
+  - answers: joshua
+  - Wie Bietenhard Hebr 4,8; im Projekt schon Buch Josua (Entwürfe).
+  - agent:exo017, 2026-10-30
+- **`name:eliezer`** אֱלִיעֶזֶר → **Elieser** [high, decided, by-rule]
+  - gloss: אֱלִיעֶזֶר: אֱלִיעֶ֑זֶר (EXO 18:4) — English (generated): Eliezer
+  - NT: EXO 18:4 *Elieser*
+  - answers: eliezer
+  - Sohn Moses; Fussnote »Gott isch Hilf«.
+  - agent:exo018, 2026-10-30
+- **`name:ephod`** וְ → **Efod** [high, decided, by-rule]
+  - gloss: וְ: וְ (EXO 25:7) — English (generated): and gemstones
+  - NT: EXO 25:7 *für ds Efod*
+  - answers: ephod
+  - Priestergewand, Lehnwort (ds Efod); Kap. 28.
+  - agent:exo025, 2026-10-30
+- **`name:bezalel`** בְּצַלְאֵל → **Bezalel** [high, decided, by-rule]
+  - gloss: בְּצַלְאֵל: בְּצַלְאֵ֛ל (EXO 31:2) — English (generated): Bezalel
+  - NT: EXO 31:2 *der Bezalel*
+  - answers: bezalel
+  - Suhn vom Uri, em Suhn vom Hur, us em Stamm Juda.
+  - agent:exo031, 2026-10-30
+- **`name:uri`** אוּרִי → **Uri** [high, decided, by-rule]
+  - gloss: אוּרִי: אוּרִ֥י (EXO 31:2) — English (generated): of Uri
+  - NT: EXO 31:2 *vom Uri*
+  - answers: uri
+  - Vater Bezalels.
+  - agent:exo031, 2026-10-30
+- **`name:oholiab`** אׇהֳלִיאָב → **Oholiab** [high, decided, by-rule]
+  - gloss: אׇהֳלִיאָב: אָהֳלִיאָ֞ב (EXO 31:6) — English (generated): Oholiab
+  - NT: EXO 31:6 *der Oholiab*
+  - answers: oholiab
+  - Suhn vom Ahisamach, us em Stamm Dan.
+  - agent:exo031, 2026-10-30
+- **`name:ahisamach`** אֲחִיסָמָךְ → **Ahisamach** [high, decided, by-rule]
+  - gloss: אֲחִיסָמָךְ: אֲחִֽיסָמָךְ֙ (EXO 31:6) — English (generated): of Ahisamach
+  - NT: EXO 31:6 *vom Ahisamach*
+  - answers: ahisamach
+  - Vater Oholiabs.
+  - agent:exo031, 2026-10-30
+- **`name:nun`** נוּן → **Nun** [high, decided, by-rule]
+  - gloss: נוּן: נוּן֙ (EXO 33:11) — English (generated): of Nun
+  - NT: EXO 33:11 *vom Nun*
+  - answers: nun
+  - Josua, der Suhn vom Nun.
+  - agent:exo033, 2026-10-30
 - **`name:naomi`** נָעֳמִי → **Noomi** [high, decided, attested]
   - NT: RUT 2:1 *Noomi*
   - answers: naomi
@@ -820,4 +940,4 @@ Für griechische Namen, die das Korpus nicht hat, gelten seine Muster: -ος →
   - NT: ACT 4:36 *Zypere*
   - answers: cyprus
   - agent:curation-study, 2026-10-15
-<!-- store:end sha=737a1185 -->
+<!-- store:end sha=9a0ac337 -->

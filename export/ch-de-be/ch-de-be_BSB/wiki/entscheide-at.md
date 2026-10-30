@@ -1,6 +1,6 @@
 ---
 title: Entscheide AT-Wortschatz
-entries: [term:H2617, term:H1350, term:H2205, term:H3618, term:H2545, term:H8184, term:H2406, term:H7105, term:H7641, term:H1637, term:H5401, formula:weep_aloud, term:H2009, term:H3247, term:H4487, term:H2904, term:H7021, term:royal_robe, term:H1254, formula:in_the_beginning, formula:tohu_wabohu, term:H8415, term:H7549, formula:evening_morning, formula:and_it_was_so, formula:that_it_was_good, formula:after_its_kind, term:nefesh_chayah, term:H120, term:H5175, term:H6174, term:H779, term:H1288, term:H3999, term:H8392, term:H7198, term:H1285, term:H2555, term:H4135, term:H8198, term:H1616, term:H2233, term:H6666, term:gebiret, term:H3045_sex, term:H436, term:H520, term:H8255, formula:gathered_to_people, formula:here_i_am, formula:and_he_died, term:H5631, term:H953, term:captain_guard, term:H4676, term:H2748, term:H8441, term:H6629, term:H3701, term:H6485, term:rech_nichoach, term:midwife, formula:fear_god, term:chayah_piel, term:brick_clay, term:perek, term:forced_labor, term:store_cities, term:nile, term:newborn_son_daughter, formula:the_more_the_more, term:qutz_dread, term:chayot, term:deal_shrewdly, term:sharats, term:title_exodus, term:tebah_basket, term:H1573_papyrus, term:tar_pitch, term:H5488_reeds, term:hebrew_adj, term:H2896_beautiful, term:H3243_nurse, term:H4871_draw_out, term:H584_groan, term:H5647_avodah_work, formula:named_him, term:ruler_judge, term:H5572_bush, term:H5927_bring_up, term:H7342_spacious, term:days_journey, formula:milk_honey, formula:peoples_list, formula:ehyeh, formula:god_of_fathers, term:H2859_father_in_law, term:H2205_elders_israel, term:H5337_plunder, term:H4294_staff, term:H6879_leprous, term:H8210_pour, formula:harden_hzq, term:H1060_firstborn, term:bridegroom_blood, formula:bow_worship, term:H3881_levite, formula:go_in_peace, term:H2436_bosom, term:H7860_foremen, term:H8401_straw, formula:thus_says_yhwh, formula:let_my_people_go, term:H1698_pestilence, term:H7503_lazy, term:H3843_bricks, term:H4940_clan, term:numbers_hundert, term:outstretched_arm, formula:ani_yhwh, formula:harden_qsh, term:H5186_hand, term:H3784_sorcerer, term:H887_stink, term:H4723_reservoir, term:H2658_dig, term:H8574_oven, formula:as_commanded, formula:as_said, term:H2691_court, term:H6279_pray, term:H6303_finger_of_god, term:H8441_abomination]
+entries: [term:H2617, term:H1350, term:H2205, term:H3618, term:H2545, term:H8184, term:H2406, term:H7105, term:H7641, term:H1637, term:H5401, formula:weep_aloud, term:H2009, term:H3247, term:H4487, term:H2904, term:H7021, term:royal_robe, term:H1254, formula:in_the_beginning, formula:tohu_wabohu, term:H8415, term:H7549, formula:evening_morning, formula:and_it_was_so, formula:that_it_was_good, formula:after_its_kind, term:nefesh_chayah, term:H120, term:H5175, term:H6174, term:H779, term:H1288, term:H3999, term:H8392, term:H7198, term:H1285, term:H2555, term:H4135, term:H8198, term:H1616, term:H2233, term:H6666, term:gebiret, term:H3045_sex, term:H436, term:H520, term:H8255, formula:gathered_to_people, formula:here_i_am, formula:and_he_died, term:H5631, term:H953, term:captain_guard, term:H4676, term:H2748, term:H8441, term:H6629, term:H3701, term:H6485, term:rech_nichoach, term:midwife, formula:fear_god, term:chayah_piel, term:brick_clay, term:perek, term:forced_labor, term:store_cities, term:nile, term:newborn_son_daughter, formula:the_more_the_more, term:qutz_dread, term:chayot, term:deal_shrewdly, term:sharats, term:title_exodus, term:tebah_basket, term:H1573_papyrus, term:tar_pitch, term:H5488_reeds, term:hebrew_adj, term:H2896_beautiful, term:H3243_nurse, term:H4871_draw_out, term:H584_groan, term:H5647_avodah_work, formula:named_him, term:ruler_judge, term:H5572_bush, term:H5927_bring_up, term:H7342_spacious, term:days_journey, formula:milk_honey, formula:peoples_list, formula:ehyeh, formula:god_of_fathers, term:H2859_father_in_law, term:H2205_elders_israel, term:H5337_plunder, term:H4294_staff, term:H6879_leprous, term:H8210_pour, formula:harden_hzq, term:H1060_firstborn, term:bridegroom_blood, formula:bow_worship, term:H3881_levite, formula:go_in_peace, term:H2436_bosom, term:H7860_foremen, term:H8401_straw, formula:thus_says_yhwh, formula:let_my_people_go, term:H1698_pestilence, term:H7503_lazy, term:H3843_bricks, term:H4940_clan, term:numbers_hundert, term:outstretched_arm, formula:ani_yhwh, formula:harden_qsh, term:H5186_hand, term:H3784_sorcerer, term:H887_stink, term:H4723_reservoir, term:H2658_dig, term:H8574_oven, formula:as_commanded, formula:as_said, term:H2691_court, term:H6279_pray, term:H6303_finger_of_god, term:H8441_abomination, term:H1259_hail, term:H6368_soot, term:H7822_boils, term:livestock_kinds, term:crops_ex9, term:H2388_hold, term:H7307_wind, term:H3680_cover, term:H3418_green, term:H2077_sacrifice, term:H697_locust, term:H7453_neighbor, term:H7347_handmill, formula:firstborn_range, term:H6453_passover, term:H4682_matzah, term:H2557_leavened, term:H4201_doorpost, term:H5414_strike_blood, term:H1616_native, term:ordinals_days, term:H2146_memorial, term:passover_food, term:lamb_defect, term:ex12_misc, formula:karet, formula:everlasting_ordinance, term:H5982_pillar, term:H2146_sign, term:H6299_redeem, term:H2145_male, term:H6202_neck, term:joseph_bones, term:H7393_chariot, term:H2342_misc14, term:H3004_dry, term:H2346_wall, formula:gain_glory, term:song_sea, formula:sea_song_refrain, term:H7495_heal, term:H8085_listen, term:H3885_grumble, term:H4478_manna, term:H6016_omer, term:H7676_sabbath, term:H3899_manna_misc, term:H4550_stages, term:H7378_quarrel, formula:moses_staff_nile, term:H7812_bow, term:H8269_officials, term:ex18_misc, term:H5459_treasured, formula:kingdom_priests, term:H7782_shofar, formula:stone_to_death, term:ex19_misc, formula:decalogue, term:H7453_neighbor_law, formula:jealous_god, term:H8002_peace_offering, term:ex20_misc, formula:put_to_death, formula:eye_for_eye, term:H5650_slave_law, term:H4941_ordinances, term:H3724_ransom, term:ex21_law, term:ex22_law, formula:leader_curse, term:H5307_widow_orphan, term:H1601_bloodguilt, term:ex23_law, term:H7810_bribe, formula:three_feasts, formula:kid_milk, formula:blood_covenant, term:H3871_tablets, formula:forty_days, term:H5288_young_men, term:tabernacle_materials, term:tabernacle_parts, term:ex25_misc, formula:pattern_mountain, term:tabernacle_parts_26, term:ex26_misc, term:tabernacle_parts_27, formula:tent_of_meeting, term:H8081_olive_oil, term:priestly_garments, term:breastpiece_stones, term:ex28_misc, term:H4394_ordination, term:offering_kinds, term:H3722_atone, term:ex29_misc, term:ex29_imper, term:H7004_incense, term:H3724_ransom_census, term:anointing_oil_spices, term:ex30_misc, term:sabbath_sign, term:ex31_misc, formula:golden_calf_gods, formula:ex32_6, term:golden_calf, term:H5162_relent, term:stiff_necked, term:book_blot, term:ex32_misc, formula:ex33_19, term:H6440_presence, term:ex33_misc, formula:ex34_6_7, term:moses_face_shone, term:ex34_misc, term:ex35_gifts, term:ex36_misc, term:ex38_inventory, formula:as_commanded_moses, term:ex39_misc, term:ex40_setup]
 ---
 # Entscheide AT-Wortschatz (Genesis, Rut, Jona)
 
@@ -32,6 +32,23 @@ dort den Entwurf beibehalten und im Notizfile nennen.
 - Leitwort עבד/עֲבֹדָה in 2Mo 1-6 als »Arbeit« (nicht »Sklaverei«), damit der Dienst für Gott (3,12) als Gegenstück hörbar bleibt (2Mo 1,13-14; 2,23).
 - תֵּבָה in 2Mo 2 »Chörbli«, mit Fussnote auf die Arche. Benennung: »het ihm der Name … ggä« wie in der Genesis.
 - Wo Bietenhards NT 2Mo zitiert (Apg 7; Mk 12,26; Röm 9 usw.), übernimmt der Entwurf den Wortlaut des Zitats (2Mo 1,8; 2,14).
+
+### Heiligtum: Teile und Materialien (2Mo 25-31; 35-40 gleich)
+
+Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9,2-5 (Lüüchter, Tisch, usgstellte Brot, Cherube, Gnadestuel, Lade).
+
+- **Materialien (25,3-7 = 35,5-9):** Guld, Silber, Bronze; blaui, purpurroti, scharlachroti Wulle; fyns Lyntuech; Geisshaar; rot gfärbti Widderfäll; fyns Läder (תְּחָשִׁים); Akazieholz; Öl für ds Liecht; Gwürz für ds Salböl und ds wohlriechende Röucherwärch; Onyxsteine, Fassigssteine; luters Guld.
+- **Bau:** d Wohnig (מִשְׁכָּן); ds Zält (אֹהֶל); ds Heiligtum (מִקְדָּשׁ); Elle (אַמָּה); tribeni Arbeit (מִקְשָׁה).
+- **Lade (25,10-22):** d Lade (vom Zügnis); Gnadestuel (כַּפֹּרֶת); zwee Cherube; Ring, Stange, guldige Chranz.
+- **Tisch (25,23-30):** Tisch, Rand (Handbreiti), Chranz; Platte, Schale, Channe, Schüssle; ds usgstellte Brot.
+- **Lüüchter (25,31-40):** Fuess, Schaft, sächs Arme, Chelch wi Mandelblüete, Chnöpf, Blüete, sibe Lampe, Dochtschäre, Pfännli; es Talänt Guld.
+- **Wohnig (26):** zäche Tüecher (יְרִיעָה) us zwirnetem fynem Lyntuech und blauer, purpurroter, scharlachroter Wulle mit Cherube, Arbeit vo mene Kunschtwäber (חֹשֵׁב); Bahne, Schlüüfe (לֻלָאֹת), Spange (קְרָסִים, Guld / Bronze); elf Tüecher us Geisshaar fürs Zält; Decki us rot gfärbte Widderfäll und us fynem Läder; Brätter (קְרָשִׁים) us Akazieholz mit Zapfe (יָדוֹת) und silbrige Sockel (אֲדָנִים); Riegel (בְּרִיחִם), der mittler Riegel; Vorhang (פָּרֹכֶת) vor em Allerheiligschte (Hebr 9,3), Süüle mit Hääggli (וָוִים); Türvorhang (מָסָךְ), Arbeit vo mene Buntwäber (רֹקֵם).
+- **Altar und Vorhof (27 = 38):** Altar us Akazieholz, viereggig, mit Hörner, mit Bronze überzoge; Äschechessle, Schufle, Sprützschale, Gable, Pfanne; Gitter (מִכְבָּר) als Netzwärch, Umgang (כַּרְכֹּב); hohl us Brätter. Vorhof (חָצֵר) mit Behäng (קְלָעִים) us zwirnetem fynem Lyntuech, Süüle, bronzigi Sockel, silbrigi Hääggli und Ringbänder (חֲשֻׁקִים); Tor mit Türvorhang (Buntwäber); Pflöck (יְתֵדֹת). Olivenöl für d Lampe; ds Zält vo der Begägnig (אֹהֶל מוֹעֵד).
+- **Prieschterchleider (28 = 39):** heiligi Chleider zur Ehr und zur Zierd: Efod (אֵפוֹד) mit Schulterstück und kunschtvoll gwobenem Gurt; Onyxsteine mit de Näme, guldigi Fassige, Chettemli wi Schnüer gflochte; Bruschtschild für ds Rächt (חֹשֶׁן מִשְׁפָּט), e Spanne gross, doppelt gleit, zwölf Steine i vier Reie (Sardis, Topas, Smaragd / Türkis, Saphir, Diamant / Hyazinth, Achat, Amethyst / Chrysolith, Onyx, Jaspis; nach Offb 21), Urim und Tummim; Mantel ganz us blauer Wulle mit Granatöpfel und guldige Glöggli; Stirnblatt ‚Heilig für e HERR‘; gwobene Lybrock, Turban, Gurt (Buntwäber); für d Sühn Lybröck, Gurte, Chopfbünd; Underhose us Lyne.
+- **Priesterweihe (29; 3Mo 8):** junge Stier, zwee Widder ohni Fähler; ungsüürts Brot, Fladebrot mit Öl, dünni Fläde im Chorb; Salböl; ds heilige Diadem (נֵזֶר); Sündopfer, Brandopfer, Widder vo der Amtsyysetzig; Schwingopfer, Abgab (Bruscht und Keule); Sühne schaffe; ds täglech Brandopfer (zwöi jährigi Lämmer, es Zächtel Efa Wizemähl, es Viertel Hin Öl und Wy).
+- **Rouchopferaltar, Becki, Salböl, Röucherwärch (30 = 37,25-29; 38,8):** Rouchopferaltar (Lk 1,11) us Akazieholz, viereggig, mit Hörner, luters Guld, guldige Chranz, Ring und Stange; wohlriechends Röucherwärch, röuchere; Becki us Bronze mit sym Gstell (כִּיּוֹר, כֵּן); ds heilige Salböl (flüssigi Myrrhe, wohlriechende Zimet, Gwürzrohr, Kassia, Olivenöl; Salbimischer); Röucherwärch us Staktetropfe, Röuchermuschle, Galbanum und luterem Weihrouch, gsalze; Lösgäld: e halbe Schekel nach em Schekel vom Heiligtum (zwänzg Gera).
+- **Handwärker (31 = 35,30-36,1):** der Bezalel und der Oholiab, mit em Geischt vo Gott erfüllt, mit Wysheit, Verstand und Wüsse; Kunschtwärch entwärfe, Steine schnyde und yzfasse, Holz schnitze; Liste vo allem, wo si mache: Zält vo der Begägnig, Lade vom Zügnis, Gnadestuel, Tisch, lutere Lüüchter, Rouchopferaltar, Brandopferaltar, Becki und Gstell, gwobene und heilige Chleider, Salböl, wohlriechends Röucherwärch.
+- **Mengen (38,24-31):** Guld vo der Abgab nüünezwänzg Talänt und sibehundertdryssg Schekel; Silber vo de Gmusterete hundert Talänt und tuusigsibehundertfüfesibezg Schekel (e Beka uf e Chopf = e halbe Schekel; sächshundertdrütuusigfüfhundertfüfzg Manne); Bronze sibezg Talänt und zwöituusigvierhundert Schekel; Becki und Gstell us de Spiegel vo de Froue (38,8).
 
 ## Store entries
 
@@ -653,11 +670,11 @@ dort den Entwurf beibehalten und im Notizfile nennen.
   - answers: clans, clan
   - Im Korpus 0×; Wort der Genesis-Entwürfe (1Mo 10; 12,3; 28,14).
   - agent:exo006, 2026-10-30
-- **`term:numbers_hundert`** מֵאָה → **hundertsibenedryssg / hundertdrüedryssg / drüesachtzg** [high, decided, by-rule]
+- **`term:numbers_hundert`** מֵאָה → **hundertsibenedryssg / hundertdrüedryssg / drüesachtzg / sächshundert** [high, decided, by-rule]
   - gloss: מֵאָה: מְאַ֖ת (EXO 6:16)
   - interlinear: `hundred-seven-and-thirty`
   - NT: GEN 25:17 *hundertsibenedryssg*; EXO 6:16 *hundertsibenedryssg*; EXO 6:18 *hundertdrüedryssg*; EXO 7:7 *drüesachtzg*
-  - answers: 133, 137, 83
+  - answers: 133, 137, 600, 83
   - Zahlen in einem Wort wie in der Genesis (hundertfüfesibezg).
   - agent:exo006, 2026-10-30
 - **`term:outstretched_arm`** נָטָה → **mit em usgstreckte Arm** [high, decided, by-rule]
@@ -750,4 +767,789 @@ dort den Entwurf beibehalten und im Notizfile nennen.
   - answers: detestable, abomination
   - תּוֹעֵבָה = »es Gröiel«, wie 1Mo 43,32; 46,34 (Entwürfe).
   - agent:exo008, 2026-10-30
-<!-- store:end sha=5391cd26 -->
+- **`term:H1259_hail`** בָּרָד → **Hagel** [high, decided, by-rule]
+  - gloss: בָּרָד: בָּרָ֖ד (EXO 9:18) — English (generated): hail
+  - NT: EXO 9:18 *e ganz schwäre Hagel*
+  - answers: hail
+  - בָּרָד in der Erzählung »Hagel«; in den Psalmen auch »Hagelwätter« (Ps 78; 105). Donner (קֹלוֹת), Füür (Blitz).
+  - agent:exo009, 2026-10-30
+- **`term:H6368_soot`** פִּיחַ → **Russ** [high, decided, by-rule]
+  - gloss: פִּיחַ: פִּ֖יחַ (EXO 9:8) — English (generated): of soot
+  - NT: EXO 9:8 *Händ voll Russ*
+  - answers: soot
+  - פִּיחַ כִּבְשָׁן = »Russ us em Ofe«.
+  - agent:exo009, 2026-10-30
+- **`term:H7822_boils`** שְׁחִין → **Gschwür, wo zu Blatere ufbräche / ufbroche** [high, decided, by-rule]
+  - gloss: שְׁחִין: שְׁחִ֥ין (EXO 9:9) — English (generated): boils
+  - NT: EXO 9:9 *Gschwür*; EXO 9:10 *zu Blatere ufbroche*
+  - answers: boils, festering boils
+  - שְׁחִין »Gschwür« (Korpus 4); אֲבַעְבֻּעֹת »Blatere«.
+  - agent:exo009, 2026-10-30
+- **`term:livestock_kinds`** מִקְנֶה → **Veh; Ross, Esle, Kamel, Rinder, Schaf** [high, decided, by-rule]
+  - gloss: מִקְנֶה: מִקְנְ (EXO 9:3) — English (generated): on your livestock
+  - NT: GEN 12:16 *Schaf und Rinder*; EXO 9:3 *Esle*
+  - answers: livestock, donkeys, herds
+  - Wie in der Genesis: מִקְנֶה Veh, חֲמֹרִים Esle, בָּקָר Rinder, צֹאן Schaf.
+  - agent:exo009, 2026-10-30
+- **`term:crops_ex9`** כֻּסֶּמֶת → **Flachs, Gärschte, Weize, Dinkel; bblüejt** [high, decided, by-rule]
+  - gloss: כֻּסֶּמֶת: כֻּסֶּ֖מֶת (EXO 9:32) — English (generated): and spelt
+  - NT: EXO 9:31 *het bblüejt*; EXO 9:32 *der Dinkel*
+  - answers: flax, barley, wheat, spelt
+  - כֻּסֶּמֶת = Dinkel (Emmer); גִּבְעֹל »het bblüejt«.
+  - agent:exo009, 2026-10-30
+- **`term:H2388_hold`** חָזַק → **feschthalte / feschthaltisch** [high, decided, by-rule]
+  - gloss: חָזַק: מַחֲזִ֥יק (EXO 9:2) — English (generated): to restrain
+  - NT: EXO 9:2 *feschthaltisch*
+  - answers: hold, restrain
+  - מַחֲזִיק בָּם = »se feschthalte« (חזק Hif. mit בְּ).
+  - agent:exo009, 2026-10-30
+- **`term:H7307_wind`** רוּחַ → **Oschtwind / Weschtwind** [high, decided, by-rule]
+  - gloss: רוּחַ: ר֥וּחַ (EXO 10:13) — English (generated): wind
+  - NT: GEN 41:6 *Oschtwind*; EXO 10:19 *Weschtwind*
+  - answers: wind, east wind, west wind
+  - רוּחַ קָדִים »Oschtwind« wie 1Mo 41 (Entwurf); רוּחַ־יָם »Weschtwind«; 14,21 wieder Oschtwind.
+  - agent:exo010, 2026-10-30
+- **`term:H3680_cover`** כָּסָה → **decke … zue / zuedeckt** [high, decided, by-rule]
+  - gloss: כָּסָה: כִסָּה֙ (EXO 10:5) — English (generated): They will cover
+  - NT: EXO 10:5 *decke … zue*; EXO 8:2 *zuedeckt*
+  - answers: cover, covered
+  - כִּסָּה (Plagen; 14,28; 15,5.10 das Wasser deckt zu).
+  - agent:exo010, 2026-10-30
+- **`term:H3418_green`** יֶרֶק → **Grüens** [high, decided, by-rule]
+  - gloss: יֶרֶק: יֶ֧רֶק (EXO 10:15) — English (generated): green
+  - NT: EXO 10:15 *nüüt Grüens*
+  - answers: green
+  - כָּל־יֶרֶק = »nüüt Grüens«.
+  - agent:exo010, 2026-10-30
+- **`term:H2077_sacrifice`** זֶבַח → **Schlachtopfer und Brandopfer** [high, decided, by-rule]
+  - gloss: זֶבַח: זְבָחִ֣ים (EXO 10:25) — English (generated): sacrifices
+  - NT: EXO 10:25 *Schlachtopfer und Brandopfer*
+  - answers: sacrifices, burnt offerings
+  - זֶבַח »Schlachtopfer«, עֹלָה »Brandopfer« (1Mo 22; 2Mo 18,12; 20,24; 24,5).
+  - agent:exo010, 2026-10-30
+- **`term:H697_locust`** אַרְבֶּה → **Höigümper** [high, decided, by-rule]
+  - gloss: אַרְבֶּה: אַרְבֶּ֖ה (EXO 10:4) — English (generated): locusts
+  - NT: EXO 10:4 *Höigümper*
+  - answers: locusts
+  - אַרְבֶּה wie in den Psalmen-Entwürfen (Ps 78,46; 105,34); Korpus 3.
+  - agent:exo010, 2026-10-30
+- **`term:H7453_neighbor`** רֵעַ → **Nachbar / Nachbere** [high, decided, by-rule]
+  - gloss: רֵעַ: רֵעֵ֗ (EXO 11:2)
+  - NT: EXO 11:2 *bi sym Nachbar*; EXO 3:22 *iri Nachbere*
+  - answers: neighbor
+  - רֵעַ/רְעוּת als Nachbar (11,2); im Gesetz auch »der Nächscht« (20,16-17, nach Bietenhard), zu prüfen.
+  - agent:exo011, 2026-10-30
+- **`term:H7347_handmill`** רֵחַיִם → **Mühli** [high, decided, by-rule]
+  - gloss: רֵחַיִם: רֵחָ֑יִם (EXO 11:5) — English (generated): the hand mill
+  - NT: EXO 11:5 *hinder der Mühli*
+  - answers: handmill, hand mill
+  - Handmühle; die Magd »hinder der Mühli«.
+  - agent:exo011, 2026-10-30
+- **`formula:firstborn_range`** וְ → **vom Erschtgeborene vom Pharao, wo uf sym Thron sitzt, bis zum Erschtgeborene vo …** [high, decided, by-rule]
+  - gloss: וְ: וּ (EXO 11:5) — English (generated): will die
+  - NT: EXO 11:5 *vom Erschtgeborene vom Pharao*
+  - answers: firstborn of pharaoh
+  - Gleich in 11,5 und 12,29 (dort: »vom Gfangene im Loch«).
+  - agent:exo011, 2026-10-30
+- **`term:H6453_passover`** פֶּסַח → **ds Passa / ds Passalamm / ds Passaopfer** [high, decided, attested]
+  - gloss: פֶּסַח: פֶּ֥סַח (EXO 12:11) — English (generated): Passover
+  - NT: EXO 12:11 *ds Passa vom HERR*; LUK 22:7 *ds Passalamm metzge*
+  - answers: passover, passover lamb
+  - Wie Bietenhard (Lk 22,7; 1Kor 5,7): Passa, Passalamm; זֶבַח־פֶּסַח »ds Passaopfer« (12,27).
+  - agent:exo012, 2026-10-30
+- **`term:H4682_matzah`** מַצָּה → **ungsüürts Brot / ds Fescht vom ungsüürete Brot** [high, decided, attested]
+  - gloss: מַצָּה: מַצּ֔וֹת (EXO 12:8) — English (generated): along with unleavened bread
+  - NT: EXO 12:8 *ungsüürts Brot*; LUK 22:7 *vom ungsüürete Brot*
+  - answers: unleavened bread, feast of unleavened bread
+  - מַצּוֹת wie Bietenhard (Lk 22,1.7); שְׂאֹר »Suurteigg« (1Kor 5,7), חָמֵץ »öppis Gsüürts«.
+  - agent:exo012, 2026-10-30
+- **`term:H2557_leavened`** חָמֵץ → **öppis Gsüürts** [high, decided, by-rule]
+  - gloss: חָמֵץ: חָמֵ֗ץ (EXO 12:15) — English (generated): anything leavened
+  - NT: EXO 12:15 *öppis Gsüürts*
+  - answers: leavened, what is leavened
+  - חָמֵץ / מַחְמֶצֶת = »öppis Gsüürts«; שְׂאֹר = »Suurteigg«.
+  - agent:exo012, 2026-10-30
+- **`term:H4201_doorpost`** מְזוּזָה → **Türpfoschte / Türsturz** [high, decided, by-rule]
+  - gloss: מְזוּזָה: מְּזוּזֹ֖ת (EXO 12:7) — English (generated): the sides
+  - NT: EXO 12:7 *beidi Türpfoschte*; EXO 12:22 *a Türsturz*
+  - answers: doorposts, lintel
+  - מְזוּזֹת Türpfoschte, מַשְׁקוֹף Türsturz (12,7.22.23; 21,6).
+  - agent:exo012, 2026-10-30
+- **`term:H5414_strike_blood`** נָגַע → **stryche / strychet** [high, decided, by-rule]
+  - gloss: נָגַע: הִגַּעְתֶּ֤ם (EXO 12:22) — English (generated): and brush
+  - NT: EXO 12:7 *stryche*; EXO 12:22 *strychet*
+  - answers: put, touch
+  - Das Blut an die Türpfosten »stryche« (Hebr 11,28 Bietenhard: »verstriche«).
+  - agent:exo012, 2026-10-30
+- **`term:H1616_native`** אֶזְרָח → **Einheimische / Frömde / Hindersässe / Taglöhner** [high, decided, by-rule]
+  - gloss: אֶזְרָח: אֶזְרַ֥ח (EXO 12:19) — English (generated): or native
+  - NT: EXO 12:19 *en Einheimische*; EXO 12:45 *E Hindersässe*
+  - answers: native, alien, temporary resident, hired worker
+  - אֶזְרָח Einheimische, גֵּר Frömde (term:H1616), תּוֹשָׁב Hindersässe (Korpus 1), שָׂכִיר Taglöhner.
+  - agent:exo012, 2026-10-30
+- **`term:ordinals_days`** עָשׂוֹר → **am zähte / vierzähte / einezwänzigschte Tag** [medium, decided, by-rule]
+  - gloss: עָשׂוֹר: עָשֹׂ֖ר (EXO 12:3) — English (generated): that on the tenth
+  - NT: EXO 12:3 *Am zähte Tag*; EXO 12:6 *vierzähte Tag*
+  - answers: tenth, fourteenth, twenty-first
+  - Ordnungszahlen der Festdaten.
+  - agent:exo012, 2026-10-30
+- **`term:H2146_memorial`** זִכָּרוֹן → **Gedänktag** [medium, decided, by-rule]
+  - gloss: זִכָּרוֹן: זִכָּר֔וֹן (EXO 12:14) — English (generated): a memorial
+  - NT: EXO 12:14 *e Gedänktag*
+  - answers: memorial
+  - זִכָּרוֹן vom Tag; 13,9 »Zeiche … zum Gedänke«.
+  - agent:exo012, 2026-10-30
+- **`term:passover_food`** צָלִי → **bbrate / roh / gchochet / Ygweid / bitteri Chrüter** [high, decided, by-rule]
+  - gloss: צָלִי: צְלִי (EXO 12:9) — English (generated): roasted
+  - NT: EXO 12:8 *am Füür bbrate*; EXO 12:9 *roh*
+  - answers: roasted, raw, boiled, inner parts, bitter herbs
+  - Speisevorschriften des Passa; מְרֹרִים »bitteri Chrüter«.
+  - agent:exo012, 2026-10-30
+- **`term:lamb_defect`** תָּמִים → **ohni Fähler, männlechs, jährigs** [high, decided, by-rule]
+  - gloss: תָּמִים: תָמִ֛ים (EXO 12:5) — English (generated): an unblemished
+  - NT: EXO 12:5 *ohni Fähler*; EXO 12:5 *es jährigs*
+  - answers: without defect, male, year old
+  - תָּמִים »ohni Fähler« (Opfertiere, Lev); זָכָר »männlech«.
+  - agent:exo012, 2026-10-30
+- **`term:ex12_misc`** אֵזוֹב → **furtschaffe / Wohnige / Büscheli Ysop / bbache / sächshunderttuusig** [medium, decided, by-rule]
+  - gloss: אֵזוֹב: אֵז֗וֹב (EXO 12:22) — English (generated): of hyssop
+  - NT: EXO 12:22 *es Büscheli Ysop*; EXO 12:37 *sächshunderttuusig*
+  - answers: remove, dwellings, bunch of hyssop, baked, six hundred thousand
+  - Ysop wie Bietenhard (Joh 19,29; Hebr 9,19).
+  - agent:exo012, 2026-10-30
+- **`formula:karet`** כָּרַת → **dä söll us Israel usgrottet wärde** [high, decided, by-rule]
+  - gloss: כָּרַת: נִכְרְתָ֞ה (EXO 12:15) — English (generated): must be cut off
+  - NT: EXO 12:15 *usgrottet wärde*
+  - answers: cut off from israel
+  - וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא (12,15.19; 30,33.38; 31,14), gleich durch das Buch.
+  - agent:exo012, 2026-10-30
+- **`formula:everlasting_ordinance`** עוֹלָם → **als Ornig für geng / dür alli öiji Generatione** [high, decided, by-rule]
+  - gloss: עוֹלָם: עוֹלָ֖ם (EXO 12:14) — English (generated): as a permanent
+  - NT: EXO 12:14 *als Ornig für geng*; GEN 9:12 *für alli Generatione*
+  - answers: lasting ordinance, throughout your generations
+  - חֻקַּת עוֹלָם / לְדֹרֹתֵיכֶם, wie 1Mo 9,12; 17,7 (Entwürfe); gleich in 2Mo 27,21; 28,43; 29,9; 30,21.
+  - agent:exo012, 2026-10-30
+- **`term:H5982_pillar`** עַמּוּד → **Wulchesüüle / Füürsüüle** [high, decided, by-rule]
+  - gloss: עַמּוּד: עַמּ֤וּד (EXO 13:21) — English (generated): in a pillar
+  - NT: EXO 13:21 *i nere Wulchesüüle*; EXO 13:21 *Füürsüüle*
+  - answers: pillar of cloud, pillar of fire
+  - עַמּוּד עָנָן / עַמּוּד אֵשׁ (13,21-22; 14,19.24; 33,9-10); Füürsüüle Korpus 1.
+  - agent:exo013, 2026-10-30
+- **`term:H2146_sign`** זִכָּרוֹן → **es Zeiche a dyr Hand und es Gedänkzeiche / Stirnband zwüsche dyne Ouge** [medium, decided, by-rule]
+  - gloss: זִכָּרוֹן: זִכָּרוֹן֙ (EXO 13:9) — English (generated): and a reminder
+  - gloss: טֹוטָפֹת: טוֹטָפֹ֖ת (EXO 13:16) — English (generated): and a symbol
+  - NT: EXO 13:9 *es Gedänkzeiche*; EXO 13:16 *es Stirnband*
+  - answers: sign on your hand, reminder on your forehead
+  - זִכָּרוֹן 13,9 »Gedänkzeiche«; טוֹטָפֹת 13,16 »Stirnband« (vgl. 5Mo 6,8).
+  - agent:exo013, 2026-10-30
+- **`term:H6299_redeem`** פָּדָה → **uslöse / uslösisch / löse … us** [high, decided, by-rule]
+  - gloss: פָּדָה: תִּפְדֶּ֣ה (EXO 13:13) — English (generated): You must redeem
+  - NT: EXO 13:13 *uslöse*; EXO 13:15 *löse i us*
+  - answers: redeem
+  - פָּדָה = »uslöse« (Erstgeburt, 13,13.15; 34,20); גָּאַל 6,6 »uslöse« ebenso.
+  - agent:exo013, 2026-10-30
+- **`term:H2145_male`** זָכָר → **männlech / Männleche** [high, decided, by-rule]
+  - gloss: זָכָר: זְּכָרִ֖ים (EXO 13:12) — English (generated): males
+  - NT: EXO 13:12 *wenn’s männlech isch*; EXO 13:15 *alls Männleche*
+  - answers: male, males
+  - זָכָר bei Tieren; bei Menschen »Manne und Buebe« (12,48).
+  - agent:exo013, 2026-10-30
+- **`term:H6202_neck`** עָרַף → **ds Gnick bräche** [high, decided, by-rule]
+  - gloss: עָרַף: עֲרַפְתּ֑ (EXO 13:13) — English (generated): you are to break its neck
+  - NT: EXO 13:13 *ds Gnick bräche*
+  - answers: break its neck
+  - עָרַף (13,13; 34,20).
+  - agent:exo013, 2026-10-30
+- **`term:joseph_bones`** עֶצֶם → **myni Chnoche vo hie mit ufenäh** [high, decided, by-rule]
+  - gloss: עֶצֶם: עַצְמ֥וֹת (EXO 13:19) — English (generated): the bones
+  - NT: GEN 50:25 *myni Chnoche*; EXO 13:19 *mit nech ufenäh*
+  - answers: carry my bones
+  - Wie 1Mo 50,25 (Entwurf); auch »Gott wird sech gwüss um öich kümmere« (פָּקֹד יִפְקֹד, vgl. 3,16).
+  - agent:exo013, 2026-10-30
+- **`term:H7393_chariot`** רֶכֶב → **Wage / Wäge; Ryter** [high, decided, by-rule]
+  - gloss: רֶכֶב: רֶ֨כֶב֙ (EXO 14:7) — English (generated): chariots
+  - NT: GEN 46:29 *Wage*; EXO 14:9 *Ross und Wäge*
+  - answers: chariot, chariots, horsemen
+  - רֶכֶב »Wage/Wäge« wie 1Mo 41,43; 46,29 (Entwürfe); פָּרָשִׁים »Ryter«; שָׁלִשִׁים »Offizier«; אוֹפַן »Räder«.
+  - agent:exo014, 2026-10-30
+- **`term:H2342_misc14`** אַשְׁמֹרֶת → **nachegjagt / furtgfüert / rüefsch / heb … uf / Räder / abspringe / Morgewach** [medium, decided, by-rule]
+  - gloss: אַשְׁמֹרֶת: אַשְׁמֹ֣רֶת (EXO 14:24) — English (generated): watch
+  - NT: EXO 14:24 *Bi der Morgewach*; EXO 14:16 *heb … uf*
+  - answers: pursued, morning watch, lift up
+  - Wortformen aus 2Mo 14.
+  - agent:exo014, 2026-10-30
+- **`term:H3004_dry`** יַבָּשָׁה → **uf em trockene Bode / zu trockenem Bode** [high, decided, attested]
+  - gloss: יַבָּשָׁה: יַּבָּשָֽׁה (EXO 14:16) — English (generated): on dry ground
+  - NT: HEB 11:29 *trockene Bode*; EXO 14:22 *uf em trockene Bode*
+  - answers: dry ground, dry land
+  - Wie Bietenhard Hebr 11,29 (»wi über trockene Bode«); 15,19 gleich.
+  - agent:exo014, 2026-10-30
+- **`term:H2346_wall`** חוֹמָה → **wi ne Muur rächts und links** [high, decided, by-rule]
+  - gloss: חוֹמָה: חֹמָ֔ה (EXO 14:22) — English (generated): with walls
+  - NT: EXO 14:22 *wi ne Muur*; EXO 14:29 *rächts und links*
+  - answers: wall on their right and left
+  - 14,22.29 gleich.
+  - agent:exo014, 2026-10-30
+- **`formula:gain_glory`** כָּבֵד → **i zeige my Herrlechkeit am Pharao** [high, decided, by-rule]
+  - gloss: כָּבֵד: אִכָּבְדָ֤ה (EXO 14:4) — English (generated): But I will gain honor
+  - NT: EXO 14:4 *my Herrlechkeit am Pharao*
+  - answers: gain glory
+  - וְאִכָּבְדָה בְּפַרְעֹה (14,4.17.18); כבד hier positiv, »Herrlechkeit« wie kābôd 16,7.10; 24,16; 40,34.
+  - agent:exo014, 2026-10-30
+- **`term:song_sea`** מִלְחָמָה → **Chriegsmaa / ryssisch … um / gstaut / Bütti / bblase / ehrfürchtig / pflanzisch / vorgsunge** [medium, decided, by-rule]
+  - gloss: מִלְחָמָה: מִלְחָמָ֑ה (EXO 15:3)
+  - NT: EXO 15:3 *e Chriegsmaa*; EXO 15:9 *d Bütti*
+  - answers: warrior, overthrew, spoil, blew
+  - Wortformen aus dem Schilfmeerlied (2Mo 15,1-21).
+  - agent:exo015, 2026-10-30
+- **`formula:sea_song_refrain`** גָּאָה → **denn herrlech het er sech zeigt; Ross und Ryter het er is Meer gworfe** [high, decided, by-rule]
+  - gloss: גָּאָה: גָאֹ֣ה (EXO 15:1) — English (generated): He is highly exalted
+  - NT: EXO 15:1 *Ross und Ryter*; EXO 15:21 *herrlech het er sech*
+  - answers: horse and rider
+  - 15,1 und 15,21 gleich (גָּאֹה גָּאָה). 15,2 wie Ps 118,14 (Entwurf).
+  - agent:exo015, 2026-10-30
+- **`term:H7495_heal`** רָפָא → **I bi der HERR, dy Arzt** [high, decided, by-rule]
+  - gloss: רָפָא: רֹפְאֶֽ (EXO 15:26) — English (generated): who heals you
+  - NT: EXO 15:26 *dy Arzt*
+  - answers: the lord who heals you
+  - אֲנִי יְהוָה רֹפְאֶךָ.
+  - agent:exo015, 2026-10-30
+- **`term:H8085_listen`** שָׁמַע → **lose / losisch / uf d Stimm lose** [high, decided, by-rule]
+  - gloss: שָׁמַע: שָׁמ֨וֹעַ (EXO 15:26) — English (generated): you will listen carefully
+  - NT: EXO 15:26 *uf d Stimm*; EXO 15:26 *losisch*
+  - answers: listen, obey
+  - שָׁמַע בְּקוֹל »uf d Stimm lose« (15,26; 19,5; 23,21-22).
+  - agent:exo015, 2026-10-30
+- **`term:H3885_grumble`** לוּן → **mule / gmulet / ds Mule** [high, decided, by-rule]
+  - gloss: לוּן: יִּלּ֜וֹנוּ (EXO 16:2) — English (generated): grumbled
+  - gloss: תְּלֻנֹּות: תְּלֻנֹּתֵי (EXO 16:7) — English (generated): your grumbling
+  - NT: EXO 15:24 *gmulet*; EXO 16:8 *öies Mule*
+  - answers: grumble, grumblings
+  - לון »mule« (Korpus »gmulet«), Nomen »ds Mule«; 15,24; 16,2-12; 17,3.
+  - agent:exo016, 2026-10-30
+- **`term:H4478_manna`** מָן → **ds Manna** [high, decided, attested]
+  - gloss: מָן: מָ֑ן (EXO 16:31) — English (generated): manna
+  - NT: JHN 6:31 *ds Manna gässe*; EXO 16:35 *ds Manna*
+  - answers: manna
+  - Wie Bietenhard Joh 6,31.49; 16,18 = 2Kor 8,15 (Bietenhards Wortlaut übernommen); 16,33 Chrueg wie Hebr 9,4.
+  - agent:exo016, 2026-10-30
+- **`term:H6016_omer`** עֹמֶר → **Omer; Efa; e Zächntel** [high, decided, by-rule]
+  - gloss: עֹמֶר: עֹ֣מֶר (EXO 16:16) — English (generated): an omer
+  - gloss: אֵיפָה: אֵיפָ֖ה (EXO 16:36) — English (generated): of an ephah
+  - NT: EXO 16:16 *e Omer*; EXO 16:36 *e Zächntel*; EXO 16:36 *Efa*
+  - answers: omer, ephah, tenth
+  - Hohlmasse als Lehnwörter; 16,36 Omer = Zehntel Efa.
+  - agent:exo016, 2026-10-30
+- **`term:H7676_sabbath`** שַׁבָּת → **Sabbat; Ruetag; grueit** [high, decided, attested]
+  - gloss: שַׁבָּת: שַׁבַּת (EXO 16:23) — English (generated): Sabbath
+  - gloss: שַׁבָּתוֹן: שַׁבָּת֧וֹן (EXO 16:23) — English (generated): a day of complete rest
+  - NT: MRK 2:27 *Sabbat*; EXO 16:23 *e Ruetag*; EXO 16:30 *grueit*
+  - answers: sabbath, day of rest, rested
+  - שַׁבָּת »Sabbat« wie Bietenhard; שַׁבָּתוֹן »Ruetag«; שָׁבַת »rue/grueit«. Gleich in 20,8-11; 31,12-17; 35,2-3.
+  - agent:exo016, 2026-10-30
+- **`term:H3899_manna_misc`** כְּפוֹר → **Häfe / füfzähnte / verdunschtet / öppis Feins, Chörnigs / Ryf / verschmulze / bache, bachet / choche, chochet / Koriandersame / Chüechli** [medium, decided, by-rule]
+  - gloss: כְּפוֹר: כְּפֹ֖ר (EXO 16:14) — English (generated): as frost
+  - NT: EXO 16:14 *so fein wi Ryf*; EXO 16:23 *bachet … chochet*; EXO 16:31 *Koriandersame*
+  - answers: pots, frost, melted, bake, boil, coriander, wafers
+  - Wortformen aus 2Mo 16.
+  - agent:exo016, 2026-10-30
+- **`term:H4550_stages`** מַסַּע → **vo Etappe zu Etappe** [medium, decided, by-rule]
+  - gloss: מַסַּע: מַסְעֵי (EXO 17:1) — English (generated): moving from place to place
+  - NT: EXO 17:1 *vo Etappe zu Etappe*
+  - answers: from place to place, by stages
+  - לְמַסְעֵיהֶם; auch 40,36.38.
+  - agent:exo017, 2026-10-30
+- **`term:H7378_quarrel`** רִיב → **zangge / zangget; präg … y; bbout** [medium, decided, by-rule]
+  - gloss: רִיב: יָּ֤רֶב (EXO 17:2) — English (generated): contended
+  - NT: EXO 17:2 *zangget*; EXO 17:14 *präg ’s*; EXO 17:15 *en Altar bbout*
+  - answers: quarrel, recite
+  - רִיב »zangge« (Korpus »zangget«), Wortspiel mit Meriba in der Fussnote; שִׂים בְּאָזְנֵי »yprägen«.
+  - agent:exo017, 2026-10-30
+- **`formula:moses_staff_nile`** מַטֶּה → **der Stab vo Gott** [high, decided, by-rule]
+  - gloss: מַטֶּה: מַטֵּ֥ה (EXO 17:9) — English (generated): with the staff
+  - NT: EXO 4:20 *Stab vo Gott*; EXO 17:9 *der Stab vo Gott*
+  - answers: staff of god
+  - מַטֵּה הָאֱלֹהִים wie 4,20.
+  - agent:exo017, 2026-10-30
+- **`term:H7812_bow`** הַ → **sech verneige / het sech verneigt** [high, decided, by-rule]
+  - gloss: הַ: הָ (EXO 18:7) — English (generated): into the tent
+  - NT: GEN 24:26 *töif verneigt*; EXO 18:7 *het sech … verneigt*
+  - answers: bowed down
+  - וַיִּשְׁתַּחוּ vor Menschen »sech verneige« wie 1Mo (Entwürfe); vor Gott oder Götzen »sech bücke und aabätte« (4,31; 12,27; 20,5).
+  - agent:exo018, 2026-10-30
+- **`term:H8269_officials`** שַׂר → **Obere über Tuusig, über Hundert, über Füfzg und über Zäche; tüchtigi / tüchtige Manne** [high, decided, by-rule]
+  - gloss: שַׂר: שָׂרֵ֤י (EXO 18:21) — English (generated): as leaders
+  - gloss: חַיִל: חַ֜יִל (EXO 18:21) — English (generated): capable
+  - NT: EXO 18:21 *Obere über Tuusig*; EXO 18:21 *tüchtige Manne*
+  - answers: officials, capable men
+  - שָׂרֵי אֲלָפִים … 18,21.25 gleich; אַנְשֵׁי־חַיִל »tüchtigi Manne«.
+  - agent:exo018, 2026-10-30
+- **`term:ex18_misc`** זִיד → **überhoche** [medium, decided, by-rule]
+  - gloss: זִיד: זָד֖וּ (EXO 18:11) — English (generated): treated Israel with arrogance
+  - NT: EXO 18:11 *sech … überhoche*
+  - answers: arrogantly
+  - זיד »sech überhoche«.
+  - agent:exo018, 2026-10-30
+- **`term:H5459_treasured`** סְגֻלָּה → **mys eigete Eigetum** [high, decided, by-rule]
+  - gloss: סְגֻלָּה: סְגֻלָּה֙ (EXO 19:5) — English (generated): treasured possession
+  - NT: EXO 19:5 *mys eigete Eigetum*
+  - answers: treasured possession
+  - סְגֻלָּה; vgl. 1Petr 2,9 (Bietenhard »ds Volk, wo Gott söll ghöre«).
+  - agent:exo019, 2026-10-30
+- **`formula:kingdom_priests`** לְ → **e chüniglechi Prieschterschaft und es heiligs Volk** [high, decided, attested]
+  - gloss: לְ: לִ֛ (EXO 19:6) — English (generated): And unto Me
+  - NT: 1PE 2:9 *chüniglechi Prieschterschaft*; EXO 19:6 *es heiligs Volk*
+  - answers: kingdom of priests, holy nation
+  - Nach Bietenhard 1Petr 2,9 (»di chüniglechi Prieschterschaft, ds heilige Volk«).
+  - agent:exo019, 2026-10-30
+- **`term:H7782_shofar`** שֹׁופָר → **d Posuune; ds Widderhorn** [high, decided, attested]
+  - gloss: שֹׁופָר: שֹׁפָ֖ר (EXO 19:16) — English (generated): of the ram s horn
+  - NT: HEB 12:19 *Posuune*; EXO 19:13 *ds Widderhorn*
+  - answers: trumpet, ram's horn
+  - שׁוֹפָר »Posuune« wie Bietenhard Hebr 12,19 und Ps 150,3 (Entwurf); יֹבֵל »Widderhorn«.
+  - agent:exo019, 2026-10-30
+- **`formula:stone_to_death`** סָקַל → **mit Steine z Tod schla** [high, decided, attested]
+  - gloss: סָקַל: סָק֤וֹל (EXO 19:13) — English (generated): he shall surely be stoned
+  - NT: HEB 12:20 *mit Steine*; EXO 19:13 *mit Steine z Tod*
+  - answers: stoned
+  - סָקֹל יִסָּקֵל nach Bietenhard Hebr 12,20 (Zitat von 2Mo 19,13); 21,28-32 gleich.
+  - agent:exo019, 2026-10-30
+- **`term:ex19_misc`** קוֹל → **donneret / blitzt / erschiesse / düre stürme** [medium, decided, by-rule]
+  - gloss: קוֹל: קֹלֹ֨ת (EXO 19:16) — English (generated): thunder
+  - NT: EXO 19:16 *donneret und blitzt*; EXO 19:21 *düre stürme*
+  - answers: thunder, lightning, shot, break through
+  - Wortformen aus 2Mo 19.
+  - agent:exo019, 2026-10-30
+- **`formula:decalogue`** רָצַח → **Du söllsch nid morde. Du söllsch d Eh nid bräche. Du söllsch nid stäle.** [high, decided, attested]
+  - gloss: רָצַח: תִּרְצָֽח (EXO 20:13) — English (generated): murder
+  - NT: ROM 13:9 *Du söllsch nid morde*; MAT 5:27 *d Eh nid bräche*; ROM 13:9 *du söllsch nid stäle*
+  - answers: you shall not murder, you shall not commit adultery, you shall not steal
+  - 20,12-17 nach Bietenhard (Mt 5,21.27; 15,4; 19,18-19; Mk 10,19; Röm 13,9): »Du söllsch dy Vatter und dy Mueter ehre«; »nid gluschte« (Röm 7,7; 13,9). 20,16 עֵד שָׁקֶר »als falsche Züge uftrete« (Bietenhard paraphrasiert »vor Gricht nid lüge«). In 5Mo 5 gleich halten.
+  - agent:exo020, 2026-10-30
+- **`term:H7453_neighbor_law`** רֵעַ → **dy Mitmönsch** [high, decided, attested]
+  - gloss: רֵעַ: רֵעֲ (EXO 20:16) — English (generated): against your neighbor
+  - NT: ROM 13:9 *dy Mitmönsch*; EXO 20:17 *vo dym Mitmönsch*
+  - answers: neighbor
+  - רֵעַ im Gebot und Gesetz (20,16-17; 21,14.18.35; 22,6-13.25) »Mitmönsch« wie Bietenhard für πλησίον; in Erzählung »Nachbar« (11,2; term:H7453_neighbor).
+  - agent:exo020, 2026-10-30
+- **`formula:jealous_god`** קַנָּא → **e yfersüchtige Gott; i strafe d Schuld vo de Vätter a de Chinder bis is dritte und vierte Glid** [high, decided, by-rule]
+  - gloss: קַנָּא: קַנָּ֔א (EXO 20:5) — English (generated): am a jealous
+  - NT: EXO 20:5 *e yfersüchtige Gott*; EXO 20:5 *dritte und vierte Glid*; EXO 20:6 *tuusigschte Glid*
+  - answers: jealous god, visiting the iniquity
+  - אֵל קַנָּא (20,5; 34,14); 34,7 gleich halten. Korpus »yfersüchtig«, »Glid«.
+  - agent:exo020, 2026-10-30
+- **`term:H8002_peace_offering`** שֶׁלֶם → **Gmeinschaftsopfer** [high, decided, by-rule]
+  - gloss: שֶׁלֶם: שְׁלָמֶ֔י (EXO 20:24) — English (generated): and peace offerings
+  - NT: EXO 20:24 *dyni Gmeinschaftsopfer*
+  - answers: peace offerings, fellowship offerings
+  - שְׁלָמִים; 24,5; 29,28; 32,6 gleich.
+  - agent:exo020, 2026-10-30
+- **`term:ex20_misc`** פֶּסֶל → **Götzebild / Sabbattag / ungstraft / uftrete / rouche / ghoune Steine / Meissel / entheilige, entheiligisch / Blössi / tuusigschte** [medium, decided, by-rule]
+  - gloss: פֶּסֶל: פֶ֨סֶל֙ (EXO 20:4) — English (generated): an idol
+  - NT: EXO 20:4 *kes Götzebild*; EXO 20:25 *ghoune Steine*
+  - answers: idol, carved, chisel, nakedness
+  - Wortformen aus 2Mo 20; שָׁחָה vor Gott/Götzen »sech bücke (und aabätte)« wie 4,31; 12,27.
+  - agent:exo020, 2026-10-30
+- **`formula:put_to_death`** מוּת → **dä söll tödt wärde** [high, decided, attested]
+  - gloss: מוּת: מֵ֖ת (EXO 21:12) — English (generated): and kills
+  - NT: MRK 7:10 *dä söll tödt wärde*; EXO 21:15 *söll tödt wärde*
+  - answers: shall surely be put to death
+  - מוֹת יוּמָת nach Bietenhard Mk 7,10 (Zitat von 21,17); 21,12.15.16.17.29; 22,18; 31,14-15; 35,2 gleich.
+  - agent:exo021, 2026-10-30
+- **`formula:eye_for_eye`** עַיִן → **Oug gägen Oug, Zahn gäge Zahn** [high, decided, attested]
+  - gloss: עַיִן: עַ֚יִן (EXO 21:24) — English (generated): eye
+  - NT: MAT 5:38 *Oug gägen Oug*; EXO 21:24 *Zahn gäge Zahn*
+  - answers: eye for eye, tooth for tooth
+  - Nach Bietenhard Mt 5,38; Fortsetzung 21,24-25 im selben Muster (»Hand gäge Hand … Strieme gäge Strieme«); 21,23 »Läbe um Läbe«.
+  - agent:exo021, 2026-10-30
+- **`term:H5650_slave_law`** עֶבֶד → **Sklav / Sklavin / Sklave** [high, decided, attested]
+  - gloss: עֶבֶד: עֶ֣בֶד (EXO 21:2) — English (generated): servant
+  - gloss: אָמָה: אָמָ֑ה (EXO 21:7) — English (generated): as a servant
+  - NT: EXO 21:2 *e hebräische Sklav*; EXO 21:7 *als Sklavin*
+  - answers: slave, servant, maidservant
+  - Im Sklavenrecht (21,2-11.20-21.26-27.32) עֶבֶד/אָמָה »Sklav/Sklavin«; sonst »Chnächt/Magd« (term:servant, term:H8198).
+  - agent:exo021, 2026-10-30
+- **`term:H4941_ordinances`** מִשְׁפָּט → **Rächtsornige** [high, decided, by-rule]
+  - gloss: מִשְׁפָּט: מִּשְׁפָּטִ֔ים (EXO 21:1) — English (generated): are the ordinances
+  - NT: EXO 21:1 *d Rächtsornige*
+  - answers: ordinances
+  - הַמִּשְׁפָּטִים 21,1; 24,3 gleich.
+  - agent:exo021, 2026-10-30
+- **`term:H3724_ransom`** כֹּפֶר → **Lösgäld** [high, decided, by-rule]
+  - gloss: כֹּפֶר: כֹּ֖פֶר (EXO 21:30) — English (generated): payment
+  - NT: EXO 21:30 *es Lösgäld*
+  - answers: ransom
+  - כֹּפֶר; 30,12 gleich.
+  - agent:exo021, 2026-10-30
+- **`term:ex21_law`** מַרְצֵעַ → **vorlege / alleini / gebiert / Ahle / stäche / tröilos / behandle / eheleche Rächt / losgeit / entfüert / Fuscht / Verdienschtusfall / rouffe / schwangeri / büesse / Uspruch / kaputt / usschlat / Ersatz / ersetze / stosst / ygsperrt / verfahre / ufdeckt / grabt / verletzt / Erlös / stilt / Bsitzer** [medium, decided, by-rule]
+  - gloss: מַרְצֵעַ: מַּרְצֵ֔עַ (EXO 21:6) — English (generated): with an awl
+  - NT: EXO 21:6 *mit ere Ahle*; EXO 21:36 *Ochs für Ochs ersetze*
+  - answers: awl, fist, restitution, gores
+  - Wortformen des Bundesbuchs (2Mo 21); שִׁלֵּם »ersetze/Ersatz leischte«, נָגַח »stosse«, בַּעַל הַשּׁוֹר »Bsitzer«.
+  - agent:exo021, 2026-10-30
+- **`term:ex22_law`** מֹהַר → **Brutprys / gstolene / abweide, weidet / usbricht / übergryft / ufgschichteti / aagfüüret / Veruntröiig / Verlorns / sprichet / furttribe / annäh / Verrissene / lehnt, lehnsch / gmietet / Mietzins / abggolte / Jungfroue / Hexe / Bann / underdrücke / plagsch / Wucherer / Pfand / undergeit / Decki / lästere / Ärnt / zögere / vürehiere** [medium, decided, by-rule]
+  - gloss: מֹהַר: מֹ֖הַר (EXO 22:16) — English (generated): to the bridal price
+  - NT: EXO 22:15 *dür e Brutprys*; EXO 22:17 *E Hexe*; EXO 22:25 *z Pfand*
+  - answers: bride price, sorceress, pledge, interest
+  - Wortformen des Bundesbuchs (2Mo 22); מְכַשֵּׁפָה »Hexe« (vgl. Hexer 7,11); חֵרֶם »em Bann verfalle«; נֶשֶׁךְ »Zins«, נֹשֶׁה »Wucherer«.
+  - agent:exo022, 2026-10-30
+- **`formula:leader_curse`** נָשִׂיא → **emene Vorgsetzte vo dym Volk söllsch du nüüt Böses säge** [high, decided, attested]
+  - gloss: נָשִׂיא: נָשִׂ֥יא (EXO 22:27) — English (generated): the ruler
+  - NT: ACT 23:5 *Emene Vorgsetzte*; EXO 22:27 *nüüt Böses säge*
+  - answers: curse a ruler
+  - Nach Bietenhard Apg 23,5 (Zitat von 22,27).
+  - agent:exo022, 2026-10-30
+- **`term:H5307_widow_orphan`** אַלְמָנָה → **Witfrou / Witfroue; Waisechind / Waise** [high, decided, by-rule]
+  - gloss: אַלְמָנָה: אַלְמָנָ֥ה (EXO 22:21) — English (generated): widow
+  - NT: EXO 22:21 *Kei Witfrou*; EXO 22:23 *zu Waise*
+  - answers: widow, orphan, fatherless
+  - Korpus »Witfrou« (nicht »Witwe«), »Waise«.
+  - agent:exo022, 2026-10-30
+- **`term:H1601_bloodguilt`** דָּם → **Bluetschuld** [high, decided, by-rule]
+  - gloss: דָּם: דָּמִֽים (EXO 22:1) — English (generated): shall be guilty of bloodshed
+  - NT: EXO 22:1 *kei Bluetschuld*
+  - answers: bloodguilt
+  - דָּמִים »Bluetschuld« (22,1-2).
+  - agent:exo022, 2026-10-30
+- **`term:ex23_law`** צִרְעָה → **Grücht / zämetue / nachegisch / Rächtsstryt / bevorzuge / begägnisch / umbedingt / zrüggbringe / hasst / zämebräche / spriche / verdrääjt / aasäje / ychrüme, ychrüemsch, Ychrüme / Olivebäum / gsäjt / Erschtertrag / Gsüürtem / lehn … uf / Vergähe / tilgen / Steimale / Horniss / verjagen, verjage, verjagsch / ybsitze / diensch / rue** [medium, decided, by-rule]
+  - gloss: צִרְעָה: צִּרְעָ֖ה (EXO 23:28) — English (generated): the hornet
+  - NT: EXO 23:28 *d Horniss*; EXO 23:24 *iri Steimale*
+  - answers: false report, bribe, hornet, sacred pillars
+  - Wortformen des Bundesbuchs (2Mo 23); מַצֵּבָה »Steimal«; צִרְעָה »Horniss«; אָסִיף »Ychrüme«.
+  - agent:exo023, 2026-10-30
+- **`term:H7810_bribe`** שֹׁחַד → **Bstächigsgäld** [high, decided, by-rule]
+  - gloss: שֹׁחַד: שֹׁ֖חַד (EXO 23:8) — English (generated): a bribe
+  - NT: EXO 23:8 *Bstächigsgäld*
+  - answers: bribe
+  - שֹׁחַד.
+  - agent:exo023, 2026-10-30
+- **`formula:three_feasts`** קָצִיר → **ds Fescht vom ungsüürete Brot; ds Fescht vo der Ärnt; ds Fescht vom Ychrüme** [high, decided, by-rule]
+  - gloss: קָצִיר: קָּצִיר֙ (EXO 23:16) — English (generated): of Harvest
+  - NT: EXO 23:16 *Fescht vo der Ärnt*; EXO 23:16 *Fescht vom Ychrüme*
+  - answers: feast of unleavened bread, feast of harvest, feast of ingathering
+  - Drei Wallfahrtsfeste (23,14-17); 34,18-23 gleich. »Drümal im Jahr … vor em Gsicht vom Herr, em HERR, erschyne« (23,17; 34,23).
+  - agent:exo023, 2026-10-30
+- **`formula:kid_milk`** גְּדִי → **Du söllsch es Gitzi nid i der Milch vo syr Mueter choche** [high, decided, by-rule]
+  - gloss: גְּדִי: גְּדִ֖י (EXO 23:19) — English (generated): a young goat
+  - NT: EXO 23:19 *es Gitzi nid*; EXO 23:19 *Milch vo syr Mueter*
+  - answers: boil a young goat in its mother's milk
+  - 23,19 = 34,26.
+  - agent:exo023, 2026-10-30
+- **`formula:blood_covenant`** דָּם → **Das isch ds Bluet vom Bund** [high, decided, attested]
+  - gloss: דָּם: דָּ֔ם (EXO 24:8) — English (generated): the blood
+  - NT: HEB 9:20 *ds Bluet vom Bund*; EXO 24:8 *ds Bluet vom Bund*
+  - answers: blood of the covenant
+  - Nach Bietenhard Hebr 9,20 (Zitat von 24,8); dort »wo Gott für öich beschlosse het«, hier »wo der HERR mit öich gschlosse het« (כָּרַת).
+  - agent:exo024, 2026-10-30
+- **`term:H3871_tablets`** לוּחַ → **d Tafele us Stei; d Tafele vom Zügnis** [high, decided, by-rule]
+  - gloss: לוּחַ: לֻחֹ֣ת (EXO 24:12) — English (generated): the tablets
+  - NT: HEB 9:4 *Bundestafele*; EXO 24:12 *d Tafele us Stei*
+  - answers: tablets of stone, tablets of the testimony
+  - לֻחֹת הָאֶבֶן (24,12; 31,18; 34,1.4); לֻחֹת הָעֵדֻת (31,18; 32,15; 34,29) »d Tafele vom Zügnis«. Bietenhard Hebr 9,4 »Bundestafele«.
+  - agent:exo024, 2026-10-30
+- **`formula:forty_days`** בְּ → **vierzg Tag und vierzg Nächt** [high, decided, by-rule]
+  - gloss: בְּ: בְּ (EXO 24:18)
+  - NT: EXO 24:18 *vierzg Tag und vierzg*; MAT 4:2 *vierzg Tag und Nächt*
+  - answers: forty days and forty nights
+  - 24,18; 34,28.
+  - agent:exo024, 2026-10-30
+- **`term:H5288_young_men`** נַעַר → **jungi Manne; Diener (מְשָׁרֵת)** [high, decided, by-rule]
+  - gloss: נַעַר: נַעֲרֵי֙ (EXO 24:5) — English (generated): some young men
+  - gloss: שָׁרַת: מְשָׁרְת֑ (EXO 24:13) — English (generated): his attendant
+  - NT: EXO 24:5 *jungi Manne*; EXO 24:13 *sym Diener Josua*
+  - answers: young men, assistant
+  - Josua als »Diener« Moses (24,13; 33,11).
+  - agent:exo024, 2026-10-30
+- **`term:tabernacle_materials`** זָהָב → **Guld, Silber und Bronze; blaui, purpurroti und scharlachroti Wulle; fyns Lyntuech; Geisshaar; rot gfärbti Widderfäll; fyns Läder; Akazieholz; Öl für ds Liecht; Gwürz für ds Salböl und für ds wohlriechende Röucherwärch; Onyxsteine und Fassigssteine; luters / luterem Guld** [high, decided, by-rule]
+  - gloss: זָהָב: זָהָ֥ב (EXO 25:3) — English (generated): gold
+  - gloss: תְּכֵלֶת: תְכֵ֧לֶת (EXO 25:4) — English (generated): blue
+  - gloss: שִׁטָּה: שִׁטִּֽים (EXO 25:5) — English (generated): acacia
+  - NT: EXO 25:3 *Guld, Silber und Bronze*; EXO 25:5 *Akazieholz*; HEB 9:19 *roti Wulle*
+  - answers: gold, silver, bronze, blue, purple, scarlet, fine linen, goat hair, acacia wood, fragrant incense, onyx
+  - Materialliste 25,3-7 = 35,5-9 (wörtlich gleich halten). תְּכֵלֶת »blaui Wulle«, אַרְגָּמָן »purpurroti«, תּוֹלַעַת שָׁנִי »scharlachroti« (Bietenhard Hebr 9,19 »roti Wulle«), שֵׁשׁ »fyns Lyntuech«, תְּחָשִׁים »fyns Läder« (Fussnote), זָהָב טָהוֹר »luters Guld«.
+  - agent:exo025, 2026-10-30
+- **`term:tabernacle_parts`** מִשְׁכָּן → **d Wohnig; ds Heiligtum; d Lade (vom Zügnis); der Gnadestuel; d Cherube; der Tisch mit em usgstellte Brot; der Lüüchter mit Fuess, Schaft, Arme, Chelch, Chnopf / Chnöpf, Blüete, Lampe, Dochtschäre und Pfännli; Ring, Stange, Chranz, Rand; Platte, Schale, Channe, Schüssle; Efod und Bruschtschild** [high, decided, attested]
+  - gloss: מִשְׁכָּן: מִּשְׁכָּ֔ן (EXO 25:9) — English (generated): the tabernacle
+  - gloss: כַּפֹּרֶת: כַפֹּ֖רֶת (EXO 25:17) — English (generated): a mercy seat
+  - gloss: מְנוֹרָה: מְנֹרַ֖ת (EXO 25:31) — English (generated): a lampstand
+  - NT: HEB 9:5 *Gnadestuel*; HEB 9:2 *der Lüüchter*; EXO 25:9 *d Wohnig*
+  - answers: tabernacle, ark, mercy seat, cherubim, table, bread of the presence, lampstand, poles, rings
+  - Nach Bietenhard Hebr 9,2-5 (Lüüchter, Tisch, usgstellte Brot, Cherube, Gnadestuel, Lade). מִשְׁכָּן »d Wohnig«, אֹהֶל »ds Zält«, מִקְדָּשׁ »ds Heiligtum«. Liste im Wiki (entscheide-at.md, Heiligtum) und in exo_state.md; Kap. 35-40 gleich.
+  - agent:exo025, 2026-10-30
+- **`term:ex25_misc`** אַמָּה → **aanäh / drängt / giesse / zwöiehalb / tribener / tribeni / Handbreiti / nööch / Halterig / Trankopfer / usgiesst / ufsetze / erlüüchte / Lüüchterarme / Mandelblüete / Elle** [medium, decided, by-rule]
+  - gloss: אַמָּה: אַמָּתַ֨יִם (EXO 25:10) — English (generated): two
+  - gloss: מִקְשָׁה: מִקְשָׁה֙ (EXO 25:18) — English (generated): of hammered
+  - NT: EXO 25:10 *zwöiehalb Elle*; EXO 25:18 *i tribener Arbeit*
+  - answers: cubit, hammered, handbreadth, drink offerings
+  - אַמָּה »Elle«; מִקְשָׁה »tribeni Arbeit«; Masse ausgeschrieben (zwöiehalb, anderthalb).
+  - agent:exo025, 2026-10-30
+- **`formula:pattern_mountain`** תַּבְנִית → **nach em Vorbild, wo dir uf em Bärg zeigt worde isch** [high, decided, attested]
+  - gloss: תַּבְנִית: תַ֨בְנִיתָ֔ (EXO 25:40) — English (generated): according to the pattern
+  - NT: HEB 8:5 *nam Vorbild*; EXO 25:40 *uf em Bärg zeigt*
+  - answers: pattern shown you on the mountain
+  - Nach Bietenhard Hebr 8,5 (Zitat von 25,40); 25,9; 26,30; 27,8 gleich.
+  - agent:exo025, 2026-10-30
+- **`term:tabernacle_parts_26`** יְרִיעָה → **Tuech / Tüecher; Bahne; Schlüüfe; Spange; ds Zält us Geisshaar; Decki; Brätt / Brätter; Zapfe; Sockel; Riegel; der mittler Riegel; Vorhang; Süüle; Hääggli; Türvorhang; ds Heilige und ds Allerheiligschte; Südsyte, Nordsyte, Rücksyte** [high, decided, attested]
+  - gloss: יְרִיעָה: יְרִיעֹ֑ת (EXO 26:1) — English (generated): curtains
+  - gloss: קֶרֶשׁ: קְּרָשִׁ֖ים (EXO 26:15) — English (generated): frames
+  - gloss: פָּרֹכֶת: פָרֹ֗כֶת (EXO 26:31) — English (generated): a veil
+  - NT: HEB 9:3 *zwöite Vorhang*; HEB 9:3 *ds Allerheiligschte*; EXO 26:15 *d Brätter*
+  - answers: curtains, loops, clasps, frames, tenons, bases, bars, veil, pillars, hooks, screen, most holy place
+  - 2Mo 26: יְרִיעָה »Tuech«, חֹבֶרֶת »Bahne«, לֻלָאֹת »Schlüüfe«, קְרָסִים »Spange«, מִכְסֶה »Decki«, קְרָשִׁים »Brätter«, יָדוֹת »Zapfe«, אֲדָנִים »Sockel«, בְּרִיחִם »Riegel«, פָּרֹכֶת »Vorhang« (Hebr 9,3), עַמּוּדִים »Süüle«, וָוִים »Hääggli«, מָסָךְ »Türvorhang«, קֹדֶשׁ הַקֳּדָשִׁים »ds Allerheiligschte« (Hebr 9,3). Kap. 36 gleich.
+  - agent:exo026, 2026-10-30
+- **`term:ex26_misc`** חָשַׁב → **blauer / purpurroter / scharlachroter Wulle; zwirnetem fynem Lyntuech; Kunschtwäber; Buntwäber; Mass; abehange; Akazie; ufhänke; achtezwänzg; vore; zämefüege; zuezdecke; gfärbte; stehendi; sächzäche; düregah; überzoge; ynebringe** [medium, decided, by-rule]
+  - gloss: חָשַׁב: חֹשֵׁ֖ב (EXO 26:1) — English (generated): skillfully
+  - gloss: רָקַם: רֹקֵֽם (EXO 26:36) — English (generated): embroidered
+  - NT: EXO 26:1 *vo mene Kunschtwäber*; EXO 26:36 *vo mene Buntwäber*
+  - answers: twisted, skilled craftsman, embroiderer
+  - מַעֲשֵׂה חֹשֵׁב »Arbeit vo mene Kunschtwäber«, מַעֲשֵׂה רֹקֵם »… Buntwäber«, שֵׁשׁ מָשְׁזָר »zwirnets fyns Lyntuech«.
+  - agent:exo026, 2026-10-30
+- **`term:tabernacle_parts_27`** מִזְבֵּחַ → **Altar mit Hörner; Äschechessle, Schufle, Sprützschale, Gable, Pfanne; Gitter, Netzwärch, Umgang; bronzigi Ring; Vorhof; Behäng; Ringbänder; Tor; Pflöck; Weschtsyte, Oschtsyte; hohl us Brätter; viereggig; ygfasst** [high, decided, by-rule]
+  - gloss: מִזְבֵּחַ: מִּזְבֵּ֖חַ (EXO 27:1) — English (generated): an altar
+  - gloss: מִכְבָּר: מִכְבָּ֔ר (EXO 27:4) — English (generated): a grate
+  - gloss: חָצֵר: חֲצַ֣ר (EXO 27:9) — English (generated): a courtyard
+  - NT: EXO 27:2 *Hörner*; EXO 27:9 *der Vorhof*; EXO 27:9 *Behäng*
+  - answers: altar, horns, pots, shovels, basins, forks, firepans, grating, courtyard, hangings, bands, tent pegs
+  - 2Mo 27 (= 38,1-20): סִירֹת »Äschechessle«, יָעִים »Schufle«, מִזְרָקֹת »Sprützschale«, מִזְלָגֹת »Gable«, מַחְתֹּת »Pfanne«, מִכְבָּר »Gitter«, רֶשֶׁת »Netz(wärch)«, כַּרְכֹּב »Umgang«, חָצֵר »Vorhof«, קְלָעִים »Behäng«, חֲשֻׁקִים »Ringbänder«, יְתֵדֹת »Pflöck«.
+  - agent:exo027, 2026-10-30
+- **`formula:tent_of_meeting`** אֹהֶל → **ds Zält vo der Begägnig** [high, decided, by-rule]
+  - gloss: אֹהֶל: אֹ֣הֶל (EXO 27:21) — English (generated): In the Tent
+  - NT: EXO 27:21 *Zält vo der Begägnig*
+  - answers: tent of meeting
+  - אֹהֶל מוֹעֵד; Ort, wo Gott mit Mose »zämechunnt« (יָעַד, 25,22; 29,42-43). Überall gleich.
+  - agent:exo027, 2026-10-30
+- **`term:H8081_olive_oil`** שֶׁמֶן → **luters Olivenöl us zerstossne Olive; d Lampe geng aazünte; füfzäche** [high, decided, by-rule]
+  - gloss: שֶׁמֶן: שֶׁ֣מֶן (EXO 27:20) — English (generated): oil
+  - NT: EXO 27:20 *luters Olivenöl*
+  - answers: pure oil of beaten olives
+  - שֶׁמֶן זַיִת זָךְ כָּתִית; 27,20 = 3Mo 24,2. Zahl »füfzäche«.
+  - agent:exo027, 2026-10-30
+- **`term:priestly_garments`** חֹשֶׁן → **heiligi Chleider zur Ehr und zur Zierd: Bruschtschild für ds Rächt, Efod, Mantel, gwobene Lybrock, Turban, Gurt; Schulterstück; Fassige; Chettemli, gflochteni Schnüer; Stirnblatt ‚Heilig für e HERR‘; Lybröck, Gurte, Chopfbünd, Underhose us Lyne** [high, decided, by-rule]
+  - gloss: חֹשֶׁן: חֹ֤שֶׁן (EXO 28:4) — English (generated): a breastpiece
+  - gloss: וְ: וְ (EXO 28:4) — English (generated): These
+  - gloss: צִיץ: צִּ֖יץ (EXO 28:36) — English (generated): a plate
+  - NT: EXO 28:4 *es Bruschtschild*; EXO 28:4 *es Efod*; EXO 28:36 *Stirnblatt*
+  - answers: breastpiece, ephod, robe, tunic, turban, sash, shoulder pieces, settings, chains, plate, headbands, undergarments
+  - 2Mo 28 (= 39): חֹשֶׁן מִשְׁפָּט »Bruschtschild für ds Rächt«, אֵפוֹד »Efod«, מְעִיל »Mantel«, כְּתֹנֶת תַּשְׁבֵּץ »gwobene Lybrock«, מִצְנֶפֶת »Turban«, אַבְנֵט »Gurt«, כְּתֵפֹת »Schulterstück«, מִשְׁבְּצֹת »Fassige«, שַׁרְשְׁרֹת »Chettemli«, צִיץ »Stirnblatt«, מִגְבָּעֹת »Chopfbünd«, מִכְנְסֵי־בָד »Underhose us Lyne«; Granatöpfel und guldigi Glöggli am Saum; Urim und Tummim; mit ds Amt übergä (מִלֵּא יָד).
+  - agent:exo028, 2026-10-30
+- **`term:breastpiece_stones`** אֹדֶם → **Sardis, Topas, Smaragd; Türkis, Saphir, Diamant; Hyazinth, Achat, Amethyst; Chrysolith, Onyx, Jaspis; Onyxsteine; wi me Siegel graviert (Steischnyder)** [medium, decided, attested]
+  - gloss: אֹדֶם: אֹ֤דֶם (EXO 28:17) — English (generated): a ruby
+  - gloss: יָשְׁפֶה: יָשְׁפֵ֑ה (EXO 28:20) — English (generated): and a jasper
+  - NT: REV 21:20 *Topas*; REV 21:19 *Jaspis*; REV 21:20 *Amethyst*
+  - answers: carnelian, topaz, emerald, turquoise, sapphire, diamond, jacinth, agate, amethyst, beryl, onyx, jasper
+  - Steinnamen wo möglich nach Offb 21,19-20 (Bietenhard: Sardis, Topas, Smaragd, Saphir, Hyazinth, Amethyst, Chrysolith, Jaspis); Türkis, Diamant, Achat, Onyx neu. Bestimmung der Steine unsicher (Fussnote). Kap. 39 gleich.
+  - agent:exo028, 2026-10-30
+- **`term:ex28_misc`** פִּתּוּחַ → **verstöh; aagmacht; zämeghebt; kunschtvoll; bifestige; ygraviere; bsetze; entspräche; abrütscht; Loch, Saum, Panzerchleid, verrysst; Klang; usechunnt; webe; Blössi; Oberschänkel; ynegöh; trätte; blaue Schnuer; vierti; Glöggli; Granatapfel, Granatöpfel; Spanne; Steischnyder; gflochtene; Fassig; Urim und Tummim; bimene** [medium, decided, by-rule]
+  - gloss: פִּתּוּחַ: פִּתּוּחֵ֣י (EXO 28:11) — English (generated): engraves
+  - NT: EXO 28:9 *druf ygraviere*
+  - answers: skilled, engrave, fasten, attach
+  - Wortformen aus 2Mo 28.
+  - agent:exo028, 2026-10-30
+- **`term:H4394_ordination`** מִלֻּאִים → **der Widder vo der Amtsyysetzig; ds Amt übergä (מִלֵּא יָד)** [high, decided, by-rule]
+  - gloss: מִלֻּאִים: מִלֻּאִ֖ים (EXO 29:22) — English (generated): for ordination
+  - NT: EXO 29:22 *vo der Amtsyysetzig*
+  - answers: ordination, ram of ordination
+  - מִלֻּאִים »Amtsyysetzig«; מִלֵּא יָד »ds Amt übergä« (Fussnote: d Hand fülle). 3Mo 8 gleich.
+  - agent:exo029, 2026-10-30
+- **`term:offering_kinds`** חַטָּאת → **Sündopfer; Brandopfer; Füüropfer; Schwingopfer (hin und här schwinge); Abgab; Speisopfer; Trankopfer; ds täglech Brandopfer; e feine Duft für e HERR; in Rouch la ufgah** [high, decided, by-rule]
+  - gloss: חַטָּאת: חַטָּ֖את (EXO 29:14) — English (generated): a sin offering
+  - gloss: אִשֶּׁה: אִשֶּׁ֥ה (EXO 29:18) — English (generated): a food offering
+  - gloss: תְּנוּפָה: תְּנוּפָ֖ה (EXO 29:24) — English (generated): as a wave offering
+  - gloss: תְּרוּמָה: תְּרוּמָ֔ה (EXO 29:27) — English (generated): of the heave offering
+  - gloss: מִנְחָה: מִנְחַ֨ת (EXO 29:41) — English (generated): grain offering
+  - gloss: נֶסֶךְ: נִסְכָּ (EXO 29:41) — English (generated): and drink offering
+  - NT: EXO 29:14 *es Sündopfer*; EXO 29:18 *es Füüropfer*; EXO 29:24 *als Schwingopfer*
+  - answers: sin offering, burnt offering, offering made by fire, wave offering, contribution, grain offering, drink offering
+  - Opferarten für 2.-5. Mose: חַטָּאת »Sündopfer« (Korpus), עֹלָה »Brandopfer«, אִשֶּׁה »Füüropfer«, תְּנוּפָה »Schwingopfer«, תְּרוּמָה im Opferkontext »Abgab« (25,2 »Gab« für die Spende), מִנְחָה »Speisopfer«, נֶסֶךְ »Trankopfer«; רֵיחַ נִיחֹחַ »e feine Duft« (term:rech_nichoach); הִקְטִיר »in Rouch la ufgah«.
+  - agent:exo029, 2026-10-30
+- **`term:H3722_atone`** כִּפֶּר → **Sühne schaffe; d Sühne** [medium, decided, by-rule]
+  - gloss: כִּפֶּר: כַפֶּרְ (EXO 29:36) — English (generated): by making atonement
+  - gloss: כִּפֻּרִים: כִּפֻּרִ֔ים (EXO 29:36) — English (generated): atonement
+  - NT: EXO 29:37 *Sühne schaffe*
+  - answers: make atonement, atonement
+  - כִּפֶּר im Opferkult »Sühne schaffe (für)«; Bietenhard umschreibt Hebr 2,17 »für d Sünde gradstah«. כֹּפֶר bleibt »Lösgäld« (21,30).
+  - agent:exo029, 2026-10-30
+- **`term:ex29_misc`** סֹלֶת → **Widder; ungsüürti Fladebrot; dünni Fläde, mit Öl bestriche; fyns Wizemähl; Lappe vo der Läbere; Niere; Fettschwanz; rächti Keule; Ohrläppli, Duume, di grossi Zeche; Hut, Mischt; Laib; Salböl, gröis, salb; zerlege; sprütze; hochheilig; jährigi Lämmer; es Zächtel Efa; es Viertel Hin; zuesteit; nachfolgt; ynechunnt; umbinde; strych; bind; gschwunge; schaffsch; zerstossnem; täglech** [medium, decided, by-rule]
+  - gloss: סֹלֶת: סֹ֥לֶת (EXO 29:2) — English (generated): flour
+  - gloss: אַלְיָה: אַלְיָ֜ה (EXO 29:22) — English (generated): the fat tail
+  - NT: EXO 29:2 *fynem Wizemähl*; EXO 29:22 *der Fettschwanz*
+  - answers: fine wheat flour, wafers, lobe of the liver, fat tail, thigh, ear lobe, big toe
+  - Wortformen aus 2Mo 29; für 3Mo gleich halten.
+  - agent:exo029, 2026-10-30
+- **`term:ex29_imper`** נוּף → **schwing; sprütz; e dünne Flade** [medium, decided, by-rule]
+  - gloss: נוּף: הֵנַפְתָּ֥ (EXO 29:24) — English (generated): and wave
+  - NT: EXO 29:24 *schwing ’s*
+  - answers: wave, bind, sprinkle, wafer
+  - Imperative und Einzahl aus 2Mo 29.
+  - agent:exo029, 2026-10-30
+- **`term:H7004_incense`** קְטֹרֶת → **ds Röucherwärch (wohlriechends); röuchere; der Rouchopferaltar** [high, decided, attested]
+  - gloss: קְטֹרֶת: קְטֹ֑רֶת (EXO 30:1) — English (generated): of incense
+  - gloss: קָטַר: הִקְטִ֥יר (EXO 30:7) — English (generated): is to burn
+  - NT: LUK 1:11 *Rouchopferaltar*; REV 8:3 *für z röuchere*; EXO 30:1 *ds Röucherwärch*
+  - answers: incense, altar of incense, burn incense
+  - מִזְבַּח הַקְּטֹרֶת »Rouchopferaltar« (Lk 1,11; Offb 8,3), עֹלָה-Altar »Brandopferaltar«; קְטֹרֶת (סַמִּים) »(wohlriechends) Röucherwärch« (25,6), הִקְטִיר hier »röuchere«; לְבֹנָה »Weihrouch« (Korpus).
+  - agent:exo030, 2026-10-30
+- **`term:H3724_ransom_census`** כֹּפֶר → **es Lösgäld für sys Läbe; e halbe Schekel nach em Schekel vom Heiligtum; zwänzg Gera; d Gmusterete; d Zahl ufnäh** [high, decided, by-rule]
+  - gloss: כֹּפֶר: כֹּ֧פֶר (EXO 30:12) — English (generated): a ransom
+  - gloss: שֶׁקֶל: שֶּׁ֖קֶל (EXO 30:13) — English (generated): shekel
+  - gloss: גֵּרָה: גֵּרָה֙ (EXO 30:13) — English (generated): gerahs
+  - NT: EXO 30:12 *es Lösgäld*; EXO 30:13 *e halbe Schekel*
+  - answers: ransom, census, half shekel, gerahs
+  - כֹּפֶר wie 21,30 »Lösgäld«; כֶּסֶף הַכִּפֻּרִים »ds Lösgäld« (30,16); פָּקַד »muschtere« (4Mo gleich).
+  - agent:exo030, 2026-10-30
+- **`term:anointing_oil_spices`** שֶׁמֶן → **ds heilige Salböl; flüssigi Myrrhe, wohlriechende Zimet, wohlriechends Gwürzrohr, Kassia; Salbimischer; Staktetropfe, Röuchermuschle, Galbanum, lutere Weihrouch; gsalze; Rezäpt** [medium, decided, by-rule]
+  - gloss: שֶׁמֶן: שֶׁ֚מֶן (EXO 30:25) — English (generated): oil
+  - gloss: מֹר: מָר (EXO 30:23) — English (generated): myrrh
+  - gloss: לְבֹנָה: לְבֹנָ֣ה (EXO 30:34) — English (generated): frankincense
+  - NT: EXO 30:23 *flüssigi Myrrhe*; EXO 30:34 *lutere Weihrouch*
+  - answers: anointing oil, myrrh, cinnamon, cane, cassia, stacte, onycha, galbanum, frankincense, perfumer
+  - Myrrhe, Zimet, Weihrouch, Balsam im Korpus; נָטָף »Staktetropfe«, שְׁחֵלֶת »Röuchermuschle«, חֶלְבְּנָה »Galbanum« (Bestimmung unsicher). Kap. 37,29 gleich.
+  - agent:exo030, 2026-10-30
+- **`term:ex30_misc`** כִּיֹּור → **Grät; Gstell; Becki us Bronze; zämechume; eimal im Jahr; Oberflächi; aazündet; frömds Röucherwärch; ufnimmsch; gmusteret; zwöihundertfüfzg; Brandopferaltar; fyn verstosse** [medium, decided, by-rule]
+  - gloss: כִּיֹּור: כִּיּ֥וֹר (EXO 30:18) — English (generated): basin
+  - NT: EXO 30:18 *es Becki us Bronze*
+  - answers: basin, stand, utensils
+  - כִּיּוֹר »Becki« (Korpus: Becki), כֵּן »Gstell«; כֵּלִים »Grät« (sonst »Grätschafte«).
+  - agent:exo030, 2026-10-30
+- **`term:sabbath_sign`** שַׁבָּת → **Myni Sabbate söllet dihr halte, denn si sy es Zeiche zwüsche mir und öich; Sabbat, e Ruetag, heilig für e HERR; entheiliget; dä söll tödt wärde; am sibete Tag het er grueit und isch wider zu Aate cho** [high, decided, by-rule]
+  - gloss: שַׁבָּת: שַׁבְּתֹתַ֖ (EXO 31:13) — English (generated): My Sabbaths
+  - gloss: שַׁבָּתוֹן: שַׁבָּת֛וֹן (EXO 31:15) — English (generated): of complete rest
+  - gloss: נָפַשׁ: יִּנָּפַֽשׁ (EXO 31:17) — English (generated): and was refreshed
+  - NT: EXO 31:15 *e Ruetag*; EXO 31:17 *zu Aate cho*
+  - answers: sabbaths, sign, solemn rest, profane
+  - שַׁבָּתוֹן »Ruetag« wie 16,23; חִלֵּל »entheilige«; וַיִּנָּפַשׁ »isch wider zu Aate cho«. 35,2 gleich.
+  - agent:exo031, 2026-10-30
+- **`term:ex31_misc`** אֶצְבַּע → **Kunschtwärch entwärfe; Steine schnyde und yzfasse; Holz schnitze; gschickte Lüt; heiliget; gschribe mit em Finger vo Gott** [medium, decided, by-rule]
+  - gloss: אֶצְבַּע: אֶצְבַּ֥ע (EXO 31:18) — English (generated): by the finger
+  - NT: EXO 31:18 *Finger vo Gott*
+  - answers: artistic designs, skilled, finger of god
+  - 31,3 = 35,31: »mit em Geischt vo Gott erfüllt, mit Wysheit, Verstand und Wüsse«; 31,18 »Finger vo Gott« (vgl. Lk 11,20).
+  - agent:exo031, 2026-10-30
+- **`formula:golden_calf_gods`** אֱלֹהִים → **Mach üüs Götter, won is vorab gange** [high, decided, attested]
+  - gloss: אֱלֹהִים: אֱלֹהִ֗ים (EXO 32:1) — English (generated): gods
+  - NT: ACT 7:40 *Mach üüs Götter*
+  - answers: make us gods who will go before us
+  - 2Mo 32,1.23 im ganzen Satz nach Apg 7,40 (Bietenhard), samt »wüsse mer ja nid, was mit ihm passiert isch«; »us Ägypte« für מֵאֶרֶץ מִצְרַיִם wie dort.
+  - agent:exo032, 2026-10-30
+- **`formula:ex32_6`** צָחַק → **Ds Volk isch abgsässe für z ässe und z trinke, und si sy ufgstande für umeztanze.** [high, decided, attested]
+  - gloss: צָחַק: צַחֵֽק (EXO 32:6) — English (generated): to indulge in revelry
+  - NT: 1CO 10:7 *abgsässe für z ässe*; 1CO 10:7 *umeztanze*
+  - answers: sat down to eat and drink, and rose up to play
+  - Nach 1Kor 10,7; Bietenhards Zusatz »um ds guldige Chalb« ist Deutung und steht nicht im Hebräischen, darum weggelassen.
+  - agent:exo032, 2026-10-30
+- **`term:golden_calf`** עֵגֶל → **es gossnigs Chalb; guldigi Ohrering; mit em Meissel gformt; Das sy dyni Götter, Israel** [high, decided, attested]
+  - gloss: עֵגֶל: עֵ֣גֶל (EXO 32:4) — English (generated): calf
+  - gloss: מַסֵּכָה: מַסֵּכָ֑ה (EXO 32:4) — English (generated): into a molten
+  - NT: EXO 32:4 *es gossnigs Chalb*; ACT 7:41 *es Chalb*
+  - answers: molten calf, earrings
+  - עֵגֶל מַסֵּכָה »gossnigs Chalb« (Korpus Chalb, Apg 7,41); נֶזֶם »Ohrering«; חֶרֶט »Meissel«.
+  - agent:exo032, 2026-10-30
+- **`term:H5162_relent`** נָחַם → **’s het der HERR groue wäge däm Übel; la di ’s groue** [medium, decided, by-rule]
+  - gloss: נָחַם: הִנָּחֵ֥ם (EXO 32:12) — English (generated): and relent
+  - NT: EXO 32:14 *der HERR groue*
+  - answers: relent, repent
+  - נִחַם עַל־הָרָעָה »’s het ne groue wäge däm Übel«; רָעָה hier »Übel« (Korpus), nicht »Unglück«.
+  - agent:exo032, 2026-10-30
+- **`term:stiff_necked`** קָשֶׁה → **es Volk mit herte Chöpf** [high, decided, attested]
+  - gloss: קָשֶׁה: קְשֵׁה (EXO 32:9) — English (generated): a stiff necked
+  - NT: ACT 7:51 *herti Chöpf*
+  - answers: stiff-necked people
+  - קְשֵׁה־עֹרֶף nach Apg 7,51 »herti Chöpf«; 33,3.5; 34,9 gleich.
+  - agent:exo032, 2026-10-30
+- **`term:book_blot`** מָחָה → **lösch mi us dym Buech us; dä lösche i us mym Buech us** [high, decided, attested]
+  - gloss: מָחָה: מְחֵ֣ (EXO 32:32) — English (generated): blot me
+  - NT: REV 3:5 *uslösche us em Buech*
+  - answers: blot me out of your book
+  - Vgl. Offb 3,5 (Buech vom Läbe).
+  - agent:exo032, 2026-10-30
+- **`term:ex32_misc`** חָלָה → **zämegläse; abechunnt; darbracht; abgwiche; aagfleht; mit starcher Hand; zahlrych; aadröit; bschribe; ygraviert; Sieggschrei; Niderlag; zermahle; zum Böse neigt; la verwildere; usser Rand und Band; gweiht; villicht; Wuet; Gspött** [medium, decided, by-rule]
+  - gloss: חָלָה: יְחַ֣ל (EXO 32:11) — English (generated): sought the favor
+  - NT: EXO 32:11 *aagfleht*
+  - answers: implored, engraved, victory, defeat
+  - Wortformen aus 2Mo 32; אַף »toub wärde« (store), »Wuet« (Korpus).
+  - agent:exo032, 2026-10-30
+- **`formula:ex33_19`** רָחַם → **I zeige däm Erbarme, won i Erbarme mit ihm ha** [high, decided, attested]
+  - gloss: רָחַם: רִחַמְתִּ֖י (EXO 33:19) — English (generated): and I will have compassion
+  - NT: ROM 9:15 *I zeige däm Erbarme*
+  - answers: i will have mercy on whom i have mercy
+  - 33,19 nach Röm 9,15 (Bietenhard): חָנַן »Erbarme zeige«, רִחַם »Mitlyde zeige« (Reihenfolge wie dort).
+  - agent:exo033, 2026-10-30
+- **`term:H6440_presence`** פָּנֶה → **my Gsicht geit mit; vo Gsicht zu Gsicht; my Rügge** [medium, decided, by-rule]
+  - gloss: פָּנֶה: פָּנַ֥ (EXO 33:14) — English (generated): My Presence
+  - NT: EXO 33:11 *vo Gsicht zu Gsicht*; EXO 33:14 *My Gsicht geit*
+  - answers: presence, face to face
+  - פָּנַי יֵלֵכוּ wörtlich »my Gsicht geit mit« (Fussnote: i sälber); Korpus hat »Gsicht«, nicht »Agsicht«.
+  - agent:exo033, 2026-10-30
+- **`term:ex33_misc`** עֲדִי → **Schmuck; tilge; jewyle; nachegluegt; mitgeit; verbyzie, verbyzieht; Felsspalte; vo Gsicht zu Gsicht; Rue gä** [medium, decided, by-rule]
+  - gloss: עֲדִי: עֶדְי֖ (EXO 33:4) — English (generated): any of his jewelry
+  - gloss: נְקָרָה: נִקְרַ֣ת (EXO 33:22) — English (generated): in a cleft
+  - NT: EXO 33:4 *sy Schmuck*; EXO 33:22 *Felsspalte*
+  - answers: ornaments, cleft of the rock
+  - Wortformen aus 2Mo 33.
+  - agent:exo033, 2026-10-30
+- **`formula:ex34_6_7`** רַחוּם → **Der HERR, der HERR, e Gott, wo barmhärzig und gnädig isch, voll Geduld und rych a Tröiji und Wahrheit** [high, decided, by-rule]
+  - gloss: רַחוּם: רַח֖וּם (EXO 34:6) — English (generated): is compassionate
+  - gloss: חַנּוּן: חַנּ֑וּן (EXO 34:6) — English (generated): and gracious
+  - NT: EXO 34:6 *barmhärzig und gnädig*
+  - answers: merciful and gracious, slow to anger
+  - Gleich wie Ps 86,15 (Psalmenrun); 34,7 »Tröiji bewahrt bis is tuusigschte Glid … i strafe d Schuld vo de Vätter a de Chinder« wie 20,5-6. Für 4Mo 14,18; Joel 2,13; Jona 4,2; Ps 103,8; 145,8 gleich halten.
+  - agent:exo034, 2026-10-30
+- **`term:moses_face_shone`** קָרַן → **d Hut vo sym Gsicht het glänzt; es Tuech uf sys Gsicht lege** [high, decided, attested]
+  - gloss: קָרַן: קָרַ֛ן (EXO 34:29) — English (generated): had become radiant
+  - gloss: מַסְוֶה: מַסְוֶֽה (EXO 34:33) — English (generated): a veil
+  - NT: 2CO 3:13 *nes Tuech*; 2CO 3:7 *Glanz*
+  - answers: skin of his face shone, veil
+  - מַסְוֶה »Tuech« nach 2Kor 3,13; קָרַן »glänze« (2Kor 3,7 »Glanz«).
+  - agent:exo034, 2026-10-30
+- **`term:ex34_misc`** אֲשֵׁרָה → **zueghoue, Hou dir … zue; verbyzoge; schliessisch, schliess (Bund); ychunnsch; Ascherapfähl; gossnige Götter; Pflüegen; Wuchefescht; ufegeisch; hinder irne Götter här ga huere; Änkel** [medium, decided, by-rule]
+  - gloss: אֲשֵׁרָה: אֲשֵׁרָ֖י (EXO 34:13) — English (generated): their Asherah poles
+  - gloss: שָׁבוּעַ: שָׁבֻעֹת֙ (EXO 34:22) — English (generated): of Weeks
+  - gloss: זָנָה: זָנ֣וּ (EXO 34:15) — English (generated): for when they prostitute themselves
+  - NT: EXO 34:13 *iri Ascherapfähl*; EXO 34:22 *Ds Wuchefescht*
+  - answers: asherah poles, feast of weeks, prostitute
+  - 34,18-26 nach 23,12-19 (gleiche Worte); אֲשֵׁרִים »Ascherapfähl«; זָנָה אַחֲרֵי »hinder … här ga huere«; קַנָּא שְׁמוֹ »heisst ‚Yfersüchtig‘«.
+  - agent:exo034, 2026-10-30
+- **`term:ex35_gifts`** חַח → **Brosche, Ohrering, Fingerring und Halsschmuck, allergattig guldige Schmuck; e freiwilligi Gab; gsponne, ds Gsponnene; mit Gschick; kunschtvolli Arbeit; Steischnyder, Kunschtwäber, Buntwäber, Wäber** [medium, decided, by-rule]
+  - gloss: חַח: חָ֣ח (EXO 35:22) — English (generated): brooches
+  - gloss: נְדָבָה: נְדָבָ֖ה (EXO 35:29) — English (generated): a freewill offering
+  - gloss: אָרַג: אֹרֵ֑ג (EXO 35:35) — English (generated): and as weavers
+  - NT: EXO 35:22 *Brosche*; EXO 35:29 *e freiwilligi Gab*
+  - answers: brooches, signet rings, freewill offering, spun, weaver
+  - 35,5-9 Materialliste wörtlich wie 25,3-7; 35,10-19 Teile wie 25-31; 35,30-35 wie 31,1-6. נְדָבָה »freiwilligi Gab« (36,3 gleich); חָרָשׁ »Steischnyder«, חֹשֵׁב »Kunschtwäber«, רֹקֵם »Buntwäber«, אֹרֵג »Wäber«.
+  - agent:exo035, 2026-10-30
+- **`term:ex36_misc`** מְלָאכָה → **Handwärker; ds Züüg; meh als gnue; zämezfüege; düregangen; gosse; me het … gmacht; usegange** [medium, decided, by-rule]
+  - gloss: מְלָאכָה: מְּלָאכָ֗ה (EXO 36:7) — English (generated): the work
+  - NT: EXO 36:7 *ds Material*
+  - answers: craftsmen, material, more than enough
+  - 36,8-38 wörtlich nach 26,1-37, 37 nach 25,10-39 und 30,1-5.25.35, 38 nach 27 und 30,18, 39 nach 28, alles in der Vergangenheit; Subjekt 3ms in 36 unpersönlich »me het … gmacht«, ab 37,1 »er« (Bezalel).
+  - agent:exo036, 2026-10-30
+- **`term:ex38_inventory`** פקד → **d Uflischtig vo der Wohnig vom Zügnis; under der Leitig vom Itamar; bbrucht; ds Guld vo der Abgab; nüünezwänzg Talänt und sibehundertdryssg Schekel; tuusigsibehundertfüfesibezg Schekel; e Beka uf e Chopf; sächshundertdrütuusigfüfhundertfüfzg Manne; zwöituusigvierhundert Schekel; bronzige; Spiegel vo de Froue** [medium, decided, by-rule]
+  - gloss: פקד: פְקוּדֵ֤י (EXO 38:21) — English (generated): is the inventory
+  - gloss: בֶּקַע: בֶּ֚קַע (EXO 38:26) — English (generated): a beka
+  - gloss: מַרְאָה: מַרְאֹת֙ (EXO 38:8) — English (generated): from the mirrors
+  - NT: EXO 38:21 *d Uflischtig*; EXO 38:26 *e Beka*
+  - answers: records, beka, talents, mirrors
+  - 38,1-7 nach 27,1-8, 38,8 nach 30,18, 38,9-20 nach 27,9-19; Zahlen als ein Wort ausgeschrieben (Talänt im Korpus). תְּנוּפָה hier »Abgab« (Gaben-Summe), sonst »Schwingopfer«.
+  - agent:exo038, 2026-10-30
+- **`formula:as_commanded_moses`** צָוָה → **wi der HERR em Mose befole het; genau so hei si ’s gmacht** [high, decided, by-rule]
+  - gloss: צָוָה: צִוָּ֥ה (EXO 39:1) — English (generated): had commanded
+  - NT: EXO 39:1 *em Mose befole het*
+  - answers: as the lord had commanded moses
+  - Kehrvers 39,1.5.7.21.26.29.31.32.42.43 und 40,19-32; »genau so hei si ’s gmacht« (כֵּן עָשׂוּ) wie 7,6; 12,28.50.
+  - agent:exo039, 2026-10-30
+- **`term:ex39_misc`** פַּח → **gwobeni Chleider; ds Guld zu dünne Blech gschlage; Fäde gschnitte; verwebe; entsproche; bifestigt; bunde; zwirnet; d Inschrift** [medium, decided, by-rule]
+  - gloss: פַּח: פַּחֵ֣י (EXO 39:3) — English (generated): thin sheets
+  - gloss: פָּתִיל: פְּתִילִם֒ (EXO 39:3) — English (generated): threads from them
+  - NT: EXO 39:3 *dünne Blech*; EXO 39:3 *Fäde*
+  - answers: thin sheets, threads, woven
+  - 39,2-31 nach 28,6-39 in der Vergangenheit; 3cp »si hei«, 3ms »er« (Bezalel).
+  - agent:exo039, 2026-10-30
+- **`term:ex40_setup`** קוּם → **d Wohnig ufstelle; gröuchert; ufghänkt; d Wulche het ds Zält zuedeckt; d Herrlechkeit vom HERR het d Wohnig erfüllt; ufbroche uf all irne Reise** [medium, decided, by-rule]
+  - gloss: קוּם: תָּקִ֕ים (EXO 40:2) — English (generated): you are to set up
+  - gloss: עָנָן: עָנָ֖ן (EXO 40:34) — English (generated): Then the cloud
+  - gloss: כָּבוֹד: כְב֣וֹד (EXO 40:34) — English (generated): and the glory
+  - NT: EXO 40:27 *gröuchert*; EXO 40:34 *d Wulche*
+  - answers: set up, cloud, glory, journeys
+  - 40,1-33 mit den Teilnamen aus 25-31 und 35-39; Kehrvers formula:as_commanded_moses (7x); 40,34-38 Wulche/Füür wie 13,21-22.
+  - agent:exo040, 2026-10-30
+<!-- store:end sha=704359cb -->

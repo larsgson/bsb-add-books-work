@@ -1184,12 +1184,12 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - answers: tabor
   - Berg in Galiläa.
   - agent:psa089, 2026-10-29
-- **`term:H8558_palm`** תָּמָר → **Palme** [high, decided, by-rule]
-  - gloss: תָּמָר: תָּמָ֣ר (PSA 92:13) — English (generated): like a palm tree
-  - NT: PSA 92:13 *wi ne Palme*
-  - answers: palm, palm tree
-  - Baum; Palmezweige im Korpus (Joh 12,13).
-  - agent:psa092, 2026-10-29
+- **`term:H8558_palm`** תָּמָר → **Palmböim** [high, decided, by-rule]
+  - gloss: תָּמָר: תְּמָרִ֑ים (EXO 15:27) — English (generated): palm trees
+  - NT: EXO 15:27 *sibezg Palmböim*
+  - answers: palm trees
+  - Korpus nur »Palmezweige«.
+  - agent:psa092, 2026-10-30
 - **`name:massah`** מַסָּה → **Massa** [high, decided, by-rule]
   - NT: PSA 95:8 *am Tag vo Massa*
   - answers: massah
@@ -1413,4 +1413,4 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - answers: cymbals, cymbal
   - Becken (Musikinstrument); Einzahl Zimbel.
   - agent:psa150, 2026-10-29
-<!-- store:end sha=287804cb -->
+<!-- store:end sha=442c48df -->

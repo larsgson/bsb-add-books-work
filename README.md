@@ -12,7 +12,7 @@ Every chapter is an unreviewed **draft** until a language team publishes it (`ST
 
 | Project | Language | Style models | Drafted (in git) |
 |---|---|---|---|
-| `export/dan/dan_BSB/` | Danish, continuing Den Frie Bibel (CC0) | Den Frie Bibel | 269 OT chapters: the books and chapters Den Frie Bibel doesn't have yet (Gen 21-50, Joshua, Samuel, Kings, Ezra-Esther, Proverbs, Ecclesiastes, Song of Songs, Daniel, Minor Prophets, ...) |
+| `export/dan/dan_BSB/` | Danish, continuing Den Frie Bibel (CC0) | Den Frie Bibel | 269 Tanakh chapters: the books and chapters Den Frie Bibel doesn't have yet (Gen 21-50, Joshua, Samuel, Kings, Ezra-Esther, Proverbs, Ecclesiastes, Song of Songs, Daniel, Minor Prophets, ...) |
 | `export/ch-de-be/ch-de-be_BSB/` | Bern German (Bärndütsch) | Bietenhard's Bern German NT (non-free, local only) | Genesis, Ruth, Psalms, Jonah, Exodus 1; Ephesians, John |
 | `export/kvg/kvg_BSB/` | Kuni (Kuni-Boazi, Papua New Guinea), a language the model doesn't know | the Kuni NT, Ruth, Jonah (NC-ND, local only) | Genesis 31-50 |
 | `export/jam/jam_BSB/` | Jamaican Creole | Di Jamiekan Nyuu Testiment (non-free, local only) | Genesis 1 |
@@ -40,7 +40,7 @@ reference/      the assisting translations                                      
   BSB/          Berean Standard Bible, whole Bible           gen001.txt … rev022.txt
   MSB/          Majority Standard Bible, NT only             mat001.txt … rev022.txt
 orig/                                                                                  *
-  heb/          Hebrew/Aramaic OT (Hebrew verse numbering)   gen001.txt …
+  heb/          Hebrew/Aramaic Tanakh (Hebrew verse numbers) gen001.txt …
   grc/          Berean Greek Bible (BGB), the BSB's Greek    mat001.txt … (+ _notes.txt)
   grc-rp/       Robinson-Pierpont 2018, the MSB's Greek      mat001.txt … (+ _notes.txt)
   vrs/          Hebrew -> BSB verse numbering maps
@@ -74,7 +74,7 @@ for the second-draft model's Greek source (`import/CC0/ell/vamvas/`).
 In [Claude Code](https://claude.com/claude-code), `CLAUDE.md` gives the rules and four skills guide the main tasks:
 `import-edition`, `new-project`, `learn-language` (a language the model doesn't know) and `draft-chapter`.
 
-1. **Sources** (about a minute): `python3 scripts/setup.py`. For the OT add the Hebrew clause layouts:
+1. **Sources** (about a minute): `python3 scripts/setup.py`. For the Tanakh add the Hebrew clause layouts:
    `--heb bhsa,bcv-query`. BHSA (the default drafting layout) needs `text-fabric` and is for non-commercial use only.
    For an open setup use `--heb bcv-query --drafting bcv-query`.
 2. **Editions:** `python3 scripts/setup.py --only editions` fetches every edition with a `fetch:` recipe;

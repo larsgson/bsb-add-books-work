@@ -1,13 +1,13 @@
 # Status: Bern German (Berndeutsch)
 
-236 chapters: **236 draft**, 0 in review, 0 published.
+275 chapters: **275 draft**, 0 in review, 0 published.
 
 > **Entwurf.** Mit KI-Agenten direkt aus dem Hebräischen und Griechischen übersetzt, mit der Berean Standard Bible (BSB) als einziger Hilfsübersetzung; noch nicht von einem Sprachteam geprüft oder freigegeben. Nicht zur Verwendung als veröffentlichter Bibeltext. Gemeinfrei (CC0).
 
 | Book | Chapters | Status | Existing edition |
 |---|---|---|---|
 | Genesis (`gen`) | 50 | draft: 1–50 | — |
-| Exodus (`exo`) | 1 | draft: 1 | — |
+| Exodus (`exo`) | 40 | draft: 1–40 | — |
 | Jonah (`jon`) | 4 | draft: 1–4 | — |
 | Psalms (`psa`) | 150 | draft: 1–150 | — |
 | Ruth (`rut`) | 4 | draft: 1–4 | — |

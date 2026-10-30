@@ -14124,30 +14124,29 @@
   {
    "id": "term:H8558_palm",
    "kind": "term",
-   "value": "Palme",
+   "value": "Palmböim",
    "source": "תָּמָר",
    "attested": "by-rule",
    "words": [
-    "palm",
-    "palm tree"
+    "palm trees"
    ],
    "gloss": [
     {
      "lang": "hbo",
+     "form": "תְּמָרִ֑ים",
      "lemma": "תָּמָר",
-     "ref": "PSA 92:13",
-     "form": "תָּמָ֣ר"
+     "ref": "EXO 15:27"
     }
    ],
    "evidence": [
     {
-     "ref": "PSA 92:13",
-     "form": "wi ne Palme"
+     "ref": "EXO 15:27",
+     "form": "sibezg Palmböim"
     }
    ],
-   "note": "Baum; Palmezweige im Korpus (Joh 12,13).",
+   "note": "Korpus nur »Palmezweige«.",
    "by": "agent:psa092",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "confidence": "high",
    "method": "project-decision",
    "status": "decided"
@@ -18318,11 +18317,12 @@
   {
    "id": "term:numbers_hundert",
    "kind": "term",
-   "value": "hundertsibenedryssg / hundertdrüedryssg / drüesachtzg",
+   "value": "hundertsibenedryssg / hundertdrüedryssg / drüesachtzg / sächshundert",
    "attested": "by-rule",
    "words": [
     "133",
     "137",
+    "600",
     "83"
    ],
    "interlinear": "hundred-seven-and-thirty",
@@ -18342,6 +18342,10 @@
     {
      "ref": "EXO 7:7",
      "form": "drüesachtzg"
+    },
+    {
+     "ref": "EXO 14:7",
+     "form": "sächshundert"
     }
    ],
    "note": "Zahlen in einem Wort wie in der Genesis (hundertfüfesibezg).",
@@ -18874,6 +18878,5207 @@
    "by": "agent:exo008",
    "date": "2026-10-30",
    "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1259_hail",
+   "kind": "term",
+   "value": "Hagel",
+   "attested": "by-rule",
+   "words": [
+    "hail"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בָּרָ֖ד",
+     "lemma": "בָּרָד",
+     "ref": "EXO 9:18"
+    }
+   ],
+   "source": "בָּרָד",
+   "evidence": [
+    {
+     "ref": "EXO 9:18",
+     "form": "e ganz schwäre Hagel"
+    }
+   ],
+   "note": "בָּרָד in der Erzählung »Hagel«; in den Psalmen auch »Hagelwätter« (Ps 78; 105). Donner (קֹלוֹת), Füür (Blitz).",
+   "by": "agent:exo009",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6368_soot",
+   "kind": "term",
+   "value": "Russ",
+   "attested": "by-rule",
+   "words": [
+    "soot"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פִּ֖יחַ",
+     "lemma": "פִּיחַ",
+     "ref": "EXO 9:8"
+    }
+   ],
+   "source": "פִּיחַ",
+   "evidence": [
+    {
+     "ref": "EXO 9:8",
+     "form": "Händ voll Russ"
+    }
+   ],
+   "note": "פִּיחַ כִּבְשָׁן = »Russ us em Ofe«.",
+   "by": "agent:exo009",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7822_boils",
+   "kind": "term",
+   "value": "Gschwür, wo zu Blatere ufbräche / ufbroche",
+   "attested": "by-rule",
+   "words": [
+    "boils",
+    "festering boils"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְׁחִ֥ין",
+     "lemma": "שְׁחִין",
+     "ref": "EXO 9:9"
+    }
+   ],
+   "source": "שְׁחִין",
+   "evidence": [
+    {
+     "ref": "EXO 9:9",
+     "form": "Gschwür"
+    },
+    {
+     "ref": "EXO 9:10",
+     "form": "zu Blatere ufbroche"
+    }
+   ],
+   "note": "שְׁחִין »Gschwür« (Korpus 4); אֲבַעְבֻּעֹת »Blatere«.",
+   "by": "agent:exo009",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:livestock_kinds",
+   "kind": "term",
+   "value": "Veh; Ross, Esle, Kamel, Rinder, Schaf",
+   "attested": "by-rule",
+   "words": [
+    "livestock",
+    "donkeys",
+    "herds"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִקְנְ",
+     "lemma": "מִקְנֶה",
+     "ref": "EXO 9:3"
+    }
+   ],
+   "source": "מִקְנֶה",
+   "evidence": [
+    {
+     "ref": "GEN 12:16",
+     "form": "Schaf und Rinder"
+    },
+    {
+     "ref": "EXO 9:3",
+     "form": "Esle"
+    }
+   ],
+   "note": "Wie in der Genesis: מִקְנֶה Veh, חֲמֹרִים Esle, בָּקָר Rinder, צֹאן Schaf.",
+   "by": "agent:exo009",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:crops_ex9",
+   "kind": "term",
+   "value": "Flachs, Gärschte, Weize, Dinkel; bblüejt",
+   "attested": "by-rule",
+   "words": [
+    "flax",
+    "barley",
+    "wheat",
+    "spelt"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כֻּסֶּ֖מֶת",
+     "lemma": "כֻּסֶּמֶת",
+     "ref": "EXO 9:32"
+    }
+   ],
+   "source": "כֻּסֶּמֶת",
+   "evidence": [
+    {
+     "ref": "EXO 9:31",
+     "form": "het bblüejt"
+    },
+    {
+     "ref": "EXO 9:32",
+     "form": "der Dinkel"
+    }
+   ],
+   "note": "כֻּסֶּמֶת = Dinkel (Emmer); גִּבְעֹל »het bblüejt«.",
+   "by": "agent:exo009",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2388_hold",
+   "kind": "term",
+   "value": "feschthalte / feschthaltisch",
+   "attested": "by-rule",
+   "words": [
+    "hold",
+    "restrain"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַחֲזִ֥יק",
+     "lemma": "חָזַק",
+     "ref": "EXO 9:2"
+    }
+   ],
+   "source": "חָזַק",
+   "evidence": [
+    {
+     "ref": "EXO 9:2",
+     "form": "feschthaltisch"
+    }
+   ],
+   "note": "מַחֲזִיק בָּם = »se feschthalte« (חזק Hif. mit בְּ).",
+   "by": "agent:exo009",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7307_wind",
+   "kind": "term",
+   "value": "Oschtwind / Weschtwind",
+   "attested": "by-rule",
+   "words": [
+    "wind",
+    "east wind",
+    "west wind"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "ר֥וּחַ",
+     "lemma": "רוּחַ",
+     "ref": "EXO 10:13"
+    }
+   ],
+   "source": "רוּחַ",
+   "evidence": [
+    {
+     "ref": "GEN 41:6",
+     "form": "Oschtwind"
+    },
+    {
+     "ref": "EXO 10:19",
+     "form": "Weschtwind"
+    }
+   ],
+   "note": "רוּחַ קָדִים »Oschtwind« wie 1Mo 41 (Entwurf); רוּחַ־יָם »Weschtwind«; 14,21 wieder Oschtwind.",
+   "by": "agent:exo010",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3680_cover",
+   "kind": "term",
+   "value": "decke … zue / zuedeckt",
+   "attested": "by-rule",
+   "words": [
+    "cover",
+    "covered"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כִסָּה֙",
+     "lemma": "כָּסָה",
+     "ref": "EXO 10:5"
+    }
+   ],
+   "source": "כָּסָה",
+   "evidence": [
+    {
+     "ref": "EXO 10:5",
+     "form": "decke … zue"
+    },
+    {
+     "ref": "EXO 8:2",
+     "form": "zuedeckt"
+    }
+   ],
+   "note": "כִּסָּה (Plagen; 14,28; 15,5.10 das Wasser deckt zu).",
+   "by": "agent:exo010",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3418_green",
+   "kind": "term",
+   "value": "Grüens",
+   "attested": "by-rule",
+   "words": [
+    "green"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֶ֧רֶק",
+     "lemma": "יֶרֶק",
+     "ref": "EXO 10:15"
+    }
+   ],
+   "source": "יֶרֶק",
+   "evidence": [
+    {
+     "ref": "EXO 10:15",
+     "form": "nüüt Grüens"
+    }
+   ],
+   "note": "כָּל־יֶרֶק = »nüüt Grüens«.",
+   "by": "agent:exo010",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2077_sacrifice",
+   "kind": "term",
+   "value": "Schlachtopfer und Brandopfer",
+   "attested": "by-rule",
+   "words": [
+    "sacrifices",
+    "burnt offerings"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זְבָחִ֣ים",
+     "lemma": "זֶבַח",
+     "ref": "EXO 10:25"
+    }
+   ],
+   "source": "זֶבַח",
+   "evidence": [
+    {
+     "ref": "EXO 10:25",
+     "form": "Schlachtopfer und Brandopfer"
+    }
+   ],
+   "note": "זֶבַח »Schlachtopfer«, עֹלָה »Brandopfer« (1Mo 22; 2Mo 18,12; 20,24; 24,5).",
+   "by": "agent:exo010",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H697_locust",
+   "kind": "term",
+   "value": "Höigümper",
+   "attested": "by-rule",
+   "words": [
+    "locusts"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַרְבֶּ֖ה",
+     "lemma": "אַרְבֶּה",
+     "ref": "EXO 10:4"
+    }
+   ],
+   "source": "אַרְבֶּה",
+   "evidence": [
+    {
+     "ref": "EXO 10:4",
+     "form": "Höigümper"
+    }
+   ],
+   "note": "אַרְבֶּה wie in den Psalmen-Entwürfen (Ps 78,46; 105,34); Korpus 3.",
+   "by": "agent:exo010",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7453_neighbor",
+   "kind": "term",
+   "value": "Nachbar / Nachbere",
+   "attested": "by-rule",
+   "words": [
+    "neighbor"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רֵעֵ֗",
+     "lemma": "רֵעַ",
+     "ref": "EXO 11:2"
+    }
+   ],
+   "source": "רֵעַ",
+   "evidence": [
+    {
+     "ref": "EXO 11:2",
+     "form": "bi sym Nachbar"
+    },
+    {
+     "ref": "EXO 3:22",
+     "form": "iri Nachbere"
+    }
+   ],
+   "note": "רֵעַ/רְעוּת als Nachbar (11,2); im Gesetz auch »der Nächscht« (20,16-17, nach Bietenhard), zu prüfen.",
+   "by": "agent:exo011",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7347_handmill",
+   "kind": "term",
+   "value": "Mühli",
+   "attested": "by-rule",
+   "words": [
+    "handmill",
+    "hand mill"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רֵחָ֑יִם",
+     "lemma": "רֵחַיִם",
+     "ref": "EXO 11:5"
+    }
+   ],
+   "source": "רֵחַיִם",
+   "evidence": [
+    {
+     "ref": "EXO 11:5",
+     "form": "hinder der Mühli"
+    }
+   ],
+   "note": "Handmühle; die Magd »hinder der Mühli«.",
+   "by": "agent:exo011",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:firstborn_range",
+   "kind": "formula",
+   "value": "vom Erschtgeborene vom Pharao, wo uf sym Thron sitzt, bis zum Erschtgeborene vo …",
+   "attested": "by-rule",
+   "words": [
+    "firstborn of pharaoh"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "וּ",
+     "lemma": "וְ",
+     "ref": "EXO 11:5"
+    }
+   ],
+   "source": "וְ",
+   "evidence": [
+    {
+     "ref": "EXO 11:5",
+     "form": "vom Erschtgeborene vom Pharao"
+    }
+   ],
+   "note": "Gleich in 11,5 und 12,29 (dort: »vom Gfangene im Loch«).",
+   "by": "agent:exo011",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6453_passover",
+   "kind": "term",
+   "value": "ds Passa / ds Passalamm / ds Passaopfer",
+   "attested": "attested",
+   "words": [
+    "passover",
+    "passover lamb"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פֶּ֥סַח",
+     "lemma": "פֶּסַח",
+     "ref": "EXO 12:11"
+    }
+   ],
+   "source": "פֶּסַח",
+   "evidence": [
+    {
+     "ref": "EXO 12:11",
+     "form": "ds Passa vom HERR"
+    },
+    {
+     "ref": "LUK 22:7",
+     "form": "ds Passalamm metzge"
+    }
+   ],
+   "note": "Wie Bietenhard (Lk 22,7; 1Kor 5,7): Passa, Passalamm; זֶבַח־פֶּסַח »ds Passaopfer« (12,27).",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4682_matzah",
+   "kind": "term",
+   "value": "ungsüürts Brot / ds Fescht vom ungsüürete Brot",
+   "attested": "attested",
+   "words": [
+    "unleavened bread",
+    "feast of unleavened bread"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַצּ֔וֹת",
+     "lemma": "מַצָּה",
+     "ref": "EXO 12:8"
+    }
+   ],
+   "source": "מַצָּה",
+   "evidence": [
+    {
+     "ref": "EXO 12:8",
+     "form": "ungsüürts Brot"
+    },
+    {
+     "ref": "LUK 22:7",
+     "form": "vom ungsüürete Brot"
+    }
+   ],
+   "note": "מַצּוֹת wie Bietenhard (Lk 22,1.7); שְׂאֹר »Suurteigg« (1Kor 5,7), חָמֵץ »öppis Gsüürts«.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2557_leavened",
+   "kind": "term",
+   "value": "öppis Gsüürts",
+   "attested": "by-rule",
+   "words": [
+    "leavened",
+    "what is leavened"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חָמֵ֗ץ",
+     "lemma": "חָמֵץ",
+     "ref": "EXO 12:15"
+    }
+   ],
+   "source": "חָמֵץ",
+   "evidence": [
+    {
+     "ref": "EXO 12:15",
+     "form": "öppis Gsüürts"
+    }
+   ],
+   "note": "חָמֵץ / מַחְמֶצֶת = »öppis Gsüürts«; שְׂאֹר = »Suurteigg«.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4201_doorpost",
+   "kind": "term",
+   "value": "Türpfoschte / Türsturz",
+   "attested": "by-rule",
+   "words": [
+    "doorposts",
+    "lintel"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְּזוּזֹ֖ת",
+     "lemma": "מְזוּזָה",
+     "ref": "EXO 12:7"
+    }
+   ],
+   "source": "מְזוּזָה",
+   "evidence": [
+    {
+     "ref": "EXO 12:7",
+     "form": "beidi Türpfoschte"
+    },
+    {
+     "ref": "EXO 12:22",
+     "form": "a Türsturz"
+    }
+   ],
+   "note": "מְזוּזֹת Türpfoschte, מַשְׁקוֹף Türsturz (12,7.22.23; 21,6).",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5414_strike_blood",
+   "kind": "term",
+   "value": "stryche / strychet",
+   "attested": "by-rule",
+   "words": [
+    "put",
+    "touch"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הִגַּעְתֶּ֤ם",
+     "lemma": "נָגַע",
+     "ref": "EXO 12:22"
+    }
+   ],
+   "source": "נָגַע",
+   "evidence": [
+    {
+     "ref": "EXO 12:7",
+     "form": "stryche"
+    },
+    {
+     "ref": "EXO 12:22",
+     "form": "strychet"
+    }
+   ],
+   "note": "Das Blut an die Türpfosten »stryche« (Hebr 11,28 Bietenhard: »verstriche«).",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1616_native",
+   "kind": "term",
+   "value": "Einheimische / Frömde / Hindersässe / Taglöhner",
+   "attested": "by-rule",
+   "words": [
+    "native",
+    "alien",
+    "temporary resident",
+    "hired worker"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶזְרַ֥ח",
+     "lemma": "אֶזְרָח",
+     "ref": "EXO 12:19"
+    }
+   ],
+   "source": "אֶזְרָח",
+   "evidence": [
+    {
+     "ref": "EXO 12:19",
+     "form": "en Einheimische"
+    },
+    {
+     "ref": "EXO 12:45",
+     "form": "E Hindersässe"
+    }
+   ],
+   "note": "אֶזְרָח Einheimische, גֵּר Frömde (term:H1616), תּוֹשָׁב Hindersässe (Korpus 1), שָׂכִיר Taglöhner.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ordinals_days",
+   "kind": "term",
+   "value": "am zähte / vierzähte / einezwänzigschte Tag",
+   "attested": "by-rule",
+   "words": [
+    "tenth",
+    "fourteenth",
+    "twenty-first"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עָשֹׂ֖ר",
+     "lemma": "עָשׂוֹר",
+     "ref": "EXO 12:3"
+    }
+   ],
+   "source": "עָשׂוֹר",
+   "evidence": [
+    {
+     "ref": "EXO 12:3",
+     "form": "Am zähte Tag"
+    },
+    {
+     "ref": "EXO 12:6",
+     "form": "vierzähte Tag"
+    }
+   ],
+   "note": "Ordnungszahlen der Festdaten.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2146_memorial",
+   "kind": "term",
+   "value": "Gedänktag",
+   "attested": "by-rule",
+   "words": [
+    "memorial"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זִכָּר֔וֹן",
+     "lemma": "זִכָּרוֹן",
+     "ref": "EXO 12:14"
+    }
+   ],
+   "source": "זִכָּרוֹן",
+   "evidence": [
+    {
+     "ref": "EXO 12:14",
+     "form": "e Gedänktag"
+    }
+   ],
+   "note": "זִכָּרוֹן vom Tag; 13,9 »Zeiche … zum Gedänke«.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:passover_food",
+   "kind": "term",
+   "value": "bbrate / roh / gchochet / Ygweid / bitteri Chrüter",
+   "attested": "by-rule",
+   "words": [
+    "roasted",
+    "raw",
+    "boiled",
+    "inner parts",
+    "bitter herbs"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צְלִי",
+     "lemma": "צָלִי",
+     "ref": "EXO 12:9"
+    }
+   ],
+   "source": "צָלִי",
+   "evidence": [
+    {
+     "ref": "EXO 12:8",
+     "form": "am Füür bbrate"
+    },
+    {
+     "ref": "EXO 12:9",
+     "form": "roh"
+    }
+   ],
+   "note": "Speisevorschriften des Passa; מְרֹרִים »bitteri Chrüter«.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:lamb_defect",
+   "kind": "term",
+   "value": "ohni Fähler, männlechs, jährigs",
+   "attested": "by-rule",
+   "words": [
+    "without defect",
+    "male",
+    "year old"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תָמִ֛ים",
+     "lemma": "תָּמִים",
+     "ref": "EXO 12:5"
+    }
+   ],
+   "source": "תָּמִים",
+   "evidence": [
+    {
+     "ref": "EXO 12:5",
+     "form": "ohni Fähler"
+    },
+    {
+     "ref": "EXO 12:5",
+     "form": "es jährigs"
+    }
+   ],
+   "note": "תָּמִים »ohni Fähler« (Opfertiere, Lev); זָכָר »männlech«.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex12_misc",
+   "kind": "term",
+   "value": "furtschaffe / Wohnige / Büscheli Ysop / bbache / sächshunderttuusig",
+   "attested": "by-rule",
+   "words": [
+    "remove",
+    "dwellings",
+    "bunch of hyssop",
+    "baked",
+    "six hundred thousand"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֵז֗וֹב",
+     "lemma": "אֵזוֹב",
+     "ref": "EXO 12:22"
+    }
+   ],
+   "source": "אֵזוֹב",
+   "evidence": [
+    {
+     "ref": "EXO 12:22",
+     "form": "es Büscheli Ysop"
+    },
+    {
+     "ref": "EXO 12:37",
+     "form": "sächshunderttuusig"
+    }
+   ],
+   "note": "Ysop wie Bietenhard (Joh 19,29; Hebr 9,19).",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:karet",
+   "kind": "formula",
+   "value": "dä söll us Israel usgrottet wärde",
+   "attested": "by-rule",
+   "words": [
+    "cut off from israel"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נִכְרְתָ֞ה",
+     "lemma": "כָּרַת",
+     "ref": "EXO 12:15"
+    }
+   ],
+   "source": "כָּרַת",
+   "evidence": [
+    {
+     "ref": "EXO 12:15",
+     "form": "usgrottet wärde"
+    }
+   ],
+   "note": "וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא (12,15.19; 30,33.38; 31,14), gleich durch das Buch.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:everlasting_ordinance",
+   "kind": "formula",
+   "value": "als Ornig für geng / dür alli öiji Generatione",
+   "attested": "by-rule",
+   "words": [
+    "lasting ordinance",
+    "throughout your generations"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עוֹלָ֖ם",
+     "lemma": "עוֹלָם",
+     "ref": "EXO 12:14"
+    }
+   ],
+   "source": "עוֹלָם",
+   "evidence": [
+    {
+     "ref": "EXO 12:14",
+     "form": "als Ornig für geng"
+    },
+    {
+     "ref": "GEN 9:12",
+     "form": "für alli Generatione"
+    }
+   ],
+   "note": "חֻקַּת עוֹלָם / לְדֹרֹתֵיכֶם, wie 1Mo 9,12; 17,7 (Entwürfe); gleich in 2Mo 27,21; 28,43; 29,9; 30,21.",
+   "by": "agent:exo012",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5982_pillar",
+   "kind": "term",
+   "value": "Wulchesüüle / Füürsüüle",
+   "attested": "by-rule",
+   "words": [
+    "pillar of cloud",
+    "pillar of fire"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַמּ֤וּד",
+     "lemma": "עַמּוּד",
+     "ref": "EXO 13:21"
+    }
+   ],
+   "source": "עַמּוּד",
+   "evidence": [
+    {
+     "ref": "EXO 13:21",
+     "form": "i nere Wulchesüüle"
+    },
+    {
+     "ref": "EXO 13:21",
+     "form": "Füürsüüle"
+    }
+   ],
+   "note": "עַמּוּד עָנָן / עַמּוּד אֵשׁ (13,21-22; 14,19.24; 33,9-10); Füürsüüle Korpus 1.",
+   "by": "agent:exo013",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:abib",
+   "kind": "name",
+   "value": "Abib",
+   "attested": "by-rule",
+   "words": [
+    "abib"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אָבִֽיב",
+     "lemma": "אָבִיב",
+     "ref": "EXO 13:4"
+    }
+   ],
+   "source": "אָבִיב",
+   "evidence": [
+    {
+     "ref": "EXO 13:4",
+     "form": "im Monet Abib"
+    }
+   ],
+   "note": "Monat der Ähren (Frühling); 23,15; 34,18.",
+   "by": "agent:exo013",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:etham",
+   "kind": "name",
+   "value": "Etam",
+   "attested": "by-rule",
+   "words": [
+    "etham"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֵתָ֔ם",
+     "lemma": "אֵתָם",
+     "ref": "EXO 13:20"
+    }
+   ],
+   "source": "אֵתָם",
+   "evidence": [
+    {
+     "ref": "EXO 13:20",
+     "form": "z Etam"
+    }
+   ],
+   "note": "Umschrift; th → t.",
+   "by": "agent:exo013",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2146_sign",
+   "kind": "term",
+   "value": "es Zeiche a dyr Hand und es Gedänkzeiche / Stirnband zwüsche dyne Ouge",
+   "attested": "by-rule",
+   "words": [
+    "sign on your hand",
+    "reminder on your forehead"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זִכָּרוֹן֙",
+     "lemma": "זִכָּרוֹן",
+     "ref": "EXO 13:9"
+    },
+    {
+     "lang": "hbo",
+     "form": "טוֹטָפֹ֖ת",
+     "lemma": "טֹוטָפֹת",
+     "ref": "EXO 13:16"
+    }
+   ],
+   "source": "זִכָּרוֹן",
+   "evidence": [
+    {
+     "ref": "EXO 13:9",
+     "form": "es Gedänkzeiche"
+    },
+    {
+     "ref": "EXO 13:16",
+     "form": "es Stirnband"
+    }
+   ],
+   "note": "זִכָּרוֹן 13,9 »Gedänkzeiche«; טוֹטָפֹת 13,16 »Stirnband« (vgl. 5Mo 6,8).",
+   "by": "agent:exo013",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6299_redeem",
+   "kind": "term",
+   "value": "uslöse / uslösisch / löse … us",
+   "attested": "by-rule",
+   "words": [
+    "redeem"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תִּפְדֶּ֣ה",
+     "lemma": "פָּדָה",
+     "ref": "EXO 13:13"
+    }
+   ],
+   "source": "פָּדָה",
+   "evidence": [
+    {
+     "ref": "EXO 13:13",
+     "form": "uslöse"
+    },
+    {
+     "ref": "EXO 13:15",
+     "form": "löse i us"
+    }
+   ],
+   "note": "פָּדָה = »uslöse« (Erstgeburt, 13,13.15; 34,20); גָּאַל 6,6 »uslöse« ebenso.",
+   "by": "agent:exo013",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2145_male",
+   "kind": "term",
+   "value": "männlech / Männleche",
+   "attested": "by-rule",
+   "words": [
+    "male",
+    "males"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זְּכָרִ֖ים",
+     "lemma": "זָכָר",
+     "ref": "EXO 13:12"
+    }
+   ],
+   "source": "זָכָר",
+   "evidence": [
+    {
+     "ref": "EXO 13:12",
+     "form": "wenn’s männlech isch"
+    },
+    {
+     "ref": "EXO 13:15",
+     "form": "alls Männleche"
+    }
+   ],
+   "note": "זָכָר bei Tieren; bei Menschen »Manne und Buebe« (12,48).",
+   "by": "agent:exo013",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6202_neck",
+   "kind": "term",
+   "value": "ds Gnick bräche",
+   "attested": "by-rule",
+   "words": [
+    "break its neck"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲרַפְתּ֑",
+     "lemma": "עָרַף",
+     "ref": "EXO 13:13"
+    }
+   ],
+   "source": "עָרַף",
+   "evidence": [
+    {
+     "ref": "EXO 13:13",
+     "form": "ds Gnick bräche"
+    }
+   ],
+   "note": "עָרַף (13,13; 34,20).",
+   "by": "agent:exo013",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:joseph_bones",
+   "kind": "formula",
+   "value": "myni Chnoche vo hie mit ufenäh",
+   "attested": "by-rule",
+   "words": [
+    "carry my bones"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַצְמ֥וֹת",
+     "lemma": "עֶצֶם",
+     "ref": "EXO 13:19"
+    }
+   ],
+   "source": "עֶצֶם",
+   "evidence": [
+    {
+     "ref": "GEN 50:25",
+     "form": "myni Chnoche"
+    },
+    {
+     "ref": "EXO 13:19",
+     "form": "mit nech ufenäh"
+    }
+   ],
+   "note": "Wie 1Mo 50,25 (Entwurf); auch »Gott wird sech gwüss um öich kümmere« (פָּקֹד יִפְקֹד, vgl. 3,16).",
+   "by": "agent:exo013",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:pi_hahiroth",
+   "kind": "name",
+   "value": "Pi-Hachirot",
+   "attested": "by-rule",
+   "words": [
+    "pi-hahiroth"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הַחִירֹ֔ת",
+     "lemma": "פִּי הַחִירֹת",
+     "ref": "EXO 14:2"
+    }
+   ],
+   "source": "פִּי הַחִירֹת",
+   "evidence": [
+    {
+     "ref": "EXO 14:2",
+     "form": "vor Pi-Hachirot"
+    }
+   ],
+   "note": "Umschrift (ḥ → ch).",
+   "by": "agent:exo014",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:migdol",
+   "kind": "name",
+   "value": "Migdol",
+   "attested": "by-rule",
+   "words": [
+    "migdol"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִגְדֹּ֖ל",
+     "lemma": "מִגְדֹּל",
+     "ref": "EXO 14:2"
+    }
+   ],
+   "source": "מִגְדֹּל",
+   "evidence": [
+    {
+     "ref": "EXO 14:2",
+     "form": "zwüsche Migdol"
+    }
+   ],
+   "note": "Umschrift.",
+   "by": "agent:exo014",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:baal_zephon",
+   "kind": "name",
+   "value": "Baal-Zefon",
+   "attested": "by-rule",
+   "words": [
+    "baal-zephon"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בַּ֣עַל",
+     "lemma": "בַּעַל צְפֹן",
+     "ref": "EXO 14:2"
+    }
+   ],
+   "source": "בַּעַל צְפֹן",
+   "evidence": [
+    {
+     "ref": "EXO 14:2",
+     "form": "vor Baal-Zefon"
+    }
+   ],
+   "note": "Umschrift (ph → f, ṣ → z).",
+   "by": "agent:exo014",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7393_chariot",
+   "kind": "term",
+   "value": "Wage / Wäge; Ryter",
+   "attested": "by-rule",
+   "words": [
+    "chariot",
+    "chariots",
+    "horsemen"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רֶ֨כֶב֙",
+     "lemma": "רֶכֶב",
+     "ref": "EXO 14:7"
+    }
+   ],
+   "source": "רֶכֶב",
+   "evidence": [
+    {
+     "ref": "GEN 46:29",
+     "form": "Wage"
+    },
+    {
+     "ref": "EXO 14:9",
+     "form": "Ross und Wäge"
+    }
+   ],
+   "note": "רֶכֶב »Wage/Wäge« wie 1Mo 41,43; 46,29 (Entwürfe); פָּרָשִׁים »Ryter«; שָׁלִשִׁים »Offizier«; אוֹפַן »Räder«.",
+   "by": "agent:exo014",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2342_misc14",
+   "kind": "term",
+   "value": "nachegjagt / furtgfüert / rüefsch / heb … uf / Räder / abspringe / Morgewach",
+   "attested": "by-rule",
+   "words": [
+    "pursued",
+    "morning watch",
+    "lift up"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַשְׁמֹ֣רֶת",
+     "lemma": "אַשְׁמֹרֶת",
+     "ref": "EXO 14:24"
+    }
+   ],
+   "source": "אַשְׁמֹרֶת",
+   "evidence": [
+    {
+     "ref": "EXO 14:24",
+     "form": "Bi der Morgewach"
+    },
+    {
+     "ref": "EXO 14:16",
+     "form": "heb … uf"
+    }
+   ],
+   "note": "Wortformen aus 2Mo 14.",
+   "by": "agent:exo014",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3004_dry",
+   "kind": "term",
+   "value": "uf em trockene Bode / zu trockenem Bode",
+   "attested": "attested",
+   "words": [
+    "dry ground",
+    "dry land"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַּבָּשָֽׁה",
+     "lemma": "יַבָּשָׁה",
+     "ref": "EXO 14:16"
+    }
+   ],
+   "source": "יַבָּשָׁה",
+   "evidence": [
+    {
+     "ref": "HEB 11:29",
+     "form": "trockene Bode"
+    },
+    {
+     "ref": "EXO 14:22",
+     "form": "uf em trockene Bode"
+    }
+   ],
+   "note": "Wie Bietenhard Hebr 11,29 (»wi über trockene Bode«); 15,19 gleich.",
+   "by": "agent:exo014",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2346_wall",
+   "kind": "term",
+   "value": "wi ne Muur rächts und links",
+   "attested": "by-rule",
+   "words": [
+    "wall on their right and left"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֹמָ֔ה",
+     "lemma": "חוֹמָה",
+     "ref": "EXO 14:22"
+    }
+   ],
+   "source": "חוֹמָה",
+   "evidence": [
+    {
+     "ref": "EXO 14:22",
+     "form": "wi ne Muur"
+    },
+    {
+     "ref": "EXO 14:29",
+     "form": "rächts und links"
+    }
+   ],
+   "note": "14,22.29 gleich.",
+   "by": "agent:exo014",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:gain_glory",
+   "kind": "formula",
+   "value": "i zeige my Herrlechkeit am Pharao",
+   "attested": "by-rule",
+   "words": [
+    "gain glory"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אִכָּבְדָ֤ה",
+     "lemma": "כָּבֵד",
+     "ref": "EXO 14:4"
+    }
+   ],
+   "source": "כָּבֵד",
+   "evidence": [
+    {
+     "ref": "EXO 14:4",
+     "form": "my Herrlechkeit am Pharao"
+    }
+   ],
+   "note": "וְאִכָּבְדָה בְּפַרְעֹה (14,4.17.18); כבד hier positiv, »Herrlechkeit« wie kābôd 16,7.10; 24,16; 40,34.",
+   "by": "agent:exo014",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:miriam",
+   "kind": "name",
+   "value": "Mirjam",
+   "attested": "by-rule",
+   "words": [
+    "miriam"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִרְיָ֨ם",
+     "lemma": "מִרְיָם",
+     "ref": "EXO 15:20"
+    }
+   ],
+   "source": "מִרְיָם",
+   "evidence": [
+    {
+     "ref": "EXO 15:20",
+     "form": "d Prophetin Mirjam"
+    }
+   ],
+   "note": "Hebräische Form (nicht Maria); Prophetin, Schwester Aarons.",
+   "by": "agent:exo015",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:shur",
+   "kind": "name",
+   "value": "Schur",
+   "attested": "by-rule",
+   "words": [
+    "shur"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שׁ֑וּר",
+     "lemma": "שׁוּר",
+     "ref": "EXO 15:22"
+    }
+   ],
+   "source": "שׁוּר",
+   "evidence": [
+    {
+     "ref": "GEN 16:7",
+     "form": "Schur"
+    },
+    {
+     "ref": "EXO 15:22",
+     "form": "d Wüeschti Schur"
+    }
+   ],
+   "note": "Wie 1Mo 16,7; 20,1; 25,18 (Entwürfe).",
+   "by": "agent:exo015",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:elim",
+   "kind": "name",
+   "value": "Elim",
+   "attested": "by-rule",
+   "words": [
+    "elim"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֵילִ֔מָ",
+     "lemma": "אֵילִם",
+     "ref": "EXO 15:27"
+    }
+   ],
+   "source": "אֵילִם",
+   "evidence": [
+    {
+     "ref": "EXO 15:27",
+     "form": "uf Elim"
+    }
+   ],
+   "note": "Umschrift; 16,1.",
+   "by": "agent:exo015",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:song_sea",
+   "kind": "term",
+   "value": "Chriegsmaa / ryssisch … um / gstaut / Bütti / bblase / ehrfürchtig / pflanzisch / vorgsunge",
+   "attested": "by-rule",
+   "words": [
+    "warrior",
+    "overthrew",
+    "spoil",
+    "blew"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִלְחָמָ֑ה",
+     "lemma": "מִלְחָמָה",
+     "ref": "EXO 15:3"
+    }
+   ],
+   "source": "מִלְחָמָה",
+   "evidence": [
+    {
+     "ref": "EXO 15:3",
+     "form": "e Chriegsmaa"
+    },
+    {
+     "ref": "EXO 15:9",
+     "form": "d Bütti"
+    }
+   ],
+   "note": "Wortformen aus dem Schilfmeerlied (2Mo 15,1-21).",
+   "by": "agent:exo015",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:sea_song_refrain",
+   "kind": "formula",
+   "value": "denn herrlech het er sech zeigt; Ross und Ryter het er is Meer gworfe",
+   "attested": "by-rule",
+   "words": [
+    "horse and rider"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גָאֹ֣ה",
+     "lemma": "גָּאָה",
+     "ref": "EXO 15:1"
+    }
+   ],
+   "source": "גָּאָה",
+   "evidence": [
+    {
+     "ref": "EXO 15:1",
+     "form": "Ross und Ryter"
+    },
+    {
+     "ref": "EXO 15:21",
+     "form": "herrlech het er sech"
+    }
+   ],
+   "note": "15,1 und 15,21 gleich (גָּאֹה גָּאָה). 15,2 wie Ps 118,14 (Entwurf).",
+   "by": "agent:exo015",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7495_heal",
+   "kind": "formula",
+   "value": "I bi der HERR, dy Arzt",
+   "attested": "by-rule",
+   "words": [
+    "the lord who heals you"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רֹפְאֶֽ",
+     "lemma": "רָפָא",
+     "ref": "EXO 15:26"
+    }
+   ],
+   "source": "רָפָא",
+   "evidence": [
+    {
+     "ref": "EXO 15:26",
+     "form": "dy Arzt"
+    }
+   ],
+   "note": "אֲנִי יְהוָה רֹפְאֶךָ.",
+   "by": "agent:exo015",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8085_listen",
+   "kind": "term",
+   "value": "lose / losisch / uf d Stimm lose",
+   "attested": "by-rule",
+   "words": [
+    "listen",
+    "obey"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָׁמ֨וֹעַ",
+     "lemma": "שָׁמַע",
+     "ref": "EXO 15:26"
+    }
+   ],
+   "source": "שָׁמַע",
+   "evidence": [
+    {
+     "ref": "EXO 15:26",
+     "form": "uf d Stimm"
+    },
+    {
+     "ref": "EXO 15:26",
+     "form": "losisch"
+    }
+   ],
+   "note": "שָׁמַע בְּקוֹל »uf d Stimm lose« (15,26; 19,5; 23,21-22).",
+   "by": "agent:exo015",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3885_grumble",
+   "kind": "term",
+   "value": "mule / gmulet / ds Mule",
+   "attested": "by-rule",
+   "words": [
+    "grumble",
+    "grumblings"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִּלּ֜וֹנוּ",
+     "lemma": "לוּן",
+     "ref": "EXO 16:2"
+    },
+    {
+     "lang": "hbo",
+     "form": "תְּלֻנֹּתֵי",
+     "lemma": "תְּלֻנֹּות",
+     "ref": "EXO 16:7"
+    }
+   ],
+   "source": "לוּן",
+   "evidence": [
+    {
+     "ref": "EXO 15:24",
+     "form": "gmulet"
+    },
+    {
+     "ref": "EXO 16:8",
+     "form": "öies Mule"
+    }
+   ],
+   "note": "לון »mule« (Korpus »gmulet«), Nomen »ds Mule«; 15,24; 16,2-12; 17,3.",
+   "by": "agent:exo016",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4478_manna",
+   "kind": "term",
+   "value": "ds Manna",
+   "attested": "attested",
+   "words": [
+    "manna"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מָ֑ן",
+     "lemma": "מָן",
+     "ref": "EXO 16:31"
+    }
+   ],
+   "source": "מָן",
+   "evidence": [
+    {
+     "ref": "JHN 6:31",
+     "form": "ds Manna gässe"
+    },
+    {
+     "ref": "EXO 16:35",
+     "form": "ds Manna"
+    }
+   ],
+   "note": "Wie Bietenhard Joh 6,31.49; 16,18 = 2Kor 8,15 (Bietenhards Wortlaut übernommen); 16,33 Chrueg wie Hebr 9,4.",
+   "by": "agent:exo016",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6016_omer",
+   "kind": "term",
+   "value": "Omer; Efa; e Zächntel",
+   "attested": "by-rule",
+   "words": [
+    "omer",
+    "ephah",
+    "tenth"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֹ֣מֶר",
+     "lemma": "עֹמֶר",
+     "ref": "EXO 16:16"
+    },
+    {
+     "lang": "hbo",
+     "form": "אֵיפָ֖ה",
+     "lemma": "אֵיפָה",
+     "ref": "EXO 16:36"
+    }
+   ],
+   "source": "עֹמֶר",
+   "evidence": [
+    {
+     "ref": "EXO 16:16",
+     "form": "e Omer"
+    },
+    {
+     "ref": "EXO 16:36",
+     "form": "e Zächntel"
+    },
+    {
+     "ref": "EXO 16:36",
+     "form": "Efa"
+    }
+   ],
+   "note": "Hohlmasse als Lehnwörter; 16,36 Omer = Zehntel Efa.",
+   "by": "agent:exo016",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:sin_desert",
+   "kind": "name",
+   "value": "d Wüeschti Sin",
+   "attested": "by-rule",
+   "words": [
+    "wilderness of sin"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סִ֔ין",
+     "lemma": "סִין",
+     "ref": "EXO 16:1"
+    }
+   ],
+   "source": "סִין",
+   "evidence": [
+    {
+     "ref": "EXO 16:1",
+     "form": "d Wüeschti Sin"
+    }
+   ],
+   "note": "סִין (nicht צִן »Zin«); zwischen Elim und Sinai.",
+   "by": "agent:exo016",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:sinai",
+   "kind": "name",
+   "value": "Sinai",
+   "attested": "attested",
+   "words": [
+    "sinai"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סִינָ֑י",
+     "lemma": "סִינַי",
+     "ref": "EXO 16:1"
+    }
+   ],
+   "source": "סִינַי",
+   "evidence": [
+    {
+     "ref": "GAL 4:24",
+     "form": "Sinai"
+    },
+    {
+     "ref": "EXO 16:1",
+     "form": "Sinai"
+    }
+   ],
+   "note": "Wie Bietenhard (Gal 4,24; Apg 7,30).",
+   "by": "agent:exo016",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7676_sabbath",
+   "kind": "term",
+   "value": "Sabbat; Ruetag; grueit",
+   "attested": "attested",
+   "words": [
+    "sabbath",
+    "day of rest",
+    "rested"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שַׁבַּת",
+     "lemma": "שַׁבָּת",
+     "ref": "EXO 16:23"
+    },
+    {
+     "lang": "hbo",
+     "form": "שַׁבָּת֧וֹן",
+     "lemma": "שַׁבָּתוֹן",
+     "ref": "EXO 16:23"
+    }
+   ],
+   "source": "שַׁבָּת",
+   "evidence": [
+    {
+     "ref": "MRK 2:27",
+     "form": "Sabbat"
+    },
+    {
+     "ref": "EXO 16:23",
+     "form": "e Ruetag"
+    },
+    {
+     "ref": "EXO 16:30",
+     "form": "grueit"
+    }
+   ],
+   "note": "שַׁבָּת »Sabbat« wie Bietenhard; שַׁבָּתוֹן »Ruetag«; שָׁבַת »rue/grueit«. Gleich in 20,8-11; 31,12-17; 35,2-3.",
+   "by": "agent:exo016",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3899_manna_misc",
+   "kind": "term",
+   "value": "Häfe / füfzähnte / verdunschtet / öppis Feins, Chörnigs / Ryf / verschmulze / bache, bachet / choche, chochet / Koriandersame / Chüechli",
+   "attested": "by-rule",
+   "words": [
+    "pots",
+    "frost",
+    "melted",
+    "bake",
+    "boil",
+    "coriander",
+    "wafers"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כְּפֹ֖ר",
+     "lemma": "כְּפוֹר",
+     "ref": "EXO 16:14"
+    }
+   ],
+   "source": "כְּפוֹר",
+   "evidence": [
+    {
+     "ref": "EXO 16:14",
+     "form": "so fein wi Ryf"
+    },
+    {
+     "ref": "EXO 16:23",
+     "form": "bachet … chochet"
+    },
+    {
+     "ref": "EXO 16:31",
+     "form": "Koriandersame"
+    }
+   ],
+   "note": "Wortformen aus 2Mo 16.",
+   "by": "agent:exo016",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:rephidim",
+   "kind": "name",
+   "value": "Refidim",
+   "attested": "by-rule",
+   "words": [
+    "rephidim"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רְפִידִ֔ים",
+     "lemma": "רְפִידִים",
+     "ref": "EXO 17:1"
+    }
+   ],
+   "source": "רְפִידִים",
+   "evidence": [
+    {
+     "ref": "EXO 17:1",
+     "form": "Z Refidim"
+    }
+   ],
+   "note": "Umschrift; 17,8; 19,2.",
+   "by": "agent:exo017",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:hur",
+   "kind": "name",
+   "value": "Hur",
+   "attested": "by-rule",
+   "words": [
+    "hur"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "ח֔וּר",
+     "lemma": "חוּר",
+     "ref": "EXO 17:10"
+    }
+   ],
+   "source": "חוּר",
+   "evidence": [
+    {
+     "ref": "EXO 17:10",
+     "form": "der Hur"
+    }
+   ],
+   "note": "Begleiter Moses (17,10.12; 24,14); Grossvater Bezalels (31,2).",
+   "by": "agent:exo017",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:joshua",
+   "kind": "name",
+   "value": "Josua",
+   "attested": "attested",
+   "words": [
+    "joshua"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְהוֹשֻׁ֨עַ֙",
+     "lemma": "יְהֹושֻׁעַ",
+     "ref": "EXO 17:9"
+    }
+   ],
+   "source": "יְהֹושֻׁעַ",
+   "evidence": [
+    {
+     "ref": "HEB 4:8",
+     "form": "Josua"
+    },
+    {
+     "ref": "EXO 17:9",
+     "form": "zum Josua"
+    }
+   ],
+   "note": "Wie Bietenhard Hebr 4,8; im Projekt schon Buch Josua (Entwürfe).",
+   "by": "agent:exo017",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4550_stages",
+   "kind": "term",
+   "value": "vo Etappe zu Etappe",
+   "attested": "by-rule",
+   "words": [
+    "from place to place",
+    "by stages"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַסְעֵי",
+     "lemma": "מַסַּע",
+     "ref": "EXO 17:1"
+    }
+   ],
+   "source": "מַסַּע",
+   "evidence": [
+    {
+     "ref": "EXO 17:1",
+     "form": "vo Etappe zu Etappe"
+    }
+   ],
+   "note": "לְמַסְעֵיהֶם; auch 40,36.38.",
+   "by": "agent:exo017",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7378_quarrel",
+   "kind": "term",
+   "value": "zangge / zangget; präg … y; bbout",
+   "attested": "by-rule",
+   "words": [
+    "quarrel",
+    "recite"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יָּ֤רֶב",
+     "lemma": "רִיב",
+     "ref": "EXO 17:2"
+    }
+   ],
+   "source": "רִיב",
+   "evidence": [
+    {
+     "ref": "EXO 17:2",
+     "form": "zangget"
+    },
+    {
+     "ref": "EXO 17:14",
+     "form": "präg ’s"
+    },
+    {
+     "ref": "EXO 17:15",
+     "form": "en Altar bbout"
+    }
+   ],
+   "note": "רִיב »zangge« (Korpus »zangget«), Wortspiel mit Meriba in der Fussnote; שִׂים בְּאָזְנֵי »yprägen«.",
+   "by": "agent:exo017",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:moses_staff_nile",
+   "kind": "formula",
+   "value": "der Stab vo Gott",
+   "attested": "by-rule",
+   "words": [
+    "staff of god"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַטֵּ֥ה",
+     "lemma": "מַטֶּה",
+     "ref": "EXO 17:9"
+    }
+   ],
+   "source": "מַטֶּה",
+   "evidence": [
+    {
+     "ref": "EXO 4:20",
+     "form": "Stab vo Gott"
+    },
+    {
+     "ref": "EXO 17:9",
+     "form": "der Stab vo Gott"
+    }
+   ],
+   "note": "מַטֵּה הָאֱלֹהִים wie 4,20.",
+   "by": "agent:exo017",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:eliezer",
+   "kind": "name",
+   "value": "Elieser",
+   "attested": "by-rule",
+   "words": [
+    "eliezer"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֱלִיעֶ֑זֶר",
+     "lemma": "אֱלִיעֶזֶר",
+     "ref": "EXO 18:4"
+    }
+   ],
+   "source": "אֱלִיעֶזֶר",
+   "evidence": [
+    {
+     "ref": "EXO 18:4",
+     "form": "Elieser"
+    }
+   ],
+   "note": "Sohn Moses; Fussnote »Gott isch Hilf«.",
+   "by": "agent:exo018",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7812_bow",
+   "kind": "term",
+   "value": "sech verneige / het sech verneigt",
+   "attested": "by-rule",
+   "words": [
+    "bowed down"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הָ",
+     "lemma": "הַ",
+     "ref": "EXO 18:7"
+    }
+   ],
+   "source": "הַ",
+   "evidence": [
+    {
+     "ref": "GEN 24:26",
+     "form": "töif verneigt"
+    },
+    {
+     "ref": "EXO 18:7",
+     "form": "het sech … verneigt"
+    }
+   ],
+   "note": "וַיִּשְׁתַּחוּ vor Menschen »sech verneige« wie 1Mo (Entwürfe); vor Gott oder Götzen »sech bücke und aabätte« (4,31; 12,27; 20,5).",
+   "by": "agent:exo018",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8269_officials",
+   "kind": "term",
+   "value": "Obere über Tuusig, über Hundert, über Füfzg und über Zäche; tüchtigi / tüchtige Manne",
+   "attested": "by-rule",
+   "words": [
+    "officials",
+    "capable men"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָׂרֵ֤י",
+     "lemma": "שַׂר",
+     "ref": "EXO 18:21"
+    },
+    {
+     "lang": "hbo",
+     "form": "חַ֜יִל",
+     "lemma": "חַיִל",
+     "ref": "EXO 18:21"
+    }
+   ],
+   "source": "שַׂר",
+   "evidence": [
+    {
+     "ref": "EXO 18:21",
+     "form": "Obere über Tuusig"
+    },
+    {
+     "ref": "EXO 18:21",
+     "form": "tüchtige Manne"
+    }
+   ],
+   "note": "שָׂרֵי אֲלָפִים … 18,21.25 gleich; אַנְשֵׁי־חַיִל »tüchtigi Manne«.",
+   "by": "agent:exo018",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex18_misc",
+   "kind": "term",
+   "value": "überhoche",
+   "attested": "by-rule",
+   "words": [
+    "arrogantly"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זָד֖וּ",
+     "lemma": "זִיד",
+     "ref": "EXO 18:11"
+    }
+   ],
+   "source": "זִיד",
+   "evidence": [
+    {
+     "ref": "EXO 18:11",
+     "form": "sech … überhoche"
+    }
+   ],
+   "note": "זיד »sech überhoche«.",
+   "by": "agent:exo018",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5459_treasured",
+   "kind": "term",
+   "value": "mys eigete Eigetum",
+   "attested": "by-rule",
+   "words": [
+    "treasured possession"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סְגֻלָּה֙",
+     "lemma": "סְגֻלָּה",
+     "ref": "EXO 19:5"
+    }
+   ],
+   "source": "סְגֻלָּה",
+   "evidence": [
+    {
+     "ref": "EXO 19:5",
+     "form": "mys eigete Eigetum"
+    }
+   ],
+   "note": "סְגֻלָּה; vgl. 1Petr 2,9 (Bietenhard »ds Volk, wo Gott söll ghöre«).",
+   "by": "agent:exo019",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:kingdom_priests",
+   "kind": "formula",
+   "value": "e chüniglechi Prieschterschaft und es heiligs Volk",
+   "attested": "attested",
+   "words": [
+    "kingdom of priests",
+    "holy nation"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "לִ֛",
+     "lemma": "לְ",
+     "ref": "EXO 19:6"
+    }
+   ],
+   "source": "לְ",
+   "evidence": [
+    {
+     "ref": "1PE 2:9",
+     "form": "chüniglechi Prieschterschaft"
+    },
+    {
+     "ref": "EXO 19:6",
+     "form": "es heiligs Volk"
+    }
+   ],
+   "note": "Nach Bietenhard 1Petr 2,9 (»di chüniglechi Prieschterschaft, ds heilige Volk«).",
+   "by": "agent:exo019",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7782_shofar",
+   "kind": "term",
+   "value": "d Posuune; ds Widderhorn",
+   "attested": "attested",
+   "words": [
+    "trumpet",
+    "ram's horn"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שֹׁפָ֖ר",
+     "lemma": "שֹׁופָר",
+     "ref": "EXO 19:16"
+    }
+   ],
+   "source": "שֹׁופָר",
+   "evidence": [
+    {
+     "ref": "HEB 12:19",
+     "form": "Posuune"
+    },
+    {
+     "ref": "EXO 19:13",
+     "form": "ds Widderhorn"
+    }
+   ],
+   "note": "שׁוֹפָר »Posuune« wie Bietenhard Hebr 12,19 und Ps 150,3 (Entwurf); יֹבֵל »Widderhorn«.",
+   "by": "agent:exo019",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:stone_to_death",
+   "kind": "formula",
+   "value": "mit Steine z Tod schla",
+   "attested": "attested",
+   "words": [
+    "stoned"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סָק֤וֹל",
+     "lemma": "סָקַל",
+     "ref": "EXO 19:13"
+    }
+   ],
+   "source": "סָקַל",
+   "evidence": [
+    {
+     "ref": "HEB 12:20",
+     "form": "mit Steine"
+    },
+    {
+     "ref": "EXO 19:13",
+     "form": "mit Steine z Tod"
+    }
+   ],
+   "note": "סָקֹל יִסָּקֵל nach Bietenhard Hebr 12,20 (Zitat von 2Mo 19,13); 21,28-32 gleich.",
+   "by": "agent:exo019",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex19_misc",
+   "kind": "term",
+   "value": "donneret / blitzt / erschiesse / düre stürme",
+   "attested": "by-rule",
+   "words": [
+    "thunder",
+    "lightning",
+    "shot",
+    "break through"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קֹלֹ֨ת",
+     "lemma": "קוֹל",
+     "ref": "EXO 19:16"
+    }
+   ],
+   "source": "קוֹל",
+   "evidence": [
+    {
+     "ref": "EXO 19:16",
+     "form": "donneret und blitzt"
+    },
+    {
+     "ref": "EXO 19:21",
+     "form": "düre stürme"
+    }
+   ],
+   "note": "Wortformen aus 2Mo 19.",
+   "by": "agent:exo019",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:decalogue",
+   "kind": "formula",
+   "value": "Du söllsch nid morde. Du söllsch d Eh nid bräche. Du söllsch nid stäle.",
+   "attested": "attested",
+   "words": [
+    "you shall not murder",
+    "you shall not commit adultery",
+    "you shall not steal"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תִּרְצָֽח",
+     "lemma": "רָצַח",
+     "ref": "EXO 20:13"
+    }
+   ],
+   "source": "רָצַח",
+   "evidence": [
+    {
+     "ref": "ROM 13:9",
+     "form": "Du söllsch nid morde"
+    },
+    {
+     "ref": "MAT 5:27",
+     "form": "d Eh nid bräche"
+    },
+    {
+     "ref": "ROM 13:9",
+     "form": "du söllsch nid stäle"
+    }
+   ],
+   "note": "20,12-17 nach Bietenhard (Mt 5,21.27; 15,4; 19,18-19; Mk 10,19; Röm 13,9): »Du söllsch dy Vatter und dy Mueter ehre«; »nid gluschte« (Röm 7,7; 13,9). 20,16 עֵד שָׁקֶר »als falsche Züge uftrete« (Bietenhard paraphrasiert »vor Gricht nid lüge«). In 5Mo 5 gleich halten.",
+   "by": "agent:exo020",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7453_neighbor_law",
+   "kind": "term",
+   "value": "dy Mitmönsch",
+   "attested": "attested",
+   "words": [
+    "neighbor"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רֵעֲ",
+     "lemma": "רֵעַ",
+     "ref": "EXO 20:16"
+    }
+   ],
+   "source": "רֵעַ",
+   "evidence": [
+    {
+     "ref": "ROM 13:9",
+     "form": "dy Mitmönsch"
+    },
+    {
+     "ref": "EXO 20:17",
+     "form": "vo dym Mitmönsch"
+    }
+   ],
+   "note": "רֵעַ im Gebot und Gesetz (20,16-17; 21,14.18.35; 22,6-13.25) »Mitmönsch« wie Bietenhard für πλησίον; in Erzählung »Nachbar« (11,2; term:H7453_neighbor).",
+   "by": "agent:exo020",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:jealous_god",
+   "kind": "formula",
+   "value": "e yfersüchtige Gott; i strafe d Schuld vo de Vätter a de Chinder bis is dritte und vierte Glid",
+   "attested": "by-rule",
+   "words": [
+    "jealous god",
+    "visiting the iniquity"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קַנָּ֔א",
+     "lemma": "קַנָּא",
+     "ref": "EXO 20:5"
+    }
+   ],
+   "source": "קַנָּא",
+   "evidence": [
+    {
+     "ref": "EXO 20:5",
+     "form": "e yfersüchtige Gott"
+    },
+    {
+     "ref": "EXO 20:5",
+     "form": "dritte und vierte Glid"
+    },
+    {
+     "ref": "EXO 20:6",
+     "form": "tuusigschte Glid"
+    }
+   ],
+   "note": "אֵל קַנָּא (20,5; 34,14); 34,7 gleich halten. Korpus »yfersüchtig«, »Glid«.",
+   "by": "agent:exo020",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8002_peace_offering",
+   "kind": "term",
+   "value": "Gmeinschaftsopfer",
+   "attested": "by-rule",
+   "words": [
+    "peace offerings",
+    "fellowship offerings"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְׁלָמֶ֔י",
+     "lemma": "שֶׁלֶם",
+     "ref": "EXO 20:24"
+    }
+   ],
+   "source": "שֶׁלֶם",
+   "evidence": [
+    {
+     "ref": "EXO 20:24",
+     "form": "dyni Gmeinschaftsopfer"
+    }
+   ],
+   "note": "שְׁלָמִים; 24,5; 29,28; 32,6 gleich.",
+   "by": "agent:exo020",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex20_misc",
+   "kind": "term",
+   "value": "Götzebild / Sabbattag / ungstraft / uftrete / rouche / ghoune Steine / Meissel / entheilige, entheiligisch / Blössi / tuusigschte",
+   "attested": "by-rule",
+   "words": [
+    "idol",
+    "carved",
+    "chisel",
+    "nakedness"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פֶ֨סֶל֙",
+     "lemma": "פֶּסֶל",
+     "ref": "EXO 20:4"
+    }
+   ],
+   "source": "פֶּסֶל",
+   "evidence": [
+    {
+     "ref": "EXO 20:4",
+     "form": "kes Götzebild"
+    },
+    {
+     "ref": "EXO 20:25",
+     "form": "ghoune Steine"
+    }
+   ],
+   "note": "Wortformen aus 2Mo 20; שָׁחָה vor Gott/Götzen »sech bücke (und aabätte)« wie 4,31; 12,27.",
+   "by": "agent:exo020",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:put_to_death",
+   "kind": "formula",
+   "value": "dä söll tödt wärde",
+   "attested": "attested",
+   "words": [
+    "shall surely be put to death"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מֵ֖ת",
+     "lemma": "מוּת",
+     "ref": "EXO 21:12"
+    }
+   ],
+   "source": "מוּת",
+   "evidence": [
+    {
+     "ref": "MRK 7:10",
+     "form": "dä söll tödt wärde"
+    },
+    {
+     "ref": "EXO 21:15",
+     "form": "söll tödt wärde"
+    }
+   ],
+   "note": "מוֹת יוּמָת nach Bietenhard Mk 7,10 (Zitat von 21,17); 21,12.15.16.17.29; 22,18; 31,14-15; 35,2 gleich.",
+   "by": "agent:exo021",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:eye_for_eye",
+   "kind": "formula",
+   "value": "Oug gägen Oug, Zahn gäge Zahn",
+   "attested": "attested",
+   "words": [
+    "eye for eye",
+    "tooth for tooth"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַ֚יִן",
+     "lemma": "עַיִן",
+     "ref": "EXO 21:24"
+    }
+   ],
+   "source": "עַיִן",
+   "evidence": [
+    {
+     "ref": "MAT 5:38",
+     "form": "Oug gägen Oug"
+    },
+    {
+     "ref": "EXO 21:24",
+     "form": "Zahn gäge Zahn"
+    }
+   ],
+   "note": "Nach Bietenhard Mt 5,38; Fortsetzung 21,24-25 im selben Muster (»Hand gäge Hand … Strieme gäge Strieme«); 21,23 »Läbe um Läbe«.",
+   "by": "agent:exo021",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5650_slave_law",
+   "kind": "term",
+   "value": "Sklav / Sklavin / Sklave",
+   "attested": "attested",
+   "words": [
+    "slave",
+    "servant",
+    "maidservant"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֶ֣בֶד",
+     "lemma": "עֶבֶד",
+     "ref": "EXO 21:2"
+    },
+    {
+     "lang": "hbo",
+     "form": "אָמָ֑ה",
+     "lemma": "אָמָה",
+     "ref": "EXO 21:7"
+    }
+   ],
+   "source": "עֶבֶד",
+   "evidence": [
+    {
+     "ref": "EXO 21:2",
+     "form": "e hebräische Sklav"
+    },
+    {
+     "ref": "EXO 21:7",
+     "form": "als Sklavin"
+    }
+   ],
+   "note": "Im Sklavenrecht (21,2-11.20-21.26-27.32) עֶבֶד/אָמָה »Sklav/Sklavin«; sonst »Chnächt/Magd« (term:servant, term:H8198).",
+   "by": "agent:exo021",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4941_ordinances",
+   "kind": "term",
+   "value": "Rächtsornige",
+   "attested": "by-rule",
+   "words": [
+    "ordinances"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִּשְׁפָּטִ֔ים",
+     "lemma": "מִשְׁפָּט",
+     "ref": "EXO 21:1"
+    }
+   ],
+   "source": "מִשְׁפָּט",
+   "evidence": [
+    {
+     "ref": "EXO 21:1",
+     "form": "d Rächtsornige"
+    }
+   ],
+   "note": "הַמִּשְׁפָּטִים 21,1; 24,3 gleich.",
+   "by": "agent:exo021",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3724_ransom",
+   "kind": "term",
+   "value": "Lösgäld",
+   "attested": "by-rule",
+   "words": [
+    "ransom"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כֹּ֖פֶר",
+     "lemma": "כֹּפֶר",
+     "ref": "EXO 21:30"
+    }
+   ],
+   "source": "כֹּפֶר",
+   "evidence": [
+    {
+     "ref": "EXO 21:30",
+     "form": "es Lösgäld"
+    }
+   ],
+   "note": "כֹּפֶר; 30,12 gleich.",
+   "by": "agent:exo021",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex21_law",
+   "kind": "term",
+   "value": "vorlege / alleini / gebiert / Ahle / stäche / tröilos / behandle / eheleche Rächt / losgeit / entfüert / Fuscht / Verdienschtusfall / rouffe / schwangeri / büesse / Uspruch / kaputt / usschlat / Ersatz / ersetze / stosst / ygsperrt / verfahre / ufdeckt / grabt / verletzt / Erlös / stilt / Bsitzer",
+   "attested": "by-rule",
+   "words": [
+    "awl",
+    "fist",
+    "restitution",
+    "gores"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַּרְצֵ֔עַ",
+     "lemma": "מַרְצֵעַ",
+     "ref": "EXO 21:6"
+    }
+   ],
+   "source": "מַרְצֵעַ",
+   "evidence": [
+    {
+     "ref": "EXO 21:6",
+     "form": "mit ere Ahle"
+    },
+    {
+     "ref": "EXO 21:36",
+     "form": "Ochs für Ochs ersetze"
+    }
+   ],
+   "note": "Wortformen des Bundesbuchs (2Mo 21); שִׁלֵּם »ersetze/Ersatz leischte«, נָגַח »stosse«, בַּעַל הַשּׁוֹר »Bsitzer«.",
+   "by": "agent:exo021",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex22_law",
+   "kind": "term",
+   "value": "Brutprys / gstolene / abweide, weidet / usbricht / übergryft / ufgschichteti / aagfüüret / Veruntröiig / Verlorns / sprichet / furttribe / annäh / Verrissene / lehnt, lehnsch / gmietet / Mietzins / abggolte / Jungfroue / Hexe / Bann / underdrücke / plagsch / Wucherer / Pfand / undergeit / Decki / lästere / Ärnt / zögere / vürehiere",
+   "attested": "by-rule",
+   "words": [
+    "bride price",
+    "sorceress",
+    "pledge",
+    "interest"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מֹ֖הַר",
+     "lemma": "מֹהַר",
+     "ref": "EXO 22:16"
+    }
+   ],
+   "source": "מֹהַר",
+   "evidence": [
+    {
+     "ref": "EXO 22:15",
+     "form": "dür e Brutprys"
+    },
+    {
+     "ref": "EXO 22:17",
+     "form": "E Hexe"
+    },
+    {
+     "ref": "EXO 22:25",
+     "form": "z Pfand"
+    }
+   ],
+   "note": "Wortformen des Bundesbuchs (2Mo 22); מְכַשֵּׁפָה »Hexe« (vgl. Hexer 7,11); חֵרֶם »em Bann verfalle«; נֶשֶׁךְ »Zins«, נֹשֶׁה »Wucherer«.",
+   "by": "agent:exo022",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:leader_curse",
+   "kind": "formula",
+   "value": "emene Vorgsetzte vo dym Volk söllsch du nüüt Böses säge",
+   "attested": "attested",
+   "words": [
+    "curse a ruler"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נָשִׂ֥יא",
+     "lemma": "נָשִׂיא",
+     "ref": "EXO 22:27"
+    }
+   ],
+   "source": "נָשִׂיא",
+   "evidence": [
+    {
+     "ref": "ACT 23:5",
+     "form": "Emene Vorgsetzte"
+    },
+    {
+     "ref": "EXO 22:27",
+     "form": "nüüt Böses säge"
+    }
+   ],
+   "note": "Nach Bietenhard Apg 23,5 (Zitat von 22,27).",
+   "by": "agent:exo022",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5307_widow_orphan",
+   "kind": "term",
+   "value": "Witfrou / Witfroue; Waisechind / Waise",
+   "attested": "by-rule",
+   "words": [
+    "widow",
+    "orphan",
+    "fatherless"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַלְמָנָ֥ה",
+     "lemma": "אַלְמָנָה",
+     "ref": "EXO 22:21"
+    }
+   ],
+   "source": "אַלְמָנָה",
+   "evidence": [
+    {
+     "ref": "EXO 22:21",
+     "form": "Kei Witfrou"
+    },
+    {
+     "ref": "EXO 22:23",
+     "form": "zu Waise"
+    }
+   ],
+   "note": "Korpus »Witfrou« (nicht »Witwe«), »Waise«.",
+   "by": "agent:exo022",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1601_bloodguilt",
+   "kind": "term",
+   "value": "Bluetschuld",
+   "attested": "by-rule",
+   "words": [
+    "bloodguilt"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דָּמִֽים",
+     "lemma": "דָּם",
+     "ref": "EXO 22:1"
+    }
+   ],
+   "source": "דָּם",
+   "evidence": [
+    {
+     "ref": "EXO 22:1",
+     "form": "kei Bluetschuld"
+    }
+   ],
+   "note": "דָּמִים »Bluetschuld« (22,1-2).",
+   "by": "agent:exo022",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex23_law",
+   "kind": "term",
+   "value": "Grücht / zämetue / nachegisch / Rächtsstryt / bevorzuge / begägnisch / umbedingt / zrüggbringe / hasst / zämebräche / spriche / verdrääjt / aasäje / ychrüme, ychrüemsch, Ychrüme / Olivebäum / gsäjt / Erschtertrag / Gsüürtem / lehn … uf / Vergähe / tilgen / Steimale / Horniss / verjagen, verjage, verjagsch / ybsitze / diensch / rue",
+   "attested": "by-rule",
+   "words": [
+    "false report",
+    "bribe",
+    "hornet",
+    "sacred pillars"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צִּרְעָ֖ה",
+     "lemma": "צִרְעָה",
+     "ref": "EXO 23:28"
+    }
+   ],
+   "source": "צִרְעָה",
+   "evidence": [
+    {
+     "ref": "EXO 23:28",
+     "form": "d Horniss"
+    },
+    {
+     "ref": "EXO 23:24",
+     "form": "iri Steimale"
+    }
+   ],
+   "note": "Wortformen des Bundesbuchs (2Mo 23); מַצֵּבָה »Steimal«; צִרְעָה »Horniss«; אָסִיף »Ychrüme«.",
+   "by": "agent:exo023",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7810_bribe",
+   "kind": "term",
+   "value": "Bstächigsgäld",
+   "attested": "by-rule",
+   "words": [
+    "bribe"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שֹׁ֖חַד",
+     "lemma": "שֹׁחַד",
+     "ref": "EXO 23:8"
+    }
+   ],
+   "source": "שֹׁחַד",
+   "evidence": [
+    {
+     "ref": "EXO 23:8",
+     "form": "Bstächigsgäld"
+    }
+   ],
+   "note": "שֹׁחַד.",
+   "by": "agent:exo023",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:three_feasts",
+   "kind": "formula",
+   "value": "ds Fescht vom ungsüürete Brot; ds Fescht vo der Ärnt; ds Fescht vom Ychrüme",
+   "attested": "by-rule",
+   "words": [
+    "feast of unleavened bread",
+    "feast of harvest",
+    "feast of ingathering"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קָּצִיר֙",
+     "lemma": "קָצִיר",
+     "ref": "EXO 23:16"
+    }
+   ],
+   "source": "קָצִיר",
+   "evidence": [
+    {
+     "ref": "EXO 23:16",
+     "form": "Fescht vo der Ärnt"
+    },
+    {
+     "ref": "EXO 23:16",
+     "form": "Fescht vom Ychrüme"
+    }
+   ],
+   "note": "Drei Wallfahrtsfeste (23,14-17); 34,18-23 gleich. »Drümal im Jahr … vor em Gsicht vom Herr, em HERR, erschyne« (23,17; 34,23).",
+   "by": "agent:exo023",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:kid_milk",
+   "kind": "formula",
+   "value": "Du söllsch es Gitzi nid i der Milch vo syr Mueter choche",
+   "attested": "by-rule",
+   "words": [
+    "boil a young goat in its mother's milk"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גְּדִ֖י",
+     "lemma": "גְּדִי",
+     "ref": "EXO 23:19"
+    }
+   ],
+   "source": "גְּדִי",
+   "evidence": [
+    {
+     "ref": "EXO 23:19",
+     "form": "es Gitzi nid"
+    },
+    {
+     "ref": "EXO 23:19",
+     "form": "Milch vo syr Mueter"
+    }
+   ],
+   "note": "23,19 = 34,26.",
+   "by": "agent:exo023",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:blood_covenant",
+   "kind": "formula",
+   "value": "Das isch ds Bluet vom Bund",
+   "attested": "attested",
+   "words": [
+    "blood of the covenant"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דָּ֔ם",
+     "lemma": "דָּם",
+     "ref": "EXO 24:8"
+    }
+   ],
+   "source": "דָּם",
+   "evidence": [
+    {
+     "ref": "HEB 9:20",
+     "form": "ds Bluet vom Bund"
+    },
+    {
+     "ref": "EXO 24:8",
+     "form": "ds Bluet vom Bund"
+    }
+   ],
+   "note": "Nach Bietenhard Hebr 9,20 (Zitat von 24,8); dort »wo Gott für öich beschlosse het«, hier »wo der HERR mit öich gschlosse het« (כָּרַת).",
+   "by": "agent:exo024",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3871_tablets",
+   "kind": "term",
+   "value": "d Tafele us Stei; d Tafele vom Zügnis",
+   "attested": "by-rule",
+   "words": [
+    "tablets of stone",
+    "tablets of the testimony"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "לֻחֹ֣ת",
+     "lemma": "לוּחַ",
+     "ref": "EXO 24:12"
+    }
+   ],
+   "source": "לוּחַ",
+   "evidence": [
+    {
+     "ref": "HEB 9:4",
+     "form": "Bundestafele"
+    },
+    {
+     "ref": "EXO 24:12",
+     "form": "d Tafele us Stei"
+    }
+   ],
+   "note": "לֻחֹת הָאֶבֶן (24,12; 31,18; 34,1.4); לֻחֹת הָעֵדֻת (31,18; 32,15; 34,29) »d Tafele vom Zügnis«. Bietenhard Hebr 9,4 »Bundestafele«.",
+   "by": "agent:exo024",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:forty_days",
+   "kind": "formula",
+   "value": "vierzg Tag und vierzg Nächt",
+   "attested": "by-rule",
+   "words": [
+    "forty days and forty nights"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בְּ",
+     "lemma": "בְּ",
+     "ref": "EXO 24:18"
+    }
+   ],
+   "source": "בְּ",
+   "evidence": [
+    {
+     "ref": "EXO 24:18",
+     "form": "vierzg Tag und vierzg"
+    },
+    {
+     "ref": "MAT 4:2",
+     "form": "vierzg Tag und Nächt"
+    }
+   ],
+   "note": "24,18; 34,28.",
+   "by": "agent:exo024",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5288_young_men",
+   "kind": "term",
+   "value": "jungi Manne; Diener (מְשָׁרֵת)",
+   "attested": "by-rule",
+   "words": [
+    "young men",
+    "assistant"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נַעֲרֵי֙",
+     "lemma": "נַעַר",
+     "ref": "EXO 24:5"
+    },
+    {
+     "lang": "hbo",
+     "form": "מְשָׁרְת֑",
+     "lemma": "שָׁרַת",
+     "ref": "EXO 24:13"
+    }
+   ],
+   "source": "נַעַר",
+   "evidence": [
+    {
+     "ref": "EXO 24:5",
+     "form": "jungi Manne"
+    },
+    {
+     "ref": "EXO 24:13",
+     "form": "sym Diener Josua"
+    }
+   ],
+   "note": "Josua als »Diener« Moses (24,13; 33,11).",
+   "by": "agent:exo024",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:tabernacle_materials",
+   "kind": "term",
+   "value": "Guld, Silber und Bronze; blaui, purpurroti und scharlachroti Wulle; fyns Lyntuech; Geisshaar; rot gfärbti Widderfäll; fyns Läder; Akazieholz; Öl für ds Liecht; Gwürz für ds Salböl und für ds wohlriechende Röucherwärch; Onyxsteine und Fassigssteine; luters / luterem Guld",
+   "attested": "by-rule",
+   "words": [
+    "gold",
+    "silver",
+    "bronze",
+    "blue",
+    "purple",
+    "scarlet",
+    "fine linen",
+    "goat hair",
+    "acacia wood",
+    "fragrant incense",
+    "onyx"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זָהָ֥ב",
+     "lemma": "זָהָב",
+     "ref": "EXO 25:3"
+    },
+    {
+     "lang": "hbo",
+     "form": "תְכֵ֧לֶת",
+     "lemma": "תְּכֵלֶת",
+     "ref": "EXO 25:4"
+    },
+    {
+     "lang": "hbo",
+     "form": "שִׁטִּֽים",
+     "lemma": "שִׁטָּה",
+     "ref": "EXO 25:5"
+    }
+   ],
+   "source": "זָהָב",
+   "evidence": [
+    {
+     "ref": "EXO 25:3",
+     "form": "Guld, Silber und Bronze"
+    },
+    {
+     "ref": "EXO 25:5",
+     "form": "Akazieholz"
+    },
+    {
+     "ref": "HEB 9:19",
+     "form": "roti Wulle"
+    }
+   ],
+   "note": "Materialliste 25,3-7 = 35,5-9 (wörtlich gleich halten). תְּכֵלֶת »blaui Wulle«, אַרְגָּמָן »purpurroti«, תּוֹלַעַת שָׁנִי »scharlachroti« (Bietenhard Hebr 9,19 »roti Wulle«), שֵׁשׁ »fyns Lyntuech«, תְּחָשִׁים »fyns Läder« (Fussnote), זָהָב טָהוֹר »luters Guld«.",
+   "by": "agent:exo025",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:tabernacle_parts",
+   "kind": "term",
+   "value": "d Wohnig; ds Heiligtum; d Lade (vom Zügnis); der Gnadestuel; d Cherube; der Tisch mit em usgstellte Brot; der Lüüchter mit Fuess, Schaft, Arme, Chelch, Chnopf / Chnöpf, Blüete, Lampe, Dochtschäre und Pfännli; Ring, Stange, Chranz, Rand; Platte, Schale, Channe, Schüssle; Efod und Bruschtschild",
+   "attested": "attested",
+   "words": [
+    "tabernacle",
+    "ark",
+    "mercy seat",
+    "cherubim",
+    "table",
+    "bread of the presence",
+    "lampstand",
+    "poles",
+    "rings"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִּשְׁכָּ֔ן",
+     "lemma": "מִשְׁכָּן",
+     "ref": "EXO 25:9"
+    },
+    {
+     "lang": "hbo",
+     "form": "כַפֹּ֖רֶת",
+     "lemma": "כַּפֹּרֶת",
+     "ref": "EXO 25:17"
+    },
+    {
+     "lang": "hbo",
+     "form": "מְנֹרַ֖ת",
+     "lemma": "מְנוֹרָה",
+     "ref": "EXO 25:31"
+    }
+   ],
+   "source": "מִשְׁכָּן",
+   "evidence": [
+    {
+     "ref": "HEB 9:5",
+     "form": "Gnadestuel"
+    },
+    {
+     "ref": "HEB 9:2",
+     "form": "der Lüüchter"
+    },
+    {
+     "ref": "EXO 25:9",
+     "form": "d Wohnig"
+    }
+   ],
+   "note": "Nach Bietenhard Hebr 9,2-5 (Lüüchter, Tisch, usgstellte Brot, Cherube, Gnadestuel, Lade). מִשְׁכָּן »d Wohnig«, אֹהֶל »ds Zält«, מִקְדָּשׁ »ds Heiligtum«. Liste im Wiki (entscheide-at.md, Heiligtum) und in exo_state.md; Kap. 35-40 gleich.",
+   "by": "agent:exo025",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex25_misc",
+   "kind": "term",
+   "value": "aanäh / drängt / giesse / zwöiehalb / tribener / tribeni / Handbreiti / nööch / Halterig / Trankopfer / usgiesst / ufsetze / erlüüchte / Lüüchterarme / Mandelblüete / Elle",
+   "attested": "by-rule",
+   "words": [
+    "cubit",
+    "hammered",
+    "handbreadth",
+    "drink offerings"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַמָּתַ֨יִם",
+     "lemma": "אַמָּה",
+     "ref": "EXO 25:10"
+    },
+    {
+     "lang": "hbo",
+     "form": "מִקְשָׁה֙",
+     "lemma": "מִקְשָׁה",
+     "ref": "EXO 25:18"
+    }
+   ],
+   "source": "אַמָּה",
+   "evidence": [
+    {
+     "ref": "EXO 25:10",
+     "form": "zwöiehalb Elle"
+    },
+    {
+     "ref": "EXO 25:18",
+     "form": "i tribener Arbeit"
+    }
+   ],
+   "note": "אַמָּה »Elle«; מִקְשָׁה »tribeni Arbeit«; Masse ausgeschrieben (zwöiehalb, anderthalb).",
+   "by": "agent:exo025",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:pattern_mountain",
+   "kind": "formula",
+   "value": "nach em Vorbild, wo dir uf em Bärg zeigt worde isch",
+   "attested": "attested",
+   "words": [
+    "pattern shown you on the mountain"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תַ֨בְנִיתָ֔",
+     "lemma": "תַּבְנִית",
+     "ref": "EXO 25:40"
+    }
+   ],
+   "source": "תַּבְנִית",
+   "evidence": [
+    {
+     "ref": "HEB 8:5",
+     "form": "nam Vorbild"
+    },
+    {
+     "ref": "EXO 25:40",
+     "form": "uf em Bärg zeigt"
+    }
+   ],
+   "note": "Nach Bietenhard Hebr 8,5 (Zitat von 25,40); 25,9; 26,30; 27,8 gleich.",
+   "by": "agent:exo025",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ephod",
+   "kind": "name",
+   "value": "Efod",
+   "attested": "by-rule",
+   "words": [
+    "ephod"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "וְ",
+     "lemma": "וְ",
+     "ref": "EXO 25:7"
+    }
+   ],
+   "source": "וְ",
+   "evidence": [
+    {
+     "ref": "EXO 25:7",
+     "form": "für ds Efod"
+    }
+   ],
+   "note": "Priestergewand, Lehnwort (ds Efod); Kap. 28.",
+   "by": "agent:exo025",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:tabernacle_parts_26",
+   "kind": "term",
+   "value": "Tuech / Tüecher; Bahne; Schlüüfe; Spange; ds Zält us Geisshaar; Decki; Brätt / Brätter; Zapfe; Sockel; Riegel; der mittler Riegel; Vorhang; Süüle; Hääggli; Türvorhang; ds Heilige und ds Allerheiligschte; Südsyte, Nordsyte, Rücksyte",
+   "attested": "attested",
+   "words": [
+    "curtains",
+    "loops",
+    "clasps",
+    "frames",
+    "tenons",
+    "bases",
+    "bars",
+    "veil",
+    "pillars",
+    "hooks",
+    "screen",
+    "most holy place"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְרִיעֹ֑ת",
+     "lemma": "יְרִיעָה",
+     "ref": "EXO 26:1"
+    },
+    {
+     "lang": "hbo",
+     "form": "קְּרָשִׁ֖ים",
+     "lemma": "קֶרֶשׁ",
+     "ref": "EXO 26:15"
+    },
+    {
+     "lang": "hbo",
+     "form": "פָרֹ֗כֶת",
+     "lemma": "פָּרֹכֶת",
+     "ref": "EXO 26:31"
+    }
+   ],
+   "source": "יְרִיעָה",
+   "evidence": [
+    {
+     "ref": "HEB 9:3",
+     "form": "zwöite Vorhang"
+    },
+    {
+     "ref": "HEB 9:3",
+     "form": "ds Allerheiligschte"
+    },
+    {
+     "ref": "EXO 26:15",
+     "form": "d Brätter"
+    }
+   ],
+   "note": "2Mo 26: יְרִיעָה »Tuech«, חֹבֶרֶת »Bahne«, לֻלָאֹת »Schlüüfe«, קְרָסִים »Spange«, מִכְסֶה »Decki«, קְרָשִׁים »Brätter«, יָדוֹת »Zapfe«, אֲדָנִים »Sockel«, בְּרִיחִם »Riegel«, פָּרֹכֶת »Vorhang« (Hebr 9,3), עַמּוּדִים »Süüle«, וָוִים »Hääggli«, מָסָךְ »Türvorhang«, קֹדֶשׁ הַקֳּדָשִׁים »ds Allerheiligschte« (Hebr 9,3). Kap. 36 gleich.",
+   "by": "agent:exo026",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex26_misc",
+   "kind": "term",
+   "value": "blauer / purpurroter / scharlachroter Wulle; zwirnetem fynem Lyntuech; Kunschtwäber; Buntwäber; Mass; abehange; Akazie; ufhänke; achtezwänzg; vore; zämefüege; zuezdecke; gfärbte; stehendi; sächzäche; düregah; überzoge; ynebringe",
+   "attested": "by-rule",
+   "words": [
+    "twisted",
+    "skilled craftsman",
+    "embroiderer"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֹשֵׁ֖ב",
+     "lemma": "חָשַׁב",
+     "ref": "EXO 26:1"
+    },
+    {
+     "lang": "hbo",
+     "form": "רֹקֵֽם",
+     "lemma": "רָקַם",
+     "ref": "EXO 26:36"
+    }
+   ],
+   "source": "חָשַׁב",
+   "evidence": [
+    {
+     "ref": "EXO 26:1",
+     "form": "vo mene Kunschtwäber"
+    },
+    {
+     "ref": "EXO 26:36",
+     "form": "vo mene Buntwäber"
+    }
+   ],
+   "note": "מַעֲשֵׂה חֹשֵׁב »Arbeit vo mene Kunschtwäber«, מַעֲשֵׂה רֹקֵם »… Buntwäber«, שֵׁשׁ מָשְׁזָר »zwirnets fyns Lyntuech«.",
+   "by": "agent:exo026",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:tabernacle_parts_27",
+   "kind": "term",
+   "value": "Altar mit Hörner; Äschechessle, Schufle, Sprützschale, Gable, Pfanne; Gitter, Netzwärch, Umgang; bronzigi Ring; Vorhof; Behäng; Ringbänder; Tor; Pflöck; Weschtsyte, Oschtsyte; hohl us Brätter; viereggig; ygfasst",
+   "attested": "by-rule",
+   "words": [
+    "altar",
+    "horns",
+    "pots",
+    "shovels",
+    "basins",
+    "forks",
+    "firepans",
+    "grating",
+    "courtyard",
+    "hangings",
+    "bands",
+    "tent pegs"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִּזְבֵּ֖חַ",
+     "lemma": "מִזְבֵּחַ",
+     "ref": "EXO 27:1"
+    },
+    {
+     "lang": "hbo",
+     "form": "מִכְבָּ֔ר",
+     "lemma": "מִכְבָּר",
+     "ref": "EXO 27:4"
+    },
+    {
+     "lang": "hbo",
+     "form": "חֲצַ֣ר",
+     "lemma": "חָצֵר",
+     "ref": "EXO 27:9"
+    }
+   ],
+   "source": "מִזְבֵּחַ",
+   "evidence": [
+    {
+     "ref": "EXO 27:2",
+     "form": "Hörner"
+    },
+    {
+     "ref": "EXO 27:9",
+     "form": "der Vorhof"
+    },
+    {
+     "ref": "EXO 27:9",
+     "form": "Behäng"
+    }
+   ],
+   "note": "2Mo 27 (= 38,1-20): סִירֹת »Äschechessle«, יָעִים »Schufle«, מִזְרָקֹת »Sprützschale«, מִזְלָגֹת »Gable«, מַחְתֹּת »Pfanne«, מִכְבָּר »Gitter«, רֶשֶׁת »Netz(wärch)«, כַּרְכֹּב »Umgang«, חָצֵר »Vorhof«, קְלָעִים »Behäng«, חֲשֻׁקִים »Ringbänder«, יְתֵדֹת »Pflöck«.",
+   "by": "agent:exo027",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:tent_of_meeting",
+   "kind": "formula",
+   "value": "ds Zält vo der Begägnig",
+   "attested": "by-rule",
+   "words": [
+    "tent of meeting"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֹ֣הֶל",
+     "lemma": "אֹהֶל",
+     "ref": "EXO 27:21"
+    }
+   ],
+   "source": "אֹהֶל",
+   "evidence": [
+    {
+     "ref": "EXO 27:21",
+     "form": "Zält vo der Begägnig"
+    }
+   ],
+   "note": "אֹהֶל מוֹעֵד; Ort, wo Gott mit Mose »zämechunnt« (יָעַד, 25,22; 29,42-43). Überall gleich.",
+   "by": "agent:exo027",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8081_olive_oil",
+   "kind": "term",
+   "value": "luters Olivenöl us zerstossne Olive; d Lampe geng aazünte; füfzäche",
+   "attested": "by-rule",
+   "words": [
+    "pure oil of beaten olives"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שֶׁ֣מֶן",
+     "lemma": "שֶׁמֶן",
+     "ref": "EXO 27:20"
+    }
+   ],
+   "source": "שֶׁמֶן",
+   "evidence": [
+    {
+     "ref": "EXO 27:20",
+     "form": "luters Olivenöl"
+    }
+   ],
+   "note": "שֶׁמֶן זַיִת זָךְ כָּתִית; 27,20 = 3Mo 24,2. Zahl »füfzäche«.",
+   "by": "agent:exo027",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:priestly_garments",
+   "kind": "term",
+   "value": "heiligi Chleider zur Ehr und zur Zierd: Bruschtschild für ds Rächt, Efod, Mantel, gwobene Lybrock, Turban, Gurt; Schulterstück; Fassige; Chettemli, gflochteni Schnüer; Stirnblatt ‚Heilig für e HERR‘; Lybröck, Gurte, Chopfbünd, Underhose us Lyne",
+   "attested": "by-rule",
+   "words": [
+    "breastpiece",
+    "ephod",
+    "robe",
+    "tunic",
+    "turban",
+    "sash",
+    "shoulder pieces",
+    "settings",
+    "chains",
+    "plate",
+    "headbands",
+    "undergarments"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֹ֤שֶׁן",
+     "lemma": "חֹשֶׁן",
+     "ref": "EXO 28:4"
+    },
+    {
+     "lang": "hbo",
+     "form": "וְ",
+     "lemma": "וְ",
+     "ref": "EXO 28:4"
+    },
+    {
+     "lang": "hbo",
+     "form": "צִּ֖יץ",
+     "lemma": "צִיץ",
+     "ref": "EXO 28:36"
+    }
+   ],
+   "source": "חֹשֶׁן",
+   "evidence": [
+    {
+     "ref": "EXO 28:4",
+     "form": "es Bruschtschild"
+    },
+    {
+     "ref": "EXO 28:4",
+     "form": "es Efod"
+    },
+    {
+     "ref": "EXO 28:36",
+     "form": "Stirnblatt"
+    }
+   ],
+   "note": "2Mo 28 (= 39): חֹשֶׁן מִשְׁפָּט »Bruschtschild für ds Rächt«, אֵפוֹד »Efod«, מְעִיל »Mantel«, כְּתֹנֶת תַּשְׁבֵּץ »gwobene Lybrock«, מִצְנֶפֶת »Turban«, אַבְנֵט »Gurt«, כְּתֵפֹת »Schulterstück«, מִשְׁבְּצֹת »Fassige«, שַׁרְשְׁרֹת »Chettemli«, צִיץ »Stirnblatt«, מִגְבָּעֹת »Chopfbünd«, מִכְנְסֵי־בָד »Underhose us Lyne«; Granatöpfel und guldigi Glöggli am Saum; Urim und Tummim; mit ds Amt übergä (מִלֵּא יָד).",
+   "by": "agent:exo028",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:breastpiece_stones",
+   "kind": "term",
+   "value": "Sardis, Topas, Smaragd; Türkis, Saphir, Diamant; Hyazinth, Achat, Amethyst; Chrysolith, Onyx, Jaspis; Onyxsteine; wi me Siegel graviert (Steischnyder)",
+   "attested": "attested",
+   "words": [
+    "carnelian",
+    "topaz",
+    "emerald",
+    "turquoise",
+    "sapphire",
+    "diamond",
+    "jacinth",
+    "agate",
+    "amethyst",
+    "beryl",
+    "onyx",
+    "jasper"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֹ֤דֶם",
+     "lemma": "אֹדֶם",
+     "ref": "EXO 28:17"
+    },
+    {
+     "lang": "hbo",
+     "form": "יָשְׁפֵ֑ה",
+     "lemma": "יָשְׁפֶה",
+     "ref": "EXO 28:20"
+    }
+   ],
+   "source": "אֹדֶם",
+   "evidence": [
+    {
+     "ref": "REV 21:20",
+     "form": "Topas"
+    },
+    {
+     "ref": "REV 21:19",
+     "form": "Jaspis"
+    },
+    {
+     "ref": "REV 21:20",
+     "form": "Amethyst"
+    }
+   ],
+   "note": "Steinnamen wo möglich nach Offb 21,19-20 (Bietenhard: Sardis, Topas, Smaragd, Saphir, Hyazinth, Amethyst, Chrysolith, Jaspis); Türkis, Diamant, Achat, Onyx neu. Bestimmung der Steine unsicher (Fussnote). Kap. 39 gleich.",
+   "by": "agent:exo028",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex28_misc",
+   "kind": "term",
+   "value": "verstöh; aagmacht; zämeghebt; kunschtvoll; bifestige; ygraviere; bsetze; entspräche; abrütscht; Loch, Saum, Panzerchleid, verrysst; Klang; usechunnt; webe; Blössi; Oberschänkel; ynegöh; trätte; blaue Schnuer; vierti; Glöggli; Granatapfel, Granatöpfel; Spanne; Steischnyder; gflochtene; Fassig; Urim und Tummim; bimene",
+   "attested": "by-rule",
+   "words": [
+    "skilled",
+    "engrave",
+    "fasten",
+    "attach"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פִּתּוּחֵ֣י",
+     "lemma": "פִּתּוּחַ",
+     "ref": "EXO 28:11"
+    }
+   ],
+   "source": "פִּתּוּחַ",
+   "evidence": [
+    {
+     "ref": "EXO 28:9",
+     "form": "druf ygraviere"
+    }
+   ],
+   "note": "Wortformen aus 2Mo 28.",
+   "by": "agent:exo028",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4394_ordination",
+   "kind": "term",
+   "value": "der Widder vo der Amtsyysetzig; ds Amt übergä (מִלֵּא יָד)",
+   "attested": "by-rule",
+   "words": [
+    "ordination",
+    "ram of ordination"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִלֻּאִ֖ים",
+     "lemma": "מִלֻּאִים",
+     "ref": "EXO 29:22"
+    }
+   ],
+   "source": "מִלֻּאִים",
+   "evidence": [
+    {
+     "ref": "EXO 29:22",
+     "form": "vo der Amtsyysetzig"
+    }
+   ],
+   "note": "מִלֻּאִים »Amtsyysetzig«; מִלֵּא יָד »ds Amt übergä« (Fussnote: d Hand fülle). 3Mo 8 gleich.",
+   "by": "agent:exo029",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:offering_kinds",
+   "kind": "term",
+   "value": "Sündopfer; Brandopfer; Füüropfer; Schwingopfer (hin und här schwinge); Abgab; Speisopfer; Trankopfer; ds täglech Brandopfer; e feine Duft für e HERR; in Rouch la ufgah",
+   "attested": "by-rule",
+   "words": [
+    "sin offering",
+    "burnt offering",
+    "offering made by fire",
+    "wave offering",
+    "contribution",
+    "grain offering",
+    "drink offering"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַטָּ֖את",
+     "lemma": "חַטָּאת",
+     "ref": "EXO 29:14"
+    },
+    {
+     "lang": "hbo",
+     "form": "אִשֶּׁ֥ה",
+     "lemma": "אִשֶּׁה",
+     "ref": "EXO 29:18"
+    },
+    {
+     "lang": "hbo",
+     "form": "תְּנוּפָ֖ה",
+     "lemma": "תְּנוּפָה",
+     "ref": "EXO 29:24"
+    },
+    {
+     "lang": "hbo",
+     "form": "תְּרוּמָ֔ה",
+     "lemma": "תְּרוּמָה",
+     "ref": "EXO 29:27"
+    },
+    {
+     "lang": "hbo",
+     "form": "מִנְחַ֨ת",
+     "lemma": "מִנְחָה",
+     "ref": "EXO 29:41"
+    },
+    {
+     "lang": "hbo",
+     "form": "נִסְכָּ",
+     "lemma": "נֶסֶךְ",
+     "ref": "EXO 29:41"
+    }
+   ],
+   "source": "חַטָּאת",
+   "evidence": [
+    {
+     "ref": "EXO 29:14",
+     "form": "es Sündopfer"
+    },
+    {
+     "ref": "EXO 29:18",
+     "form": "es Füüropfer"
+    },
+    {
+     "ref": "EXO 29:24",
+     "form": "als Schwingopfer"
+    }
+   ],
+   "note": "Opferarten für 2.-5. Mose: חַטָּאת »Sündopfer« (Korpus), עֹלָה »Brandopfer«, אִשֶּׁה »Füüropfer«, תְּנוּפָה »Schwingopfer«, תְּרוּמָה im Opferkontext »Abgab« (25,2 »Gab« für die Spende), מִנְחָה »Speisopfer«, נֶסֶךְ »Trankopfer«; רֵיחַ נִיחֹחַ »e feine Duft« (term:rech_nichoach); הִקְטִיר »in Rouch la ufgah«.",
+   "by": "agent:exo029",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3722_atone",
+   "kind": "term",
+   "value": "Sühne schaffe; d Sühne",
+   "attested": "by-rule",
+   "words": [
+    "make atonement",
+    "atonement"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כַפֶּרְ",
+     "lemma": "כִּפֶּר",
+     "ref": "EXO 29:36"
+    },
+    {
+     "lang": "hbo",
+     "form": "כִּפֻּרִ֔ים",
+     "lemma": "כִּפֻּרִים",
+     "ref": "EXO 29:36"
+    }
+   ],
+   "source": "כִּפֶּר",
+   "evidence": [
+    {
+     "ref": "EXO 29:37",
+     "form": "Sühne schaffe"
+    }
+   ],
+   "note": "כִּפֶּר im Opferkult »Sühne schaffe (für)«; Bietenhard umschreibt Hebr 2,17 »für d Sünde gradstah«. כֹּפֶר bleibt »Lösgäld« (21,30).",
+   "by": "agent:exo029",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex29_misc",
+   "kind": "term",
+   "value": "Widder; ungsüürti Fladebrot; dünni Fläde, mit Öl bestriche; fyns Wizemähl; Lappe vo der Läbere; Niere; Fettschwanz; rächti Keule; Ohrläppli, Duume, di grossi Zeche; Hut, Mischt; Laib; Salböl, gröis, salb; zerlege; sprütze; hochheilig; jährigi Lämmer; es Zächtel Efa; es Viertel Hin; zuesteit; nachfolgt; ynechunnt; umbinde; strych; bind; gschwunge; schaffsch; zerstossnem; täglech",
+   "attested": "by-rule",
+   "words": [
+    "fine wheat flour",
+    "wafers",
+    "lobe of the liver",
+    "fat tail",
+    "thigh",
+    "ear lobe",
+    "big toe"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סֹ֥לֶת",
+     "lemma": "סֹלֶת",
+     "ref": "EXO 29:2"
+    },
+    {
+     "lang": "hbo",
+     "form": "אַלְיָ֜ה",
+     "lemma": "אַלְיָה",
+     "ref": "EXO 29:22"
+    }
+   ],
+   "source": "סֹלֶת",
+   "evidence": [
+    {
+     "ref": "EXO 29:2",
+     "form": "fynem Wizemähl"
+    },
+    {
+     "ref": "EXO 29:22",
+     "form": "der Fettschwanz"
+    }
+   ],
+   "note": "Wortformen aus 2Mo 29; für 3Mo gleich halten.",
+   "by": "agent:exo029",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex29_imper",
+   "kind": "term",
+   "value": "schwing; sprütz; e dünne Flade",
+   "attested": "by-rule",
+   "words": [
+    "wave",
+    "bind",
+    "sprinkle",
+    "wafer"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הֵנַפְתָּ֥",
+     "lemma": "נוּף",
+     "ref": "EXO 29:24"
+    }
+   ],
+   "source": "נוּף",
+   "evidence": [
+    {
+     "ref": "EXO 29:24",
+     "form": "schwing ’s"
+    }
+   ],
+   "note": "Imperative und Einzahl aus 2Mo 29.",
+   "by": "agent:exo029",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7004_incense",
+   "kind": "term",
+   "value": "ds Röucherwärch (wohlriechends); röuchere; der Rouchopferaltar",
+   "attested": "attested",
+   "words": [
+    "incense",
+    "altar of incense",
+    "burn incense"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קְטֹ֑רֶת",
+     "lemma": "קְטֹרֶת",
+     "ref": "EXO 30:1"
+    },
+    {
+     "lang": "hbo",
+     "form": "הִקְטִ֥יר",
+     "lemma": "קָטַר",
+     "ref": "EXO 30:7"
+    }
+   ],
+   "source": "קְטֹרֶת",
+   "evidence": [
+    {
+     "ref": "LUK 1:11",
+     "form": "Rouchopferaltar"
+    },
+    {
+     "ref": "REV 8:3",
+     "form": "für z röuchere"
+    },
+    {
+     "ref": "EXO 30:1",
+     "form": "ds Röucherwärch"
+    }
+   ],
+   "note": "מִזְבַּח הַקְּטֹרֶת »Rouchopferaltar« (Lk 1,11; Offb 8,3), עֹלָה-Altar »Brandopferaltar«; קְטֹרֶת (סַמִּים) »(wohlriechends) Röucherwärch« (25,6), הִקְטִיר hier »röuchere«; לְבֹנָה »Weihrouch« (Korpus).",
+   "by": "agent:exo030",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3724_ransom_census",
+   "kind": "term",
+   "value": "es Lösgäld für sys Läbe; e halbe Schekel nach em Schekel vom Heiligtum; zwänzg Gera; d Gmusterete; d Zahl ufnäh",
+   "attested": "by-rule",
+   "words": [
+    "ransom",
+    "census",
+    "half shekel",
+    "gerahs"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כֹּ֧פֶר",
+     "lemma": "כֹּפֶר",
+     "ref": "EXO 30:12"
+    },
+    {
+     "lang": "hbo",
+     "form": "שֶּׁ֖קֶל",
+     "lemma": "שֶׁקֶל",
+     "ref": "EXO 30:13"
+    },
+    {
+     "lang": "hbo",
+     "form": "גֵּרָה֙",
+     "lemma": "גֵּרָה",
+     "ref": "EXO 30:13"
+    }
+   ],
+   "source": "כֹּפֶר",
+   "evidence": [
+    {
+     "ref": "EXO 30:12",
+     "form": "es Lösgäld"
+    },
+    {
+     "ref": "EXO 30:13",
+     "form": "e halbe Schekel"
+    }
+   ],
+   "note": "כֹּפֶר wie 21,30 »Lösgäld«; כֶּסֶף הַכִּפֻּרִים »ds Lösgäld« (30,16); פָּקַד »muschtere« (4Mo gleich).",
+   "by": "agent:exo030",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:anointing_oil_spices",
+   "kind": "term",
+   "value": "ds heilige Salböl; flüssigi Myrrhe, wohlriechende Zimet, wohlriechends Gwürzrohr, Kassia; Salbimischer; Staktetropfe, Röuchermuschle, Galbanum, lutere Weihrouch; gsalze; Rezäpt",
+   "attested": "by-rule",
+   "words": [
+    "anointing oil",
+    "myrrh",
+    "cinnamon",
+    "cane",
+    "cassia",
+    "stacte",
+    "onycha",
+    "galbanum",
+    "frankincense",
+    "perfumer"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שֶׁ֚מֶן",
+     "lemma": "שֶׁמֶן",
+     "ref": "EXO 30:25"
+    },
+    {
+     "lang": "hbo",
+     "form": "מָר",
+     "lemma": "מֹר",
+     "ref": "EXO 30:23"
+    },
+    {
+     "lang": "hbo",
+     "form": "לְבֹנָ֣ה",
+     "lemma": "לְבֹנָה",
+     "ref": "EXO 30:34"
+    }
+   ],
+   "source": "שֶׁמֶן",
+   "evidence": [
+    {
+     "ref": "EXO 30:23",
+     "form": "flüssigi Myrrhe"
+    },
+    {
+     "ref": "EXO 30:34",
+     "form": "lutere Weihrouch"
+    }
+   ],
+   "note": "Myrrhe, Zimet, Weihrouch, Balsam im Korpus; נָטָף »Staktetropfe«, שְׁחֵלֶת »Röuchermuschle«, חֶלְבְּנָה »Galbanum« (Bestimmung unsicher). Kap. 37,29 gleich.",
+   "by": "agent:exo030",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex30_misc",
+   "kind": "term",
+   "value": "Grät; Gstell; Becki us Bronze; zämechume; eimal im Jahr; Oberflächi; aazündet; frömds Röucherwärch; ufnimmsch; gmusteret; zwöihundertfüfzg; Brandopferaltar; fyn verstosse",
+   "attested": "by-rule",
+   "words": [
+    "basin",
+    "stand",
+    "utensils"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כִּיּ֥וֹר",
+     "lemma": "כִּיֹּור",
+     "ref": "EXO 30:18"
+    }
+   ],
+   "source": "כִּיֹּור",
+   "evidence": [
+    {
+     "ref": "EXO 30:18",
+     "form": "es Becki us Bronze"
+    }
+   ],
+   "note": "כִּיּוֹר »Becki« (Korpus: Becki), כֵּן »Gstell«; כֵּלִים »Grät« (sonst »Grätschafte«).",
+   "by": "agent:exo030",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:bezalel",
+   "kind": "name",
+   "value": "Bezalel",
+   "attested": "by-rule",
+   "words": [
+    "bezalel"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בְּצַלְאֵ֛ל",
+     "lemma": "בְּצַלְאֵל",
+     "ref": "EXO 31:2"
+    }
+   ],
+   "source": "בְּצַלְאֵל",
+   "evidence": [
+    {
+     "ref": "EXO 31:2",
+     "form": "der Bezalel"
+    }
+   ],
+   "note": "Suhn vom Uri, em Suhn vom Hur, us em Stamm Juda.",
+   "by": "agent:exo031",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:uri",
+   "kind": "name",
+   "value": "Uri",
+   "attested": "by-rule",
+   "words": [
+    "uri"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אוּרִ֥י",
+     "lemma": "אוּרִי",
+     "ref": "EXO 31:2"
+    }
+   ],
+   "source": "אוּרִי",
+   "evidence": [
+    {
+     "ref": "EXO 31:2",
+     "form": "vom Uri"
+    }
+   ],
+   "note": "Vater Bezalels.",
+   "by": "agent:exo031",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:oholiab",
+   "kind": "name",
+   "value": "Oholiab",
+   "attested": "by-rule",
+   "words": [
+    "oholiab"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אָהֳלִיאָ֞ב",
+     "lemma": "אׇהֳלִיאָב",
+     "ref": "EXO 31:6"
+    }
+   ],
+   "source": "אׇהֳלִיאָב",
+   "evidence": [
+    {
+     "ref": "EXO 31:6",
+     "form": "der Oholiab"
+    }
+   ],
+   "note": "Suhn vom Ahisamach, us em Stamm Dan.",
+   "by": "agent:exo031",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ahisamach",
+   "kind": "name",
+   "value": "Ahisamach",
+   "attested": "by-rule",
+   "words": [
+    "ahisamach"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲחִֽיסָמָךְ֙",
+     "lemma": "אֲחִיסָמָךְ",
+     "ref": "EXO 31:6"
+    }
+   ],
+   "source": "אֲחִיסָמָךְ",
+   "evidence": [
+    {
+     "ref": "EXO 31:6",
+     "form": "vom Ahisamach"
+    }
+   ],
+   "note": "Vater Oholiabs.",
+   "by": "agent:exo031",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:sabbath_sign",
+   "kind": "term",
+   "value": "Myni Sabbate söllet dihr halte, denn si sy es Zeiche zwüsche mir und öich; Sabbat, e Ruetag, heilig für e HERR; entheiliget; dä söll tödt wärde; am sibete Tag het er grueit und isch wider zu Aate cho",
+   "attested": "by-rule",
+   "words": [
+    "sabbaths",
+    "sign",
+    "solemn rest",
+    "profane"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שַׁבְּתֹתַ֖",
+     "lemma": "שַׁבָּת",
+     "ref": "EXO 31:13"
+    },
+    {
+     "lang": "hbo",
+     "form": "שַׁבָּת֛וֹן",
+     "lemma": "שַׁבָּתוֹן",
+     "ref": "EXO 31:15"
+    },
+    {
+     "lang": "hbo",
+     "form": "יִּנָּפַֽשׁ",
+     "lemma": "נָפַשׁ",
+     "ref": "EXO 31:17"
+    }
+   ],
+   "source": "שַׁבָּת",
+   "evidence": [
+    {
+     "ref": "EXO 31:15",
+     "form": "e Ruetag"
+    },
+    {
+     "ref": "EXO 31:17",
+     "form": "zu Aate cho"
+    }
+   ],
+   "note": "שַׁבָּתוֹן »Ruetag« wie 16,23; חִלֵּל »entheilige«; וַיִּנָּפַשׁ »isch wider zu Aate cho«. 35,2 gleich.",
+   "by": "agent:exo031",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex31_misc",
+   "kind": "term",
+   "value": "Kunschtwärch entwärfe; Steine schnyde und yzfasse; Holz schnitze; gschickte Lüt; heiliget; gschribe mit em Finger vo Gott",
+   "attested": "by-rule",
+   "words": [
+    "artistic designs",
+    "skilled",
+    "finger of god"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶצְבַּ֥ע",
+     "lemma": "אֶצְבַּע",
+     "ref": "EXO 31:18"
+    }
+   ],
+   "source": "אֶצְבַּע",
+   "evidence": [
+    {
+     "ref": "EXO 31:18",
+     "form": "Finger vo Gott"
+    }
+   ],
+   "note": "31,3 = 35,31: »mit em Geischt vo Gott erfüllt, mit Wysheit, Verstand und Wüsse«; 31,18 »Finger vo Gott« (vgl. Lk 11,20).",
+   "by": "agent:exo031",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:golden_calf_gods",
+   "kind": "formula",
+   "value": "Mach üüs Götter, won is vorab gange",
+   "attested": "attested",
+   "words": [
+    "make us gods who will go before us"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֱלֹהִ֗ים",
+     "lemma": "אֱלֹהִים",
+     "ref": "EXO 32:1"
+    }
+   ],
+   "source": "אֱלֹהִים",
+   "evidence": [
+    {
+     "ref": "ACT 7:40",
+     "form": "Mach üüs Götter"
+    }
+   ],
+   "note": "2Mo 32,1.23 im ganzen Satz nach Apg 7,40 (Bietenhard), samt »wüsse mer ja nid, was mit ihm passiert isch«; »us Ägypte« für מֵאֶרֶץ מִצְרַיִם wie dort.",
+   "by": "agent:exo032",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ex32_6",
+   "kind": "formula",
+   "value": "Ds Volk isch abgsässe für z ässe und z trinke, und si sy ufgstande für umeztanze.",
+   "attested": "attested",
+   "words": [
+    "sat down to eat and drink, and rose up to play"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צַחֵֽק",
+     "lemma": "צָחַק",
+     "ref": "EXO 32:6"
+    }
+   ],
+   "source": "צָחַק",
+   "evidence": [
+    {
+     "ref": "1CO 10:7",
+     "form": "abgsässe für z ässe"
+    },
+    {
+     "ref": "1CO 10:7",
+     "form": "umeztanze"
+    }
+   ],
+   "note": "Nach 1Kor 10,7; Bietenhards Zusatz »um ds guldige Chalb« ist Deutung und steht nicht im Hebräischen, darum weggelassen.",
+   "by": "agent:exo032",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:golden_calf",
+   "kind": "term",
+   "value": "es gossnigs Chalb; guldigi Ohrering; mit em Meissel gformt; Das sy dyni Götter, Israel",
+   "attested": "attested",
+   "words": [
+    "molten calf",
+    "earrings"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֵ֣גֶל",
+     "lemma": "עֵגֶל",
+     "ref": "EXO 32:4"
+    },
+    {
+     "lang": "hbo",
+     "form": "מַסֵּכָ֑ה",
+     "lemma": "מַסֵּכָה",
+     "ref": "EXO 32:4"
+    }
+   ],
+   "source": "עֵגֶל",
+   "evidence": [
+    {
+     "ref": "EXO 32:4",
+     "form": "es gossnigs Chalb"
+    },
+    {
+     "ref": "ACT 7:41",
+     "form": "es Chalb"
+    }
+   ],
+   "note": "עֵגֶל מַסֵּכָה »gossnigs Chalb« (Korpus Chalb, Apg 7,41); נֶזֶם »Ohrering«; חֶרֶט »Meissel«.",
+   "by": "agent:exo032",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5162_relent",
+   "kind": "term",
+   "value": "’s het der HERR groue wäge däm Übel; la di ’s groue",
+   "attested": "by-rule",
+   "words": [
+    "relent",
+    "repent"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הִנָּחֵ֥ם",
+     "lemma": "נָחַם",
+     "ref": "EXO 32:12"
+    }
+   ],
+   "source": "נָחַם",
+   "evidence": [
+    {
+     "ref": "EXO 32:14",
+     "form": "der HERR groue"
+    }
+   ],
+   "note": "נִחַם עַל־הָרָעָה »’s het ne groue wäge däm Übel«; רָעָה hier »Übel« (Korpus), nicht »Unglück«.",
+   "by": "agent:exo032",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:stiff_necked",
+   "kind": "term",
+   "value": "es Volk mit herte Chöpf",
+   "attested": "attested",
+   "words": [
+    "stiff-necked people"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קְשֵׁה",
+     "lemma": "קָשֶׁה",
+     "ref": "EXO 32:9"
+    }
+   ],
+   "source": "קָשֶׁה",
+   "evidence": [
+    {
+     "ref": "ACT 7:51",
+     "form": "herti Chöpf"
+    }
+   ],
+   "note": "קְשֵׁה־עֹרֶף nach Apg 7,51 »herti Chöpf«; 33,3.5; 34,9 gleich.",
+   "by": "agent:exo032",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:book_blot",
+   "kind": "term",
+   "value": "lösch mi us dym Buech us; dä lösche i us mym Buech us",
+   "attested": "attested",
+   "words": [
+    "blot me out of your book"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְחֵ֣",
+     "lemma": "מָחָה",
+     "ref": "EXO 32:32"
+    }
+   ],
+   "source": "מָחָה",
+   "evidence": [
+    {
+     "ref": "REV 3:5",
+     "form": "uslösche us em Buech"
+    }
+   ],
+   "note": "Vgl. Offb 3,5 (Buech vom Läbe).",
+   "by": "agent:exo032",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex32_misc",
+   "kind": "term",
+   "value": "zämegläse; abechunnt; darbracht; abgwiche; aagfleht; mit starcher Hand; zahlrych; aadröit; bschribe; ygraviert; Sieggschrei; Niderlag; zermahle; zum Böse neigt; la verwildere; usser Rand und Band; gweiht; villicht; Wuet; Gspött",
+   "attested": "by-rule",
+   "words": [
+    "implored",
+    "engraved",
+    "victory",
+    "defeat"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְחַ֣ל",
+     "lemma": "חָלָה",
+     "ref": "EXO 32:11"
+    }
+   ],
+   "source": "חָלָה",
+   "evidence": [
+    {
+     "ref": "EXO 32:11",
+     "form": "aagfleht"
+    }
+   ],
+   "note": "Wortformen aus 2Mo 32; אַף »toub wärde« (store), »Wuet« (Korpus).",
+   "by": "agent:exo032",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:nun",
+   "kind": "name",
+   "value": "Nun",
+   "attested": "by-rule",
+   "words": [
+    "nun"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נוּן֙",
+     "lemma": "נוּן",
+     "ref": "EXO 33:11"
+    }
+   ],
+   "source": "נוּן",
+   "evidence": [
+    {
+     "ref": "EXO 33:11",
+     "form": "vom Nun"
+    }
+   ],
+   "note": "Josua, der Suhn vom Nun.",
+   "by": "agent:exo033",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ex33_19",
+   "kind": "formula",
+   "value": "I zeige däm Erbarme, won i Erbarme mit ihm ha",
+   "attested": "attested",
+   "words": [
+    "i will have mercy on whom i have mercy"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רִחַמְתִּ֖י",
+     "lemma": "רָחַם",
+     "ref": "EXO 33:19"
+    }
+   ],
+   "source": "רָחַם",
+   "evidence": [
+    {
+     "ref": "ROM 9:15",
+     "form": "I zeige däm Erbarme"
+    }
+   ],
+   "note": "33,19 nach Röm 9,15 (Bietenhard): חָנַן »Erbarme zeige«, רִחַם »Mitlyde zeige« (Reihenfolge wie dort).",
+   "by": "agent:exo033",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6440_presence",
+   "kind": "term",
+   "value": "my Gsicht geit mit; vo Gsicht zu Gsicht; my Rügge",
+   "attested": "by-rule",
+   "words": [
+    "presence",
+    "face to face"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פָּנַ֥",
+     "lemma": "פָּנֶה",
+     "ref": "EXO 33:14"
+    }
+   ],
+   "source": "פָּנֶה",
+   "evidence": [
+    {
+     "ref": "EXO 33:11",
+     "form": "vo Gsicht zu Gsicht"
+    },
+    {
+     "ref": "EXO 33:14",
+     "form": "My Gsicht geit"
+    }
+   ],
+   "note": "פָּנַי יֵלֵכוּ wörtlich »my Gsicht geit mit« (Fussnote: i sälber); Korpus hat »Gsicht«, nicht »Agsicht«.",
+   "by": "agent:exo033",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex33_misc",
+   "kind": "term",
+   "value": "Schmuck; tilge; jewyle; nachegluegt; mitgeit; verbyzie, verbyzieht; Felsspalte; vo Gsicht zu Gsicht; Rue gä",
+   "attested": "by-rule",
+   "words": [
+    "ornaments",
+    "cleft of the rock"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֶדְי֖",
+     "lemma": "עֲדִי",
+     "ref": "EXO 33:4"
+    },
+    {
+     "lang": "hbo",
+     "form": "נִקְרַ֣ת",
+     "lemma": "נְקָרָה",
+     "ref": "EXO 33:22"
+    }
+   ],
+   "source": "עֲדִי",
+   "evidence": [
+    {
+     "ref": "EXO 33:4",
+     "form": "sy Schmuck"
+    },
+    {
+     "ref": "EXO 33:22",
+     "form": "Felsspalte"
+    }
+   ],
+   "note": "Wortformen aus 2Mo 33.",
+   "by": "agent:exo033",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ex34_6_7",
+   "kind": "formula",
+   "value": "Der HERR, der HERR, e Gott, wo barmhärzig und gnädig isch, voll Geduld und rych a Tröiji und Wahrheit",
+   "attested": "by-rule",
+   "words": [
+    "merciful and gracious, slow to anger"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רַח֖וּם",
+     "lemma": "רַחוּם",
+     "ref": "EXO 34:6"
+    },
+    {
+     "lang": "hbo",
+     "form": "חַנּ֑וּן",
+     "lemma": "חַנּוּן",
+     "ref": "EXO 34:6"
+    }
+   ],
+   "source": "רַחוּם",
+   "evidence": [
+    {
+     "ref": "EXO 34:6",
+     "form": "barmhärzig und gnädig"
+    }
+   ],
+   "note": "Gleich wie Ps 86,15 (Psalmenrun); 34,7 »Tröiji bewahrt bis is tuusigschte Glid … i strafe d Schuld vo de Vätter a de Chinder« wie 20,5-6. Für 4Mo 14,18; Joel 2,13; Jona 4,2; Ps 103,8; 145,8 gleich halten.",
+   "by": "agent:exo034",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:moses_face_shone",
+   "kind": "term",
+   "value": "d Hut vo sym Gsicht het glänzt; es Tuech uf sys Gsicht lege",
+   "attested": "attested",
+   "words": [
+    "skin of his face shone",
+    "veil"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קָרַ֛ן",
+     "lemma": "קָרַן",
+     "ref": "EXO 34:29"
+    },
+    {
+     "lang": "hbo",
+     "form": "מַסְוֶֽה",
+     "lemma": "מַסְוֶה",
+     "ref": "EXO 34:33"
+    }
+   ],
+   "source": "קָרַן",
+   "evidence": [
+    {
+     "ref": "2CO 3:13",
+     "form": "nes Tuech"
+    },
+    {
+     "ref": "2CO 3:7",
+     "form": "Glanz"
+    }
+   ],
+   "note": "מַסְוֶה »Tuech« nach 2Kor 3,13; קָרַן »glänze« (2Kor 3,7 »Glanz«).",
+   "by": "agent:exo034",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex34_misc",
+   "kind": "term",
+   "value": "zueghoue, Hou dir … zue; verbyzoge; schliessisch, schliess (Bund); ychunnsch; Ascherapfähl; gossnige Götter; Pflüegen; Wuchefescht; ufegeisch; hinder irne Götter här ga huere; Änkel",
+   "attested": "by-rule",
+   "words": [
+    "asherah poles",
+    "feast of weeks",
+    "prostitute"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲשֵׁרָ֖י",
+     "lemma": "אֲשֵׁרָה",
+     "ref": "EXO 34:13"
+    },
+    {
+     "lang": "hbo",
+     "form": "שָׁבֻעֹת֙",
+     "lemma": "שָׁבוּעַ",
+     "ref": "EXO 34:22"
+    },
+    {
+     "lang": "hbo",
+     "form": "זָנ֣וּ",
+     "lemma": "זָנָה",
+     "ref": "EXO 34:15"
+    }
+   ],
+   "source": "אֲשֵׁרָה",
+   "evidence": [
+    {
+     "ref": "EXO 34:13",
+     "form": "iri Ascherapfähl"
+    },
+    {
+     "ref": "EXO 34:22",
+     "form": "Ds Wuchefescht"
+    }
+   ],
+   "note": "34,18-26 nach 23,12-19 (gleiche Worte); אֲשֵׁרִים »Ascherapfähl«; זָנָה אַחֲרֵי »hinder … här ga huere«; קַנָּא שְׁמוֹ »heisst ‚Yfersüchtig‘«.",
+   "by": "agent:exo034",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex35_gifts",
+   "kind": "term",
+   "value": "Brosche, Ohrering, Fingerring und Halsschmuck, allergattig guldige Schmuck; e freiwilligi Gab; gsponne, ds Gsponnene; mit Gschick; kunschtvolli Arbeit; Steischnyder, Kunschtwäber, Buntwäber, Wäber",
+   "attested": "by-rule",
+   "words": [
+    "brooches",
+    "signet rings",
+    "freewill offering",
+    "spun",
+    "weaver"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חָ֣ח",
+     "lemma": "חַח",
+     "ref": "EXO 35:22"
+    },
+    {
+     "lang": "hbo",
+     "form": "נְדָבָ֖ה",
+     "lemma": "נְדָבָה",
+     "ref": "EXO 35:29"
+    },
+    {
+     "lang": "hbo",
+     "form": "אֹרֵ֑ג",
+     "lemma": "אָרַג",
+     "ref": "EXO 35:35"
+    }
+   ],
+   "source": "חַח",
+   "evidence": [
+    {
+     "ref": "EXO 35:22",
+     "form": "Brosche"
+    },
+    {
+     "ref": "EXO 35:29",
+     "form": "e freiwilligi Gab"
+    }
+   ],
+   "note": "35,5-9 Materialliste wörtlich wie 25,3-7; 35,10-19 Teile wie 25-31; 35,30-35 wie 31,1-6. נְדָבָה »freiwilligi Gab« (36,3 gleich); חָרָשׁ »Steischnyder«, חֹשֵׁב »Kunschtwäber«, רֹקֵם »Buntwäber«, אֹרֵג »Wäber«.",
+   "by": "agent:exo035",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex36_misc",
+   "kind": "term",
+   "value": "Handwärker; ds Züüg; meh als gnue; zämezfüege; düregangen; gosse; me het … gmacht; usegange",
+   "attested": "by-rule",
+   "words": [
+    "craftsmen",
+    "material",
+    "more than enough"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְּלָאכָ֗ה",
+     "lemma": "מְלָאכָה",
+     "ref": "EXO 36:7"
+    }
+   ],
+   "source": "מְלָאכָה",
+   "evidence": [
+    {
+     "ref": "EXO 36:7",
+     "form": "ds Material"
+    }
+   ],
+   "note": "36,8-38 wörtlich nach 26,1-37, 37 nach 25,10-39 und 30,1-5.25.35, 38 nach 27 und 30,18, 39 nach 28, alles in der Vergangenheit; Subjekt 3ms in 36 unpersönlich »me het … gmacht«, ab 37,1 »er« (Bezalel).",
+   "by": "agent:exo036",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex38_inventory",
+   "kind": "term",
+   "value": "d Uflischtig vo der Wohnig vom Zügnis; under der Leitig vom Itamar; bbrucht; ds Guld vo der Abgab; nüünezwänzg Talänt und sibehundertdryssg Schekel; tuusigsibehundertfüfesibezg Schekel; e Beka uf e Chopf; sächshundertdrütuusigfüfhundertfüfzg Manne; zwöituusigvierhundert Schekel; bronzige; Spiegel vo de Froue",
+   "attested": "by-rule",
+   "words": [
+    "records",
+    "beka",
+    "talents",
+    "mirrors"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פְקוּדֵ֤י",
+     "lemma": "פקד",
+     "ref": "EXO 38:21"
+    },
+    {
+     "lang": "hbo",
+     "form": "בֶּ֚קַע",
+     "lemma": "בֶּקַע",
+     "ref": "EXO 38:26"
+    },
+    {
+     "lang": "hbo",
+     "form": "מַרְאֹת֙",
+     "lemma": "מַרְאָה",
+     "ref": "EXO 38:8"
+    }
+   ],
+   "source": "פקד",
+   "evidence": [
+    {
+     "ref": "EXO 38:21",
+     "form": "d Uflischtig"
+    },
+    {
+     "ref": "EXO 38:26",
+     "form": "e Beka"
+    }
+   ],
+   "note": "38,1-7 nach 27,1-8, 38,8 nach 30,18, 38,9-20 nach 27,9-19; Zahlen als ein Wort ausgeschrieben (Talänt im Korpus). תְּנוּפָה hier »Abgab« (Gaben-Summe), sonst »Schwingopfer«.",
+   "by": "agent:exo038",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:as_commanded_moses",
+   "kind": "formula",
+   "value": "wi der HERR em Mose befole het; genau so hei si ’s gmacht",
+   "attested": "by-rule",
+   "words": [
+    "as the lord had commanded moses"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צִוָּ֥ה",
+     "lemma": "צָוָה",
+     "ref": "EXO 39:1"
+    }
+   ],
+   "source": "צָוָה",
+   "evidence": [
+    {
+     "ref": "EXO 39:1",
+     "form": "em Mose befole het"
+    }
+   ],
+   "note": "Kehrvers 39,1.5.7.21.26.29.31.32.42.43 und 40,19-32; »genau so hei si ’s gmacht« (כֵּן עָשׂוּ) wie 7,6; 12,28.50.",
+   "by": "agent:exo039",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex39_misc",
+   "kind": "term",
+   "value": "gwobeni Chleider; ds Guld zu dünne Blech gschlage; Fäde gschnitte; verwebe; entsproche; bifestigt; bunde; zwirnet; d Inschrift",
+   "attested": "by-rule",
+   "words": [
+    "thin sheets",
+    "threads",
+    "woven"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פַּחֵ֣י",
+     "lemma": "פַּח",
+     "ref": "EXO 39:3"
+    },
+    {
+     "lang": "hbo",
+     "form": "פְּתִילִם֒",
+     "lemma": "פָּתִיל",
+     "ref": "EXO 39:3"
+    }
+   ],
+   "source": "פַּח",
+   "evidence": [
+    {
+     "ref": "EXO 39:3",
+     "form": "dünne Blech"
+    },
+    {
+     "ref": "EXO 39:3",
+     "form": "Fäde"
+    }
+   ],
+   "note": "39,2-31 nach 28,6-39 in der Vergangenheit; 3cp »si hei«, 3ms »er« (Bezalel).",
+   "by": "agent:exo039",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ex40_setup",
+   "kind": "term",
+   "value": "d Wohnig ufstelle; gröuchert; ufghänkt; d Wulche het ds Zält zuedeckt; d Herrlechkeit vom HERR het d Wohnig erfüllt; ufbroche uf all irne Reise",
+   "attested": "by-rule",
+   "words": [
+    "set up",
+    "cloud",
+    "glory",
+    "journeys"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תָּקִ֕ים",
+     "lemma": "קוּם",
+     "ref": "EXO 40:2"
+    },
+    {
+     "lang": "hbo",
+     "form": "עָנָ֖ן",
+     "lemma": "עָנָן",
+     "ref": "EXO 40:34"
+    },
+    {
+     "lang": "hbo",
+     "form": "כְב֣וֹד",
+     "lemma": "כָּבוֹד",
+     "ref": "EXO 40:34"
+    }
+   ],
+   "source": "קוּם",
+   "evidence": [
+    {
+     "ref": "EXO 40:27",
+     "form": "gröuchert"
+    },
+    {
+     "ref": "EXO 40:34",
+     "form": "d Wulche"
+    }
+   ],
+   "note": "40,1-33 mit den Teilnamen aus 25-31 und 35-39; Kehrvers formula:as_commanded_moses (7x); 40,34-38 Wulche/Füür wie 13,21-22.",
+   "by": "agent:exo040",
+   "date": "2026-10-30",
+   "confidence": "medium",
    "method": "project-decision",
    "status": "decided"
   }

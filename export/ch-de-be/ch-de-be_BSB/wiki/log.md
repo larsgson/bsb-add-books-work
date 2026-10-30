@@ -17,3 +17,35 @@ Eine Zeile pro Änderung, neueste zuletzt: Datum, wer (agent:<Kapitel> oder ein 
 - 2026-10-30, agent:exo006: 2Mo 6 entworfen; I bi der HERR, usgstreckte Arm, Sippe, Zahlwörter; 39 Namen des Stammbaums (Formen aus 1Mo 46 und Mt 1)
 - 2026-10-30, agent:exo007: 2Mo 7 entworfen; Verstockung קשׁה stur, Befehlsformel, Hexer/Zouberer, erste Plage (Bluet), Frösche 7,26-29
 - 2026-10-30, agent:exo008: 2Mo 8 entworfen; Frösche, Mügge, Flöige; bätte, Gottes Finger, es Gröiel, Goschen
+- 2026-10-30, agent:exo009: 2Mo 9 entworfen; Viehseuche, Gschwür, Hagel; 9,16 nach Röm 9,17 (Bietenhard)
+- 2026-10-30, agent:exo010: 2Mo 10 entworfen; Höigümper, Fyschteri; Oschtwind/Weschtwind, Schlachtopfer und Brandopfer
+- 2026-10-30, agent:exo011: 2Mo 11 entworfen; Ankündigung der zehnten Plage; Nachbar, Mühli, Erstgeburtsformel
+- 2026-10-30, agent:exo012: 2Mo 12 entworfen; Passa, ungsüürts Brot, metzge, Türpfoschte, Ornig für geng, usgrottet, Gmeind/Versammlig
+- 2026-10-30, agent:exo013: 2Mo 13 entworfen; Erstgeburt, Fest der ungesäuerten Brote, Wulchesüüle/Füürsüüle, uslöse
+- 2026-10-30, agent:exo014: 2Mo 14 entworfen; Durchzug durchs Meer; Wäge/Ryter, Herrlechkeit, trockene Bode, Pi-Hachirot/Migdol/Baal-Zefon
+- 2026-10-30, agent:exo015: 2Mo 15 entworfen; Schilfmeerlied als Poesie; Kehrvers, Mirjam, Mara, »dy Arzt«
+- 2026-10-30, agent:exo016: 2Mo 16 entworfen; Wachtle und Manna, Sabbat; Omer/Efa, mule, 2Kor 8,15
+- 2026-10-30, agent:exo017: 2Mo 17 entworfen; Massa und Meriba, Amalek; Josua, Hur, Refidim
+- 2026-10-30, agent:exo018: 2Mo 18 entworfen; Jitro, Richter; Obere über Tuusig …, Elieser
+- 2026-10-30, agent:exo019: 2Mo 19 entworfen; Sinai; chüniglechi Prieschterschaft (1Petr 2,9), Posuune, Steine z Tod schla
+- 2026-10-30, agent:exo020: 2Mo 20 entworfen; Zehn Gebote nach Bietenhard; Mitmönsch, yfersüchtige Gott, Gmeinschaftsopfer
+- 2026-10-30, agent:exo021: 2Mo 21 entworfen; Bundesbuch; Sklav/Sklavin, »dä söll tödt wärde«, Oug gägen Oug
+- 2026-10-30, agent:exo022: 2Mo 22 entworfen; Bundesbuch; Ersatz, Hexe, Witfrou und Waisechind, Vorgsetzte (Apg 23,5)
+- 2026-10-30, agent:exo023: 2Mo 23 entworfen; Rechtspflege, drei Feste, Engel; Bstächigsgäld, Steimale, Horniss
+- 2026-10-30, agent:exo024: 2Mo 24 entworfen; Bundesschluss; Bluet vom Bund (Hebr 9,20), Tafele us Stei, vierzg Tag und vierzg Nächt
+- 2026-10-30, agent:exo025: 2Mo 25 entworfen; Lade, Gnadestuel, Tisch, Lüüchter; Liste Heiligtum angelegt (Wiki und exo_state)
+- 2026-10-30, agent:exo026: 2Mo 26 entworfen; Tüecher, Brätter, Vorhang, Allerheiligschte; Heiligtumsliste ergänzt
+- 2026-10-30, agent:exo027: 2Mo 27 entworfen; Altar, Vorhof, Olivenöl; Zält vo der Begägnig; Heiligtumsliste ergänzt
+- 2026-10-30, agent:exo028: 2Mo 28 entworfen; Prieschterchleider, Steinnamen nach Offb 21; Heiligtumsliste ergänzt
+- 2026-10-30, agent:exo029: 2Mo 29 entworfen; Priesterweihe, Opferarten, Sühne schaffe; Heiligtumsliste ergänzt
+- 2026-10-30, agent:exo030: 2Mo 30 entworfen; Rouchopferaltar, Lösgäld, Becki, Salböl, Röucherwärch; Heiligtumsliste ergänzt
+- 2026-10-30, agent:exo031: 2Mo 31 entworfen; Bezalel und Oholiab, Sabbat als Zeiche, Tafele; Heiligtumsliste abgeschlossen (25-31)
+- 2026-10-30, agent:exo032: 2Mo 32 entworfen; guldigs Chalb nach Apg 7,40 und 1Kor 10,7; Fürbitte; herti Chöpf
+- 2026-10-30, agent:exo033: 2Mo 33 entworfen; Zält vor em Lager, my Gsicht geit mit, Röm 9,15
+- 2026-10-30, agent:exo034: 2Mo 34 entworfen; Gottes Name (wie Ps 86,15), Bund erneuert (wie 23), Glanz nach 2Kor 3
+- 2026-10-30, agent:exo035: 2Mo 35 entworfen; Gabe und Handwärker nach 25 und 31 gleich gehalten
+- 2026-10-30, agent:exo036: 2Mo 36 entworfen; meh als gnue; Wohnig nach 26 gleich gehalten
+- 2026-10-30, agent:exo037: 2Mo 37 entworfen; Lade, Tisch, Lüüchter, Rouchopferaltar nach 25 und 30 gleich gehalten
+- 2026-10-30, agent:exo038: 2Mo 38 entworfen; Altar und Vorhof nach 27; Uflischtig vo de Metall
+- 2026-10-30, agent:exo039: 2Mo 39 entworfen; Priesterkleider nach 28; Kehrvers »wi der HERR em Mose befole het«
+- 2026-10-30, agent:exo040: 2Mo 40 entworfen; Aufstellung der Wohnig, Wulche und Herrlechkeit; Buch fertig
