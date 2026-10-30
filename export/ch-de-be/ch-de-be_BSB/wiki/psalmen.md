@@ -1011,12 +1011,12 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - answers: leviathan
   - Meerungeheuer (Ps 74,14; 104,26; Hiob 3,8; 40,25; Jes 27,1).
   - agent:psa074, 2026-10-29
-- **`term:H8577_monster`** תַּנִּין → **Ungheuer** [high, decided, by-rule]
+- **`term:H8577_monster`** תַּנִּין → **Ungheuer / Schlange** [high, decided, by-rule]
   - gloss: תַּנִּין: תַ֝נִּינִ֗ים (PSA 74:13) — English (generated): of the dragons
-  - NT: PSA 74:13 *vo de Ungheuer*
-  - answers: sea monster, monster, dragon, serpent
-  - תַּנִּין als Meerungeheuer/Drache »Ungheuer« (Ps 74,13; 148,7); als Schlange (Ex 7) eigens; vgl. term:H8577_jackal.
-  - agent:psa074, 2026-10-29
+  - NT: PSA 74:13 *vo de Ungheuer*; EXO 7:9 *zu nere Schlange*
+  - answers: dragon, monster, sea monster, serpent
+  - תַּנִּין als Meerungeheuer »Ungheuer« (Ps 74,13; 148,7); in 2Mo 7,9-12 (Stab) »Schlange« wie נָחָשׁ 4,3; 7,15 (Fussnote).
+  - agent:psa074, 2026-10-30
 - **`term:H3597_hammer`** כֵּילַפּוֹת → **Hammer** [high, decided, by-rule]
   - gloss: כֵּילָף: כֵֽילַפֹּ֗ת (PSA 74:6) — English (generated): and picks
   - NT: PSA 74:6 *Bieli und Hammer*
@@ -1413,4 +1413,4 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - answers: cymbals, cymbal
   - Becken (Musikinstrument); Einzahl Zimbel.
   - agent:psa150, 2026-10-29
-<!-- store:end sha=e99addc8 -->
+<!-- store:end sha=287804cb -->

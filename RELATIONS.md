@@ -23,6 +23,8 @@ non-free texts and what is built from them (`local_output/`, git-ignored).
 - **make-tanakh:** everything outside the projects, by merging `template/main` at a tag (now v0.2.1). The template's
   demo projects `export/dan/dan_BSB` and `export/jam/jam_BSB` share their paths with this repo's full projects: at a
   merge, this repo's project files win; the template's other demo files come in.
+  `README.md` is this repo's own (the work copy and its projects); at a merge it keeps this repo's version, and a
+  change to the template's shared sections (*Layout*, *Working on a project*, *Licence*, *Sources*) is taken by hand.
 - **Sources and bcv-commons datasets:** as the template pins them (`scripts/setup.py`, `docs/sources.md`), fetched into
   the git-ignored `orig/`, `reference/`, `download/`.
 - **make-tanakh-grammar:** only published, pinned datasets, never code.

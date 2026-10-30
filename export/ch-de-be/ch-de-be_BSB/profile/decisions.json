@@ -5641,8 +5641,10 @@
    "source": "שָׂרֵי מִסִּים / סִבְלֹת",
    "attested": "attested",
    "words": [
-    "taskmasters",
-    "forced labor"
+    "forced labor",
+    "oppressors",
+    "slave drivers",
+    "taskmasters"
    ],
    "evidence": [
     {
@@ -5652,14 +5654,26 @@
     {
      "ref": "EXO 1:11",
      "form": "Fronvögt"
+    },
+    {
+     "ref": "EXO 5:10",
+     "form": "d Fronvögt"
     }
    ],
    "confidence": "medium",
    "method": "project-decision",
    "by": "agent:exo001",
-   "date": "2026-10-15",
+   "date": "2026-10-30",
    "status": "decided",
-   "note": "Fron- im Korpus nicht belegt (siehe gap:fron); Vogt/Vögt 1×. Gilt für 2Mo 1,11; 3,7; 5,6-14."
+   "note": "Fron- im Korpus nicht belegt (siehe gap:fron); Vogt/Vögt 1×. Gilt für 2Mo 1,11; 3,7; 5,6-14.",
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נֹּגְשִׂ֣ים",
+     "lemma": "נָגַשׂ",
+     "ref": "EXO 5:6"
+    }
+   ]
   },
   {
    "id": "term:store_cities",
@@ -13290,13 +13304,13 @@
   {
    "id": "term:H8577_monster",
    "kind": "term",
-   "value": "Ungheuer",
+   "value": "Ungheuer / Schlange",
    "source": "תַּנִּין",
    "attested": "by-rule",
    "words": [
-    "sea monster",
-    "monster",
     "dragon",
+    "monster",
+    "sea monster",
     "serpent"
    ],
    "gloss": [
@@ -13311,11 +13325,15 @@
     {
      "ref": "PSA 74:13",
      "form": "vo de Ungheuer"
+    },
+    {
+     "ref": "EXO 7:9",
+     "form": "zu nere Schlange"
     }
    ],
-   "note": "תַּנִּין als Meerungeheuer/Drache »Ungheuer« (Ps 74,13; 148,7); als Schlange (Ex 7) eigens; vgl. term:H8577_jackal.",
+   "note": "תַּנִּין als Meerungeheuer »Ungheuer« (Ps 74,13; 148,7); in 2Mo 7,9-12 (Stab) »Schlange« wie נָחָשׁ 4,3; 7,15 (Fussnote).",
    "by": "agent:psa074",
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "confidence": "high",
    "method": "project-decision",
    "status": "decided"
@@ -15251,6 +15269,3610 @@
    "note": "Becken (Musikinstrument); Einzahl Zimbel.",
    "by": "agent:psa150",
    "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:tebah_basket",
+   "kind": "term",
+   "value": "Chörbli",
+   "attested": "attested",
+   "words": [
+    "basket",
+    "papyrus basket"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תֵּ֣בַת",
+     "lemma": "תֵּבָה",
+     "ref": "EXO 2:3"
+    }
+   ],
+   "source": "תֵּבָה",
+   "evidence": [
+    {
+     "ref": "EXO 2:3",
+     "form": "es Chörbli us Papyrus"
+    },
+    {
+     "ref": "EXO 2:5",
+     "form": "ds Chörbli"
+    }
+   ],
+   "note": "תֵּבָה in 2Mo 2,3.5 (sonst Arche, 1Mo 6-9); Fussnote verweist auf die Arche. Chörbli 1× im Korpus.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1573_papyrus",
+   "kind": "term",
+   "value": "Papyrus",
+   "attested": "by-rule",
+   "words": [
+    "papyrus"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גֹּ֔מֶא",
+     "lemma": "גֹּמֶא",
+     "ref": "EXO 2:3"
+    }
+   ],
+   "source": "גֹּמֶא",
+   "evidence": [
+    {
+     "ref": "EXO 2:3",
+     "form": "us Papyrus"
+    }
+   ],
+   "note": "Im Korpus nicht belegt; Fremdwort wie im Hochdeutschen (rough_check meldet es als Englisch).",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:tar_pitch",
+   "kind": "term",
+   "value": "Erdpech / Pech / aastryche / aagstriche",
+   "attested": "by-rule",
+   "words": [
+    "tar",
+    "pitch",
+    "coated"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תַּחְמְרָ֥",
+     "lemma": "חָמַר",
+     "ref": "EXO 2:3"
+    },
+    {
+     "lang": "hbo",
+     "form": "זָּ֑פֶת",
+     "lemma": "זֶפֶת",
+     "ref": "EXO 2:3"
+    }
+   ],
+   "source": "חָמַר",
+   "evidence": [
+    {
+     "ref": "EXO 2:3",
+     "form": "mit Erdpech"
+    },
+    {
+     "ref": "EXO 2:3",
+     "form": "aagstriche"
+    },
+    {
+     "ref": "GEN 6:14",
+     "form": "mit Pech aa"
+    }
+   ],
+   "note": "חֵמָר als Erdpech (vgl. Erdpechgruebe 1Mo 14,10), זֶפֶת Pech; Pech 1× im Korpus.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5488_reeds",
+   "kind": "term",
+   "value": "Schilf",
+   "attested": "by-rule",
+   "words": [
+    "reeds"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סּ֖וּף",
+     "lemma": "סוּף",
+     "ref": "EXO 2:3"
+    }
+   ],
+   "source": "סוּף",
+   "evidence": [
+    {
+     "ref": "EXO 2:3",
+     "form": "im Schilf"
+    },
+    {
+     "ref": "EXO 2:5",
+     "form": "im Schilf"
+    }
+   ],
+   "note": "Korpus nur Schilfrohr (3×); Schilf wie 1Mo 41,2.18. ים סוף bleibt »ds rote Meer« (name:red_sea).",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:hebrew_adj",
+   "kind": "term",
+   "value": "hebräisch / hebräischi / hebräische / Hebräer",
+   "attested": "by-rule",
+   "words": [
+    "hebrew",
+    "hebrews"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עִבְרִיֹּ֑ת",
+     "lemma": "עִבְרִי",
+     "ref": "EXO 2:7"
+    }
+   ],
+   "source": "עִבְרִי",
+   "evidence": [
+    {
+     "ref": "EXO 1:15",
+     "form": "de hebräische Hebamme"
+    },
+    {
+     "ref": "EXO 2:7",
+     "form": "e hebräischi Amme"
+    }
+   ],
+   "note": "Adjektiv flektiert nach der Regel: e hebräischi Frou, di hebräische Froue (Dativ de hebräische …); Substantiv der Hebräer.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2896_beautiful",
+   "kind": "term",
+   "value": "schön / schöns",
+   "attested": "by-rule",
+   "words": [
+    "beautiful",
+    "fine"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "ט֣וֹב",
+     "lemma": "טוֹב",
+     "ref": "EXO 2:2"
+    }
+   ],
+   "source": "טוֹב",
+   "evidence": [
+    {
+     "ref": "EXO 2:2",
+     "form": "es schöns Chind"
+    }
+   ],
+   "note": "טוֹב vom Kind (BSB beautiful); schöns = Neutrum nach es.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3243_nurse",
+   "kind": "term",
+   "value": "Amme / stille / gstillt",
+   "attested": "by-rule",
+   "words": [
+    "nurse",
+    "nursed",
+    "nursing"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תֵינִ֥ק",
+     "lemma": "יָנַק",
+     "ref": "EXO 2:7"
+    }
+   ],
+   "source": "יָנַק",
+   "evidence": [
+    {
+     "ref": "EXO 2:7",
+     "form": "e hebräischi Amme"
+    },
+    {
+     "ref": "EXO 2:9",
+     "form": "het ne gstillt"
+    },
+    {
+     "ref": "GEN 24:59",
+     "form": "Amme"
+    }
+   ],
+   "note": "Amme wie 1Mo 24,59; 35,8; stille 7× im Korpus (meist anderer Sinn), hier ein Kind stille.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4871_draw_out",
+   "kind": "term",
+   "value": "usezie / usezoge",
+   "attested": "by-rule",
+   "words": [
+    "drew out",
+    "drew him out"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מֹשֶׁ֔ה",
+     "lemma": "מֹשֶׁה",
+     "ref": "EXO 2:10"
+    }
+   ],
+   "source": "מֹשֶׁה",
+   "evidence": [
+    {
+     "ref": "EXO 2:10",
+     "form": "us em Wasser usezoge"
+    }
+   ],
+   "note": "Wortspiel mit Mose als Fussnote (Namensdeutung).",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H584_groan",
+   "kind": "term",
+   "value": "süüfzge / gsüüfzget / Süüfzge",
+   "attested": "attested",
+   "words": [
+    "groaned",
+    "groaning",
+    "groan"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֵּאָנְח֧וּ",
+     "lemma": "אָנַח",
+     "ref": "EXO 2:23"
+    }
+   ],
+   "source": "אָנַח",
+   "evidence": [
+    {
+     "ref": "ACT 7:34",
+     "form": "süüfzge"
+    },
+    {
+     "ref": "EXO 2:23",
+     "form": "gsüüfzget"
+    },
+    {
+     "ref": "EXO 2:24",
+     "form": "ires Süüfzge"
+    }
+   ],
+   "note": "Apg 7,34 zitiert 2Mo 3,7 mit süüfzge; נְאָקָה (2,24) ebenfalls Süüfzge.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5647_avodah_work",
+   "kind": "term",
+   "value": "Arbeit / herti Arbeit",
+   "attested": "attested",
+   "words": [
+    "slavery",
+    "bondage",
+    "labor",
+    "work"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲבֹדָ֖ה",
+     "lemma": "עֲבֹדָה",
+     "ref": "EXO 2:23"
+    }
+   ],
+   "source": "עֲבֹדָה",
+   "evidence": [
+    {
+     "ref": "EXO 1:14",
+     "form": "mit herter Arbeit"
+    },
+    {
+     "ref": "EXO 2:23",
+     "form": "under der herte Arbeit"
+    }
+   ],
+   "note": "Leitwort עבד: in 2Mo 1-6 »Arbeit« (nicht Sklaverei), damit der Gegensatz zum Dienst für Gott (3,12) hörbar bleibt; Gottesdienst-Stellen eigens entscheiden.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:named_him",
+   "kind": "formula",
+   "value": "het ihm der Name … ggä",
+   "attested": "attested",
+   "words": [
+    "named him",
+    "called his name"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תִּקְרָ֤א",
+     "lemma": "קָרָא",
+     "ref": "EXO 2:10"
+    }
+   ],
+   "source": "קָרָא",
+   "evidence": [
+    {
+     "ref": "GEN 21:3",
+     "form": "der Name Isaak ggä"
+    },
+    {
+     "ref": "EXO 2:10",
+     "form": "der Name Mose ggä"
+    },
+    {
+     "ref": "EXO 2:22",
+     "form": "der Name Gerschom ggä"
+    }
+   ],
+   "note": "Benennungsformel wie in der Genesis; Namensdeutung in die Fussnote.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:ruler_judge",
+   "kind": "term",
+   "value": "Regänt und Richter",
+   "attested": "attested",
+   "words": [
+    "ruler and judge"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שַׂ֤ר",
+     "lemma": "שַׂר",
+     "ref": "EXO 2:14"
+    },
+    {
+     "lang": "hbo",
+     "form": "שֹׁפֵט֙",
+     "lemma": "שָׁפַט",
+     "ref": "EXO 2:14"
+    }
+   ],
+   "source": "שַׂר",
+   "evidence": [
+    {
+     "ref": "ACT 7:27",
+     "form": "zum Regänt und Richter"
+    },
+    {
+     "ref": "EXO 2:14",
+     "form": "zum Regänt und Richter"
+    }
+   ],
+   "note": "Apg 7,27.35 zitiert 2Mo 2,14; Wortlaut übernommen.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:midian",
+   "kind": "name",
+   "value": "Midian",
+   "attested": "attested",
+   "words": [
+    "midian"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִדְיָ֖ן",
+     "lemma": "מִדְיָן",
+     "ref": "EXO 2:15"
+    }
+   ],
+   "source": "מִדְיָן",
+   "evidence": [
+    {
+     "ref": "ACT 7:29",
+     "form": "im Land Midian"
+    },
+    {
+     "ref": "EXO 2:15",
+     "form": "im Land Midian"
+    }
+   ],
+   "note": "Wie Apg 7,29 und 1Mo 25; 36; 37.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:reuel",
+   "kind": "name",
+   "value": "Reuel",
+   "attested": "by-rule",
+   "words": [
+    "reuel"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רְעוּאֵ֖ל",
+     "lemma": "רְעוּאֵל",
+     "ref": "EXO 2:18"
+    }
+   ],
+   "source": "רְעוּאֵל",
+   "evidence": [
+    {
+     "ref": "GEN 36:4",
+     "form": "Reuel"
+    },
+    {
+     "ref": "EXO 2:18",
+     "form": "Reuel"
+    }
+   ],
+   "note": "Wie 1Mo 36. Der Schwiegervater des Mose heisst ab 3,1 Jitro (BSB-Fussnote).",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:zipporah",
+   "kind": "name",
+   "value": "Zippora",
+   "attested": "by-rule",
+   "words": [
+    "zipporah"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צִפֹּרָ֥ה",
+     "lemma": "צִפֹּרָה",
+     "ref": "EXO 2:21"
+    }
+   ],
+   "source": "צִפֹּרָה",
+   "evidence": [
+    {
+     "ref": "EXO 2:21",
+     "form": "Zippora"
+    }
+   ],
+   "note": "ṣ → z, Doppel-p wie Luther/Zürcher, ohne h am Ende.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:gershom",
+   "kind": "name",
+   "value": "Gerschom",
+   "attested": "by-rule",
+   "words": [
+    "gershom"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גֵּרְשֹׁ֑ם",
+     "lemma": "גֵּרְשֹׁם",
+     "ref": "EXO 2:22"
+    }
+   ],
+   "source": "גֵּרְשֹׁם",
+   "evidence": [
+    {
+     "ref": "EXO 2:22",
+     "form": "Gerschom"
+    }
+   ],
+   "note": "š → sch. Namensdeutung (Frömde) als Fussnote.",
+   "by": "agent:exo002",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:canaanites",
+   "kind": "name",
+   "value": "Kanaaniter",
+   "attested": "by-rule",
+   "words": [
+    "canaanites"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כְּנַעֲנִי֙",
+     "lemma": "כְּנַעֲנִי",
+     "ref": "EXO 3:8"
+    }
+   ],
+   "source": "כְּנַעֲנִי",
+   "evidence": [
+    {
+     "ref": "GEN 15:21",
+     "form": "Kanaaniter"
+    },
+    {
+     "ref": "EXO 3:8",
+     "form": "de Kanaaniter"
+    }
+   ],
+   "note": "Völkerliste wie 1Mo 15,19-21; im Dativ »de Kanaaniter«.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:hittites",
+   "kind": "name",
+   "value": "Hetiter",
+   "attested": "by-rule",
+   "words": [
+    "hittites"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חִתִּ֔י",
+     "lemma": "חִתִּי",
+     "ref": "EXO 3:8"
+    }
+   ],
+   "source": "חִתִּי",
+   "evidence": [
+    {
+     "ref": "GEN 23:10",
+     "form": "Hetiter"
+    },
+    {
+     "ref": "EXO 3:8",
+     "form": "de Hetiter"
+    }
+   ],
+   "note": "H für ḥ am Namensanfang (Genesis-Regel).",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:perizzites",
+   "kind": "name",
+   "value": "Perisiter",
+   "attested": "by-rule",
+   "words": [
+    "perizzites"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פְּרִזִּ֔י",
+     "lemma": "פְּרִזִּי",
+     "ref": "EXO 3:8"
+    }
+   ],
+   "source": "פְּרִזִּי",
+   "evidence": [
+    {
+     "ref": "GEN 13:7",
+     "form": "Perisiter"
+    },
+    {
+     "ref": "EXO 3:8",
+     "form": "de Perisiter"
+    }
+   ],
+   "note": "Wie 1Mo 13,7; 15,20.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:hivites",
+   "kind": "name",
+   "value": "Hiwiter",
+   "attested": "by-rule",
+   "words": [
+    "hivites"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חִוִּ֖י",
+     "lemma": "חִוִּי",
+     "ref": "EXO 3:8"
+    }
+   ],
+   "source": "חִוִּי",
+   "evidence": [
+    {
+     "ref": "GEN 34:2",
+     "form": "Hiwiter"
+    },
+    {
+     "ref": "EXO 3:8",
+     "form": "de Hiwiter"
+    }
+   ],
+   "note": "Wie 1Mo 34,2.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:jebusites",
+   "kind": "name",
+   "value": "Jebusiter",
+   "attested": "by-rule",
+   "words": [
+    "jebusites"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְבוּסִֽי",
+     "lemma": "יְבוּסִי",
+     "ref": "EXO 3:8"
+    }
+   ],
+   "source": "יְבוּסִי",
+   "evidence": [
+    {
+     "ref": "GEN 15:21",
+     "form": "Jebusiter"
+    },
+    {
+     "ref": "EXO 3:8",
+     "form": "de Jebusiter"
+    }
+   ],
+   "note": "Wie 1Mo 15,21.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:jethro",
+   "kind": "name",
+   "value": "Jitro",
+   "attested": "by-rule",
+   "words": [
+    "jethro"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִתְר֥וֹ",
+     "lemma": "יִתְרוֹ",
+     "ref": "EXO 3:1"
+    }
+   ],
+   "source": "יִתְרוֹ",
+   "evidence": [
+    {
+     "ref": "EXO 3:1",
+     "form": "Jitro"
+    }
+   ],
+   "note": "Wie Luther/Zürcher (th → t). Derselbe wie Reuel (2,18).",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5572_bush",
+   "kind": "term",
+   "value": "Dorngstüd",
+   "attested": "attested",
+   "words": [
+    "bush",
+    "burning bush"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סְּנֶ֑ה",
+     "lemma": "סְנֶה",
+     "ref": "EXO 3:2"
+    }
+   ],
+   "source": "סְנֶה",
+   "evidence": [
+    {
+     "ref": "ACT 7:30",
+     "form": "brönnige Dorngstüd"
+    },
+    {
+     "ref": "ACT 7:35",
+     "form": "im Dorngstüd"
+    },
+    {
+     "ref": "EXO 3:2",
+     "form": "mene Dorngstüd"
+    }
+   ],
+   "note": "Nach Apg 7,30.35 (Mk 12,26 hat ein anderes Wort für dieselbe Stelle).",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5927_bring_up",
+   "kind": "term",
+   "value": "usefüere / usezfüere / usegfüert",
+   "attested": "attested",
+   "words": [
+    "bring up",
+    "bring out",
+    "brought out"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הַעֲלֹת",
+     "lemma": "עָלָה",
+     "ref": "EXO 3:8"
+    },
+    {
+     "lang": "hbo",
+     "form": "הוֹצֵ֛א",
+     "lemma": "יָצָא",
+     "ref": "EXO 3:10"
+    }
+   ],
+   "source": "עָלָה",
+   "evidence": [
+    {
+     "ref": "ACT 7:36",
+     "form": "usegfüert"
+    },
+    {
+     "ref": "EXO 3:8",
+     "form": "usezfüere"
+    }
+   ],
+   "note": "Für העלה und הוציא (Auszug aus Ägypte) gleich: usefüere; Infinitiv mit z in der Mitte.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7342_spacious",
+   "kind": "term",
+   "value": "wyt / wyts",
+   "attested": "attested",
+   "words": [
+    "spacious",
+    "wide"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רְחָבָ֔ה",
+     "lemma": "רָחָב",
+     "ref": "EXO 3:8"
+    }
+   ],
+   "source": "רָחָב",
+   "evidence": [
+    {
+     "ref": "EXO 3:8",
+     "form": "guets und wyts Land"
+    }
+   ],
+   "note": "wyt im Korpus belegt; wyts = Neutrum nach es/nes.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:days_journey",
+   "kind": "term",
+   "value": "Tagreis / Tagreise",
+   "attested": "attested",
+   "words": [
+    "day's journey",
+    "three-day journey",
+    "days journey"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דֶּ֣רֶךְ",
+     "lemma": "דֶּרֶךְ",
+     "ref": "EXO 3:18"
+    }
+   ],
+   "source": "דֶּרֶךְ",
+   "evidence": [
+    {
+     "ref": "GEN 30:36",
+     "form": "drei Tagreise"
+    },
+    {
+     "ref": "EXO 3:18",
+     "form": "drei Tagreise wyt"
+    }
+   ],
+   "note": "Wie 1Mo 30,36; 31,23.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:milk_honey",
+   "kind": "formula",
+   "value": "es Land, wo Milch und Hung fliesst",
+   "attested": "by-rule",
+   "words": [
+    "a land flowing with milk and honey",
+    "flowing with milk and honey"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זָבַ֥ת",
+     "lemma": "זוּב",
+     "ref": "EXO 3:8"
+    },
+    {
+     "lang": "hbo",
+     "form": "חָלָ֖ב",
+     "lemma": "חָלָב",
+     "ref": "EXO 3:8"
+    }
+   ],
+   "source": "זוּב",
+   "evidence": [
+    {
+     "ref": "EXO 3:8",
+     "form": "Milch und Hung fliesst"
+    },
+    {
+     "ref": "EXO 3:17",
+     "form": "Milch und Hung fliesst"
+    }
+   ],
+   "note": "Feste Formel für das ganze Buch; Hung wie term:honey.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:peoples_list",
+   "kind": "formula",
+   "value": "d Kanaaniter, d Hetiter, d Amoriter, d Perisiter, d Hiwiter und d Jebusiter",
+   "attested": "by-rule",
+   "words": [
+    "canaanites, hittites, amorites, perizzites, hivites, and jebusites"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כְּנַעֲנִי֙",
+     "lemma": "כְּנַעֲנִי",
+     "ref": "EXO 3:8"
+    }
+   ],
+   "source": "כְּנַעֲנִי",
+   "evidence": [
+    {
+     "ref": "EXO 3:8",
+     "form": "de Kanaaniter"
+    },
+    {
+     "ref": "EXO 3:17",
+     "form": "de Jebusiter"
+    }
+   ],
+   "note": "Reihenfolge wie im Hebräischen der Stelle; im Dativ »de …«.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ehyeh",
+   "kind": "formula",
+   "value": "I BI DÄ, WO I BI",
+   "attested": "by-rule",
+   "words": [
+    "i am who i am",
+    "i am"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶֽהְיֶ֖ה",
+     "lemma": "הָיָה",
+     "ref": "EXO 3:14"
+    }
+   ],
+   "source": "הָיָה",
+   "evidence": [
+    {
+     "ref": "EXO 3:14",
+     "form": "I BI DÄ"
+    },
+    {
+     "ref": "EXO 3:14",
+     "form": "WO I BI"
+    }
+   ],
+   "note": "Grossbuchstaben wie BSB I AM und wie HERR; Fussnote: Oder »I wirde sy, wo i wirde sy«. Kurzform ‚I BI‘ als Name.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:god_of_fathers",
+   "kind": "formula",
+   "value": "der Gott vom Abraham und der Gott vom Isaak und der Gott vom Jakob",
+   "attested": "attested",
+   "words": [
+    "the god of abraham, the god of isaac, and the god of jacob"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֱלֹהֵ֣י",
+     "lemma": "אֱלֹהִים",
+     "ref": "EXO 3:6"
+    }
+   ],
+   "source": "אֱלֹהִים",
+   "evidence": [
+    {
+     "ref": "MRK 12:26",
+     "form": "der Gott vom Abraham"
+    },
+    {
+     "ref": "EXO 3:6",
+     "form": "der Gott vom Isaak"
+    },
+    {
+     "ref": "EXO 3:15",
+     "form": "der Gott vom Jakob"
+    }
+   ],
+   "note": "Wortlaut nach Mk 12,26 / Mt 22,32, die 2Mo 3,6 zitieren; »der Gott vo öine Vätter« (3,13.15.16).",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2859_father_in_law",
+   "kind": "term",
+   "value": "Schwigervatter",
+   "attested": "attested",
+   "words": [
+    "father-in-law"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֹתְנ֖",
+     "lemma": "חֹתֵן",
+     "ref": "EXO 3:1"
+    }
+   ],
+   "source": "חֹתֵן",
+   "evidence": [
+    {
+     "ref": "GEN 38:13",
+     "form": "dy Schwigervatter"
+    },
+    {
+     "ref": "EXO 3:1",
+     "form": "sym Schwigervatter"
+    }
+   ],
+   "note": "Schwigervatter 1× im Korpus; wie 1Mo 38.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2205_elders_israel",
+   "kind": "term",
+   "value": "d Eltischte vo Israel",
+   "attested": "attested",
+   "words": [
+    "elders of israel",
+    "elders"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זִקְנֵ֣י",
+     "lemma": "זָקֵן",
+     "ref": "EXO 3:16"
+    }
+   ],
+   "source": "זָקֵן",
+   "evidence": [
+    {
+     "ref": "EXO 3:16",
+     "form": "d Eltischte vo Israel"
+    },
+    {
+     "ref": "EXO 3:18",
+     "form": "den Eltischte vo Israel"
+    }
+   ],
+   "note": "Für die Ältesten des Volkes (nicht Stadtrat wie term:H2205 Ratsherre in Rut).",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5337_plunder",
+   "kind": "term",
+   "value": "usplündere / plünderet … us",
+   "attested": "attested",
+   "words": [
+    "plunder"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נִצַּלְתֶּ֖ם",
+     "lemma": "נָצַל",
+     "ref": "EXO 3:22"
+    }
+   ],
+   "source": "נָצַל",
+   "evidence": [
+    {
+     "ref": "EXO 3:22",
+     "form": "plünderet dihr"
+    }
+   ],
+   "note": "usplündere 2× im Korpus; 2Mo 3,22; 12,36.",
+   "by": "agent:exo003",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4294_staff",
+   "kind": "term",
+   "value": "Stab / Stäb",
+   "attested": "attested",
+   "words": [
+    "rod",
+    "staff",
+    "staffs"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַטֶּֽה",
+     "lemma": "מַטֶּה",
+     "ref": "EXO 4:2"
+    }
+   ],
+   "source": "מַטֶּה",
+   "evidence": [
+    {
+     "ref": "EXO 4:2",
+     "form": "E Stab"
+    },
+    {
+     "ref": "EXO 4:20",
+     "form": "der Stab vo Gott"
+    },
+    {
+     "ref": "EXO 7:12",
+     "form": "iri Stäb"
+    }
+   ],
+   "note": "מַטֶּה des Mose und Aarons durchgehend »Stab« (Stab 1× im Korpus); מַקֵּל/מִשְׁעֶנֶת anders (Stäcke).",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6879_leprous",
+   "kind": "term",
+   "value": "ussätzig / ussätzigi / Ussatz",
+   "attested": "attested",
+   "words": [
+    "leprous",
+    "leprosy"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְצֹרַ֥עַת",
+     "lemma": "צָרַע",
+     "ref": "EXO 4:6"
+    }
+   ],
+   "source": "צָרַע",
+   "evidence": [
+    {
+     "ref": "MAT 8:2",
+     "form": "Ussätzige"
+    },
+    {
+     "ref": "EXO 4:6",
+     "form": "isch ussätzig gsi"
+    }
+   ],
+   "note": "Prädikativ unflektiert »ussätzig«; im Korpus ussätzige/ussätzigi 10×, Ussatz 4×.",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8210_pour",
+   "kind": "term",
+   "value": "schütte / schüttisch / gschüttet",
+   "attested": "attested",
+   "words": [
+    "pour"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָׁפַכְתָּ֖",
+     "lemma": "שָׁפַךְ",
+     "ref": "EXO 4:9"
+    }
+   ],
+   "source": "שָׁפַךְ",
+   "evidence": [
+    {
+     "ref": "EXO 4:9",
+     "form": "schüttisch es"
+    }
+   ],
+   "note": "schütte 2×, schüttet 4× im Korpus; 2. Sg. »schüttisch«.",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:harden_hzq",
+   "kind": "formula",
+   "value": "sys Härz hert mache / ds Härz isch hert bblibe",
+   "attested": "by-rule",
+   "words": [
+    "harden his heart",
+    "heart was hardened",
+    "hardened"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲחַזֵּ֣ק",
+     "lemma": "חָזַק",
+     "ref": "EXO 4:21"
+    }
+   ],
+   "source": "חָזַק",
+   "evidence": [
+    {
+     "ref": "EXO 4:21",
+     "form": "sys Härz hert"
+    }
+   ],
+   "note": "Verstockungsformeln 2Mo 4-14: חזק = »hert mache / hert sy«; כבד = »verherte / verhertet« (wörtlich schwer); קשׁה (7,3; 13,15) eigens. Gleich durch das ganze Buch.",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1060_firstborn",
+   "kind": "term",
+   "value": "Erschtgeborene / Erschtgeboreni",
+   "attested": "attested",
+   "words": [
+    "firstborn"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "וְ",
+     "lemma": "וְ",
+     "ref": "EXO 4:22"
+    }
+   ],
+   "source": "וְ",
+   "evidence": [
+    {
+     "ref": "PSA 105:36",
+     "form": "alli Erschtgeborene"
+    },
+    {
+     "ref": "EXO 4:22",
+     "form": "my Erschtgeborene"
+    }
+   ],
+   "note": "Wie Ps 78,51; 105,36 (Entwürfe).",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:bridegroom_blood",
+   "kind": "term",
+   "value": "Bluet-Brütigam",
+   "attested": "by-rule",
+   "words": [
+    "bridegroom of blood"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲתַן",
+     "lemma": "חָתָן",
+     "ref": "EXO 4:25"
+    }
+   ],
+   "source": "חָתָן",
+   "evidence": [
+    {
+     "ref": "EXO 4:25",
+     "form": "e Bluet-Brütigam"
+    }
+   ],
+   "note": "Brütigam 16× im Korpus; Zusammensetzung mit Bindestrich.",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:bow_worship",
+   "kind": "formula",
+   "value": "si hei sech bbückt und aabbättet",
+   "attested": "attested",
+   "words": [
+    "bowed down and worshiped"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִּקְּד֖וּ",
+     "lemma": "קָדַד",
+     "ref": "EXO 4:31"
+    },
+    {
+     "lang": "hbo",
+     "form": "יִּֽשְׁתַּחֲוּֽוּ",
+     "lemma": "חוה",
+     "ref": "EXO 4:31"
+    }
+   ],
+   "source": "קָדַד",
+   "evidence": [
+    {
+     "ref": "EXO 4:31",
+     "form": "sech bbückt und aabbättet"
+    }
+   ],
+   "note": "קדד + השׁתחוה (2Mo 4,31; 12,27; 34,8); bbückt 5×, aabbättet 10× im Korpus.",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:aaron",
+   "kind": "name",
+   "value": "Aaron",
+   "attested": "attested",
+   "words": [
+    "aaron"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַהֲרֹ֤ן",
+     "lemma": "אַהֲרֹן",
+     "ref": "EXO 4:14"
+    }
+   ],
+   "source": "אַהֲרֹן",
+   "evidence": [
+    {
+     "ref": "ACT 7:40",
+     "form": "zum Aaron"
+    },
+    {
+     "ref": "EXO 4:14",
+     "form": "dy Brueder Aaron"
+    }
+   ],
+   "note": "Wie Apg 7,40; Hebr 5,4; mit Artikel (der Aaron).",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3881_levite",
+   "kind": "term",
+   "value": "Levit / Levite",
+   "attested": "attested",
+   "words": [
+    "levite",
+    "levites"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "לֵּוִ֔י",
+     "lemma": "לֵוִי",
+     "ref": "EXO 4:14"
+    }
+   ],
+   "source": "לֵוִי",
+   "evidence": [
+    {
+     "ref": "LUK 10:32",
+     "form": "e Levit"
+    },
+    {
+     "ref": "EXO 4:14",
+     "form": "der Levit"
+    }
+   ],
+   "note": "Personenbezeichnung; der Stamm heisst »Stamm Levi« (2,1).",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:go_in_peace",
+   "kind": "formula",
+   "value": "Gang im Fride!",
+   "attested": "attested",
+   "words": [
+    "go in peace"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָׁלֽוֹם",
+     "lemma": "שָׁלוֹם",
+     "ref": "EXO 4:18"
+    }
+   ],
+   "source": "שָׁלוֹם",
+   "evidence": [
+    {
+     "ref": "LUK 7:50",
+     "form": "gang im Fride"
+    },
+    {
+     "ref": "EXO 4:18",
+     "form": "Gang im Fride"
+    }
+   ],
+   "note": "Wie Lk 7,50; 8,48.",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2436_bosom",
+   "kind": "term",
+   "value": "i ds Chleid a d Bruscht",
+   "attested": "by-rule",
+   "words": [
+    "cloak",
+    "bosom"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֵיקֶ֔",
+     "lemma": "חֵיק",
+     "ref": "EXO 4:6"
+    }
+   ],
+   "source": "חֵיק",
+   "evidence": [
+    {
+     "ref": "EXO 4:6",
+     "form": "i dys Chleid"
+    }
+   ],
+   "note": "חֵיק »Gewandbausch, Brust«; BSB cloak.",
+   "by": "agent:exo004",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7860_foremen",
+   "kind": "term",
+   "value": "Vorarbeiter",
+   "attested": "by-rule",
+   "words": [
+    "foremen",
+    "foreman",
+    "officers"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שֹׁטְרָ֖י",
+     "lemma": "שֹׁטֵר",
+     "ref": "EXO 5:6"
+    }
+   ],
+   "source": "שֹׁטֵר",
+   "evidence": [
+    {
+     "ref": "EXO 5:6",
+     "form": "irne Vorarbeiter"
+    },
+    {
+     "ref": "EXO 5:14",
+     "form": "d Vorarbeiter"
+    }
+   ],
+   "note": "Israelitische Aufseher unter den ägyptischen Fronvögt (נֹגְשִׂים); im Korpus kein Wort dafür.",
+   "by": "agent:exo005",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8401_straw",
+   "kind": "term",
+   "value": "Strou",
+   "attested": "attested",
+   "words": [
+    "straw"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תֶּ֧בֶן",
+     "lemma": "תֶּבֶן",
+     "ref": "EXO 5:7"
+    }
+   ],
+   "source": "תֶּבֶן",
+   "evidence": [
+    {
+     "ref": "EXO 5:7",
+     "form": "Strou"
+    },
+    {
+     "ref": "GEN 24:25",
+     "form": "Strou"
+    }
+   ],
+   "note": "Strou 1× im Korpus; קַשׁ (5,12) »Halm«.",
+   "by": "agent:exo005",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:thus_says_yhwh",
+   "kind": "formula",
+   "value": "So seit der HERR",
+   "attested": "by-rule",
+   "words": [
+    "this is what the lord says",
+    "thus says the lord"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֹּאמְר֖וּ",
+     "lemma": "אָמַר",
+     "ref": "EXO 5:1"
+    }
+   ],
+   "source": "אָמַר",
+   "evidence": [
+    {
+     "ref": "EXO 4:22",
+     "form": "So seit der HERR"
+    },
+    {
+     "ref": "EXO 5:1",
+     "form": "So seit der HERR"
+    }
+   ],
+   "note": "Botenformel כֹּה אָמַר יְהוָה; ebenso »So seit der Pharao« (5,10).",
+   "by": "agent:exo005",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:let_my_people_go",
+   "kind": "formula",
+   "value": "La mys Volk ga, für dass si mir chöi diene",
+   "attested": "by-rule",
+   "words": [
+    "let my people go"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שַׁלַּח֙",
+     "lemma": "שָׁלַח",
+     "ref": "EXO 5:1"
+    }
+   ],
+   "source": "שָׁלַח",
+   "evidence": [
+    {
+     "ref": "EXO 4:23",
+     "form": "La my Suhn ga"
+    },
+    {
+     "ref": "EXO 5:1",
+     "form": "La mys Volk ga"
+    }
+   ],
+   "note": "שַׁלַּח אֶת־עַמִּי + Zweck (5,1 Fest feiern; 7,16 usw. diene). Gleich in Kap. 5-10.",
+   "by": "agent:exo005",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1698_pestilence",
+   "kind": "term",
+   "value": "Süüch",
+   "attested": "attested",
+   "words": [
+    "plagues",
+    "pestilence",
+    "plague"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דֶּ֖בֶר",
+     "lemma": "דֶּבֶר",
+     "ref": "EXO 5:3"
+    }
+   ],
+   "source": "דֶּבֶר",
+   "evidence": [
+    {
+     "ref": "LUK 21:11",
+     "form": "Süüche"
+    },
+    {
+     "ref": "EXO 5:3",
+     "form": "mit ere Süüch"
+    }
+   ],
+   "note": "דֶּבֶר als Seuche; die »Plagen« (נֶגַע/מַכָּה) eigens.",
+   "by": "agent:exo005",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7503_lazy",
+   "kind": "term",
+   "value": "fuul",
+   "attested": "attested",
+   "words": [
+    "lazy",
+    "slackers"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נִרְפִּ֣ים",
+     "lemma": "רָפָה",
+     "ref": "EXO 5:8"
+    }
+   ],
+   "source": "רָפָה",
+   "evidence": [
+    {
+     "ref": "EXO 5:17",
+     "form": "Fuul syt dihr"
+    }
+   ],
+   "note": "fuul 3× im Korpus.",
+   "by": "agent:exo005",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3843_bricks",
+   "kind": "term",
+   "value": "Ziegle / Ziegle mache",
+   "attested": "by-rule",
+   "words": [
+    "bricks",
+    "make bricks"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "לְּבֵנִ֖ים",
+     "lemma": "לְבֵנָה",
+     "ref": "EXO 5:7"
+    }
+   ],
+   "source": "לְבֵנָה",
+   "evidence": [
+    {
+     "ref": "EXO 1:14",
+     "form": "Ziegle"
+    },
+    {
+     "ref": "EXO 5:7",
+     "form": "Ziegle z mache"
+    }
+   ],
+   "note": "Wie 1,14 (term:brick_clay).",
+   "by": "agent:exo005",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:hanoch",
+   "kind": "name",
+   "value": "Hanoch",
+   "attested": "by-rule",
+   "words": [
+    "hanoch"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲנ֤וֹךְ",
+     "lemma": "חֲנוֹךְ",
+     "ref": "EXO 6:14"
+    }
+   ],
+   "source": "חֲנוֹךְ",
+   "evidence": [
+    {
+     "ref": "EXO 6:14",
+     "form": "Hanoch"
+    },
+    {
+     "ref": "GEN 46:9",
+     "form": "Hanoch"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:9.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:pallu",
+   "kind": "name",
+   "value": "Pallu",
+   "attested": "by-rule",
+   "words": [
+    "pallu"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פַלּוּא֙",
+     "lemma": "פַּלּוּא",
+     "ref": "EXO 6:14"
+    }
+   ],
+   "source": "פַּלּוּא",
+   "evidence": [
+    {
+     "ref": "EXO 6:14",
+     "form": "Pallu"
+    },
+    {
+     "ref": "GEN 46:9",
+     "form": "Pallu"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:9.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:hezron",
+   "kind": "name",
+   "value": "Hezron",
+   "attested": "by-rule",
+   "words": [
+    "hezron"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֶצְר֣וֹן",
+     "lemma": "חֶצְרוֹן",
+     "ref": "EXO 6:14"
+    }
+   ],
+   "source": "חֶצְרוֹן",
+   "evidence": [
+    {
+     "ref": "EXO 6:14",
+     "form": "Hezron"
+    },
+    {
+     "ref": "GEN 46:9",
+     "form": "Hezron"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:9.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:carmi",
+   "kind": "name",
+   "value": "Karmi",
+   "attested": "by-rule",
+   "words": [
+    "carmi"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כַרְמִ֔י",
+     "lemma": "כַּרְמִי",
+     "ref": "EXO 6:14"
+    }
+   ],
+   "source": "כַּרְמִי",
+   "evidence": [
+    {
+     "ref": "EXO 6:14",
+     "form": "Karmi"
+    },
+    {
+     "ref": "GEN 46:9",
+     "form": "Karmi"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:9.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:jemuel",
+   "kind": "name",
+   "value": "Jemuel",
+   "attested": "by-rule",
+   "words": [
+    "jemuel"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְמוּאֵ֨ל",
+     "lemma": "יְמוּאֵל",
+     "ref": "EXO 6:15"
+    }
+   ],
+   "source": "יְמוּאֵל",
+   "evidence": [
+    {
+     "ref": "EXO 6:15",
+     "form": "Jemuel"
+    },
+    {
+     "ref": "GEN 46:10",
+     "form": "Jemuel"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:jamin",
+   "kind": "name",
+   "value": "Jamin",
+   "attested": "by-rule",
+   "words": [
+    "jamin"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יָמִ֤ין",
+     "lemma": "יָמִין",
+     "ref": "EXO 6:15"
+    }
+   ],
+   "source": "יָמִין",
+   "evidence": [
+    {
+     "ref": "EXO 6:15",
+     "form": "Jamin"
+    },
+    {
+     "ref": "GEN 46:10",
+     "form": "Jamin"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ohad",
+   "kind": "name",
+   "value": "Ohad",
+   "attested": "by-rule",
+   "words": [
+    "ohad"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֹ֨הַד֙",
+     "lemma": "אֹהַד",
+     "ref": "EXO 6:15"
+    }
+   ],
+   "source": "אֹהַד",
+   "evidence": [
+    {
+     "ref": "EXO 6:15",
+     "form": "Ohad"
+    },
+    {
+     "ref": "GEN 46:10",
+     "form": "Ohad"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:jachin",
+   "kind": "name",
+   "value": "Jachin",
+   "attested": "by-rule",
+   "words": [
+    "jachin"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יָכִ֣ין",
+     "lemma": "יָכִין",
+     "ref": "EXO 6:15"
+    }
+   ],
+   "source": "יָכִין",
+   "evidence": [
+    {
+     "ref": "EXO 6:15",
+     "form": "Jachin"
+    },
+    {
+     "ref": "GEN 46:10",
+     "form": "Jachin"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:zohar",
+   "kind": "name",
+   "value": "Zochar",
+   "attested": "by-rule",
+   "words": [
+    "zohar"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צֹ֔חַר",
+     "lemma": "צֹחַר",
+     "ref": "EXO 6:15"
+    }
+   ],
+   "source": "צֹחַר",
+   "evidence": [
+    {
+     "ref": "EXO 6:15",
+     "form": "Zochar"
+    },
+    {
+     "ref": "GEN 46:10",
+     "form": "Zochar"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:shaul",
+   "kind": "name",
+   "value": "Schaul",
+   "attested": "by-rule",
+   "words": [
+    "shaul"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָׁא֖וּל",
+     "lemma": "שָׁאוּל",
+     "ref": "EXO 6:15"
+    }
+   ],
+   "source": "שָׁאוּל",
+   "evidence": [
+    {
+     "ref": "EXO 6:15",
+     "form": "Schaul"
+    },
+    {
+     "ref": "GEN 46:10",
+     "form": "Schaul"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:gershon",
+   "kind": "name",
+   "value": "Gerschon",
+   "attested": "by-rule",
+   "words": [
+    "gershon"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גֵּרְשׁ֕וֹן",
+     "lemma": "גֵּרְשׁוֹן",
+     "ref": "EXO 6:16"
+    }
+   ],
+   "source": "גֵּרְשׁוֹן",
+   "evidence": [
+    {
+     "ref": "EXO 6:16",
+     "form": "Gerschon"
+    },
+    {
+     "ref": "GEN 46:11",
+     "form": "Gerschon"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:11.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:kohath",
+   "kind": "name",
+   "value": "Kehat",
+   "attested": "by-rule",
+   "words": [
+    "kohath"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קְהָ֖ת",
+     "lemma": "קְהָת",
+     "ref": "EXO 6:16"
+    }
+   ],
+   "source": "קְהָת",
+   "evidence": [
+    {
+     "ref": "EXO 6:16",
+     "form": "Kehat"
+    },
+    {
+     "ref": "GEN 46:11",
+     "form": "Kehat"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:11.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:merari",
+   "kind": "name",
+   "value": "Merari",
+   "attested": "by-rule",
+   "words": [
+    "merari"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְרָרִ֑י",
+     "lemma": "מְרָרִי",
+     "ref": "EXO 6:16"
+    }
+   ],
+   "source": "מְרָרִי",
+   "evidence": [
+    {
+     "ref": "EXO 6:16",
+     "form": "Merari"
+    },
+    {
+     "ref": "GEN 46:11",
+     "form": "Merari"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:11.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:libni",
+   "kind": "name",
+   "value": "Libni",
+   "attested": "by-rule",
+   "words": [
+    "libni"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "לִבְנִ֥י",
+     "lemma": "לִבְנִי",
+     "ref": "EXO 6:17"
+    }
+   ],
+   "source": "לִבְנִי",
+   "evidence": [
+    {
+     "ref": "EXO 6:17",
+     "form": "Libni"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:shimei",
+   "kind": "name",
+   "value": "Schimi",
+   "attested": "by-rule",
+   "words": [
+    "shimei"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שִׁמְעִ֖י",
+     "lemma": "שִׁמְעִי",
+     "ref": "EXO 6:17"
+    }
+   ],
+   "source": "שִׁמְעִי",
+   "evidence": [
+    {
+     "ref": "EXO 6:17",
+     "form": "Schimi"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:amram",
+   "kind": "name",
+   "value": "Amram",
+   "attested": "by-rule",
+   "words": [
+    "amram"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַמְרָ֣ם",
+     "lemma": "עַמְרָם",
+     "ref": "EXO 6:18"
+    }
+   ],
+   "source": "עַמְרָם",
+   "evidence": [
+    {
+     "ref": "EXO 6:18",
+     "form": "Amram"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:izhar",
+   "kind": "name",
+   "value": "Jizhar",
+   "attested": "by-rule",
+   "words": [
+    "izhar"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִצְהָ֔ר",
+     "lemma": "יִצְהָר",
+     "ref": "EXO 6:18"
+    }
+   ],
+   "source": "יִצְהָר",
+   "evidence": [
+    {
+     "ref": "EXO 6:18",
+     "form": "Jizhar"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:uzziel",
+   "kind": "name",
+   "value": "Usiël",
+   "attested": "by-rule",
+   "words": [
+    "uzziel"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֻזִּיאֵ֑ל",
+     "lemma": "עֻזִּיאֵל",
+     "ref": "EXO 6:18"
+    }
+   ],
+   "source": "עֻזִּיאֵל",
+   "evidence": [
+    {
+     "ref": "EXO 6:18",
+     "form": "Usiël"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:mahli",
+   "kind": "name",
+   "value": "Machli",
+   "attested": "by-rule",
+   "words": [
+    "mahli"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַחְלִ֣י",
+     "lemma": "מַחְלִי",
+     "ref": "EXO 6:19"
+    }
+   ],
+   "source": "מַחְלִי",
+   "evidence": [
+    {
+     "ref": "EXO 6:19",
+     "form": "Machli"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:mushi",
+   "kind": "name",
+   "value": "Muschi",
+   "attested": "by-rule",
+   "words": [
+    "mushi"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מוּשִׁ֑י",
+     "lemma": "מוּשִׁי",
+     "ref": "EXO 6:19"
+    }
+   ],
+   "source": "מוּשִׁי",
+   "evidence": [
+    {
+     "ref": "EXO 6:19",
+     "form": "Muschi"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:jochebed",
+   "kind": "name",
+   "value": "Jochebed",
+   "attested": "by-rule",
+   "words": [
+    "jochebed"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יוֹכֶ֤בֶד",
+     "lemma": "יוֹכֶבֶד",
+     "ref": "EXO 6:20"
+    }
+   ],
+   "source": "יוֹכֶבֶד",
+   "evidence": [
+    {
+     "ref": "EXO 6:20",
+     "form": "Jochebed"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:korah",
+   "kind": "name",
+   "value": "Korach",
+   "attested": "by-rule",
+   "words": [
+    "korah"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קֹ֥רַח",
+     "lemma": "קֹרַח",
+     "ref": "EXO 6:21"
+    }
+   ],
+   "source": "קֹרַח",
+   "evidence": [
+    {
+     "ref": "EXO 6:21",
+     "form": "Korach"
+    },
+    {
+     "ref": "GEN 36:5",
+     "form": "Korach"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 36:5.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:nepheg",
+   "kind": "name",
+   "value": "Nefeg",
+   "attested": "by-rule",
+   "words": [
+    "nepheg"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נֶ֖פֶג",
+     "lemma": "נֶפֶג",
+     "ref": "EXO 6:21"
+    }
+   ],
+   "source": "נֶפֶג",
+   "evidence": [
+    {
+     "ref": "EXO 6:21",
+     "form": "Nefeg"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:zichri",
+   "kind": "name",
+   "value": "Sichri",
+   "attested": "by-rule",
+   "words": [
+    "zichri"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זִכְרִֽי",
+     "lemma": "זִכְרִי",
+     "ref": "EXO 6:21"
+    }
+   ],
+   "source": "זִכְרִי",
+   "evidence": [
+    {
+     "ref": "EXO 6:21",
+     "form": "Sichri"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:mishael",
+   "kind": "name",
+   "value": "Mischaël",
+   "attested": "by-rule",
+   "words": [
+    "mishael"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִֽישָׁאֵ֥ל",
+     "lemma": "מִישָׁאֵל",
+     "ref": "EXO 6:22"
+    }
+   ],
+   "source": "מִישָׁאֵל",
+   "evidence": [
+    {
+     "ref": "EXO 6:22",
+     "form": "Mischaël"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:elzaphan",
+   "kind": "name",
+   "value": "Elzafan",
+   "attested": "by-rule",
+   "words": [
+    "elzaphan"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶלְצָפָ֖ן",
+     "lemma": "אֶלְצָפָן",
+     "ref": "EXO 6:22"
+    }
+   ],
+   "source": "אֶלְצָפָן",
+   "evidence": [
+    {
+     "ref": "EXO 6:22",
+     "form": "Elzafan"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:sithri",
+   "kind": "name",
+   "value": "Sitri",
+   "attested": "by-rule",
+   "words": [
+    "sithri"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סִתְרִֽי",
+     "lemma": "סִתְרִי",
+     "ref": "EXO 6:22"
+    }
+   ],
+   "source": "סִתְרִי",
+   "evidence": [
+    {
+     "ref": "EXO 6:22",
+     "form": "Sitri"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:elisheba",
+   "kind": "name",
+   "value": "Elischeba",
+   "attested": "by-rule",
+   "words": [
+    "elisheba"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֱלִישֶׁ֧בַע",
+     "lemma": "אֱלִישֶׁבַע",
+     "ref": "EXO 6:23"
+    }
+   ],
+   "source": "אֱלִישֶׁבַע",
+   "evidence": [
+    {
+     "ref": "EXO 6:23",
+     "form": "Elischeba"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:amminadab",
+   "kind": "name",
+   "value": "Amminadab",
+   "attested": "attested",
+   "words": [
+    "amminadab"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַמִּינָדָ֛ב",
+     "lemma": "עַמִּינָדָב",
+     "ref": "EXO 6:23"
+    }
+   ],
+   "source": "עַמִּינָדָב",
+   "evidence": [
+    {
+     "ref": "EXO 6:23",
+     "form": "Amminadab"
+    },
+    {
+     "ref": "MAT 1:4",
+     "form": "Amminadab"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie MAT 1:4.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:nahshon",
+   "kind": "name",
+   "value": "Nachschon",
+   "attested": "attested",
+   "words": [
+    "nahshon"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נַחְשׁ֖וֹן",
+     "lemma": "נַחְשׁוֹן",
+     "ref": "EXO 6:23"
+    }
+   ],
+   "source": "נַחְשׁוֹן",
+   "evidence": [
+    {
+     "ref": "EXO 6:23",
+     "form": "Nachschon"
+    },
+    {
+     "ref": "MAT 1:4",
+     "form": "Nachschon"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie MAT 1:4.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:nadab",
+   "kind": "name",
+   "value": "Nadab",
+   "attested": "by-rule",
+   "words": [
+    "nadab"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נָדָב֙",
+     "lemma": "נָדָב",
+     "ref": "EXO 6:23"
+    }
+   ],
+   "source": "נָדָב",
+   "evidence": [
+    {
+     "ref": "EXO 6:23",
+     "form": "Nadab"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:abihu",
+   "kind": "name",
+   "value": "Abihu",
+   "attested": "by-rule",
+   "words": [
+    "abihu"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲבִיה֔וּא",
+     "lemma": "אֲבִיהוּא",
+     "ref": "EXO 6:23"
+    }
+   ],
+   "source": "אֲבִיהוּא",
+   "evidence": [
+    {
+     "ref": "EXO 6:23",
+     "form": "Abihu"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:eleazar",
+   "kind": "name",
+   "value": "Eleasar",
+   "attested": "by-rule",
+   "words": [
+    "eleazar"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶלְעָזָ֖ר",
+     "lemma": "אֶלְעָזָר",
+     "ref": "EXO 6:23"
+    }
+   ],
+   "source": "אֶלְעָזָר",
+   "evidence": [
+    {
+     "ref": "EXO 6:23",
+     "form": "Eleasar"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ithamar",
+   "kind": "name",
+   "value": "Itamar",
+   "attested": "by-rule",
+   "words": [
+    "ithamar"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אִֽיתָמָֽר",
+     "lemma": "אִיתָמָר",
+     "ref": "EXO 6:23"
+    }
+   ],
+   "source": "אִיתָמָר",
+   "evidence": [
+    {
+     "ref": "EXO 6:23",
+     "form": "Itamar"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:assir",
+   "kind": "name",
+   "value": "Assir",
+   "attested": "by-rule",
+   "words": [
+    "assir"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַסִּ֥יר",
+     "lemma": "אַסִּיר",
+     "ref": "EXO 6:24"
+    }
+   ],
+   "source": "אַסִּיר",
+   "evidence": [
+    {
+     "ref": "EXO 6:24",
+     "form": "Assir"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:elkanah",
+   "kind": "name",
+   "value": "Elkana",
+   "attested": "by-rule",
+   "words": [
+    "elkanah"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶלְקָנָ֖ה",
+     "lemma": "אֶלְקָנָה",
+     "ref": "EXO 6:24"
+    }
+   ],
+   "source": "אֶלְקָנָה",
+   "evidence": [
+    {
+     "ref": "EXO 6:24",
+     "form": "Elkana"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:abiasaph",
+   "kind": "name",
+   "value": "Abiasaf",
+   "attested": "by-rule",
+   "words": [
+    "abiasaph"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲבִיאָסָ֑ף",
+     "lemma": "אֲבִיאָסָף",
+     "ref": "EXO 6:24"
+    }
+   ],
+   "source": "אֲבִיאָסָף",
+   "evidence": [
+    {
+     "ref": "EXO 6:24",
+     "form": "Abiasaf"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:korahites",
+   "kind": "name",
+   "value": "Korachiter",
+   "attested": "by-rule",
+   "words": [
+    "korahites"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קָּרְחִֽי",
+     "lemma": "קׇרְחִי",
+     "ref": "EXO 6:24"
+    }
+   ],
+   "source": "קׇרְחִי",
+   "evidence": [
+    {
+     "ref": "EXO 6:24",
+     "form": "Korachiter"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:putiel",
+   "kind": "name",
+   "value": "Putiël",
+   "attested": "by-rule",
+   "words": [
+    "putiel"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פּֽוּטִיאֵל֙",
+     "lemma": "פּוּטִיאֵל",
+     "ref": "EXO 6:25"
+    }
+   ],
+   "source": "פּוּטִיאֵל",
+   "evidence": [
+    {
+     "ref": "EXO 6:25",
+     "form": "Putiël"
+    }
+   ],
+   "note": "Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4940_clan",
+   "kind": "term",
+   "value": "Sippe",
+   "attested": "by-rule",
+   "words": [
+    "clans",
+    "clan"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִשְׁפְּחֹ֥ת",
+     "lemma": "מִשְׁפָּחָה",
+     "ref": "EXO 6:14"
+    }
+   ],
+   "source": "מִשְׁפָּחָה",
+   "evidence": [
+    {
+     "ref": "GEN 12:3",
+     "form": "alli Sippe"
+    },
+    {
+     "ref": "EXO 6:14",
+     "form": "d Sippe vom Ruben"
+    }
+   ],
+   "note": "Im Korpus 0×; Wort der Genesis-Entwürfe (1Mo 10; 12,3; 28,14).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:numbers_hundert",
+   "kind": "term",
+   "value": "hundertsibenedryssg / hundertdrüedryssg / drüesachtzg",
+   "attested": "by-rule",
+   "words": [
+    "133",
+    "137",
+    "83"
+   ],
+   "interlinear": "hundred-seven-and-thirty",
+   "evidence": [
+    {
+     "ref": "GEN 25:17",
+     "form": "hundertsibenedryssg"
+    },
+    {
+     "ref": "EXO 6:16",
+     "form": "hundertsibenedryssg"
+    },
+    {
+     "ref": "EXO 6:18",
+     "form": "hundertdrüedryssg"
+    },
+    {
+     "ref": "EXO 7:7",
+     "form": "drüesachtzg"
+    }
+   ],
+   "note": "Zahlen in einem Wort wie in der Genesis (hundertfüfesibezg).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "source": "מֵאָה",
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְאַ֖ת",
+     "lemma": "מֵאָה",
+     "ref": "EXO 6:16"
+    }
+   ]
+  },
+  {
+   "id": "term:outstretched_arm",
+   "kind": "formula",
+   "value": "mit em usgstreckte Arm",
+   "attested": "by-rule",
+   "words": [
+    "outstretched arm",
+    "with an outstretched arm"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְטוּיָ֔ה",
+     "lemma": "נָטָה",
+     "ref": "EXO 6:6"
+    }
+   ],
+   "source": "נָטָה",
+   "evidence": [
+    {
+     "ref": "EXO 6:6",
+     "form": "usgstreckte Arm"
+    }
+   ],
+   "note": "בִּזְרוֹעַ נְטוּיָה; »usgstreckt« im Korpus 4×.",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ani_yhwh",
+   "kind": "formula",
+   "value": "I bi der HERR",
+   "attested": "by-rule",
+   "words": [
+    "i am the lord"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְהוָֽה",
+     "lemma": "יהוה",
+     "ref": "EXO 6:2"
+    }
+   ],
+   "source": "יהוה",
+   "evidence": [
+    {
+     "ref": "GEN 15:7",
+     "form": "I bi der HERR"
+    },
+    {
+     "ref": "EXO 6:2",
+     "form": "I bi der HERR"
+    }
+   ],
+   "note": "אֲנִי יְהוָה, gleich im ganzen Buch; mit Apposition »I bi der HERR, öie Gott« (6,7).",
+   "by": "agent:exo006",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:harden_qsh",
+   "kind": "formula",
+   "value": "sys Härz stur mache",
+   "attested": "by-rule",
+   "words": [
+    "harden",
+    "stubborn"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַקְשֶׁ֖ה",
+     "lemma": "קָשָׁה",
+     "ref": "EXO 7:3"
+    }
+   ],
+   "source": "קָשָׁה",
+   "evidence": [
+    {
+     "ref": "EXO 7:3",
+     "form": "sys Härz stur"
+    }
+   ],
+   "note": "קשׁה (Hif.) = »stur mache« (7,3; 13,15), getrennt von חזק »hert mache« und כבד »verherte«. Im Korpus 0×.",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5186_hand",
+   "kind": "term",
+   "value": "d Hand usstrecke / streck … us",
+   "attested": "by-rule",
+   "words": [
+    "stretch out my hand",
+    "stretch out your hand"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְטֹתִ֥",
+     "lemma": "נָטָה",
+     "ref": "EXO 7:5"
+    }
+   ],
+   "source": "נָטָה",
+   "evidence": [
+    {
+     "ref": "EXO 7:5",
+     "form": "my Hand … usstrecke"
+    },
+    {
+     "ref": "EXO 7:19",
+     "form": "streck dy Hand us"
+    }
+   ],
+   "note": "נָטָה יָד in den Plagen (7,5.19; 8,1.2.12.13; 9,22; 10,12.21; 14,16.21.26); gleich durch das Buch.",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3784_sorcerer",
+   "kind": "term",
+   "value": "Hexer",
+   "attested": "by-rule",
+   "words": [
+    "sorcerers"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְכַשְּׁפִ֑ים",
+     "lemma": "כָּשַׁף",
+     "ref": "EXO 7:11"
+    }
+   ],
+   "source": "כָּשַׁף",
+   "evidence": [
+    {
+     "ref": "EXO 7:11",
+     "form": "d Hexer"
+    }
+   ],
+   "note": "מְכַשְּׁפִים neben חֲכָמִים (Gschyde) und חַרְטֻמִּים (Zouberer, term:H2748); לָטִים/לְהָטִים = »Zoubereie«.",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H887_stink",
+   "kind": "term",
+   "value": "stinke / stinkt / gstunke",
+   "attested": "by-rule",
+   "words": [
+    "stink",
+    "stank"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בָאַ֣שׁ",
+     "lemma": "בָּאַשׁ",
+     "ref": "EXO 7:18"
+    }
+   ],
+   "source": "בָּאַשׁ",
+   "evidence": [
+    {
+     "ref": "EXO 7:18",
+     "form": "der Nil stinkt"
+    },
+    {
+     "ref": "EXO 7:21",
+     "form": "het gstunke"
+    }
+   ],
+   "note": "בָּאַשׁ (7,18.21; 8,10; 16,20).",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4723_reservoir",
+   "kind": "term",
+   "value": "Grabe / Lache / Wasserstelle",
+   "attested": "by-rule",
+   "words": [
+    "canals",
+    "ponds",
+    "reservoirs"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִקְוֵ֥ה",
+     "lemma": "מִקְוֶה",
+     "ref": "EXO 7:19"
+    }
+   ],
+   "source": "מִקְוֶה",
+   "evidence": [
+    {
+     "ref": "EXO 7:19",
+     "form": "alli iri Wasserstelle"
+    }
+   ],
+   "note": "Die Gewässer Ägyptens (7,19; 8,1): נְהָרֹת Flüss, יְאֹרִים Grabe, אֲגַמִּים Lache, מִקְוֵה מַיִם Wasserstelle.",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "medium",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2658_dig",
+   "kind": "term",
+   "value": "grabe / ggrabe",
+   "attested": "by-rule",
+   "words": [
+    "dug"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַּחְפְּר֧וּ",
+     "lemma": "חָפַר",
+     "ref": "EXO 7:24"
+    }
+   ],
+   "source": "חָפַר",
+   "evidence": [
+    {
+     "ref": "EXO 7:24",
+     "form": "nach Wasser ggrabe"
+    }
+   ],
+   "note": "Partizip »ggrabe« wie gge/ggange.",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8574_oven",
+   "kind": "term",
+   "value": "Ofe / Öfe",
+   "attested": "by-rule",
+   "words": [
+    "ovens"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תַנּוּרֶ֖י",
+     "lemma": "תַּנּוּר",
+     "ref": "EXO 7:28"
+    }
+   ],
+   "source": "תַּנּוּר",
+   "evidence": [
+    {
+     "ref": "EXO 7:28",
+     "form": "i dyni Öfe"
+    }
+   ],
+   "note": "Mehrzahl Öfe; מִשְׁאֶרֶת Teigschüssel = »Schüssle«.",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:as_commanded",
+   "kind": "formula",
+   "value": "wi ne der HERR befole het",
+   "attested": "by-rule",
+   "words": [
+    "just as the lord had commanded",
+    "as the lord commanded"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צִוָּ֧ה",
+     "lemma": "צָוָה",
+     "ref": "EXO 7:6"
+    }
+   ],
+   "source": "צָוָה",
+   "evidence": [
+    {
+     "ref": "EXO 7:6",
+     "form": "der HERR befole het"
+    }
+   ],
+   "note": "כַּאֲשֶׁר צִוָּה יְהוָה; Leitformel bis Kap. 39-40 (»wi der HERR em Mose befole het«).",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:as_said",
+   "kind": "formula",
+   "value": "wi’s der HERR gseit het",
+   "attested": "by-rule",
+   "words": [
+    "just as the lord had said"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דִּבֶּ֥ר",
+     "lemma": "דָבַר",
+     "ref": "EXO 7:13"
+    }
+   ],
+   "source": "דָבַר",
+   "evidence": [
+    {
+     "ref": "EXO 7:13",
+     "form": "der HERR gseit het"
+    }
+   ],
+   "note": "כַּאֲשֶׁר דִּבֶּר יְהוָה (7,13.22; 8,11.15; 9,12.35).",
+   "by": "agent:exo007",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:goshen",
+   "kind": "name",
+   "value": "Goschen",
+   "attested": "by-rule",
+   "words": [
+    "goshen"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גֹּ֗שֶׁן",
+     "lemma": "גֹּשֶׁן",
+     "ref": "EXO 8:18"
+    }
+   ],
+   "source": "גֹּשֶׁן",
+   "evidence": [
+    {
+     "ref": "GEN 45:10",
+     "form": "Goschen"
+    },
+    {
+     "ref": "EXO 8:18",
+     "form": "ds Land Goschen"
+    }
+   ],
+   "note": "Wie in den Genesis-Entwürfen (1Mo 45-47).",
+   "by": "agent:exo008",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2691_court",
+   "kind": "term",
+   "value": "Hof / Höf",
+   "attested": "by-rule",
+   "words": [
+    "courtyards"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲצֵרֹ֖ת",
+     "lemma": "חָצֵר",
+     "ref": "EXO 8:9"
+    }
+   ],
+   "source": "חָצֵר",
+   "evidence": [
+    {
+     "ref": "EXO 8:9",
+     "form": "i de Höf"
+    }
+   ],
+   "note": "חָצֵר als Hof eines Hauses; der Hof des Heiligtums (27,9) = »Vorhof«.",
+   "by": "agent:exo008",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6279_pray",
+   "kind": "term",
+   "value": "bätte / bbättet",
+   "attested": "by-rule",
+   "words": [
+    "pray",
+    "prayed"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הַעְתִּ֣ירוּ",
+     "lemma": "עָתַר",
+     "ref": "EXO 8:4"
+    }
+   ],
+   "source": "עָתַר",
+   "evidence": [
+    {
+     "ref": "EXO 8:4",
+     "form": "Bättet zum HERR"
+    },
+    {
+     "ref": "EXO 8:26",
+     "form": "het zum HERR bbättet"
+    }
+   ],
+   "note": "עָתַר (Fürbitte) in den Plagen = »bätte (für)«; הִתְפַּלֵּל ebenso.",
+   "by": "agent:exo008",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6303_finger_of_god",
+   "kind": "formula",
+   "value": "Gottes Finger",
+   "attested": "attested",
+   "words": [
+    "finger of god"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶצְבַּ֥ע",
+     "lemma": "אֶצְבַּע",
+     "ref": "EXO 8:15"
+    }
+   ],
+   "source": "אֶצְבַּע",
+   "evidence": [
+    {
+     "ref": "EXO 8:15",
+     "form": "Gottes Finger"
+    },
+    {
+     "ref": "LUK 11:20",
+     "form": "Gottes Finger"
+    }
+   ],
+   "note": "Wie Bietenhard Lk 11,20 (dort der Druckfehler »Binger«); auch 31,18 (Tafeln).",
+   "by": "agent:exo008",
+   "date": "2026-10-30",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8441_abomination",
+   "kind": "term",
+   "value": "es Gröiel",
+   "attested": "by-rule",
+   "words": [
+    "detestable",
+    "abomination"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תּוֹעֲבַ֣ת",
+     "lemma": "תּוֹעֵבַה",
+     "ref": "EXO 8:22"
+    }
+   ],
+   "source": "תּוֹעֵבַה",
+   "evidence": [
+    {
+     "ref": "GEN 43:32",
+     "form": "es Gröiel"
+    },
+    {
+     "ref": "EXO 8:22",
+     "form": "es Gröiel"
+    }
+   ],
+   "note": "תּוֹעֵבָה = »es Gröiel«, wie 1Mo 43,32; 46,34 (Entwürfe).",
+   "by": "agent:exo008",
+   "date": "2026-10-30",
    "confidence": "high",
    "method": "project-decision",
    "status": "decided"

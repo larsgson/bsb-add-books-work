@@ -1,6 +1,6 @@
 ---
 title: Namen
-entries: [letter_h, letter_sh, letter_ts, letter_tradition, name:*, letter_greek_os, letter_greek_ph, letter_greek_ai, letter_greek_ia, letter_greek_ky, letter_greek_y, letter_th]
+entries: [letter_h, letter_sh, letter_ts, letter_tradition, name:*, letter_greek_os, letter_greek_ph, letter_greek_ai, letter_greek_ia, letter_greek_ky, letter_greek_y, letter_th, name:midian, name:reuel, name:zipporah, name:gershom, name:canaanites, name:hittites, name:perizzites, name:hivites, name:jebusites, name:jethro, name:aaron, name:hanoch, name:pallu, name:hezron, name:carmi, name:jemuel, name:jamin, name:ohad, name:jachin, name:zohar, name:shaul, name:gershon, name:kohath, name:merari, name:libni, name:shimei, name:amram, name:izhar, name:uzziel, name:mahli, name:mushi, name:jochebed, name:korah, name:nepheg, name:zichri, name:mishael, name:elzaphan, name:sithri, name:elisheba, name:amminadab, name:nahshon, name:nadab, name:abihu, name:eleazar, name:ithamar, name:assir, name:elkanah, name:abiasaph, name:korahites, name:putiel, name:goshen]
 ---
 # Namen
 
@@ -76,6 +76,312 @@ Für griechische Namen, die das Korpus nicht hat, gelten seine Muster: -ος →
   - NT: JHN 1:45 *Nazaret*; LUK 2:4 *Betlehem*
   - Stimmt mit name:pithom (Pitom) und name:bethel (Betel) überein.
   - agent:curation-study, 2026-10-15
+- **`name:midian`** מִדְיָן → **Midian** [high, decided, attested]
+  - gloss: מִדְיָן: מִדְיָ֖ן (EXO 2:15) — English (generated): of Midian
+  - NT: ACT 7:29 *im Land Midian*; EXO 2:15 *im Land Midian*
+  - answers: midian
+  - Wie Apg 7,29 und 1Mo 25; 36; 37.
+  - agent:exo002, 2026-10-30
+- **`name:reuel`** רְעוּאֵל → **Reuel** [medium, decided, by-rule]
+  - gloss: רְעוּאֵל: רְעוּאֵ֖ל (EXO 2:18) — English (generated): Reuel
+  - NT: GEN 36:4 *Reuel*; EXO 2:18 *Reuel*
+  - answers: reuel
+  - Wie 1Mo 36. Der Schwiegervater des Mose heisst ab 3,1 Jitro (BSB-Fussnote).
+  - agent:exo002, 2026-10-30
+- **`name:zipporah`** צִפֹּרָה → **Zippora** [medium, decided, by-rule]
+  - gloss: צִפֹּרָה: צִפֹּרָ֥ה (EXO 2:21) — English (generated): Zipporah
+  - NT: EXO 2:21 *Zippora*
+  - answers: zipporah
+  - ṣ → z, Doppel-p wie Luther/Zürcher, ohne h am Ende.
+  - agent:exo002, 2026-10-30
+- **`name:gershom`** גֵּרְשֹׁם → **Gerschom** [medium, decided, by-rule]
+  - gloss: גֵּרְשֹׁם: גֵּרְשֹׁ֑ם (EXO 2:22) — English (generated): Gershom
+  - NT: EXO 2:22 *Gerschom*
+  - answers: gershom
+  - š → sch. Namensdeutung (Frömde) als Fussnote.
+  - agent:exo002, 2026-10-30
+- **`name:canaanites`** כְּנַעֲנִי → **Kanaaniter** [high, decided, by-rule]
+  - gloss: כְּנַעֲנִי: כְּנַעֲנִי֙ (EXO 3:8) — English (generated): of the Canaanites
+  - NT: GEN 15:21 *Kanaaniter*; EXO 3:8 *de Kanaaniter*
+  - answers: canaanites
+  - Völkerliste wie 1Mo 15,19-21; im Dativ »de Kanaaniter«.
+  - agent:exo003, 2026-10-30
+- **`name:hittites`** חִתִּי → **Hetiter** [high, decided, by-rule]
+  - gloss: חִתִּי: חִתִּ֔י (EXO 3:8) — English (generated): Hittites
+  - NT: GEN 23:10 *Hetiter*; EXO 3:8 *de Hetiter*
+  - answers: hittites
+  - H für ḥ am Namensanfang (Genesis-Regel).
+  - agent:exo003, 2026-10-30
+- **`name:perizzites`** פְּרִזִּי → **Perisiter** [high, decided, by-rule]
+  - gloss: פְּרִזִּי: פְּרִזִּ֔י (EXO 3:8) — English (generated): Perizzites
+  - NT: GEN 13:7 *Perisiter*; EXO 3:8 *de Perisiter*
+  - answers: perizzites
+  - Wie 1Mo 13,7; 15,20.
+  - agent:exo003, 2026-10-30
+- **`name:hivites`** חִוִּי → **Hiwiter** [high, decided, by-rule]
+  - gloss: חִוִּי: חִוִּ֖י (EXO 3:8) — English (generated): Hivites
+  - NT: GEN 34:2 *Hiwiter*; EXO 3:8 *de Hiwiter*
+  - answers: hivites
+  - Wie 1Mo 34,2.
+  - agent:exo003, 2026-10-30
+- **`name:jebusites`** יְבוּסִי → **Jebusiter** [high, decided, by-rule]
+  - gloss: יְבוּסִי: יְבוּסִֽי (EXO 3:8) — English (generated): and Jebusites
+  - NT: GEN 15:21 *Jebusiter*; EXO 3:8 *de Jebusiter*
+  - answers: jebusites
+  - Wie 1Mo 15,21.
+  - agent:exo003, 2026-10-30
+- **`name:jethro`** יִתְרוֹ → **Jitro** [medium, decided, by-rule]
+  - gloss: יִתְרוֹ: יִתְר֥וֹ (EXO 3:1) — English (generated): Jethro
+  - NT: EXO 3:1 *Jitro*
+  - answers: jethro
+  - Wie Luther/Zürcher (th → t). Derselbe wie Reuel (2,18).
+  - agent:exo003, 2026-10-30
+- **`name:aaron`** אַהֲרֹן → **Aaron** [high, decided, attested]
+  - gloss: אַהֲרֹן: אַהֲרֹ֤ן (EXO 4:14) — English (generated): Aaron
+  - NT: ACT 7:40 *zum Aaron*; EXO 4:14 *dy Brueder Aaron*
+  - answers: aaron
+  - Wie Apg 7,40; Hebr 5,4; mit Artikel (der Aaron).
+  - agent:exo004, 2026-10-30
+- **`name:hanoch`** חֲנוֹךְ → **Hanoch** [medium, decided, by-rule]
+  - gloss: חֲנוֹךְ: חֲנ֤וֹךְ (EXO 6:14) — English (generated): Hanoch
+  - NT: EXO 6:14 *Hanoch*; GEN 46:9 *Hanoch*
+  - answers: hanoch
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:9.
+  - agent:exo006, 2026-10-30
+- **`name:pallu`** פַּלּוּא → **Pallu** [medium, decided, by-rule]
+  - gloss: פַּלּוּא: פַלּוּא֙ (EXO 6:14) — English (generated): and Pallu
+  - NT: EXO 6:14 *Pallu*; GEN 46:9 *Pallu*
+  - answers: pallu
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:9.
+  - agent:exo006, 2026-10-30
+- **`name:hezron`** חֶצְרוֹן → **Hezron** [medium, decided, by-rule]
+  - gloss: חֶצְרוֹן: חֶצְר֣וֹן (EXO 6:14) — English (generated): Hezron
+  - NT: EXO 6:14 *Hezron*; GEN 46:9 *Hezron*
+  - answers: hezron
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:9.
+  - agent:exo006, 2026-10-30
+- **`name:carmi`** כַּרְמִי → **Karmi** [medium, decided, by-rule]
+  - gloss: כַּרְמִי: כַרְמִ֔י (EXO 6:14) — English (generated): and Carmi
+  - NT: EXO 6:14 *Karmi*; GEN 46:9 *Karmi*
+  - answers: carmi
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:9.
+  - agent:exo006, 2026-10-30
+- **`name:jemuel`** יְמוּאֵל → **Jemuel** [medium, decided, by-rule]
+  - gloss: יְמוּאֵל: יְמוּאֵ֨ל (EXO 6:15) — English (generated): Jemuel
+  - NT: EXO 6:15 *Jemuel*; GEN 46:10 *Jemuel*
+  - answers: jemuel
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.
+  - agent:exo006, 2026-10-30
+- **`name:jamin`** יָמִין → **Jamin** [medium, decided, by-rule]
+  - gloss: יָמִין: יָמִ֤ין (EXO 6:15) — English (generated): Jamin
+  - NT: EXO 6:15 *Jamin*; GEN 46:10 *Jamin*
+  - answers: jamin
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.
+  - agent:exo006, 2026-10-30
+- **`name:ohad`** אֹהַד → **Ohad** [medium, decided, by-rule]
+  - gloss: אֹהַד: אֹ֨הַד֙ (EXO 6:15) — English (generated): Ohad
+  - NT: EXO 6:15 *Ohad*; GEN 46:10 *Ohad*
+  - answers: ohad
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.
+  - agent:exo006, 2026-10-30
+- **`name:jachin`** יָכִין → **Jachin** [medium, decided, by-rule]
+  - gloss: יָכִין: יָכִ֣ין (EXO 6:15) — English (generated): Jachin
+  - NT: EXO 6:15 *Jachin*; GEN 46:10 *Jachin*
+  - answers: jachin
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.
+  - agent:exo006, 2026-10-30
+- **`name:zohar`** צֹחַר → **Zochar** [medium, decided, by-rule]
+  - gloss: צֹחַר: צֹ֔חַר (EXO 6:15) — English (generated): Zohar
+  - NT: EXO 6:15 *Zochar*; GEN 46:10 *Zochar*
+  - answers: zohar
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.
+  - agent:exo006, 2026-10-30
+- **`name:shaul`** שָׁאוּל → **Schaul** [medium, decided, by-rule]
+  - gloss: שָׁאוּל: שָׁא֖וּל (EXO 6:15) — English (generated): and Shaul
+  - NT: EXO 6:15 *Schaul*; GEN 46:10 *Schaul*
+  - answers: shaul
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:10.
+  - agent:exo006, 2026-10-30
+- **`name:gershon`** גֵּרְשׁוֹן → **Gerschon** [medium, decided, by-rule]
+  - gloss: גֵּרְשׁוֹן: גֵּרְשׁ֕וֹן (EXO 6:16) — English (generated): Gershon
+  - NT: EXO 6:16 *Gerschon*; GEN 46:11 *Gerschon*
+  - answers: gershon
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:11.
+  - agent:exo006, 2026-10-30
+- **`name:kohath`** קְהָת → **Kehat** [medium, decided, by-rule]
+  - gloss: קְהָת: קְהָ֖ת (EXO 6:16) — English (generated): Kohath
+  - NT: EXO 6:16 *Kehat*; GEN 46:11 *Kehat*
+  - answers: kohath
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:11.
+  - agent:exo006, 2026-10-30
+- **`name:merari`** מְרָרִי → **Merari** [medium, decided, by-rule]
+  - gloss: מְרָרִי: מְרָרִ֑י (EXO 6:16) — English (generated): and Merari
+  - NT: EXO 6:16 *Merari*; GEN 46:11 *Merari*
+  - answers: merari
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 46:11.
+  - agent:exo006, 2026-10-30
+- **`name:libni`** לִבְנִי → **Libni** [medium, decided, by-rule]
+  - gloss: לִבְנִי: לִבְנִ֥י (EXO 6:17) — English (generated): Libni
+  - NT: EXO 6:17 *Libni*
+  - answers: libni
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:shimei`** שִׁמְעִי → **Schimi** [medium, decided, by-rule]
+  - gloss: שִׁמְעִי: שִׁמְעִ֖י (EXO 6:17) — English (generated): and Shimei
+  - NT: EXO 6:17 *Schimi*
+  - answers: shimei
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:amram`** עַמְרָם → **Amram** [medium, decided, by-rule]
+  - gloss: עַמְרָם: עַמְרָ֣ם (EXO 6:18) — English (generated): Amram
+  - NT: EXO 6:18 *Amram*
+  - answers: amram
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:izhar`** יִצְהָר → **Jizhar** [medium, decided, by-rule]
+  - gloss: יִצְהָר: יִצְהָ֔ר (EXO 6:18) — English (generated): Izhar
+  - NT: EXO 6:18 *Jizhar*
+  - answers: izhar
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:uzziel`** עֻזִּיאֵל → **Usiël** [medium, decided, by-rule]
+  - gloss: עֻזִּיאֵל: עֻזִּיאֵ֑ל (EXO 6:18) — English (generated): and Uzziel
+  - NT: EXO 6:18 *Usiël*
+  - answers: uzziel
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:mahli`** מַחְלִי → **Machli** [medium, decided, by-rule]
+  - gloss: מַחְלִי: מַחְלִ֣י (EXO 6:19) — English (generated): Mahli
+  - NT: EXO 6:19 *Machli*
+  - answers: mahli
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:mushi`** מוּשִׁי → **Muschi** [medium, decided, by-rule]
+  - gloss: מוּשִׁי: מוּשִׁ֑י (EXO 6:19) — English (generated): and Mushi
+  - NT: EXO 6:19 *Muschi*
+  - answers: mushi
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:jochebed`** יוֹכֶבֶד → **Jochebed** [medium, decided, by-rule]
+  - gloss: יוֹכֶבֶד: יוֹכֶ֤בֶד (EXO 6:20) — English (generated): Jochebed
+  - NT: EXO 6:20 *Jochebed*
+  - answers: jochebed
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:korah`** קֹרַח → **Korach** [medium, decided, by-rule]
+  - gloss: קֹרַח: קֹ֥רַח (EXO 6:21) — English (generated): Korah
+  - NT: EXO 6:21 *Korach*; GEN 36:5 *Korach*
+  - answers: korah
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 36:5.
+  - agent:exo006, 2026-10-30
+- **`name:nepheg`** נֶפֶג → **Nefeg** [medium, decided, by-rule]
+  - gloss: נֶפֶג: נֶ֖פֶג (EXO 6:21) — English (generated): Nepheg
+  - NT: EXO 6:21 *Nefeg*
+  - answers: nepheg
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:zichri`** זִכְרִי → **Sichri** [medium, decided, by-rule]
+  - gloss: זִכְרִי: זִכְרִֽי (EXO 6:21) — English (generated): and Zichri
+  - NT: EXO 6:21 *Sichri*
+  - answers: zichri
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:mishael`** מִישָׁאֵל → **Mischaël** [medium, decided, by-rule]
+  - gloss: מִישָׁאֵל: מִֽישָׁאֵ֥ל (EXO 6:22) — English (generated): Mishael
+  - NT: EXO 6:22 *Mischaël*
+  - answers: mishael
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:elzaphan`** אֶלְצָפָן → **Elzafan** [medium, decided, by-rule]
+  - gloss: אֶלְצָפָן: אֶלְצָפָ֖ן (EXO 6:22) — English (generated): Elzaphan
+  - NT: EXO 6:22 *Elzafan*
+  - answers: elzaphan
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:sithri`** סִתְרִי → **Sitri** [medium, decided, by-rule]
+  - gloss: סִתְרִי: סִתְרִֽי (EXO 6:22) — English (generated): and Sithri
+  - NT: EXO 6:22 *Sitri*
+  - answers: sithri
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:elisheba`** אֱלִישֶׁבַע → **Elischeba** [medium, decided, by-rule]
+  - gloss: אֱלִישֶׁבַע: אֱלִישֶׁ֧בַע (EXO 6:23) — English (generated): Elisheba
+  - NT: EXO 6:23 *Elischeba*
+  - answers: elisheba
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:amminadab`** עַמִּינָדָב → **Amminadab** [medium, decided, attested]
+  - gloss: עַמִּינָדָב: עַמִּינָדָ֛ב (EXO 6:23) — English (generated): of Amminadab
+  - NT: EXO 6:23 *Amminadab*; MAT 1:4 *Amminadab*
+  - answers: amminadab
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie MAT 1:4.
+  - agent:exo006, 2026-10-30
+- **`name:nahshon`** נַחְשׁוֹן → **Nachschon** [medium, decided, attested]
+  - gloss: נַחְשׁוֹן: נַחְשׁ֖וֹן (EXO 6:23) — English (generated): of Nahshon
+  - NT: EXO 6:23 *Nachschon*; MAT 1:4 *Nachschon*
+  - answers: nahshon
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie MAT 1:4.
+  - agent:exo006, 2026-10-30
+- **`name:nadab`** נָדָב → **Nadab** [medium, decided, by-rule]
+  - gloss: נָדָב: נָדָב֙ (EXO 6:23) — English (generated): Nadab
+  - NT: EXO 6:23 *Nadab*
+  - answers: nadab
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:abihu`** אֲבִיהוּא → **Abihu** [medium, decided, by-rule]
+  - gloss: אֲבִיהוּא: אֲבִיה֔וּא (EXO 6:23) — English (generated): and Abihu
+  - NT: EXO 6:23 *Abihu*
+  - answers: abihu
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:eleazar`** אֶלְעָזָר → **Eleasar** [medium, decided, by-rule]
+  - gloss: אֶלְעָזָר: אֶלְעָזָ֖ר (EXO 6:23) — English (generated): Eleazar
+  - NT: EXO 6:23 *Eleasar*
+  - answers: eleazar
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:ithamar`** אִיתָמָר → **Itamar** [medium, decided, by-rule]
+  - gloss: אִיתָמָר: אִֽיתָמָֽר (EXO 6:23) — English (generated): and Ithamar
+  - NT: EXO 6:23 *Itamar*
+  - answers: ithamar
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:assir`** אַסִּיר → **Assir** [medium, decided, by-rule]
+  - gloss: אַסִּיר: אַסִּ֥יר (EXO 6:24) — English (generated): Assir
+  - NT: EXO 6:24 *Assir*
+  - answers: assir
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:elkanah`** אֶלְקָנָה → **Elkana** [medium, decided, by-rule]
+  - gloss: אֶלְקָנָה: אֶלְקָנָ֖ה (EXO 6:24) — English (generated): Elkanah
+  - NT: EXO 6:24 *Elkana*
+  - answers: elkanah
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:abiasaph`** אֲבִיאָסָף → **Abiasaf** [medium, decided, by-rule]
+  - gloss: אֲבִיאָסָף: אֲבִיאָסָ֑ף (EXO 6:24) — English (generated): and Abiasaph
+  - NT: EXO 6:24 *Abiasaf*
+  - answers: abiasaph
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:korahites`** קׇרְחִי → **Korachiter** [medium, decided, by-rule]
+  - gloss: קׇרְחִי: קָּרְחִֽי (EXO 6:24) — English (generated): of the Korahites
+  - NT: EXO 6:24 *Korachiter*
+  - answers: korahites
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:putiel`** פּוּטִיאֵל → **Putiël** [medium, decided, by-rule]
+  - gloss: פּוּטִיאֵל: פּֽוּטִיאֵל֙ (EXO 6:25) — English (generated): of Putiel
+  - NT: EXO 6:25 *Putiël*
+  - answers: putiel
+  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
+  - agent:exo006, 2026-10-30
+- **`name:goshen`** גֹּשֶׁן → **Goschen** [high, decided, by-rule]
+  - gloss: גֹּשֶׁן: גֹּ֗שֶׁן (EXO 8:18) — English (generated): of Goshen
+  - NT: GEN 45:10 *Goschen*; EXO 8:18 *ds Land Goschen*
+  - answers: goshen
+  - Wie in den Genesis-Entwürfen (1Mo 45-47).
+  - agent:exo008, 2026-10-30
 - **`name:naomi`** נָעֳמִי → **Noomi** [high, decided, attested]
   - NT: RUT 2:1 *Noomi*
   - answers: naomi
@@ -514,4 +820,4 @@ Für griechische Namen, die das Korpus nicht hat, gelten seine Muster: -ος →
   - NT: ACT 4:36 *Zypere*
   - answers: cyprus
   - agent:curation-study, 2026-10-15
-<!-- store:end sha=ea13a57c -->
+<!-- store:end sha=737a1185 -->

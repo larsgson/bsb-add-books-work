@@ -1,50 +1,37 @@
-# make-tanakh
+# make-tanakh-work
 
-Draft new Bible translations chapter by chapter, **directly from the Hebrew and Greek**. The **BSB** (or the
-**MSB** for a majority-text NT) is the only assisting translation. Existing translations in the target language
-serve as **style** models. `docs/workflow.md` describes the way of working.
+Bible drafts made with the [make-tanakh](https://github.com/bcv-commons/make-tanakh) toolkit: chapter by chapter,
+**directly from the Hebrew and Greek**, with the **BSB** as the only assisting translation and existing translations
+in the target language as **style** models. This repo is a **work copy** of the template: it holds the projects and
+their data, and takes the tools (`scripts/`, `docs/`, `.claude/`, unchanged) by merging the template's tags.
+How it stands among the related repos: [`RELATIONS.md`](RELATIONS.md).
 
-## Start here: a new language
+Every chapter is an unreviewed **draft** until a language team publishes it (`STATUS.md` in each project).
 
-```
-git clone https://github.com/bcv-commons/make-tanakh.git my-work && cd my-work
-git remote rename origin template          # the template stays a remote: merge its updates later
-pip install pyyaml usfmtc
-python3 scripts/onboard.py
-```
+## Projects
 
-The clone is your **work copy**: your projects go there, and it takes the template's updates by merging
-(`docs/workflow.md`, *Your work copy*). The wizard sets up a language project step by step, from the language and its existing translations to the
-tools that fit it. The full guide: [`docs/onboarding.md`](docs/onboarding.md).
+| Project | Language | Style models | Drafted (in git) |
+|---|---|---|---|
+| `export/dan/dan_BSB/` | Danish, continuing Den Frie Bibel (CC0) | Den Frie Bibel | 269 OT chapters: the books and chapters Den Frie Bibel doesn't have yet (Gen 21-50, Joshua, Samuel, Kings, Ezra-Esther, Proverbs, Ecclesiastes, Song of Songs, Daniel, Minor Prophets, ...) |
+| `export/ch-de-be/ch-de-be_BSB/` | Bern German (Bärndütsch) | Bietenhard's Bern German NT (non-free, local only) | Genesis, Ruth, Psalms, Jonah, Exodus 1; Ephesians, John |
+| `export/kvg/kvg_BSB/` | Kuni (Kuni-Boazi, Papua New Guinea), a language the model doesn't know | the Kuni NT, Ruth, Jonah (NC-ND, local only) | Genesis 31-50 |
+| `export/jam/jam_BSB/` | Jamaican Creole | Di Jamiekan Nyuu Testiment (non-free, local only) | Genesis 1 |
 
-**What you need:** Python 3, and [Claude Code](https://claude.com/claude-code) or an Anthropic API key. Keys go in
-the git-ignored `.env` in the repository folder (or the environment):
+Each project has its drafts (`<code>/<code>NNN.txt` with notes, footnotes and word alignment `.align`), its language
+store (`profile/`), its wiki (`wiki/`), `STATUS.md` and `CREDITS.md`. The editions' texts are not in git; non-free
+ones stay on the maintainer's machine, and work derived from them that may not be public goes to `local_output/`
+(never in git).
 
-- `ANTHROPIC_API_KEY=…` to run the probes through the API;
-- `DBT_API_KEY=…` for languages only on the Digital Bible Platform (free at https://4.dbt.io).
+**Website:** the projects are published from the `site` branch (`scripts/build_site.py`, `scripts/deploy_site.py`;
+[`docs/website.md`](docs/website.md)): every draft marked as a draft, the language memory, the credits.
 
-**Your work as a website:** `python3 scripts/build_site.py --preview`, then open `build/site/index.html`. To put it
-online: [`docs/website.md`](docs/website.md).
+## Working here
 
-**Two small demo projects** show a project after some work, each with its store, wiki and alignments:
-
-- `export/dan/dan_BSB/`: Danish, a language the model knows well, continuing Den Frie Bibel (CC0); one chapter each
-  of Genesis (33), Joshua (16) and Daniel (12), with their style guides and review overviews;
-- `export/jam/jam_BSB/`: Jamaican Creole, partly known; its style edition is non-free; Genesis 1.
-
-Their editions' texts are not in git. Get them with `python3 import/CC0/dan/den-frie-bibel/sync_from_upstream.py`
-(Danish) and `python3 scripts/fetch_edition.py jambswn-et` (Jamaican; needs `DBT_API_KEY`). Delete the project
-folders and their editions when you no longer want them. Two more sample editions, NTs without a project, stand for
-a language the model doesn't know: Bodo Parja (CC BY, Odia script) and Zinza (CC BY-SA). See
-[`import/README.md`](import/README.md), *Sample editions*.
-
-## Related repos
-
-This repo is the template: tools, formats, docs and skills, plus the two demos. Projects live in a **work copy**, a
-copy of the template that merges its updates and keeps only data (`docs/workflow.md`, *Your work copy*), so the
-template stays free of project data. New tools start in bcv-commons/make-tanakh-grammar and come here when they are
-measured. How the three relate, what each gives the others and how versions are pinned:
-[`docs/related-repos.md`](docs/related-repos.md); the versions: [`CHANGELOG.md`](CHANGELOG.md).
+The tools and their guide are the template's: [`docs/workflow.md`](docs/workflow.md),
+[`docs/onboarding.md`](docs/onboarding.md), and `CLAUDE.md` for Claude Code. Tool changes are not made here: they go to
+the template (as a fix) or to bcv-commons/make-tanakh-grammar (new tools), and come back with the next merged tag.
+Template updates: `git fetch template --tags`, then merge the tag (`RELATIONS.md`, section 7: the checks after each
+merge).
 
 ## Layout
 

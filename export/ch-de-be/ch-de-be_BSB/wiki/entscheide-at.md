@@ -1,6 +1,6 @@
 ---
 title: Entscheide AT-Wortschatz
-entries: [term:H2617, term:H1350, term:H2205, term:H3618, term:H2545, term:H8184, term:H2406, term:H7105, term:H7641, term:H1637, term:H5401, formula:weep_aloud, term:H2009, term:H3247, term:H4487, term:H2904, term:H7021, term:royal_robe, term:H1254, formula:in_the_beginning, formula:tohu_wabohu, term:H8415, term:H7549, formula:evening_morning, formula:and_it_was_so, formula:that_it_was_good, formula:after_its_kind, term:nefesh_chayah, term:H120, term:H5175, term:H6174, term:H779, term:H1288, term:H3999, term:H8392, term:H7198, term:H1285, term:H2555, term:H4135, term:H8198, term:H1616, term:H2233, term:H6666, term:gebiret, term:H3045_sex, term:H436, term:H520, term:H8255, formula:gathered_to_people, formula:here_i_am, formula:and_he_died, term:H5631, term:H953, term:captain_guard, term:H4676, term:H2748, term:H8441, term:H6629, term:H3701, term:H6485, term:rech_nichoach, term:midwife, formula:fear_god, term:chayah_piel, term:brick_clay, term:perek, term:forced_labor, term:store_cities, term:nile, term:newborn_son_daughter, formula:the_more_the_more, term:qutz_dread, term:chayot, term:deal_shrewdly, term:sharats, term:title_exodus]
+entries: [term:H2617, term:H1350, term:H2205, term:H3618, term:H2545, term:H8184, term:H2406, term:H7105, term:H7641, term:H1637, term:H5401, formula:weep_aloud, term:H2009, term:H3247, term:H4487, term:H2904, term:H7021, term:royal_robe, term:H1254, formula:in_the_beginning, formula:tohu_wabohu, term:H8415, term:H7549, formula:evening_morning, formula:and_it_was_so, formula:that_it_was_good, formula:after_its_kind, term:nefesh_chayah, term:H120, term:H5175, term:H6174, term:H779, term:H1288, term:H3999, term:H8392, term:H7198, term:H1285, term:H2555, term:H4135, term:H8198, term:H1616, term:H2233, term:H6666, term:gebiret, term:H3045_sex, term:H436, term:H520, term:H8255, formula:gathered_to_people, formula:here_i_am, formula:and_he_died, term:H5631, term:H953, term:captain_guard, term:H4676, term:H2748, term:H8441, term:H6629, term:H3701, term:H6485, term:rech_nichoach, term:midwife, formula:fear_god, term:chayah_piel, term:brick_clay, term:perek, term:forced_labor, term:store_cities, term:nile, term:newborn_son_daughter, formula:the_more_the_more, term:qutz_dread, term:chayot, term:deal_shrewdly, term:sharats, term:title_exodus, term:tebah_basket, term:H1573_papyrus, term:tar_pitch, term:H5488_reeds, term:hebrew_adj, term:H2896_beautiful, term:H3243_nurse, term:H4871_draw_out, term:H584_groan, term:H5647_avodah_work, formula:named_him, term:ruler_judge, term:H5572_bush, term:H5927_bring_up, term:H7342_spacious, term:days_journey, formula:milk_honey, formula:peoples_list, formula:ehyeh, formula:god_of_fathers, term:H2859_father_in_law, term:H2205_elders_israel, term:H5337_plunder, term:H4294_staff, term:H6879_leprous, term:H8210_pour, formula:harden_hzq, term:H1060_firstborn, term:bridegroom_blood, formula:bow_worship, term:H3881_levite, formula:go_in_peace, term:H2436_bosom, term:H7860_foremen, term:H8401_straw, formula:thus_says_yhwh, formula:let_my_people_go, term:H1698_pestilence, term:H7503_lazy, term:H3843_bricks, term:H4940_clan, term:numbers_hundert, term:outstretched_arm, formula:ani_yhwh, formula:harden_qsh, term:H5186_hand, term:H3784_sorcerer, term:H887_stink, term:H4723_reservoir, term:H2658_dig, term:H8574_oven, formula:as_commanded, formula:as_said, term:H2691_court, term:H6279_pray, term:H6303_finger_of_god, term:H8441_abomination]
 ---
 # Entscheide AT-Wortschatz (Genesis, Rut, Jona)
 
@@ -26,6 +26,12 @@ dort den Entwurf beibehalten und im Notizfile nennen.
   בְּפָרֶךְ »ohni Erbarme«, Fronvögt / Fronarbeit (Fron- im Korpus nicht belegt), Vorratsstedt,
   »je meh …, descht meh« (wie Apg 7,17), שָׁרַץ »wimmle« wie Gen 1,20. Buchtitel »Ds zwöite Buech
   Mose« ist offen.
+
+## Exodus (2. Mose)
+
+- Leitwort עבד/עֲבֹדָה in 2Mo 1-6 als »Arbeit« (nicht »Sklaverei«), damit der Dienst für Gott (3,12) als Gegenstück hörbar bleibt (2Mo 1,13-14; 2,23).
+- תֵּבָה in 2Mo 2 »Chörbli«, mit Fussnote auf die Arche. Benennung: »het ihm der Name … ggä« wie in der Genesis.
+- Wo Bietenhards NT 2Mo zitiert (Apg 7; Mk 12,26; Röm 9 usw.), übernimmt der Entwurf den Wortlaut des Zitats (2Mo 1,8; 2,14).
 
 ## Store entries
 
@@ -346,10 +352,11 @@ dort den Entwurf beibehalten und im Notizfile nennen.
   - בְּפָרֶךְ 2Mo 1,13.14 beide Male gleich.
   - agent:exo001, 2026-10-15
 - **`term:forced_labor`** שָׂרֵי מִסִּים / סִבְלֹת → **Fronvögt / Fronarbeit** [medium, decided, attested]
-  - NT: MRK 10:42 *Vögt.*; EXO 1:11 *Fronvögt*
-  - answers: taskmasters, forced labor
+  - gloss: נָגַשׂ: נֹּגְשִׂ֣ים (EXO 5:6) — English (generated): the taskmasters
+  - NT: MRK 10:42 *Vögt.*; EXO 1:11 *Fronvögt*; EXO 5:10 *d Fronvögt*
+  - answers: forced labor, oppressors, slave drivers, taskmasters
   - Fron- im Korpus nicht belegt (siehe gap:fron); Vogt/Vögt 1×. Gilt für 2Mo 1,11; 3,7; 5,6-14.
-  - agent:exo001, 2026-10-15
+  - agent:exo001, 2026-10-30
 - **`term:store_cities`** עָרֵי מִסְכְּנוֹת → **Vorratsstedt** [medium, decided, attested]
   - NT: MAT 12:35 *Vorrat*; EXO 1:11 *Vorratsstedt*
   - answers: store cities, supply cities
@@ -395,4 +402,352 @@ dort den Entwurf beibehalten und im Notizfile nennen.
   - answers: exodus
   - Titel nach dem Muster »Ds erschte Buech Mose«; Korpusverweise »2Mo«. Offen bis zur Durchsicht.
   - agent:exo001, 2026-10-15
-<!-- store:end sha=d356d6e0 -->
+- **`term:tebah_basket`** תֵּבָה → **Chörbli** [medium, decided, attested]
+  - gloss: תֵּבָה: תֵּ֣בַת (EXO 2:3) — English (generated): basket
+  - NT: EXO 2:3 *es Chörbli us Papyrus*; EXO 2:5 *ds Chörbli*
+  - answers: basket, papyrus basket
+  - תֵּבָה in 2Mo 2,3.5 (sonst Arche, 1Mo 6-9); Fussnote verweist auf die Arche. Chörbli 1× im Korpus.
+  - agent:exo002, 2026-10-30
+- **`term:H1573_papyrus`** גֹּמֶא → **Papyrus** [medium, decided, by-rule]
+  - gloss: גֹּמֶא: גֹּ֔מֶא (EXO 2:3) — English (generated): a papyrus
+  - NT: EXO 2:3 *us Papyrus*
+  - answers: papyrus
+  - Im Korpus nicht belegt; Fremdwort wie im Hochdeutschen (rough_check meldet es als Englisch).
+  - agent:exo002, 2026-10-30
+- **`term:tar_pitch`** חָמַר → **Erdpech / Pech / aastryche / aagstriche** [medium, decided, by-rule]
+  - gloss: חָמַר: תַּחְמְרָ֥ (EXO 2:3) — English (generated): and coated it
+  - gloss: זֶפֶת: זָּ֑פֶת (EXO 2:3) — English (generated): and pitch
+  - NT: EXO 2:3 *mit Erdpech*; EXO 2:3 *aagstriche*; GEN 6:14 *mit Pech aa*
+  - answers: tar, pitch, coated
+  - חֵמָר als Erdpech (vgl. Erdpechgruebe 1Mo 14,10), זֶפֶת Pech; Pech 1× im Korpus.
+  - agent:exo002, 2026-10-30
+- **`term:H5488_reeds`** סוּף → **Schilf** [medium, decided, by-rule]
+  - gloss: סוּף: סּ֖וּף (EXO 2:3) — English (generated): it among the reeds
+  - NT: EXO 2:3 *im Schilf*; EXO 2:5 *im Schilf*
+  - answers: reeds
+  - Korpus nur Schilfrohr (3×); Schilf wie 1Mo 41,2.18. ים סוף bleibt »ds rote Meer« (name:red_sea).
+  - agent:exo002, 2026-10-30
+- **`term:hebrew_adj`** עִבְרִי → **hebräisch / hebräischi / hebräische / Hebräer** [medium, decided, by-rule]
+  - gloss: עִבְרִי: עִבְרִיֹּ֑ת (EXO 2:7) — English (generated): the Hebrew
+  - NT: EXO 1:15 *de hebräische Hebamme*; EXO 2:7 *e hebräischi Amme*
+  - answers: hebrew, hebrews
+  - Adjektiv flektiert nach der Regel: e hebräischi Frou, di hebräische Froue (Dativ de hebräische …); Substantiv der Hebräer.
+  - agent:exo002, 2026-10-30
+- **`term:H2896_beautiful`** טוֹב → **schön / schöns** [medium, decided, by-rule]
+  - gloss: טוֹב: ט֣וֹב (EXO 2:2) — English (generated): beautiful
+  - NT: EXO 2:2 *es schöns Chind*
+  - answers: beautiful, fine
+  - טוֹב vom Kind (BSB beautiful); schöns = Neutrum nach es.
+  - agent:exo002, 2026-10-30
+- **`term:H3243_nurse`** יָנַק → **Amme / stille / gstillt** [medium, decided, by-rule]
+  - gloss: יָנַק: תֵינִ֥ק (EXO 2:7) — English (generated): to nurse
+  - NT: EXO 2:7 *e hebräischi Amme*; EXO 2:9 *het ne gstillt*; GEN 24:59 *Amme*
+  - answers: nurse, nursed, nursing
+  - Amme wie 1Mo 24,59; 35,8; stille 7× im Korpus (meist anderer Sinn), hier ein Kind stille.
+  - agent:exo002, 2026-10-30
+- **`term:H4871_draw_out`** מֹשֶׁה → **usezie / usezoge** [medium, decided, by-rule]
+  - gloss: מֹשֶׁה: מֹשֶׁ֔ה (EXO 2:10) — English (generated): Moses
+  - NT: EXO 2:10 *us em Wasser usezoge*
+  - answers: drew out, drew him out
+  - Wortspiel mit Mose als Fussnote (Namensdeutung).
+  - agent:exo002, 2026-10-30
+- **`term:H584_groan`** אָנַח → **süüfzge / gsüüfzget / Süüfzge** [medium, decided, attested]
+  - gloss: אָנַח: יֵּאָנְח֧וּ (EXO 2:23) — English (generated): groaned
+  - NT: ACT 7:34 *süüfzge*; EXO 2:23 *gsüüfzget*; EXO 2:24 *ires Süüfzge*
+  - answers: groaned, groaning, groan
+  - Apg 7,34 zitiert 2Mo 3,7 mit süüfzge; נְאָקָה (2,24) ebenfalls Süüfzge.
+  - agent:exo002, 2026-10-30
+- **`term:H5647_avodah_work`** עֲבֹדָה → **Arbeit / herti Arbeit** [medium, decided, attested]
+  - gloss: עֲבֹדָה: עֲבֹדָ֖ה (EXO 2:23) — English (generated): burden of slavery
+  - NT: EXO 1:14 *mit herter Arbeit*; EXO 2:23 *under der herte Arbeit*
+  - answers: slavery, bondage, labor, work
+  - Leitwort עבד: in 2Mo 1-6 »Arbeit« (nicht Sklaverei), damit der Gegensatz zum Dienst für Gott (3,12) hörbar bleibt; Gottesdienst-Stellen eigens entscheiden.
+  - agent:exo002, 2026-10-30
+- **`formula:named_him`** קָרָא → **het ihm der Name … ggä** [high, decided, attested]
+  - gloss: קָרָא: תִּקְרָ֤א (EXO 2:10) — English (generated): She named him
+  - NT: GEN 21:3 *der Name Isaak ggä*; EXO 2:10 *der Name Mose ggä*; EXO 2:22 *der Name Gerschom ggä*
+  - answers: named him, called his name
+  - Benennungsformel wie in der Genesis; Namensdeutung in die Fussnote.
+  - agent:exo002, 2026-10-30
+- **`term:ruler_judge`** שַׂר → **Regänt und Richter** [high, decided, attested]
+  - gloss: שַׂר: שַׂ֤ר (EXO 2:14) — English (generated): ruler
+  - gloss: שָׁפַט: שֹׁפֵט֙ (EXO 2:14) — English (generated): and judge
+  - NT: ACT 7:27 *zum Regänt und Richter*; EXO 2:14 *zum Regänt und Richter*
+  - answers: ruler and judge
+  - Apg 7,27.35 zitiert 2Mo 2,14; Wortlaut übernommen.
+  - agent:exo002, 2026-10-30
+- **`term:H5572_bush`** סְנֶה → **Dorngstüd** [high, decided, attested]
+  - gloss: סְנֶה: סְּנֶ֑ה (EXO 3:2) — English (generated): a bush
+  - NT: ACT 7:30 *brönnige Dorngstüd*; ACT 7:35 *im Dorngstüd*; EXO 3:2 *mene Dorngstüd*
+  - answers: bush, burning bush
+  - Nach Apg 7,30.35 (Mk 12,26 hat ein anderes Wort für dieselbe Stelle).
+  - agent:exo003, 2026-10-30
+- **`term:H5927_bring_up`** עָלָה → **usefüere / usezfüere / usegfüert** [high, decided, attested]
+  - gloss: עָלָה: הַעֲלֹת (EXO 3:8) — English (generated): and to bring them up
+  - gloss: יָצָא: הוֹצֵ֛א (EXO 3:10) — English (generated): to bring
+  - NT: ACT 7:36 *usegfüert*; EXO 3:8 *usezfüere*
+  - answers: bring up, bring out, brought out
+  - Für העלה und הוציא (Auszug aus Ägypte) gleich: usefüere; Infinitiv mit z in der Mitte.
+  - agent:exo003, 2026-10-30
+- **`term:H7342_spacious`** רָחָב → **wyt / wyts** [medium, decided, attested]
+  - gloss: רָחָב: רְחָבָ֔ה (EXO 3:8) — English (generated): and spacious
+  - NT: EXO 3:8 *guets und wyts Land*
+  - answers: spacious, wide
+  - wyt im Korpus belegt; wyts = Neutrum nach es/nes.
+  - agent:exo003, 2026-10-30
+- **`term:days_journey`** דֶּרֶךְ → **Tagreis / Tagreise** [medium, decided, attested]
+  - gloss: דֶּרֶךְ: דֶּ֣רֶךְ (EXO 3:18) — English (generated): journey
+  - NT: GEN 30:36 *drei Tagreise*; EXO 3:18 *drei Tagreise wyt*
+  - answers: day's journey, three-day journey, days journey
+  - Wie 1Mo 30,36; 31,23.
+  - agent:exo003, 2026-10-30
+- **`formula:milk_honey`** זוּב → **es Land, wo Milch und Hung fliesst** [high, decided, by-rule]
+  - gloss: זוּב: זָבַ֥ת (EXO 3:8) — English (generated): flowing
+  - gloss: חָלָב: חָלָ֖ב (EXO 3:8) — English (generated): with milk
+  - NT: EXO 3:8 *Milch und Hung fliesst*; EXO 3:17 *Milch und Hung fliesst*
+  - answers: a land flowing with milk and honey, flowing with milk and honey
+  - Feste Formel für das ganze Buch; Hung wie term:honey.
+  - agent:exo003, 2026-10-30
+- **`formula:peoples_list`** כְּנַעֲנִי → **d Kanaaniter, d Hetiter, d Amoriter, d Perisiter, d Hiwiter und d Jebusiter** [high, decided, by-rule]
+  - gloss: כְּנַעֲנִי: כְּנַעֲנִי֙ (EXO 3:8) — English (generated): of the Canaanites
+  - NT: EXO 3:8 *de Kanaaniter*; EXO 3:17 *de Jebusiter*
+  - answers: canaanites, hittites, amorites, perizzites, hivites, and jebusites
+  - Reihenfolge wie im Hebräischen der Stelle; im Dativ »de …«.
+  - agent:exo003, 2026-10-30
+- **`formula:ehyeh`** הָיָה → **I BI DÄ, WO I BI** [medium, decided, by-rule]
+  - gloss: הָיָה: אֶֽהְיֶ֖ה (EXO 3:14) — English (generated): I AM
+  - NT: EXO 3:14 *I BI DÄ*; EXO 3:14 *WO I BI*
+  - answers: i am who i am, i am
+  - Grossbuchstaben wie BSB I AM und wie HERR; Fussnote: Oder »I wirde sy, wo i wirde sy«. Kurzform ‚I BI‘ als Name.
+  - agent:exo003, 2026-10-30
+- **`formula:god_of_fathers`** אֱלֹהִים → **der Gott vom Abraham und der Gott vom Isaak und der Gott vom Jakob** [high, decided, attested]
+  - gloss: אֱלֹהִים: אֱלֹהֵ֣י (EXO 3:6) — English (generated): am the God
+  - NT: MRK 12:26 *der Gott vom Abraham*; EXO 3:6 *der Gott vom Isaak*; EXO 3:15 *der Gott vom Jakob*
+  - answers: the god of abraham, the god of isaac, and the god of jacob
+  - Wortlaut nach Mk 12,26 / Mt 22,32, die 2Mo 3,6 zitieren; »der Gott vo öine Vätter« (3,13.15.16).
+  - agent:exo003, 2026-10-30
+- **`term:H2859_father_in_law`** חֹתֵן → **Schwigervatter** [high, decided, attested]
+  - gloss: חֹתֵן: חֹתְנ֖ (EXO 3:1) — English (generated): of his father in law
+  - NT: GEN 38:13 *dy Schwigervatter*; EXO 3:1 *sym Schwigervatter*
+  - answers: father-in-law
+  - Schwigervatter 1× im Korpus; wie 1Mo 38.
+  - agent:exo003, 2026-10-30
+- **`term:H2205_elders_israel`** זָקֵן → **d Eltischte vo Israel** [high, decided, attested]
+  - gloss: זָקֵן: זִקְנֵ֣י (EXO 3:16) — English (generated): the elders
+  - NT: EXO 3:16 *d Eltischte vo Israel*; EXO 3:18 *den Eltischte vo Israel*
+  - answers: elders of israel, elders
+  - Für die Ältesten des Volkes (nicht Stadtrat wie term:H2205 Ratsherre in Rut).
+  - agent:exo003, 2026-10-30
+- **`term:H5337_plunder`** נָצַל → **usplündere / plünderet … us** [medium, decided, attested]
+  - gloss: נָצַל: נִצַּלְתֶּ֖ם (EXO 3:22) — English (generated): So you will plunder
+  - NT: EXO 3:22 *plünderet dihr*
+  - answers: plunder
+  - usplündere 2× im Korpus; 2Mo 3,22; 12,36.
+  - agent:exo003, 2026-10-30
+- **`term:H4294_staff`** מַטֶּה → **Stab / Stäb** [high, decided, attested]
+  - gloss: מַטֶּה: מַטֶּֽה (EXO 4:2) — English (generated): A staff
+  - NT: EXO 4:2 *E Stab*; EXO 4:20 *der Stab vo Gott*; EXO 7:12 *iri Stäb*
+  - answers: rod, staff, staffs
+  - מַטֶּה des Mose und Aarons durchgehend »Stab« (Stab 1× im Korpus); מַקֵּל/מִשְׁעֶנֶת anders (Stäcke).
+  - agent:exo004, 2026-10-30
+- **`term:H6879_leprous`** צָרַע → **ussätzig / ussätzigi / Ussatz** [high, decided, attested]
+  - gloss: צָרַע: מְצֹרַ֥עַת (EXO 4:6) — English (generated): leprous
+  - NT: MAT 8:2 *Ussätzige*; EXO 4:6 *isch ussätzig gsi*
+  - answers: leprous, leprosy
+  - Prädikativ unflektiert »ussätzig«; im Korpus ussätzige/ussätzigi 10×, Ussatz 4×.
+  - agent:exo004, 2026-10-30
+- **`term:H8210_pour`** שָׁפַךְ → **schütte / schüttisch / gschüttet** [medium, decided, attested]
+  - gloss: שָׁפַךְ: שָׁפַכְתָּ֖ (EXO 4:9) — English (generated): and pour
+  - NT: EXO 4:9 *schüttisch es*
+  - answers: pour
+  - schütte 2×, schüttet 4× im Korpus; 2. Sg. »schüttisch«.
+  - agent:exo004, 2026-10-30
+- **`formula:harden_hzq`** חָזַק → **sys Härz hert mache / ds Härz isch hert bblibe** [high, decided, by-rule]
+  - gloss: חָזַק: אֲחַזֵּ֣ק (EXO 4:21) — English (generated): will harden
+  - NT: EXO 4:21 *sys Härz hert*
+  - answers: harden his heart, heart was hardened, hardened
+  - Verstockungsformeln 2Mo 4-14: חזק = »hert mache / hert sy«; כבד = »verherte / verhertet« (wörtlich schwer); קשׁה (7,3; 13,15) eigens. Gleich durch das ganze Buch.
+  - agent:exo004, 2026-10-30
+- **`term:H1060_firstborn`** וְ → **Erschtgeborene / Erschtgeboreni** [high, decided, attested]
+  - gloss: וְ: וְ (EXO 4:22) — English (generated): Then tell
+  - NT: PSA 105:36 *alli Erschtgeborene*; EXO 4:22 *my Erschtgeborene*
+  - answers: firstborn
+  - Wie Ps 78,51; 105,36 (Entwürfe).
+  - agent:exo004, 2026-10-30
+- **`term:bridegroom_blood`** חָתָן → **Bluet-Brütigam** [medium, decided, by-rule]
+  - gloss: חָתָן: חֲתַן (EXO 4:25) — English (generated): a bridegroom
+  - NT: EXO 4:25 *e Bluet-Brütigam*
+  - answers: bridegroom of blood
+  - Brütigam 16× im Korpus; Zusammensetzung mit Bindestrich.
+  - agent:exo004, 2026-10-30
+- **`formula:bow_worship`** קָדַד → **si hei sech bbückt und aabbättet** [high, decided, attested]
+  - gloss: קָדַד: יִּקְּד֖וּ (EXO 4:31) — English (generated): they bowed down
+  - gloss: חוה: יִּֽשְׁתַּחֲוּֽוּ (EXO 4:31) — English (generated): and worshiped
+  - NT: EXO 4:31 *sech bbückt und aabbättet*
+  - answers: bowed down and worshiped
+  - קדד + השׁתחוה (2Mo 4,31; 12,27; 34,8); bbückt 5×, aabbättet 10× im Korpus.
+  - agent:exo004, 2026-10-30
+- **`term:H3881_levite`** לֵוִי → **Levit / Levite** [high, decided, attested]
+  - gloss: לֵוִי: לֵּוִ֔י (EXO 4:14) — English (generated): the Levite
+  - NT: LUK 10:32 *e Levit*; EXO 4:14 *der Levit*
+  - answers: levite, levites
+  - Personenbezeichnung; der Stamm heisst »Stamm Levi« (2,1).
+  - agent:exo004, 2026-10-30
+- **`formula:go_in_peace`** שָׁלוֹם → **Gang im Fride!** [high, decided, attested]
+  - gloss: שָׁלוֹם: שָׁלֽוֹם (EXO 4:18) — English (generated): in peace
+  - NT: LUK 7:50 *gang im Fride*; EXO 4:18 *Gang im Fride*
+  - answers: go in peace
+  - Wie Lk 7,50; 8,48.
+  - agent:exo004, 2026-10-30
+- **`term:H2436_bosom`** חֵיק → **i ds Chleid a d Bruscht** [medium, decided, by-rule]
+  - gloss: חֵיק: חֵיקֶ֔ (EXO 4:6) — English (generated): inside your cloak
+  - NT: EXO 4:6 *i dys Chleid*
+  - answers: cloak, bosom
+  - חֵיק »Gewandbausch, Brust«; BSB cloak.
+  - agent:exo004, 2026-10-30
+- **`term:H7860_foremen`** שֹׁטֵר → **Vorarbeiter** [medium, decided, by-rule]
+  - gloss: שֹׁטֵר: שֹׁטְרָ֖י (EXO 5:6) — English (generated): and their foremen
+  - NT: EXO 5:6 *irne Vorarbeiter*; EXO 5:14 *d Vorarbeiter*
+  - answers: foremen, foreman, officers
+  - Israelitische Aufseher unter den ägyptischen Fronvögt (נֹגְשִׂים); im Korpus kein Wort dafür.
+  - agent:exo005, 2026-10-30
+- **`term:H8401_straw`** תֶּבֶן → **Strou** [high, decided, attested]
+  - gloss: תֶּבֶן: תֶּ֧בֶן (EXO 5:7) — English (generated): with straw
+  - NT: EXO 5:7 *Strou*; GEN 24:25 *Strou*
+  - answers: straw
+  - Strou 1× im Korpus; קַשׁ (5,12) »Halm«.
+  - agent:exo005, 2026-10-30
+- **`formula:thus_says_yhwh`** אָמַר → **So seit der HERR** [high, decided, by-rule]
+  - gloss: אָמַר: יֹּאמְר֖וּ (EXO 5:1) — English (generated): and said
+  - NT: EXO 4:22 *So seit der HERR*; EXO 5:1 *So seit der HERR*
+  - answers: this is what the lord says, thus says the lord
+  - Botenformel כֹּה אָמַר יְהוָה; ebenso »So seit der Pharao« (5,10).
+  - agent:exo005, 2026-10-30
+- **`formula:let_my_people_go`** שָׁלַח → **La mys Volk ga, für dass si mir chöi diene** [high, decided, by-rule]
+  - gloss: שָׁלַח: שַׁלַּח֙ (EXO 5:1) — English (generated): go
+  - NT: EXO 4:23 *La my Suhn ga*; EXO 5:1 *La mys Volk ga*
+  - answers: let my people go
+  - שַׁלַּח אֶת־עַמִּי + Zweck (5,1 Fest feiern; 7,16 usw. diene). Gleich in Kap. 5-10.
+  - agent:exo005, 2026-10-30
+- **`term:H1698_pestilence`** דֶּבֶר → **Süüch** [medium, decided, attested]
+  - gloss: דֶּבֶר: דֶּ֖בֶר (EXO 5:3) — English (generated): with plagues
+  - NT: LUK 21:11 *Süüche*; EXO 5:3 *mit ere Süüch*
+  - answers: plagues, pestilence, plague
+  - דֶּבֶר als Seuche; die »Plagen« (נֶגַע/מַכָּה) eigens.
+  - agent:exo005, 2026-10-30
+- **`term:H7503_lazy`** רָפָה → **fuul** [medium, decided, attested]
+  - gloss: רָפָה: נִרְפִּ֣ים (EXO 5:8) — English (generated): are lazy
+  - NT: EXO 5:17 *Fuul syt dihr*
+  - answers: lazy, slackers
+  - fuul 3× im Korpus.
+  - agent:exo005, 2026-10-30
+- **`term:H3843_bricks`** לְבֵנָה → **Ziegle / Ziegle mache** [high, decided, by-rule]
+  - gloss: לְבֵנָה: לְּבֵנִ֖ים (EXO 5:7) — English (generated): bricks
+  - NT: EXO 1:14 *Ziegle*; EXO 5:7 *Ziegle z mache*
+  - answers: bricks, make bricks
+  - Wie 1,14 (term:brick_clay).
+  - agent:exo005, 2026-10-30
+- **`term:H4940_clan`** מִשְׁפָּחָה → **Sippe** [high, decided, by-rule]
+  - gloss: מִשְׁפָּחָה: מִשְׁפְּחֹ֥ת (EXO 6:14) — English (generated): were the clans
+  - NT: GEN 12:3 *alli Sippe*; EXO 6:14 *d Sippe vom Ruben*
+  - answers: clans, clan
+  - Im Korpus 0×; Wort der Genesis-Entwürfe (1Mo 10; 12,3; 28,14).
+  - agent:exo006, 2026-10-30
+- **`term:numbers_hundert`** מֵאָה → **hundertsibenedryssg / hundertdrüedryssg / drüesachtzg** [high, decided, by-rule]
+  - gloss: מֵאָה: מְאַ֖ת (EXO 6:16)
+  - interlinear: `hundred-seven-and-thirty`
+  - NT: GEN 25:17 *hundertsibenedryssg*; EXO 6:16 *hundertsibenedryssg*; EXO 6:18 *hundertdrüedryssg*; EXO 7:7 *drüesachtzg*
+  - answers: 133, 137, 83
+  - Zahlen in einem Wort wie in der Genesis (hundertfüfesibezg).
+  - agent:exo006, 2026-10-30
+- **`term:outstretched_arm`** נָטָה → **mit em usgstreckte Arm** [high, decided, by-rule]
+  - gloss: נָטָה: נְטוּיָ֔ה (EXO 6:6) — English (generated): with an outstretched
+  - NT: EXO 6:6 *usgstreckte Arm*
+  - answers: outstretched arm, with an outstretched arm
+  - בִּזְרוֹעַ נְטוּיָה; »usgstreckt« im Korpus 4×.
+  - agent:exo006, 2026-10-30
+- **`formula:ani_yhwh`** יהוה → **I bi der HERR** [high, decided, by-rule]
+  - gloss: יהוה: יְהוָֽה (EXO 6:2) — English (generated): am the LORD
+  - NT: GEN 15:7 *I bi der HERR*; EXO 6:2 *I bi der HERR*
+  - answers: i am the lord
+  - אֲנִי יְהוָה, gleich im ganzen Buch; mit Apposition »I bi der HERR, öie Gott« (6,7).
+  - agent:exo006, 2026-10-30
+- **`formula:harden_qsh`** קָשָׁה → **sys Härz stur mache** [medium, decided, by-rule]
+  - gloss: קָשָׁה: אַקְשֶׁ֖ה (EXO 7:3) — English (generated): will harden
+  - NT: EXO 7:3 *sys Härz stur*
+  - answers: harden, stubborn
+  - קשׁה (Hif.) = »stur mache« (7,3; 13,15), getrennt von חזק »hert mache« und כבד »verherte«. Im Korpus 0×.
+  - agent:exo007, 2026-10-30
+- **`term:H5186_hand`** נָטָה → **d Hand usstrecke / streck … us** [high, decided, by-rule]
+  - gloss: נָטָה: נְטֹתִ֥ (EXO 7:5) — English (generated): when I stretch out
+  - NT: EXO 7:5 *my Hand … usstrecke*; EXO 7:19 *streck dy Hand us*
+  - answers: stretch out my hand, stretch out your hand
+  - נָטָה יָד in den Plagen (7,5.19; 8,1.2.12.13; 9,22; 10,12.21; 14,16.21.26); gleich durch das Buch.
+  - agent:exo007, 2026-10-30
+- **`term:H3784_sorcerer`** כָּשַׁף → **Hexer** [medium, decided, by-rule]
+  - gloss: כָּשַׁף: מְכַשְּׁפִ֑ים (EXO 7:11) — English (generated): and sorcerers
+  - NT: EXO 7:11 *d Hexer*
+  - answers: sorcerers
+  - מְכַשְּׁפִים neben חֲכָמִים (Gschyde) und חַרְטֻמִּים (Zouberer, term:H2748); לָטִים/לְהָטִים = »Zoubereie«.
+  - agent:exo007, 2026-10-30
+- **`term:H887_stink`** בָּאַשׁ → **stinke / stinkt / gstunke** [high, decided, by-rule]
+  - gloss: בָּאַשׁ: בָאַ֣שׁ (EXO 7:18) — English (generated): will stink
+  - NT: EXO 7:18 *der Nil stinkt*; EXO 7:21 *het gstunke*
+  - answers: stink, stank
+  - בָּאַשׁ (7,18.21; 8,10; 16,20).
+  - agent:exo007, 2026-10-30
+- **`term:H4723_reservoir`** מִקְוֶה → **Grabe / Lache / Wasserstelle** [medium, decided, by-rule]
+  - gloss: מִקְוֶה: מִקְוֵ֥ה (EXO 7:19) — English (generated): the reservoirs
+  - NT: EXO 7:19 *alli iri Wasserstelle*
+  - answers: canals, ponds, reservoirs
+  - Die Gewässer Ägyptens (7,19; 8,1): נְהָרֹת Flüss, יְאֹרִים Grabe, אֲגַמִּים Lache, מִקְוֵה מַיִם Wasserstelle.
+  - agent:exo007, 2026-10-30
+- **`term:H2658_dig`** חָפַר → **grabe / ggrabe** [high, decided, by-rule]
+  - gloss: חָפַר: יַּחְפְּר֧וּ (EXO 7:24) — English (generated): dug
+  - NT: EXO 7:24 *nach Wasser ggrabe*
+  - answers: dug
+  - Partizip »ggrabe« wie gge/ggange.
+  - agent:exo007, 2026-10-30
+- **`term:H8574_oven`** תַּנּוּר → **Ofe / Öfe** [high, decided, by-rule]
+  - gloss: תַּנּוּר: תַנּוּרֶ֖י (EXO 7:28) — English (generated): and into your ovens
+  - NT: EXO 7:28 *i dyni Öfe*
+  - answers: ovens
+  - Mehrzahl Öfe; מִשְׁאֶרֶת Teigschüssel = »Schüssle«.
+  - agent:exo007, 2026-10-30
+- **`formula:as_commanded`** צָוָה → **wi ne der HERR befole het** [high, decided, by-rule]
+  - gloss: צָוָה: צִוָּ֧ה (EXO 7:6) — English (generated): had commanded them
+  - NT: EXO 7:6 *der HERR befole het*
+  - answers: just as the lord had commanded, as the lord commanded
+  - כַּאֲשֶׁר צִוָּה יְהוָה; Leitformel bis Kap. 39-40 (»wi der HERR em Mose befole het«).
+  - agent:exo007, 2026-10-30
+- **`formula:as_said`** דָבַר → **wi’s der HERR gseit het** [high, decided, by-rule]
+  - gloss: דָבַר: דִּבֶּ֥ר (EXO 7:13) — English (generated): had said
+  - NT: EXO 7:13 *der HERR gseit het*
+  - answers: just as the lord had said
+  - כַּאֲשֶׁר דִּבֶּר יְהוָה (7,13.22; 8,11.15; 9,12.35).
+  - agent:exo007, 2026-10-30
+- **`term:H2691_court`** חָצֵר → **Hof / Höf** [high, decided, by-rule]
+  - gloss: חָצֵר: חֲצֵרֹ֖ת (EXO 8:9) — English (generated): the courtyards
+  - NT: EXO 8:9 *i de Höf*
+  - answers: courtyards
+  - חָצֵר als Hof eines Hauses; der Hof des Heiligtums (27,9) = »Vorhof«.
+  - agent:exo008, 2026-10-30
+- **`term:H6279_pray`** עָתַר → **bätte / bbättet** [high, decided, by-rule]
+  - gloss: עָתַר: הַעְתִּ֣ירוּ (EXO 8:4) — English (generated): Pray
+  - NT: EXO 8:4 *Bättet zum HERR*; EXO 8:26 *het zum HERR bbättet*
+  - answers: pray, prayed
+  - עָתַר (Fürbitte) in den Plagen = »bätte (für)«; הִתְפַּלֵּל ebenso.
+  - agent:exo008, 2026-10-30
+- **`term:H6303_finger_of_god`** אֶצְבַּע → **Gottes Finger** [high, decided, attested]
+  - gloss: אֶצְבַּע: אֶצְבַּ֥ע (EXO 8:15) — English (generated): is the finger
+  - NT: EXO 8:15 *Gottes Finger*; LUK 11:20 *Gottes Finger*
+  - answers: finger of god
+  - Wie Bietenhard Lk 11,20 (dort der Druckfehler »Binger«); auch 31,18 (Tafeln).
+  - agent:exo008, 2026-10-30
+- **`term:H8441_abomination`** תּוֹעֵבַה → **es Gröiel** [high, decided, by-rule]
+  - gloss: תּוֹעֵבַה: תּוֹעֲבַ֣ת (EXO 8:22) — English (generated): would be detestable
+  - NT: GEN 43:32 *es Gröiel*; EXO 8:22 *es Gröiel*
+  - answers: detestable, abomination
+  - תּוֹעֵבָה = »es Gröiel«, wie 1Mo 43,32; 46,34 (Entwürfe).
+  - agent:exo008, 2026-10-30
+<!-- store:end sha=5391cd26 -->
