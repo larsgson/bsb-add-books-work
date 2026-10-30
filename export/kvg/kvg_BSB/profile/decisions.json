@@ -68557,6 +68557,9 @@
    "date": "2026-10-26",
    "status": "decided",
    "supersedes": "term:H3068.g.gloss",
+   "replaces": [
+    "Yawe"
+   ],
    "words": [
     "lord",
     "the lord",
@@ -68596,6 +68599,9 @@
    "date": "2026-10-26",
    "status": "decided",
    "supersedes": "name:yahweh.g.gloss",
+   "replaces": [
+    "Yawe"
+   ],
    "words": [
     "lord",
     "the lord"
