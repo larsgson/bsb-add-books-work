@@ -1,0 +1,132 @@
+!!<Reifegrad: Entwurf>!!
+!!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/psa106.txt), abgeglichen mit der Berean Standard Bible>!!
+!!<Exegetische Bearbeitung: Noch nicht erfolgt>!!
+!!<Literarische Prüfung: Noch nicht erfolgt>!!
+!!<Datum dieser Version: 29.10.2026>!!
+
+===Ds Buech vo de Psalme, Psalm 106===
+
+
+==Mir hei gsündiget wi üsi Vätter==
+
+//1 v1 Halleluja!
+//2 Danket em HERR,
+//2 denn er isch guet,
+//2 sy Tröiji blybt für geng!
+//1 v2 Wär cha di grosse Tate vom HERR verzelle,
+//2 wär cha sys ganze Lob la ghöre?
+//1 v3 Glücklech sy die,
+//2 wo ds Rächt halte,
+//2 wo geng tüe, was grächt isch!
+//1 v4 Dänk a mi,
+//2 HERR,
+//2 we du dym Volk gnädig bisch;
+//2 lue nach mir und hilf mer,
+//1 v5 dass i ds Glück vo dyne Userwählte gseh,
+//2 dass i mi fröie mit der Fröid vo dym Volk,
+//2 dass i mi rüeme mit dym Erb!
+//1 v6 Mir hei gsündiget wi üsi Vätter,
+//2 mir hei Unrächt ta,
+//2 mir sy gottlos gsi.
+//1 v7 Üsi Vätter i Ägypte hei dyni Wunder nid begriffe,
+//2 si hei nid dänkt a d Grössi vo dyr Tröiji
+//2 und hei sech am Meer gäge ne gstellt,
+//2 am rote Meer.
+//1 v8 Und doch het er se grettet wäge sym Name,
+//2 für sy Macht bekannt z mache.
+//1 v9 Er het ds rote Meer aagfahre,
+//2 und es isch tröchnet,
+//2 und er het se dür d Tiefine gfüert wi dür ne Wüeschti.
+//1 v10 Er het se grettet us der Hand vo däm, wo se ghasset het,
+//2 und se erlöst us der Hand vom Find.
+//1 v11 Ds Wasser het iri Finde zuedeckt,
+//2 nid en einzige vo ne isch übrig bblibe.
+//1 v12 De hei si a syni Wort gloubt,
+//2 si hei sys Lob gsunge.
+//1 v13 Gschwind
+//2 hei si syni Wärch vergässe,
+//2 si hei nid uf sy Rat gwartet.
+//1 v14 I der Wüeschti het se der Gluscht packt,
+//2 und si hei Gott uf d Prob gstellt i der Einsami.
+//1 v15 Er het ne ggä, was si verlangt hei,
+//2 aber er het ne e Chrankheit gschickt, wo se schwach gmacht het.
+//1 v16 Si sy im Lager yfersüchtig worde uf e Mose
+//2 und uf e Aaron, der Heilig vom HERR.
+//1 v17 D Ärde het sech ufta
+//2 und der Datan verschlückt
+//2 und d Gruppe vom Abiram zuedeckt.
+//1 v18 Es Füür het i irer Gruppe brönnt,
+//2 e Flamme het d Gottlose verbrönnt.
+//1 v19 Si hei es Chalb gmacht am Horeb
+//2 und vor eme Götzebild aabbätte.
+//1 v20 Si hei iri Herrlechkeit tuuschet gäge ds Bild vo mene Stier,
+//2 wo Gras frisst.
+//1 v21 Si hei Gott vergässe, wo se grettet het,
+//2 dä, wo grossi Sache gmacht het i Ägypte,
+//1 v22 Wunder im Land vom Ham,
+//2 fürchterlechi Tate am rote Meer.
+//1 v23 Er het gseit,
+//2 er well se vernichte –
+//2 wen nid der Mose, sy Userwählt, i d Lücke gstande wär vor ihm,
+//2 für sy Wuet z stille,
+//2 dass er se nid vernichtet.
+//1 v24 Si hei ds schöne Land verachtet,
+//2 si hei sym Wort nid gloubt.
+//1 v25 Si hei i irne Zält gmulet,
+//2 si hei nid uf d Stimm vom HERR glost.
+//1 v26 Da het er sy Hand gäge se ufgha,
+//2 dass si i der Wüeschti sölle umcho
+//1 v27 und iri Nachkomme under de Völker sölle umcho
+//2 und i d Länder verströit wärde.
+//1 v28 Si hei sech a Baal-Peor ghänkt
+//2 und Opfer für Toti ggässe.
+//1 v29 Mit irne Tate hei si ne toub gmacht,
+//2 und e Plag isch under ne usecho.
+//1 v30 Da isch der Pinchas ufgstande
+//2 und het Gricht ghalte,
+//2 und d Plag het ufghört.
+//1 v31 Das isch ihm aagrächnet worde als Grächtigkeit
+//2 vo Generation zu Generation für geng.
+//1 v32 Am Wasser vo Meriba hei si ne toub gmacht,
+//2 und es isch em Mose schlächt gange wäge ne;
+//1 v33 denn si hei sech gäge sy Geischt gstellt,
+//2 und er het mit syne Lippe gredt, ohni z dänke.
+//1 v34 Si hei d Völker nid vernichtet,
+//2 wi der HERR ne befole het,
+//1 v35 sondern si hei sech under d Völker gmischt
+//2 und hei iri Brüüch glehrt.
+//1 v36 Si hei irne Götze dienet,
+//2 und die sy ne zum Lätsch worde.
+//1 v37 Si hei iri Söhn und iri Töchtere de Dämone gopferet.
+//1 v38 Si hei unschuldigs Bluet vergosse,
+//2 ds Bluet vo irne Söhn und irne Töchtere,
+//2 wo si de Götze vo Kanaan gopferet hei,
+//2 und ds Land isch dür ds Bluet unrein worde.
+//1 v39 Si sy unrein worde dür iri Tate
+//2 und hei Ehebruch tribe mit dem, wo si gmacht hei.
+//1 v40 Da isch der HERR toub worde über sys Volk,
+//2 und sys Erb isch ihm verleidet.
+//1 v41 Er het se i d Hand vo de Völker ggä,
+//2 und die, wo se ghasset hei, hei über se regiert.
+//1 v42 Iri Finde hei se plaget,
+//2 und si hei sech under iri Macht müesse bücke.
+//1 v43 Mängisch het er se grettet,
+//2 aber si hei sech mit irne Plän gäge ne gstellt
+//2 und sy wäge irer Schuld zgrund gange.
+//1 v44 Aber er het uf iri Not gluegt,
+//2 wo n er ires Rüefe ghört het.
+//1 v45 Er het wäge ne a sy Bund dänkt,
+//2 und es het ihm leid ta nach der Grössi vo syr Tröiji.
+//1 v46 Er het derfür gsorget, dass all die, wo se gfange gno hei,
+//2 Erbarme mit ne hei.
+//1 v47 Rett is,
+//2 HERR, üse Gott,
+//2 und sammle is us de Völker,
+//2 dass mer dym heilige Name danke
+//2 und üüs rüeme mit dym Lob!
+
+//1 v48 Globet syg der HERR, der Gott vo Israel,
+//2 vo Ewigkeit zu Ewigkeit!
+//2 Und ds ganze Volk söll säge:
+//2 „Amen!“
+//2 Halleluja!

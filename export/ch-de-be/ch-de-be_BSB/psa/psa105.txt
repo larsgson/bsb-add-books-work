@@ -1,0 +1,121 @@
+!!<Reifegrad: Entwurf>!!
+!!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/psa105.txt), abgeglichen mit der Berean Standard Bible>!!
+!!<Exegetische Bearbeitung: Noch nicht erfolgt>!!
+!!<Literarische Prüfung: Noch nicht erfolgt>!!
+!!<Datum dieser Version: 29.10.2026>!!
+
+===Ds Buech vo de Psalme, Psalm 105===
+
+
+==Er dänkt für geng a sy Bund==
+
+//1 v1 Danket em HERR,
+//2 rüefet sy Name aa!
+//2 Machet syni Tate under de Völker bekannt!
+//1 v2 Singet ihm,
+//2 singet ihm Psalme,
+//2 redet vo allne syne Wunder!
+//1 v3 Rüemet öich mit sym heilige Name!
+//2 Ds Härz vo dene, wo der HERR sueche, söll sech fröie!
+//1 v4 Fraget nach em HERR und nach syr Chraft,
+//2 suechet sys Gsicht geng!
+//1 v5 Dänket a syni Wunder,
+//2 wo n er ta het,
+//2 a syni Zeiche und d Urteil, won er gsproche het,
+//1 v6 dihr Nachkomme vom Abraham, sym Chnächt,
+//2 dihr Söhn vom Jakob, syni Userwählte!
+//1 v7 Är isch der HERR, üse Gott;
+//2 über di ganzi Ärde gö syni Urteil.
+//1 v8 Er dänkt für geng a sy Bund,
+//2 a ds Wort,
+//2 won er für tuusig Generatione befole het,
+//1 v9 a dä Bund, won er mit em Abraham gschlosse het,
+//2 und a sy Schwur gägenüber em Isaak.
+//1 v10 Er het ne für e Jakob als Gsetz fescht gmacht,
+//2 für Israel als ewige Bund,
+//1 v11 und gseit:
+//2 „Dir gibe n i ds Land Kanaan
+//2 als Stück vo öiem Erb.“
+//1 v12 Denn sy si nume weni gsi,
+//2 und Frömdi drinn.
+//1 v13 Si sy umezoge vo eim Volk zum andere,
+//2 vo eim Chünigrych zum andere Volk.
+//1 v14 Er het niemerem erloubt,
+//2 ne Unrächt z tue,
+//2 und wäge ne het er Chünige gstraft:
+//1 v15 „Rüeret die nid aa, won i gsalbet ha,
+//2 und tüet myne Prophete nüüt Böses!“
+//1 v16 Er het e Hungersnot über ds Land la cho,
+//2 er het jede Vorrat a Brot bbroche.
+//1 v17 Er het vor ne här e Ma gschickt:
+//2 als Sklav isch der Josef verchouft worde.
+//1 v18 Si hei sy Füess mit Fessle plaget,
+//2 a sy Hals isch e Chetti cho,
+//1 v19 bis zur Zyt,
+//2 wo sys Wort erfüllt worde isch;
+//2 ds Wort vom HERR het ne prüeft.
+//1 v20 Der Chünig het gschickt
+//2 und ne la loufe,
+//2 der Herrscher vo de Völker
+//2 het ne frei gmacht.
+//1 v21 Er het ne zum Herr über sys Huus gmacht
+//2 und zum Herrscher über alls, was er het,
+//1 v22 für syni Füerer nach sym Wille z leite
+//2 und syne Eltischte Wysheit z lehre.
+//1 v23 De isch Israel nach Ägypte cho,
+//2 und Jakob het als Frömde gläbt i Ham.
+//1 v24 Der HERR het sys Volk sehr la wachse
+//2 und starch gmacht meh als syni Finde.
+//1 v25 Deren ires Härz het er umgchehrt,
+//2 dass si sys Volk ghasset hei
+//2 und gäge syni Chnächte List bbruucht hei.
+//1 v26 Er het der Mose, sy Chnächt, gschickt
+//2 und der Aaron,
+//2 wo n er userwählt het.
+//1 v27 Die hei under ne syni Zeiche ta
+//2 und Wunder im Land vom Ham.
+//1 v28 Er het Fyschteri gschickt,
+//2 und es isch fyschter worde;
+//2 si hei sech nid gäge sys Wort gwehrt.
+//1 v29 Er het iri Wasser in Bluet verwandlet
+//2 und iri Fisch la stärbe.
+//1 v30 Iri Länder sy voll Frösche gsi,
+//2 bis i d Stube vo irne Chünige.
+//1 v31 Er het gredt,
+//2 de sy Flöige cho,
+//2 Mügge i ires ganze Gebiet.
+//1 v32 Er het ne statt Rägen Hagelwätter ggä,
+//2 Füürflamme i irem Land.
+//1 v33 Er het iri Räbe und ire Fygeboum troffe
+//2 und d Böim i irem Gebiet bbroche.
+//1 v34 Er het gredt,
+//2 de sy Höigümper cho
+//2 und jungi Höigümper,
+//2 so vil, dass me se nid het chönne zelle.
+//1 v35 Die hei alls Gras i irem Land gfrässe
+//2 und d Frucht vo irem Bode gfrässe.
+//1 v36 Er het alli Erschtgeborene i irem Land erschlage,
+//2 ds Erschte vo irer ganze Chraft.
+//1 v37 Er het se mit Silber und Guld usegfüert,
+//2 und i syne Stämm isch nid eine gsi, wo schwach gsi isch.
+//1 v38 Ägypte isch froh gsi,
+//2 wo si furtgange sy,
+//2 denn der Schrecke vor ne isch über se cho.
+//1 v39 Er het e Wulche usbreitet dass si se zuedeckt
+//2 und Füür,
+//2 für i der Nacht Liecht z gä.
+//1 v40 Si hei bbätte,
+//2 de het er Wachtle la cho
+//2 und se mit Brot vom Himel satt gmacht.
+//1 v41 Er het der Felse ufta,
+//2 und Wasser isch usecho;
+//2 es isch i der Wüeschti wi ne Fluss gloffe.
+//1 v42 Denn er het a sys heilige Wort dänkt
+//2 gägenüber em Abraham, sym Chnächt.
+//1 v43 Er het sys Volk mit Fröid usegfüert,
+//2 syni Userwählte hei dörfe juble.
+//1 v44 Er het ne d Länder vo de Völker ggä,
+//2 und si hei übercho, was di andere Völker mit Müej gmacht hei,
+//1 v45 dass si syni Vorschrifte halte
+//2 und sech a syni Gsetz halte.
+//2 Halleluja!

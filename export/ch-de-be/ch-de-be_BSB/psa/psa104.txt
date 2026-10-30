@@ -1,0 +1,115 @@
+!!<Reifegrad: Entwurf>!!
+!!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/psa104.txt), abgeglichen mit der Berean Standard Bible>!!
+!!<Exegetische Bearbeitung: Noch nicht erfolgt>!!
+!!<Literarische Prüfung: Noch nicht erfolgt>!!
+!!<Datum dieser Version: 29.10.2026>!!
+
+===Ds Buech vo de Psalme, Psalm 104===
+
+
+==Wi vil sy dyni Wärch, HERR==
+
+//1 v1 Lob der HERR,
+//2 my Seel!
+//2 HERR, my Gott,
+//2 du bisch ganz gross!
+//2 Mit Pracht und Majestät hesch du di aagleit.
+//1 v2 Du hesch di mit Liecht aagleit wi mit eme Mantel,
+//2 du tuesch der Himel ufstelle wi nes Zält.
+//1 v3 Du tuesch dy Saal uf de Wasser boue,
+//2 du machsch d Wulche zu dym Wage,
+//2 du fahrsch uf de Flügel vom Luft.
+//1 v4 Du machsch d Lüft zu dyne Bote,
+//2 ds Füür und d Flamme zu dyne Diener.
+//1 v5 Du hesch d Ärde uf ires Fundamänt gstellt,
+//2 si chunt nie is Wanke.
+//1 v6 Mit der Tiefi hesch du se zuedeckt wi mit eme Chleid;
+//2 ds Wasser isch über de Bärge gstande.
+//1 v7 Wo du's aagfahre hesch, isch es flüchtet,
+//2 vor em Donner vo dyr Stimm isch es dervogsprunge.
+//1 v8 D Bärge sy ufgstige,
+//2 d Täler sy abe gsunke
+//2 a dä Platz,
+//2 wo du ne bestimmt hesch.
+//1 v9 Du hesch e Gränze gsetzt,
+//2 wo si nid drüber chöme,
+//2 dass si nid wider
+//2 d Ärde zuedecke.
+//1 v10 Du lasch Quelle i d Täler loufe,
+//2 zwüsche de Bärge gö si dür.
+//1 v11 Si gä allne Tier vom Fäld z trinke,
+//2 d Wildesel stille dert iren Durscht.
+//1 v12 Näbe ne wohne d Vögel vom Himel,
+//2 us de Escht lö si iri Stimm ghöre.
+//1 v13 Du gisch de Bärge z trinke us dym Saal;
+//2 vo der Frucht vo dyne Wärch wird d Ärde satt.
+//1 v14 Du lasch Gras wachse für ds Veh
+//2 und Pflanze für d Arbeit vom Mönsch,
+//2 für Brot us der Ärde z hole,
+//1 v15 und Wy,
+//2 wo ds Härz vom Mönsch fröit,
+//2 für ds Gsicht mit Öl la z lüüchte,
+//2 und Brot,
+//2 wo ds Härz vom Mönsch starch macht.
+//1 v16 D Böim vom HERR hei gnue z trinke,
+//2 d Zedere vom Libanon,
+//2 won er pflanzet het.
+//1 v17 Dert boue d Vögel iri Näschter;
+//2 der Storch het sys Huus i de Zypresse.
+//1 v18 Di höche Bärge sy für d Steiböck,
+//2 d Felse sy e Zueflucht für d Klippdächs.
+//1 v19 Du hesch der Mond gmacht für di feschte Zyte;
+//2 d Sunne weiss, wenn si mues verschwinde.
+//1 v20 Du machsch Fyschteri,
+//2 und es wird Nacht;
+//2 de chöme alli Tier vom Wald füre.
+//1 v21 Di junge Löie brüele, wil si öppis z frässe wei,
+//2 und verlange vo Gott ires Frässe.
+//1 v22 Geit d Sunne uuf,
+//2 de zie si sech zrügg
+//2 und lege sech i ires Loch.
+//1 v23 De geit der Mönsch use a sy Arbeit
+//2 und a sys Wärch bis am Aabe.
+//1 v24 Wi vil sy dyni Wärch,
+//2 HERR!
+//2 Du hesch se alli mit Wysheit gmacht;
+//2 d Ärde isch voll vo dyne Gschöpf.
+//1 v25 Da isch ds Meer,
+//2 gross und wyt;
+//2 dert bewegt's sech,
+//2 ohni Zal:
+//2 Tier, chlyni und grossi.
+//1 v26 Dert fahre d Schiff,
+//2 dert isch der Leviatan,
+//2 wo du gmacht hesch,
+//2 für drinn z spile.
+//1 v27 Si alli warte uf di,
+//2 dass du ne ires Frässe gisch zur rächte Zyt.
+//1 v28 Gisch du ne öppis,
+//2 de sammle si's;
+//2 tuesch du dy Hand uuf,
+//2 de wärde si satt mit Guetem.
+//1 v29 Wen du dys Gsicht versteckt hesch,
+//2 de erchlüpfe si;
+//2 nimmsch du ne der Aate,
+//2 de stärbe si
+//2 und wärde wider zu Stoub.
+//1 v30 Wen du dy Geischt tuesch schicke,
+//2 de wärde si erschaffe,
+//2 und du machsch ds Gsicht vo der Ärde nöi.
+//1 v31 D Herrlechkeit vom HERR söll blybe für geng!
+//2 Der HERR söll sech fröie a syne Wärch!
+//1 v32 Er luegt d Ärde aa,
+//2 und si zitteret;
+//2 er tuet d Bärge aarüere,
+//2 und es chunt Rouch us ne.
+//1 v33 I wott em HERR singe, so lang i läbe,
+//2 i wott mym Gott Psalme singe, so lang i da bi.
+//1 v34 Mys Nachedänke söll ihm gfalle!
+//2 I fröie mi am HERR.
+//1 v35 D Sünder sölle verschwinde vo der Ärde,
+//2 und d Gottlose
+//2 sölle nümme da sy!
+//2 Lob der HERR,
+//2 my Seel!
+//2 Halleluja!

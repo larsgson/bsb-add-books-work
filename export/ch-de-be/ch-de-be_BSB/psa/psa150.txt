@@ -1,0 +1,25 @@
+!!<Reifegrad: Entwurf>!!
+!!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/psa150.txt), abgeglichen mit der Berean Standard Bible>!!
+!!<Exegetische Bearbeitung: Noch nicht erfolgt>!!
+!!<Literarische Prüfung: Noch nicht erfolgt>!!
+!!<Datum dieser Version: 29.10.2026>!!
+
+===Ds Buech vo de Psalme, Psalm 150===
+
+
+==Alls, wo Aate het, söll der HERR lobe==
+
+//1 v1 Halleluja!
+//2 Lobet Gott i sym Heiligtum,
+//2 lobet ne a sym mächtige Himel!
+//1 v2 Lobet ne für syni grosse Tate,
+//2 lobet ne für sy gwaltigi Grössi!
+//1 v3 Lobet ne mit em Ton vo der Posuune,
+//2 lobet ne mit Harfe und Zither!
+//1 v4 Lobet ne mit Tamburin und Tanz,
+//2 lobet ne mit Saite und Flöte!
+//1 v5 Lobet ne mit Zimbele, wo me ghört,
+//2 lobet ne mit Zimbele, wo lut töne!
+//1 v6 Alls, wo Aate het,
+//2 söll der HERR lobe!
+//2 Halleluja!

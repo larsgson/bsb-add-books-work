@@ -912,29 +912,38 @@
   {
    "id": "term:H7549",
    "kind": "term",
-   "value": "ds Himelsgwölb",
+   "value": "d Feschti",
    "source": "רָקִיעַ",
-   "attested": "by-rule",
    "words": [
-    "expanse"
+    "firmament",
+    "expanse",
+    "skies"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "רָקִיעַ",
+     "ref": "PSA 19:2",
+     "form": "רָקִֽיעַ"
+    }
    ],
    "evidence": [
     {
-     "ref": "GEN 1:6",
-     "form": "Himelsgwölb",
-     "n": 9
+     "ref": "PSA 19:2",
+     "form": "d Feschti"
     },
     {
-     "ref": "GEN 1:7",
-     "form": "Himelsgwölb"
+     "ref": "1CO 3:2",
+     "form": "Feschti"
     }
    ],
+   "note": "Himmelsgewölbe = »d Feschti«; Gen 1 im Projekt prüfen (gleich halten).",
+   "by": "agent:psa019",
+   "date": "2026-10-29",
    "confidence": "high",
    "method": "project-decision",
-   "by": "agent:memory-setup",
-   "date": "2026-10-14",
    "status": "decided",
-   "note": "Neubildung, im Korpus 0×."
+   "attested": "attested"
   },
   {
    "id": "formula:evening_morning",
@@ -7604,6 +7613,7647 @@
    "by": "agent:curation-study",
    "date": "2026-10-15",
    "status": "observed"
+  },
+  {
+   "id": "term:title_psalms",
+   "kind": "term",
+   "value": "Ds Buech vo de Psalme",
+   "source": "תְּהִלִּים",
+   "words": [
+    "psalms",
+    "psalm"
+   ],
+   "gloss": [
+    {
+     "lang": "grc",
+     "form": "Ψαλμῶν",
+     "lemma": "ψαλμός",
+     "ref": "LUK 20:42"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 20:42",
+     "form": "Buech vo de Psalme"
+    }
+   ],
+   "note": "Buchtitel nach Lk 20,42 (»im Buech vo de Psalme«); Kopfzeile »===Ds Buech vo de Psalme, Psalm N===«. Offen bis zur Durchsicht.",
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:ashrei",
+   "kind": "formula",
+   "value": "Glücklech isch …",
+   "source": "אַשְׁרֵי",
+   "words": [
+    "blessed",
+    "blessed is"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַ֥שְֽׁרֵי",
+     "lemma": "אֶשֶׁר",
+     "ref": "PSA 1:1"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 4:8",
+     "form": "glücklech",
+     "n": 44
+    },
+    {
+     "ref": "PSA 1:1",
+     "form": "Glücklech isch dä Mönsch"
+    }
+   ],
+   "note": "Seligpreisung der Psalmen wie die NT-Makarismen (glücklech 44×); nicht »gsägnet« (das ist בָּרוּךְ).",
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H7563",
+   "kind": "term",
+   "value": "di Gottlose",
+   "source": "רָשָׁע",
+   "words": [
+    "wicked",
+    "the wicked"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רְשָׁ֫עִ֥ים",
+     "lemma": "רָשָׁע",
+     "ref": "PSA 1:1"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 1:1",
+     "form": "vo de Gottlose"
+    },
+    {
+     "ref": "1TI 4:7",
+     "form": "gottlose",
+     "n": 11
+    }
+   ],
+   "note": "Psalmen: רָשָׁע durchgehend »gottlos / di Gottlose« (Gegenbegriff zu »di Grächte«); »di Böse« bleibt für רַע.",
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H6662",
+   "kind": "term",
+   "value": "di Grächte",
+   "source": "צַדִּיק",
+   "words": [
+    "righteous",
+    "the righteous"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צַדִּיקִֽים",
+     "lemma": "צַדִּיק",
+     "ref": "PSA 1:5"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 1:5",
+     "form": "vo de Grächte"
+    },
+    {
+     "ref": "MAT 13:49",
+     "form": "Grächte",
+     "n": 28
+    }
+   ],
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H3887",
+   "kind": "term",
+   "value": "Spötter",
+   "source": "לֵץ",
+   "words": [
+    "mockers",
+    "scoffers"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "לֵ֝צִ֗ים",
+     "lemma": "לֵץ",
+     "ref": "PSA 1:1"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JUD 1:18",
+     "form": "Spötter",
+     "n": 1
+    },
+    {
+     "ref": "PSA 1:1",
+     "form": "vo de Spötter"
+    }
+   ],
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H4671",
+   "kind": "term",
+   "value": "Spröier",
+   "source": "מֹץ",
+   "words": [
+    "chaff"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מֹּ֗ץ",
+     "lemma": "מֹץ",
+     "ref": "PSA 1:4"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 3:17",
+     "form": "der Spröier"
+    },
+    {
+     "ref": "PSA 1:4",
+     "form": "wi Spröier"
+    }
+   ],
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H5086",
+   "kind": "term",
+   "value": "furttrybe",
+   "source": "נָדַף",
+   "attested": "by-rule",
+   "words": [
+    "driven off",
+    "driven away"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תִּדְּפֶ֥נּוּ",
+     "lemma": "נָדַף",
+     "ref": "PSA 1:4"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 1:4",
+     "form": "furttrybt"
+    },
+    {
+     "ref": "ACT 27:15",
+     "form": "trybe",
+     "n": 15
+    }
+   ],
+   "note": "Gebildet aus furt- (furtgschosse) und trybe; im Korpus nicht belegt.",
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:palge_mayim",
+   "kind": "term",
+   "value": "Wasserbäch",
+   "source": "פַּלְגֵי מָיִם",
+   "attested": "by-rule",
+   "words": [
+    "streams of water"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פַּלְגֵ֫י",
+     "lemma": "פֶּלֶג",
+     "ref": "PSA 1:3"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 1:3",
+     "form": "a de Wasserbäch"
+    },
+    {
+     "ref": "JHN 7:38",
+     "form": "Ström"
+    }
+   ],
+   "note": "Plural von Bach (Korpus »Bach« 1×); »Bächer« im Korpus sind Becher. Gebildet.",
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6743",
+   "kind": "term",
+   "value": "grate (es gratet ihm)",
+   "source": "צָלַח",
+   "words": [
+    "prospers",
+    "prosper",
+    "succeed"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַצְלִֽיחַ",
+     "lemma": "צָלֵחַ",
+     "ref": "PSA 1:3"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JHN 21:6",
+     "form": "de gratet’s nech"
+    },
+    {
+     "ref": "PSA 1:3",
+     "form": "gratet ihm"
+    }
+   ],
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1897",
+   "kind": "term",
+   "value": "nachedänke",
+   "source": "הָגָה",
+   "words": [
+    "meditates",
+    "meditate"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֶהְגֶּ֗ה",
+     "lemma": "הָגָה",
+     "ref": "PSA 1:2"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 14:29",
+     "form": "nachedänke"
+    },
+    {
+     "ref": "PSA 1:2",
+     "form": "dänkt er … nache"
+    }
+   ],
+   "note": "»nachedänke« 1× im Korpus.",
+   "by": "agent:psa001",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H639",
+   "kind": "term",
+   "value": "Töubi",
+   "source": "אַף",
+   "words": [
+    "anger",
+    "wrath"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַפּ֑",
+     "lemma": "אַף",
+     "ref": "PSA 2:5"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "REV 19:15",
+     "form": "Töubi",
+     "n": 26
+    },
+    {
+     "ref": "PSA 2:5",
+     "form": "i syr Töubi"
+    }
+   ],
+   "note": "Zorn Gottes = »Töubi« (26×); »Zorn« 0× im Korpus. חָרוֹן / חֵמָה = »Wuet« (7×).",
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H2740",
+   "kind": "term",
+   "value": "Wuet",
+   "source": "חָרוֹן",
+   "words": [
+    "fury",
+    "wrath",
+    "rage"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲרוֹנ֥",
+     "lemma": "חָרוֹן",
+     "ref": "PSA 2:5"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "EPH 4:31",
+     "form": "Wuet"
+    },
+    {
+     "ref": "PSA 2:5",
+     "form": "i syr Wuet"
+    }
+   ],
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1471",
+   "kind": "term",
+   "value": "d Völker",
+   "source": "גּוֹי",
+   "alternatives": [
+    {
+     "value": "Heide",
+     "note": "Ps 2,1 nach Apg 4,25"
+    }
+   ],
+   "words": [
+    "nations",
+    "the nations"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גוֹיִ֑ם",
+     "lemma": "גּוֹי",
+     "ref": "PSA 2:1"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 15:11",
+     "form": "Völker"
+    },
+    {
+     "ref": "PSA 2:8",
+     "form": "d Völker"
+    },
+    {
+     "ref": "ACT 4:25",
+     "form": "d Heide"
+    }
+   ],
+   "note": "גּוֹיִם in den Psalmen »d Völker«; »d Heide« nur wo das NT den Vers so zitiert (Ps 2,1). לְאֻמִּים ebenfalls »d Völker«.",
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:ps2_7",
+   "kind": "formula",
+   "value": "My Suhn bisch du, hütt han i di i ds Läbe grüeft",
+   "source": "בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ",
+   "words": [
+    "you are my son",
+    "today i have become your father"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְלִדְתִּֽיךָ",
+     "lemma": "יָלַד",
+     "ref": "PSA 2:7"
+    },
+    {
+     "lang": "grc",
+     "form": "γεγέννηκά",
+     "lemma": "γεννάω",
+     "ref": "HEB 1:5"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "HEB 1:5",
+     "form": "My Suhn bisch du"
+    },
+    {
+     "ref": "HEB 5:5",
+     "form": "i ds Läbe grüeft"
+    }
+   ],
+   "note": "Wortlaut von Hebr 1,5 übernommen (Bietenhard zitiert Ps 2,7). Ps 2,1-2 ebenso nach Apg 4,25-26.",
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H4899",
+   "kind": "term",
+   "value": "dä, won är gsalbet het",
+   "source": "מָשִׁיחַ",
+   "words": [
+    "anointed",
+    "anointed one"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְשִׁיחֽוֹ",
+     "lemma": "מָשִׁיחַ",
+     "ref": "PSA 2:2"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ACT 4:26",
+     "form": "won är gsalbet het"
+    },
+    {
+     "ref": "PSA 2:2",
+     "form": "won är gsalbet het"
+    }
+   ],
+   "note": "Nach Apg 4,26; sonst »sy Gsalbete« (Überschrift).",
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H3932",
+   "kind": "term",
+   "value": "spotte",
+   "source": "לָעַג",
+   "alternatives": [
+    {
+     "value": "spottet"
+    }
+   ],
+   "words": [
+    "taunts",
+    "scoffs",
+    "mock"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִלְעַג",
+     "lemma": "לָעַג",
+     "ref": "PSA 2:4"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 18:32",
+     "form": "verspottet"
+    },
+    {
+     "ref": "PSA 2:4",
+     "form": "spottet über se"
+    }
+   ],
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H5310",
+   "kind": "term",
+   "value": "verschmättere",
+   "source": "נָפַץ",
+   "alternatives": [
+    {
+     "value": "verschmätterisch"
+    }
+   ],
+   "words": [
+    "shatter",
+    "dash"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תְּנַפְּצֵֽם",
+     "lemma": "נָפַץ",
+     "ref": "PSA 2:9"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 20:18",
+     "form": "verschmätteret"
+    },
+    {
+     "ref": "PSA 2:9",
+     "form": "verschmätterisch du se"
+    }
+   ],
+   "note": "»Chachelgschir« nach Offb 2,27.",
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H2620",
+   "kind": "term",
+   "value": "Zueflucht sueche",
+   "source": "חָסָה",
+   "words": [
+    "take refuge",
+    "refuge"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "ח֥וֹסֵי",
+     "lemma": "חָסָה",
+     "ref": "PSA 2:12"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "HEB 6:18",
+     "form": "Zueflucht"
+    },
+    {
+     "ref": "PSA 2:12",
+     "form": "Zueflucht sueche"
+    }
+   ],
+   "note": "חָסָה בְּ = »bi … Zueflucht sueche«; מַחְסֶה = »Zueflucht«.",
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H3374",
+   "kind": "term",
+   "value": "Ehrfurcht",
+   "source": "יִרְאָה",
+   "words": [
+    "fear",
+    "reverence"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִרְאָ֑ה",
+     "lemma": "יִרְאָה",
+     "ref": "PSA 2:11"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ACT 9:31",
+     "form": "Ehrfurcht"
+    },
+    {
+     "ref": "PSA 2:11",
+     "form": "mit Ehrfurcht"
+    }
+   ],
+   "note": "Gottesfurcht wie formula:fear_god (»Ehrfurcht vor Gott ha«).",
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1523",
+   "kind": "term",
+   "value": "juble",
+   "source": "גִּיל",
+   "words": [
+    "rejoice",
+    "exult"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גִ֗ילוּ",
+     "lemma": "גִּיל",
+     "ref": "PSA 2:11"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 1:47",
+     "form": "jublet"
+    },
+    {
+     "ref": "PSA 2:11",
+     "form": "jublet"
+    }
+   ],
+   "by": "agent:psa002",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:selah",
+   "kind": "formula",
+   "value": "Sela",
+   "source": "סֶלָה",
+   "attested": "by-rule",
+   "words": [
+    "selah"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סֶֽלָה",
+     "lemma": "סֶלָה",
+     "ref": "PSA 3:3"
+    }
+   ],
+   "interlinear": "selah (musical/liturgical mark)",
+   "evidence": [
+    {
+     "ref": "PSA 3:3",
+     "form": "Sela"
+    }
+   ],
+   "note": "Unübersetzt als eigene Zeile `//1 Sela` an der Stelle des MT; Fussnote beim ersten Vorkommen (Ps 3,3). Korpus ohne Beleg.",
+   "by": "agent:psa003",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:mizmor_ledavid",
+   "kind": "formula",
+   "value": "E Psalm vom David",
+   "source": "מִזְמוֹר לְדָוִד",
+   "words": [
+    "a psalm of david"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִזְמ֥וֹר",
+     "lemma": "מִזְמוֹר",
+     "ref": "PSA 3:1"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 14:26",
+     "form": "e Psalm"
+    },
+    {
+     "ref": "PSA 3:1",
+     "form": "E Psalm vom David"
+    }
+   ],
+   "note": "Überschriften als Prosazeile `v1 …` vor den Poesiezeilen; לְדָוִד = »vom David« (Verfasserangabe).",
+   "by": "agent:psa003",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:absalom",
+   "kind": "name",
+   "value": "Abschalom",
+   "source": "אַבְשָׁלוֹם",
+   "attested": "by-rule",
+   "words": [
+    "absalom"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אַבְשָׁל֬וֹם",
+     "lemma": "אַבְשָׁלֹום",
+     "ref": "PSA 3:1"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 3:1",
+     "form": "Abschalom"
+    }
+   ],
+   "note": "Umschriftregel š → sch (namen.md).",
+   "by": "agent:psa003",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6862",
+   "kind": "term",
+   "value": "Gägner",
+   "source": "צַר",
+   "words": [
+    "foes",
+    "adversaries",
+    "enemies"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צָרָ֑",
+     "lemma": "צַר",
+     "ref": "PSA 3:2"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PHP 1:28",
+     "form": "Gägner",
+     "n": 9
+    },
+    {
+     "ref": "PSA 3:2",
+     "form": "Gägner"
+    }
+   ],
+   "note": "צַר = »Gägner«; אֹיֵב = »Find« (Finde).",
+   "by": "agent:psa003",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H3444",
+   "kind": "term",
+   "value": "Rettig",
+   "source": "יְשׁוּעָה",
+   "words": [
+    "salvation",
+    "deliverance",
+    "help"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְֽשׁוּעָ֓תָ",
+     "lemma": "יְשׁוּעָה",
+     "ref": "PSA 3:3"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JON 2:10",
+     "form": "D Rettig"
+    },
+    {
+     "ref": "PSA 3:9",
+     "form": "isch d Rettig"
+    }
+   ],
+   "note": "Wie Jona 2,10; hif. יָשַׁע = »hälfe / rette«.",
+   "by": "agent:psa003",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H4043",
+   "kind": "term",
+   "value": "Schild",
+   "source": "מָגֵן",
+   "words": [
+    "shield"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מָגֵ֣ן",
+     "lemma": "מָגֵן",
+     "ref": "PSA 3:4"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "EPH 6:16",
+     "form": "Schild"
+    },
+    {
+     "ref": "PSA 3:4",
+     "form": "e Schild"
+    }
+   ],
+   "by": "agent:psa003",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H7311_head",
+   "kind": "term",
+   "value": "der Chopf ufelüpfe",
+   "source": "הֵרִים רֹאשׁ",
+   "alternatives": [
+    {
+     "value": "lüpfsch"
+    }
+   ],
+   "words": [
+    "lifts my head"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מֵרִ֥ים",
+     "lemma": "רוּם",
+     "ref": "PSA 3:4"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 1:52",
+     "form": "ufeglüpft"
+    },
+    {
+     "ref": "PSA 3:4",
+     "form": "lüpfsch my Chopf uf"
+    }
+   ],
+   "by": "agent:psa003",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1288_noun",
+   "kind": "term",
+   "value": "Säge",
+   "source": "בְּרָכָה",
+   "words": [
+    "blessing"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בִרְכָתֶ֣",
+     "lemma": "בְּרָכָה",
+     "ref": "PSA 3:9"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1PE 3:9",
+     "form": "sy Säge"
+    },
+    {
+     "ref": "PSA 3:9",
+     "form": "Dy Säge"
+    }
+   ],
+   "by": "agent:psa003",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:lamnatseach",
+   "kind": "formula",
+   "value": "Für e Chorleiter",
+   "source": "לַמְנַצֵּחַ",
+   "attested": "by-rule",
+   "words": [
+    "for the choirmaster",
+    "choirmaster"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "נָצַח",
+     "ref": "PSA 4:1",
+     "form": "מְנַצֵּ֥חַ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 4:1",
+     "form": "Für e Chorleiter"
+    },
+    {
+     "ref": "1TI 3:2",
+     "form": "Gmeindsleiter"
+    }
+   ],
+   "alternatives": [
+    {
+     "value": "Chorleiter"
+    }
+   ],
+   "note": "Psalmüberschriften: immer »Für e Chorleiter.« als eigener Satz am Anfang. Gebildet (Chor + Leiter).",
+   "by": "agent:psa004",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:binginot",
+   "kind": "formula",
+   "value": "Mit Saiteinstrumänt",
+   "source": "בִּנְגִינוֹת",
+   "attested": "by-rule",
+   "words": [
+    "with stringed instruments"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "נְגִינָה",
+     "ref": "PSA 4:1",
+     "form": "נְגִינ֗וֹת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 14:7",
+     "form": "Instrumänt"
+    },
+    {
+     "ref": "PSA 4:1",
+     "form": "Mit Saiteinstrumänt"
+    }
+   ],
+   "alternatives": [
+    {
+     "value": "Saiteinstrumänt"
+    }
+   ],
+   "note": "Plural gleich Singular.",
+   "by": "agent:psa004",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2623",
+   "kind": "term",
+   "value": "dä, wo ihm tröi isch",
+   "source": "חָסִיד",
+   "words": [
+    "godly",
+    "faithful",
+    "saints"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חָסִיד",
+     "ref": "PSA 4:4",
+     "form": "חָסִ֣יד"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 4:4",
+     "form": "wo ihm tröi isch"
+    },
+    {
+     "ref": "1CO 1:9",
+     "form": "tröi"
+    }
+   ],
+   "note": "חָסִיד zu חֶסֶד (Tröiji): »tröi«, Plural »di Tröie / die, wo ihm tröi sy«.",
+   "by": "agent:psa004",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H982",
+   "kind": "term",
+   "value": "vertroue uf",
+   "source": "בָּטַח",
+   "words": [
+    "trust",
+    "trust in"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בָּטַח",
+     "ref": "PSA 4:6",
+     "form": "בִטְח֗וּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 4:6",
+     "form": "vertrouet uf"
+    },
+    {
+     "ref": "JHN 12:36",
+     "form": "vertrouet"
+    }
+   ],
+   "note": "בָּטַח בְּ / אֶל = »uf … vertroue«; בֶּטַח = »sicher«.",
+   "by": "agent:psa004",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H8605",
+   "kind": "term",
+   "value": "Gebätt",
+   "source": "תְּפִלָּה",
+   "words": [
+    "prayer"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "תְּפִלָּה",
+     "ref": "PSA 4:2",
+     "form": "תְּפִלָּתִֽ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 1:13",
+     "form": "dys Gebätt"
+    },
+    {
+     "ref": "PSA 4:2",
+     "form": "mys Gebätt"
+    }
+   ],
+   "note": "שָׁמַע תְּפִלָּה = »uf ds Gebätt lose« / »ds Gebätt ghöre«.",
+   "by": "agent:psa004",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H3577",
+   "kind": "term",
+   "value": "Lugi",
+   "source": "כָּזָב",
+   "words": [
+    "lies",
+    "falsehood"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "כָּזָב",
+     "ref": "PSA 4:3",
+     "form": "כָזָ֣ב"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JHN 8:44",
+     "form": "Lugi"
+    },
+    {
+     "ref": "PSA 4:3",
+     "form": "d Lugi"
+    }
+   ],
+   "note": "Wie Ps 2,1: רִיק = »nüütnutzigs Züüg«.",
+   "by": "agent:psa004",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:el_hannechilot",
+   "kind": "formula",
+   "value": "Mit Flöte",
+   "source": "אֶל־הַנְּחִילוֹת",
+   "words": [
+    "to be accompanied by flutes",
+    "flutes"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְּחִיל֗וֹת",
+     "ref": "PSA 5:1",
+     "lemma": "נְחִילֹות"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 14:7",
+     "form": "Flöte"
+    },
+    {
+     "ref": "PSA 5:1",
+     "form": "Mit Flöte"
+    }
+   ],
+   "note": "Musikangabe der Überschrift; Deutung unsicher (BSB »flutes«).",
+   "by": "agent:psa005",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:poale_aven",
+   "kind": "formula",
+   "value": "die, wo Unrächt tüe",
+   "source": "פֹּעֲלֵי אָוֶן",
+   "words": [
+    "workers of iniquity",
+    "evildoers"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אָוֶן",
+     "ref": "PSA 5:6",
+     "form": "אָֽוֶן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 5:6",
+     "form": "wo Unrächt tüe"
+    },
+    {
+     "ref": "1CO 6:7",
+     "form": "Unrächt"
+    }
+   ],
+   "note": "Fest für den Psalter; Unrächt 33× im Korpus.",
+   "by": "agent:psa005",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1984_boast",
+   "kind": "term",
+   "value": "d Hoffärtige",
+   "source": "הוֹלְלִים",
+   "words": [
+    "boastful",
+    "arrogant"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "הָלַל",
+     "ref": "PSA 5:6",
+     "form": "הֽ֭וֹלְלִים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 1:51",
+     "form": "hoffärtig"
+    },
+    {
+     "ref": "PSA 5:6",
+     "form": "D Hoffärtige"
+    }
+   ],
+   "by": "agent:psa005",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H4820",
+   "kind": "term",
+   "value": "hinderlischtig",
+   "source": "מִרְמָה",
+   "alternatives": [
+    {
+     "value": "hinderlischtige"
+    }
+   ],
+   "words": [
+    "deceit",
+    "deceitful"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מִרְמָה",
+     "ref": "PSA 5:7",
+     "form": "מִרְמָ֗ה"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "2TI 3:4",
+     "form": "hinderlischtig"
+    },
+    {
+     "ref": "PSA 5:7",
+     "form": "hinderlischtige Lüt"
+    }
+   ],
+   "note": "Nomen »Hinderlischt«.",
+   "by": "agent:psa005",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H7812",
+   "kind": "term",
+   "value": "aabätte",
+   "source": "הִשְׁתַּחֲוָה",
+   "words": [
+    "bow down",
+    "worship"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חוה",
+     "ref": "PSA 5:8",
+     "form": "אֶשְׁתַּחֲוֶ֥ה"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JHN 4:20",
+     "form": "aabätte"
+    },
+    {
+     "ref": "PSA 5:8",
+     "form": "i bätte … aa"
+    }
+   ],
+   "note": "Gottesdienstlich »aabätte«; vor Menschen »sech vor … bücke«.",
+   "by": "agent:psa005",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1660_throat",
+   "kind": "term",
+   "value": "Gurgle",
+   "source": "גָּרוֹן",
+   "words": [
+    "throat",
+    "throats"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "גָּרוֹן",
+     "ref": "PSA 5:10",
+     "form": "גְּרוֹנָ֑"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 3:13",
+     "form": "Iri Gurgle"
+    },
+    {
+     "ref": "PSA 5:10",
+     "form": "Iri Gurgle"
+    }
+   ],
+   "note": "Nach Röm 3,13 (Zitat von Ps 5,10).",
+   "by": "agent:psa005",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1288_2sg",
+   "kind": "term",
+   "value": "sägne",
+   "source": "בֵּרַךְ",
+   "alternatives": [
+    {
+     "value": "sägnisch",
+     "note": "2. Sg."
+    }
+   ],
+   "words": [
+    "you bless"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בָּרַךְ",
+     "ref": "PSA 5:13",
+     "form": "תְּבָרֵ֪ךְ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 4:13",
+     "form": "sägne"
+    },
+    {
+     "ref": "PSA 5:13",
+     "form": "sägnisch"
+    }
+   ],
+   "note": "Zu term:H1288; Formen nach verb_endings (-isch).",
+   "by": "agent:psa005",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H5849",
+   "kind": "term",
+   "value": "umgä",
+   "source": "עָטַר / סָבַב",
+   "alternatives": [
+    {
+     "value": "umgisch",
+     "note": "2. Sg."
+    }
+   ],
+   "words": [
+    "surround"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עָטַר",
+     "ref": "PSA 5:13",
+     "form": "תַּעְטְרֶֽ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JON 2:4",
+     "form": "het mi umgä"
+    },
+    {
+     "ref": "PSA 5:13",
+     "form": "umgisch du ne"
+    }
+   ],
+   "note": "Wie Jona 2,4.6.",
+   "by": "agent:psa005",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:sheminit",
+   "kind": "formula",
+   "value": "nach der Scheminit",
+   "source": "עַל־הַשְּׁמִינִית",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Scheminit"
+    }
+   ],
+   "words": [
+    "according to sheminith",
+    "sheminith"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְּׁמִינִ֗ית",
+     "ref": "PSA 6:1",
+     "lemma": "שְׁמִינִי"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 6:1",
+     "form": "nach der Scheminit"
+    }
+   ],
+   "note": "Musikbegriff (»die achte«), unübersetzt umschrieben; auch Ps 12,1.",
+   "by": "agent:psa006",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3256",
+   "kind": "term",
+   "value": "erzie",
+   "source": "יָסַר",
+   "words": [
+    "discipline",
+    "chasten"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָסַר",
+     "ref": "PSA 6:2",
+     "form": "תְיַסְּרֵֽ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 11:32",
+     "form": "erzie"
+    },
+    {
+     "ref": "PSA 6:2",
+     "form": "tue mi … erzie"
+    }
+   ],
+   "note": "יָכַח hif. = »strafe« (im Parallelismus).",
+   "by": "agent:psa006",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H7812_flood",
+   "kind": "term",
+   "value": "überschwemme",
+   "source": "שָׂחָה hif. / מָסָה hif.",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "überschwemmen"
+    },
+    {
+     "value": "tränke"
+    }
+   ],
+   "words": [
+    "flood",
+    "drench"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שָׂחָה",
+     "ref": "PSA 6:7",
+     "form": "אַשְׂחֶ֣ה"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 6:48",
+     "form": "Überschwemmig"
+    },
+    {
+     "ref": "PSA 6:7",
+     "form": "überschwemmen i"
+    }
+   ],
+   "note": "Ps 6,7 »überschwemmen i mys Bett«, »tränke mys Lager« (tränke = durchnässen).",
+   "by": "agent:psa006",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H954",
+   "kind": "term",
+   "value": "sech schäme",
+   "source": "בּוֹשׁ",
+   "words": [
+    "ashamed",
+    "put to shame"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בּוֹשׁ",
+     "ref": "PSA 6:11",
+     "form": "יֵבֹ֤שׁוּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1JN 2:28",
+     "form": "schäme"
+    },
+    {
+     "ref": "PSA 6:11",
+     "form": "müesse sech schäme"
+    }
+   ],
+   "note": "Jussive gegen Feinde: »müesse sech schäme«; בָּהַל nif. = »erchlüpfe«.",
+   "by": "agent:psa006",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H6106",
+   "kind": "term",
+   "value": "Chnoche",
+   "source": "עֶצֶם",
+   "words": [
+    "bones",
+    "bone"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עֶצֶם",
+     "ref": "PSA 6:3",
+     "form": "עֲצָמָֽ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JHN 19:36",
+     "form": "Chnoche"
+    },
+    {
+     "ref": "PSA 6:3",
+     "form": "myni Chnoche"
+    }
+   ],
+   "by": "agent:psa006",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:shiggayon",
+   "kind": "formula",
+   "value": "E Schiggajon",
+   "source": "שִׁגָּיוֹן",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Schiggajon"
+    }
+   ],
+   "words": [
+    "shiggaion"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שִׁגָּי֗וֹן",
+     "ref": "PSA 7:1",
+     "lemma": "שִׁגָּיוֹן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 7:1",
+     "form": "E Schiggajon"
+    }
+   ],
+   "note": "Gattungsbegriff, unübersetzt; Fussnote.",
+   "by": "agent:psa007",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:cush_benjaminite",
+   "kind": "name",
+   "value": "Kusch",
+   "source": "כּוּשׁ",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Benjaminit"
+    }
+   ],
+   "words": [
+    "cush",
+    "benjamite"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כ֝֗וּשׁ",
+     "ref": "PSA 7:1",
+     "lemma": "כּוּשׁ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 7:1",
+     "form": "vom Kusch"
+    }
+   ],
+   "note": "»der Kusch, e Benjaminit« (Benjamin + -it wie Israelit).",
+   "by": "agent:psa007",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H5945",
+   "kind": "term",
+   "value": "der Höchscht",
+   "source": "עֶלְיוֹן",
+   "words": [
+    "most high"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עֶלְיוֹן",
+     "ref": "PSA 7:18",
+     "form": "עֶלְיֽוֹן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 1:76",
+     "form": "Höchschte"
+    },
+    {
+     "ref": "PSA 7:18",
+     "form": "em Höchschte"
+    }
+   ],
+   "note": "Allein »der Höchscht« (Dativ »em Höchschte«); mit אֵל »der höchscht Gott« (term:el_elyon).",
+   "by": "agent:psa007",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:zammer_shem",
+   "kind": "formula",
+   "value": "em Name … Psalme singe",
+   "source": "זִמֵּר לְשֵׁם",
+   "words": [
+    "sing praise to the name",
+    "sing praises"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "זָמַר",
+     "ref": "PSA 7:18",
+     "form": "אֲזַמְּרָ֗ה"
+    },
+    {
+     "lang": "grc",
+     "form": "ψαλῶ",
+     "lemma": "ψάλλω",
+     "ref": "ROM 15:9"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 15:10",
+     "form": "singe dym Name Psalme"
+    },
+    {
+     "ref": "PSA 7:18",
+     "form": "Psalme singe"
+    }
+   ],
+   "note": "זִמֵּר = »Psalme singe« (Röm 15,9 zitiert Ps 18,50); הוֹדָה = »danke«.",
+   "by": "agent:psa007",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H7845",
+   "kind": "term",
+   "value": "Grueb",
+   "source": "שַׁחַת / בּוֹר",
+   "attested": "by-rule",
+   "words": [
+    "pit",
+    "hole"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שַׁחַת",
+     "ref": "PSA 7:16",
+     "form": "שַׁ֣חַת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JON 2:7",
+     "form": "us der Grueb"
+    },
+    {
+     "ref": "PSA 7:16",
+     "form": "i d Grueb"
+    }
+   ],
+   "note": "Projektform seit Jona 2,7; im Korpus nicht belegt (dort »Loch«). בּוֹר in Ps 7,16 »Loch«.",
+   "by": "agent:psa007",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H974",
+   "kind": "term",
+   "value": "prüefe",
+   "source": "בָּחַן",
+   "alternatives": [
+    {
+     "value": "prüefsch"
+    },
+    {
+     "value": "ufrichtigs"
+    }
+   ],
+   "words": [
+    "test",
+    "examine",
+    "searches"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בָּחַן",
+     "ref": "PSA 7:10",
+     "form": "בֹחֵ֣ן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "HEB 3:9",
+     "form": "prüeft"
+    },
+    {
+     "ref": "PSA 7:10",
+     "form": "Du prüefsch Härz"
+    }
+   ],
+   "note": "Härz und Niere (לִבּוֹת וּכְלָיוֹת) wörtlich; יִשְׁרֵי־לֵב = »wo es ufrichtigs Härz hei«.",
+   "by": "agent:psa007",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:al_haggittit",
+   "kind": "formula",
+   "value": "Nach der Gittit",
+   "source": "עַל־הַגִּתִּית",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Gittit"
+    }
+   ],
+   "words": [
+    "according to gittith",
+    "gittith"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גִּתִּ֗ית",
+     "ref": "PSA 8:1",
+     "lemma": "גִּתִּית"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 8:1",
+     "form": "Nach der Gittit"
+    }
+   ],
+   "note": "Musikbegriff (Instrument oder Weise aus Gat?), unübersetzt; auch Ps 81; 84.",
+   "by": "agent:psa008",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:yhwh_adonenu",
+   "kind": "formula",
+   "value": "HERR, üse Herr",
+   "source": "יְהוָה אֲדֹנֵינוּ",
+   "words": [
+    "o lord, our lord"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אָדוֹן",
+     "ref": "PSA 8:2",
+     "form": "אֲדֹנֵ֗י"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 8:2",
+     "form": "HERR, üse Herr"
+    },
+    {
+     "ref": "PSA 8:10",
+     "form": "HERR, üse Herr"
+    }
+   ],
+   "note": "Kehrvers Ps 8,2.10 gleich: »HERR, üse Herr, wi herrlech isch dy Name uf der ganze Ärde!«",
+   "by": "agent:psa008",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:ps8_5",
+   "kind": "formula",
+   "value": "Wär isch eigetlech der Mönsch, dass du a ne dänksch",
+   "source": "מָה־אֱנוֹשׁ כִּי־תִזְכְּרֶנּוּ",
+   "words": [
+    "what is man that you are mindful of him"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "זָכַר",
+     "ref": "PSA 8:5",
+     "form": "תִזְכְּרֶ֑"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "HEB 2:6",
+     "form": "isch eigetlech der Mönsch"
+    },
+    {
+     "ref": "PSA 8:5",
+     "form": "a ne dänksch"
+    }
+   ],
+   "note": "Ps 8,5-7 nach Hebr 2,6-8 (Mönschechind, abgisch, bekränzt, alls … under d Füess gleit); V. 3 nach Mt 21,16 (Süglinge).",
+   "by": "agent:psa008",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:higgayon",
+   "kind": "formula",
+   "value": "Higgajon",
+   "source": "הִגָּיוֹן",
+   "attested": "by-rule",
+   "words": [
+    "higgaion"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הִגָּי֥וֹן",
+     "ref": "PSA 9:17",
+     "lemma": "הִגָּיוֹן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 9:17",
+     "form": "Higgajon. Sela"
+    }
+   ],
+   "note": "Musikangabe, unübersetzt wie Sela, in derselben Zeile: »Higgajon. Sela«.",
+   "by": "agent:psa009",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:almut_laben",
+   "kind": "formula",
+   "value": "Nach der Wys „Der Tod vom Suhn“",
+   "source": "עַלְמוּת לַבֵּן",
+   "words": [
+    "to the tune of the death of the son"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַלְמ֥וּת",
+     "ref": "PSA 9:1",
+     "lemma": "עַלְמוּת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 9:1",
+     "form": "Nach der Wys"
+    },
+    {
+     "ref": "PHP 1:18",
+     "form": "Wys"
+    }
+   ],
+   "note": "Melodieangaben »Nach der Wys „…“« (Wys 6× im Korpus).",
+   "by": "agent:psa009",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H4869",
+   "kind": "term",
+   "value": "Burg",
+   "source": "מִשְׂגָּב",
+   "words": [
+    "stronghold",
+    "refuge",
+    "fortress"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מִשְׂגָּב",
+     "ref": "PSA 9:10",
+     "form": "מִשְׂגָּ֣ב"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MAT 27:27",
+     "form": "Burg"
+    },
+    {
+     "ref": "PSA 9:10",
+     "form": "e Burg"
+    }
+   ],
+   "note": "מִשְׂגָּב = »Burg«; מָעוֹז = »feschti Burg«? (offen); מַחְסֶה = »Zueflucht«.",
+   "by": "agent:psa009",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:leolam_vaed",
+   "kind": "formula",
+   "value": "für geng und ewig",
+   "source": "לְעוֹלָם וָעֶד",
+   "words": [
+    "forever and ever"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עוֹלָם",
+     "ref": "PSA 9:6",
+     "form": "עוֹלָ֥ם"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 9:6",
+     "form": "für geng und ewig"
+    },
+    {
+     "ref": "1TH 4:17",
+     "form": "für geng"
+    }
+   ],
+   "note": "»immer« ist hochdeutsch (0×): nur »geng«. לְעוֹלָם = »für geng / für ewig«; לָנֶצַח = »für geng«.",
+   "by": "agent:psa009",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H6726_daughter",
+   "kind": "term",
+   "value": "d Tochter Zion",
+   "source": "בַּת־צִיּוֹן",
+   "words": [
+    "daughter zion",
+    "daughter of zion"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בַּת",
+     "ref": "PSA 9:15",
+     "form": "בַת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JHN 12:15",
+     "form": "Tochter Zion"
+    },
+    {
+     "ref": "PSA 9:15",
+     "form": "der Tochter Zion"
+    }
+   ],
+   "by": "agent:psa009",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H7911",
+   "kind": "term",
+   "value": "vergässe",
+   "source": "שָׁכַח",
+   "alternatives": [
+    {
+     "value": "vergiss",
+     "note": "Imperativ"
+    }
+   ],
+   "words": [
+    "forget",
+    "forgotten"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שָׁכַח",
+     "ref": "PSA 10:12",
+     "form": "תִּשְׁכַּ֥ח"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MAT 16:5",
+     "form": "vergässe"
+    },
+    {
+     "ref": "PSA 10:12",
+     "form": "Vergiss di Arme nid"
+    }
+   ],
+   "by": "agent:psa010",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H6041",
+   "kind": "term",
+   "value": "di Arme",
+   "source": "עָנִי / עָנָו",
+   "words": [
+    "poor",
+    "afflicted",
+    "humble",
+    "needy"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עָנִי",
+     "ref": "PSA 10:2",
+     "form": "עָנִ֑י"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 4:18",
+     "form": "Arme"
+    },
+    {
+     "ref": "PSA 10:2",
+     "form": "em Arme"
+    }
+   ],
+   "note": "עָנִי / עָנָו = »arm / di Arme«; אֶבְיוֹן = »der Arm« (auch »der Bedürftig«, offen); דַּךְ = »die, wo bedrückt sy«; חֵלְכָה = »der Schwach«; יָתוֹם = »Waisechind«.",
+   "by": "agent:psa010",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H3490",
+   "kind": "term",
+   "value": "Waisechind",
+   "source": "יָתוֹם",
+   "alternatives": [
+    {
+     "value": "Waisechinder"
+    }
+   ],
+   "words": [
+    "fatherless",
+    "orphan"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָתוֹם",
+     "ref": "PSA 10:14",
+     "form": "יָ֝ת֗וֹם"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JHN 14:18",
+     "form": "Waisechinder"
+    },
+    {
+     "ref": "PSA 10:14",
+     "form": "de Waisechinder"
+    }
+   ],
+   "by": "agent:psa010",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H5800_2",
+   "kind": "term",
+   "value": "im Stich la",
+   "source": "עָזַב",
+   "words": [
+    "forsaken",
+    "forsake",
+    "abandon"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עָזַב",
+     "ref": "PSA 9:11",
+     "form": "עָזַ֖בְתָּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MAT 27:46",
+     "form": "im Stich gla"
+    },
+    {
+     "ref": "PSA 9:11",
+     "form": "nid im Stich gla"
+    }
+   ],
+   "note": "Wie Mt 27,46 (Ps 22,2) »warum hesch du mi im Stich gla«.",
+   "by": "agent:psa010",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H6833",
+   "kind": "term",
+   "value": "Vogel",
+   "source": "צִפּוֹר",
+   "words": [
+    "bird"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "צִפּוֹר",
+     "ref": "PSA 11:1",
+     "form": "צִפּֽוֹר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MAT 6:26",
+     "form": "Vögel"
+    },
+    {
+     "ref": "PSA 11:1",
+     "form": "wi ne Vogel"
+    }
+   ],
+   "note": "Singular »Vogel« im Korpus nicht belegt (Plural »Vögel« 18×).",
+   "by": "agent:psa011",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:ledavid",
+   "kind": "formula",
+   "value": "Vom David",
+   "source": "לְדָוִד",
+   "words": [
+    "of david"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "דָּוִד",
+     "ref": "PSA 11:1",
+     "form": "דָ֫וִ֥ד"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 11:1",
+     "form": "Vom David"
+    }
+   ],
+   "note": "Überschrift ohne Gattungswort; der Rest von V. 1 folgt als Poesie ohne neuen Versmarker.",
+   "by": "agent:psa011",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1614",
+   "kind": "term",
+   "value": "Schwäfel",
+   "source": "גָּפְרִית",
+   "words": [
+    "sulfur",
+    "brimstone"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "גׇּפְרִית",
+     "ref": "PSA 11:6",
+     "form": "גָפְרִית"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "REV 14:10",
+     "form": "Schwäfel"
+    },
+    {
+     "ref": "PSA 11:6",
+     "form": "Schwäfel"
+    }
+   ],
+   "by": "agent:psa011",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H529",
+   "kind": "term",
+   "value": "di Zueverlässige",
+   "source": "אֱמוּנִים",
+   "words": [
+    "faithful"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אֱמוּן",
+     "ref": "PSA 12:2",
+     "form": "אֱ֝מוּנִ֗ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 4:2",
+     "form": "zueverlässig"
+    },
+    {
+     "ref": "PSA 12:2",
+     "form": "D Zueverlässige"
+    }
+   ],
+   "note": "אֱמוּנָה = »Tröji/Zueverlässigkeit« (wie Tröiji und Zueverlässigkeit).",
+   "by": "agent:psa012",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H2513_lips",
+   "kind": "term",
+   "value": "falschi Lippe",
+   "source": "שְׂפַת חֲלָקוֹת",
+   "words": [
+    "flattering lips"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲלָק֑וֹת",
+     "ref": "PSA 12:3",
+     "lemma": "חָלָק"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 3:13",
+     "form": "Lippe"
+    },
+    {
+     "ref": "PSA 12:3",
+     "form": "mit falsche Lippe"
+    }
+   ],
+   "note": "»glatt« (1×) für Lippen nicht belegt; »falsch« (4×).",
+   "by": "agent:psa012",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H34",
+   "kind": "term",
+   "value": "di Bedürftige",
+   "source": "אֶבְיוֹן",
+   "words": [
+    "needy"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אֶבְיוֹן",
+     "ref": "PSA 12:6",
+     "form": "אֶבְי֫וֹנִ֥ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1TI 5:16",
+     "form": "bedürftige"
+    },
+    {
+     "ref": "PSA 12:6",
+     "form": "d Bedürftige"
+    }
+   ],
+   "note": "אֶבְיוֹן = »bedürftig / di Bedürftige« (in Ps 9,19 noch »der Arm«); עָנִי = »arm«.",
+   "by": "agent:psa012",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested",
+   "alternatives": [
+    {
+     "value": "bedürftig",
+     "note": "prädikativ (Ps 40,18)"
+    }
+   ]
+  },
+  {
+   "id": "term:H8034_plagiere",
+   "kind": "term",
+   "value": "plagiere",
+   "source": "דִּבֵּר גְּדֹלוֹת",
+   "words": [
+    "boastful",
+    "boasts"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "גָּדוֹל",
+     "ref": "PSA 12:4",
+     "form": "גְּדֹלֽוֹת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 13:4",
+     "form": "plagiert"
+    },
+    {
+     "ref": "PSA 12:4",
+     "form": "wo plagiert"
+    }
+   ],
+   "note": "»grossi Wort füere« nicht belegt; »plagiere« 9×.",
+   "by": "agent:psa012",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:ad_ana",
+   "kind": "formula",
+   "value": "Wi lang no",
+   "source": "עַד־אָנָה",
+   "words": [
+    "how long"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אָ֣נָה",
+     "ref": "PSA 13:2",
+     "lemma": "אָן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MAT 17:17",
+     "form": "Wi lang no"
+    },
+    {
+     "ref": "PSA 13:2",
+     "form": "Wi lang no, HERR"
+    }
+   ],
+   "note": "Klageformel; עַד־מָתַי ebenso (Ps 6,4).",
+   "by": "agent:psa013",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H5034_nabal",
+   "kind": "term",
+   "value": "der Dumm",
+   "source": "נָבָל",
+   "words": [
+    "fool"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "נָבָל",
+     "ref": "PSA 14:1",
+     "form": "נָבָ֣ל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 1:25",
+     "form": "Dumme"
+    },
+    {
+     "ref": "PSA 14:1",
+     "form": "Der Dumm"
+    }
+   ],
+   "note": "נָבָל = »der Dumm« (Lk 12,20 »Du Dumme«); »Tor« ist im Korpus das Stadttor.",
+   "by": "agent:psa013",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:ps14_3",
+   "kind": "formula",
+   "value": "kene tuet öppis Guets, nid en einzige",
+   "source": "אֵין עֹשֵׂה־טוֹב אֵין גַּם־אֶחָד",
+   "words": [
+    "there is no one who does good, not even one"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אֶחָד",
+     "ref": "PSA 14:3",
+     "form": "אֶחָֽד"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 3:12",
+     "form": "Kene tuet öppis Guets"
+    },
+    {
+     "ref": "PSA 14:3",
+     "form": "nid en einzige"
+    }
+   ],
+   "note": "Wortlaut nach Röm 3,10-12 (zitiert Ps 14,1-3; 53,2-4); Ps 53 gleich halten.",
+   "by": "agent:psa013",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:shuv_shevut",
+   "kind": "formula",
+   "value": "ds Glück zrügg gä",
+   "source": "שׁוּב שְׁבוּת",
+   "words": [
+    "restores the fortunes",
+    "restores his captive people"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שְׁבוּת",
+     "ref": "PSA 14:7",
+     "form": "שְׁב֣וּת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PHP 1:21",
+     "form": "Glück"
+    },
+    {
+     "ref": "PSA 14:7",
+     "form": "ds Glück zrügg git"
+    }
+   ],
+   "note": "שׁוּב שְׁבוּת »das Geschick wenden« (Ps 14,7; 53,7; 85,2; 126,1.4).",
+   "by": "agent:psa013",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1481_guest",
+   "kind": "term",
+   "value": "z Gascht sy",
+   "source": "גּוּר",
+   "words": [
+    "abide",
+    "dwell",
+    "sojourn"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "גּוּר",
+     "ref": "PSA 15:1",
+     "form": "יָג֣וּר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ACT 10:32",
+     "form": "z Gascht"
+    },
+    {
+     "ref": "PSA 15:1",
+     "form": "z Gascht sy"
+    }
+   ],
+   "note": "גּוּר bei Gott (Ps 5,5; 15,1; 61,5) »z Gascht sy«; sonst »als Frömde wohne« (term:H1616).",
+   "by": "agent:psa015",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:yirei_yhwh",
+   "kind": "formula",
+   "value": "die, wo Ehrfurcht vor em HERR hei",
+   "source": "יִרְאֵי יְהוָה",
+   "words": [
+    "those who fear the lord"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָרֵא",
+     "ref": "PSA 15:4",
+     "form": "יִרְאֵ֣י"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 15:4",
+     "form": "Ehrfurcht vor em HERR"
+    },
+    {
+     "ref": "ACT 9:31",
+     "form": "Ehrfurcht"
+    }
+   ],
+   "note": "Wie formula:fear_god; Ps 22,24; 25,12.14 usw.",
+   "by": "agent:psa015",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H5392",
+   "kind": "term",
+   "value": "Zins",
+   "source": "נֶשֶׁךְ",
+   "words": [
+    "interest",
+    "usury"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "נֶשֶׁךְ",
+     "ref": "PSA 15:5",
+     "form": "נֶשֶׁךְ֮"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 19:23",
+     "form": "Zins"
+    },
+    {
+     "ref": "PSA 15:5",
+     "form": "kene Zins"
+    }
+   ],
+   "by": "agent:psa015",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H4131",
+   "kind": "term",
+   "value": "zum Wanke cho",
+   "source": "מוֹט",
+   "words": [
+    "shaken",
+    "moved"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מוֹט",
+     "ref": "PSA 15:5",
+     "form": "יִמּ֣וֹט"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ACT 2:25",
+     "form": "schwindlig"
+    },
+    {
+     "ref": "PSA 15:5",
+     "form": "zum Wanke"
+    }
+   ],
+   "note": "לֹא יִמּוֹט = »chunt nid zum Wanke«; 1. Sg. »wanke i nid« (Ps 16,8).",
+   "by": "agent:psa015",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:miktam",
+   "kind": "formula",
+   "value": "E Michtam",
+   "source": "מִכְתָּם",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Michtam"
+    }
+   ],
+   "words": [
+    "miktam"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִכְתָּ֥ם",
+     "ref": "PSA 16:1",
+     "lemma": "מִכְתָּם"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 16:1",
+     "form": "E Michtam"
+    }
+   ],
+   "note": "Gattungsbegriff, unübersetzt; כ als »ch« nach der Umschriftregel (nicht das englische »Miktam«). Ps 16; 56-60.",
+   "by": "agent:psa016",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps16_10",
+   "kind": "formula",
+   "value": "dy Tröie nid la verwäse",
+   "source": "לֹא־תִתֵּן חֲסִידְךָ לִרְאוֹת שָׁחַת",
+   "words": [
+    "let your holy one see decay"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שַׁחַת",
+     "ref": "PSA 16:10",
+     "form": "שָֽׁחַת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ACT 2:27",
+     "form": "nid la verwäse"
+    },
+    {
+     "ref": "PSA 16:10",
+     "form": "nid la verwäse"
+    }
+   ],
+   "note": "Ps 16,8-11 nach Apg 2,25-28 (»rächts vo mir«, »Toterych«, »Wääge zum Läbe zeigt«), wo es das Hebräische trägt.",
+   "by": "agent:psa016",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:apple_eye",
+   "kind": "formula",
+   "value": "wi dys eigete Oug",
+   "source": "כְּאִישׁוֹן בַּת־עָיִן",
+   "words": [
+    "apple of your eye"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אִישׁוֹן",
+     "ref": "PSA 17:8",
+     "form": "אִישׁ֣וֹן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 17:8",
+     "form": "wi dys eigete Oug"
+    },
+    {
+     "ref": "MAT 6:22",
+     "form": "Oug"
+    }
+   ],
+   "note": "»Augapfel« ist im Korpus nicht belegt; Bild als »wi dys eigete Oug«.",
+   "by": "agent:psa017",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:shadow_wings",
+   "kind": "formula",
+   "value": "im Schatte vo dyne Flügel",
+   "source": "בְּצֵל כְּנָפֶיךָ",
+   "words": [
+    "shadow of your wings"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "צֵל",
+     "ref": "PSA 17:8",
+     "form": "צֵ֥ל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 17:8",
+     "form": "Schatte vo dyne Flügel"
+    },
+    {
+     "ref": "REV 4:8",
+     "form": "Flügel"
+    }
+   ],
+   "note": "Ps 17,8; 36,8; 57,2; 63,8 gleich.",
+   "by": "agent:psa017",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H6697_rock",
+   "kind": "term",
+   "value": "Felse",
+   "source": "צוּר / סֶלַע",
+   "words": [
+    "rock"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "צוּר",
+     "ref": "PSA 18:3",
+     "form": "צ֭וּרִ"
+    },
+    {
+     "lang": "hbo",
+     "lemma": "סֶלַע",
+     "ref": "PSA 18:3",
+     "form": "סַֽלְעִ֥"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MAT 7:24",
+     "form": "Felse"
+    },
+    {
+     "ref": "PSA 18:3",
+     "form": "my Felse"
+    }
+   ],
+   "note": "Gott als Fels: »my Felse« (der Felse); צוּר und סֶלַע gleich. Ps 18; 19,15; 28,1; 31,3; 62; 95,1 usw.",
+   "by": "agent:psa018",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H7161_horn",
+   "kind": "term",
+   "value": "Horn",
+   "source": "קֶרֶן",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Hörner"
+    }
+   ],
+   "words": [
+    "horn"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "קֶרֶן",
+     "ref": "PSA 18:3",
+     "form": "קֶֽרֶן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "REV 5:6",
+     "form": "Hörner"
+    },
+    {
+     "ref": "PSA 18:3",
+     "form": "ds Horn"
+    },
+    {
+     "ref": "PSA 132:17",
+     "form": "es Horn"
+    },
+    {
+     "ref": "PSA 148:14",
+     "form": "es Horn"
+    }
+   ],
+   "note": "Sg. »ds Horn« zum belegten Plural »Hörner«; Bild der Kraft (Ps 18,3; 75; 89; 92; 112; 132; 148) wird beibehalten. REVIEW »English?« in 18,3 ist damit erklärt.",
+   "by": "agent:psa018",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3742_cherub",
+   "kind": "term",
+   "value": "Cherub",
+   "source": "כְּרוּב",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Cherube"
+    }
+   ],
+   "words": [
+    "cherub"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "כְּרוּב",
+     "ref": "PSA 18:11",
+     "form": "כְּ֭רוּב"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "HEB 9:5",
+     "form": "Cherube"
+    },
+    {
+     "ref": "PSA 18:11",
+     "form": "emene Cherub"
+    }
+   ],
+   "note": "Sg. »Cherub«, Pl. »Cherube« (Hebr 9,5). Ps 80,2; 99,1 »wo über de Cherube thronet«.",
+   "by": "agent:psa018",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:barukh_3",
+   "kind": "formula",
+   "value": "Globet syg",
+   "source": "בָּרוּךְ (Lobpreis)",
+   "words": [
+    "blessed be"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בָּרַךְ",
+     "ref": "PSA 18:47",
+     "form": "בָר֣וּךְ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 2:20",
+     "form": "Gott globet"
+    },
+    {
+     "ref": "EPH 1:3",
+     "form": "Lobet Gott"
+    },
+    {
+     "ref": "PSA 18:47",
+     "form": "Globet syg"
+    }
+   ],
+   "note": "בָּרוּךְ als Lobruf auf Gott = »Globet syg« (Partizip globet wie Lk 2,20; NT-Doxologien Eph 1,3 »Lobet Gott«); Schlussdoxologien Ps 41,14; 72,18-19; 89,53; 106,48 gleich. Für Menschen »gsägnet« (term:H1288).",
+   "by": "agent:psa018",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:torah_qualities",
+   "kind": "formula",
+   "value": "ds Gsetz vom HERR isch vollkomme",
+   "source": "תּוֹרַת יְהוָה תְּמִימָה",
+   "words": [
+    "the law of the lord is perfect"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "תָּמִים",
+     "ref": "PSA 19:8",
+     "form": "תְּ֭מִימָה"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 19:8",
+     "form": "isch vollkomme"
+    },
+    {
+     "ref": "ROM 7:12",
+     "form": "Gsetz"
+    }
+   ],
+   "note": "Torawörter im Psalter: תּוֹרָה Gsetz, עֵדוּת Zügnis, פִּקּוּדִים Vorschrifte, מִצְוָה Gebot, מִשְׁפָּטִים Rächt, חֻקִּים Ornige? (Ps 119 festlegen).",
+   "by": "agent:psa019",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1350_god",
+   "kind": "term",
+   "value": "my Löser",
+   "source": "גֹּאֵל (Gott)",
+   "words": [
+    "redeemer"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "גָּאַל",
+     "ref": "PSA 19:15",
+     "form": "גֹאֲלִֽ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "RUT 3:9",
+     "form": "Löser"
+    },
+    {
+     "ref": "PSA 19:15",
+     "form": "my Löser"
+    }
+   ],
+   "note": "Gott als גֹּאֵל wie Rut (»Löser«), nicht »Erlöser« (0× im Korpus). Ps 19,15; 78,35; Jes 41-63.",
+   "by": "agent:psa019",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1713_banner",
+   "kind": "term",
+   "value": "Fahne",
+   "source": "דָּגַל / דֶּגֶל",
+   "attested": "by-rule",
+   "words": [
+    "banner",
+    "raise a banner"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "דָּגַל",
+     "ref": "PSA 20:6",
+     "form": "נִדְגֹּ֑ל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 20:6",
+     "form": "d Fahne ufstelle"
+    }
+   ],
+   "note": "Im Korpus nicht belegt; »Fahne« (Hld 2,4; 5,10; 6,4.10 entsprechend).",
+   "by": "agent:psa020",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:hoshia_melekh",
+   "kind": "formula",
+   "value": "HERR, hilf!",
+   "source": "יְהוָה הוֹשִׁיעָה",
+   "words": [
+    "lord, save"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָשַׁע",
+     "ref": "PSA 20:10",
+     "form": "הוֹשִׁ֑יעָ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 20:10",
+     "form": "HERR, hilf"
+    },
+    {
+     "ref": "MAT 8:25",
+     "form": "hilf"
+    }
+   ],
+   "note": "Hilferuf an Gott: »HERR, hilf!« (Ps 12,2; 20,10; 118,25 Hosianna).",
+   "by": "agent:psa020",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:bashan",
+   "kind": "name",
+   "value": "Baschan",
+   "source": "בָּשָׁן",
+   "attested": "by-rule",
+   "words": [
+    "bashan"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 22:13",
+     "form": "Stiere vo Baschan"
+    }
+   ],
+   "note": "Nach der Umschriftregel (ש = sch). Ps 68,16.23; 135,11; 136,20.",
+   "by": "agent:psa022",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8438_worm",
+   "kind": "term",
+   "value": "Wurm",
+   "source": "תּוֹלַעַת",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Würm"
+    }
+   ],
+   "words": [
+    "worm"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תוֹלַ֣עַת",
+     "ref": "PSA 22:7",
+     "lemma": "תֹּולַעַת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MRK 9:48",
+     "form": "Würm"
+    },
+    {
+     "ref": "PSA 22:7",
+     "form": "e Wurm"
+    }
+   ],
+   "note": "Sg. zum belegten Plural »Würm«.",
+   "by": "agent:psa022",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1749_wax",
+   "kind": "term",
+   "value": "Wachs",
+   "source": "דּוֹנַג",
+   "attested": "by-rule",
+   "words": [
+    "wax"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "דּוֹנַג",
+     "ref": "PSA 22:15",
+     "form": "דּוֹנָ֑ג"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 22:15",
+     "form": "wi Wachs"
+    }
+   ],
+   "note": "Ps 22,15; 68,3; 97,5 »wi Wachs vergeit«.",
+   "by": "agent:psa022",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7214_wildox",
+   "kind": "term",
+   "value": "Wildstier",
+   "source": "רְאֵם",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Wildstiere"
+    }
+   ],
+   "words": [
+    "wild ox",
+    "wild oxen"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "רְאֵם",
+     "ref": "PSA 22:22",
+     "form": "רֵמִ֣ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 22:22",
+     "form": "de Wildstiere"
+    },
+    {
+     "ref": "REV 4:7",
+     "form": "Stier"
+    }
+   ],
+   "note": "Ps 22,22; 29,6; 92,11.",
+   "by": "agent:psa022",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps22_2",
+   "kind": "formula",
+   "value": "My Gott, my Gott, warum hesch du mi im Stich gla?",
+   "source": "אֵלִי אֵלִי לָמָה עֲזַבְתָּנִי",
+   "words": [
+    "my god, my god, why have you forsaken me"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עָזַב",
+     "ref": "PSA 22:2",
+     "form": "עֲזַבְתָּ֑"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MAT 27:46",
+     "form": "warum hesch du mi"
+    },
+    {
+     "ref": "PSA 22:2",
+     "form": "im Stich gla"
+    }
+   ],
+   "note": "Wortlaut wie Mt 27,46 / Mk 15,34; V. 9 nach Mt 27,43, V. 19 nach Joh 19,24, V. 23 nach Hebr 2,12.",
+   "by": "agent:psa022",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H1516_valley",
+   "kind": "term",
+   "value": "Tal",
+   "source": "גַּיְא / עֵמֶק",
+   "attested": "by-rule",
+   "words": [
+    "valley"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "גַּיְא",
+     "ref": "PSA 23:4",
+     "form": "גֵ֪יא"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 23:4",
+     "form": "ds fyschtere Tal"
+    },
+    {
+     "ref": "LUK 3:5",
+     "form": "Grabe"
+    }
+   ],
+   "note": "»Tal« nicht im Korpus (Lk 3,5 »Grabe«); im AT unentbehrlich: ds Tal, Pl. Täler.",
+   "by": "agent:psa023",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps23_1",
+   "kind": "formula",
+   "value": "Der HERR isch my Hirt, mir fählt nüüt",
+   "source": "יְהוָה רֹעִי לֹא אֶחְסָר",
+   "words": [
+    "the lord is my shepherd"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "רָעָה",
+     "ref": "PSA 23:1",
+     "form": "רֹ֝עִ֗"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 23:1",
+     "form": "isch my Hirt"
+    },
+    {
+     "ref": "JHN 10:11",
+     "form": "Hirt"
+    }
+   ],
+   "note": "צַלְמָוֶת = »ds fyschtere Tal« (Todesschatten; Fussnote).",
+   "by": "agent:psa023",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:yhwh_tsevaot",
+   "kind": "formula",
+   "value": "der HERR Zebaoth",
+   "source": "יְהוָה צְבָאוֹת",
+   "words": [
+    "lord of hosts",
+    "lord almighty"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "צָבָא",
+     "ref": "PSA 24:10",
+     "form": "צְבָא֑וֹת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 9:29",
+     "form": "Herr Zebaoth"
+    },
+    {
+     "ref": "PSA 24:10",
+     "form": "Der HERR Zebaoth"
+    }
+   ],
+   "note": "Röm 9,29 »der Herr Zebaoth«; mit אֱלֹהִים: »der HERR, der Gott Zebaoth« (Ps 59,6; 80; 84; 89,9).",
+   "by": "agent:psa024",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:ps24_gates",
+   "kind": "formula",
+   "value": "Lüpfet öiji Chöpf, dihr Tor",
+   "source": "שְׂאוּ שְׁעָרִים רָאשֵׁיכֶם",
+   "alternatives": [
+    {
+     "value": "lüpfet"
+    },
+    {
+     "value": "hänkt"
+    }
+   ],
+   "words": [
+    "lift up your heads, o gates"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שַׁעַר",
+     "ref": "PSA 24:7",
+     "form": "שְׁעָרִ֨ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 24:7",
+     "form": "Lüpfet öiji Chöpf"
+    },
+    {
+     "ref": "MAT 16:18",
+     "form": "Tor"
+    }
+   ],
+   "note": "Kehrvers Ps 24,7.9: »dass der Chünig vo der Herrlechkeit cha ynecho«; מֶלֶךְ הַכָּבוֹד = »der Chünig vo der Herrlechkeit«.",
+   "by": "agent:psa024",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:al_evosha",
+   "kind": "formula",
+   "value": "La mi nid z Schande wärde",
+   "source": "אַל־אֵבוֹשָׁה",
+   "words": [
+    "let me not be put to shame"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בּוֹשׁ",
+     "ref": "PSA 25:2",
+     "form": "אֵב֑וֹשָׁה"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1CO 1:19",
+     "form": "z Schande"
+    },
+    {
+     "ref": "PSA 25:2",
+     "form": "nid z Schande wärde"
+    }
+   ],
+   "note": "Bitte und Zusage (Ps 25; 31,2.18; 69,7; 71,1; 119): »z Schande wärde«; erzählend »sech schäme müesse« (Ps 6,11; 22,6).",
+   "by": "agent:psa025",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:hesed_emet",
+   "kind": "formula",
+   "value": "Tröiji und Wahrheit",
+   "source": "חֶסֶד וֶאֱמֶת",
+   "words": [
+    "loving devotion and faithfulness",
+    "steadfast love and faithfulness"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אֱמֶת",
+     "ref": "PSA 25:10",
+     "form": "אֱמֶ֑ת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "JHN 1:14",
+     "form": "Wahrheit"
+    },
+    {
+     "ref": "PSA 25:10",
+     "form": "Tröiji und Wahrheit"
+    }
+   ],
+   "note": "Wie Joh 1,14 (Gnade und Wahrheit); Ps 25,10; 40,11-12; 57,4; 61,8; 85,11; 86,15; 89,15; 115,1; 117,2; 138,2.",
+   "by": "agent:psa025",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H730_cedar",
+   "kind": "term",
+   "value": "Zedere",
+   "source": "אֶרֶז",
+   "attested": "by-rule",
+   "words": [
+    "cedar",
+    "cedars"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אֶרֶז",
+     "ref": "PSA 29:5",
+     "form": "אֲרָזִ֑ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 29:5",
+     "form": "d Zedere"
+    }
+   ],
+   "note": "Sg. »d Zeder«, Pl. »d Zedere«. Ps 29; 80,11; 92,13; 104,16; 148,9.",
+   "by": "agent:psa029",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:lebanon",
+   "kind": "name",
+   "value": "Libanon",
+   "source": "לְבָנוֹן",
+   "attested": "by-rule",
+   "words": [
+    "lebanon"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 29:5",
+     "form": "vom Libanon"
+    }
+   ],
+   "note": "Mit Artikel: der Libanon.",
+   "by": "agent:psa029",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:sirion",
+   "kind": "name",
+   "value": "Sirjon",
+   "source": "שִׂרְיֹן",
+   "attested": "by-rule",
+   "words": [
+    "sirion"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 29:6",
+     "form": "der Sirjon"
+    }
+   ],
+   "note": "Name des Hermon (5Mo 3,9); Umschrift mit j.",
+   "by": "agent:psa029",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:kadesh",
+   "kind": "name",
+   "value": "Kadesch",
+   "source": "קָדֵשׁ",
+   "attested": "by-rule",
+   "words": [
+    "kadesh"
+   ],
+   "evidence": [
+    {
+     "ref": "GEN 14:7",
+     "form": "Kadesch"
+    },
+    {
+     "ref": "PSA 29:8",
+     "form": "vo Kadesch"
+    }
+   ],
+   "note": "Wie Gen 14; 16; 20 im Projekt.",
+   "by": "agent:psa029",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:havu_lyhwh",
+   "kind": "formula",
+   "value": "Gät em HERR",
+   "source": "הָבוּ לַיהוָה",
+   "words": [
+    "ascribe to the lord"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָהַב",
+     "ref": "PSA 29:1",
+     "form": "הָב֣וּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 29:1",
+     "form": "Gät em HERR"
+    },
+    {
+     "ref": "REV 14:7",
+     "form": "gät"
+    }
+   ],
+   "note": "Ps 29,1-2; 96,7-8 gleich: »Gät em HERR d Ehr, wo sym Name ghört«.",
+   "by": "agent:psa029",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H2598",
+   "kind": "term",
+   "value": "Yweih",
+   "source": "חֲנֻכָּה",
+   "attested": "by-rule",
+   "words": [
+    "dedication"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חֲנֻכָּה",
+     "ref": "PSA 30:1",
+     "form": "חֲנֻכַּ֖ת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 30:1",
+     "form": "d Yweih"
+    },
+    {
+     "ref": "JHN 10:22",
+     "form": "Tämpelweih"
+    }
+   ],
+   "note": "Einweihung (Ps 30,1); nach Joh 10,22 »Tämpelweih«.",
+   "by": "agent:psa030",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps31_6",
+   "kind": "formula",
+   "value": "I dyni Händ übergiben i my Geischt",
+   "source": "בְּיָדְךָ אַפְקִיד רוּחִי",
+   "words": [
+    "into your hand i commit my spirit"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "פָּקַד",
+     "ref": "PSA 31:6",
+     "form": "אַפְקִ֪יד"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 23:46",
+     "form": "übergiben i my Geischt"
+    },
+    {
+     "ref": "PSA 31:6",
+     "form": "I dyni Händ"
+    }
+   ],
+   "note": "Wortlaut wie Lk 23,46.",
+   "by": "agent:psa031",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H6960_hope",
+   "kind": "term",
+   "value": "hoffe uf",
+   "source": "יָחַל / קִוָּה",
+   "words": [
+    "wait for",
+    "hope in"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָחַל",
+     "ref": "PSA 31:25",
+     "form": "מְיַחֲלִ֗ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 15:12",
+     "form": "hoffe"
+    },
+    {
+     "ref": "PSA 31:25",
+     "form": "uf e HERR hoffe"
+    }
+   ],
+   "note": "יָחַל und קִוָּה = »hoffe uf«; Imperativ Sg. »Setz dy Hoffnig uf e HERR« (Ps 27,14), Pl. »hoffet«.",
+   "by": "agent:psa031",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:maskil",
+   "kind": "formula",
+   "value": "E Maskil",
+   "source": "מַשְׂכִּיל",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Maskil"
+    }
+   ],
+   "words": [
+    "maskil"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מַשְׂכִּיל",
+     "ref": "PSA 32:1",
+     "form": "מַ֫שְׂכִּ֥יל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 32:1",
+     "form": "E Maskil"
+    }
+   ],
+   "note": "Gattungsbegriff, unübersetzt (כּ mit Dagesch = k, also gleich wie englisch); Fussnote bei Ps 32. Ps 42; 44-45; 52-55; 74; 78; 88-89; 142.",
+   "by": "agent:psa032",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps32_1",
+   "kind": "formula",
+   "value": "Glücklech isch dä, wo d Fähler vergä sy",
+   "source": "אַשְׁרֵי נְשׂוּי־פֶּשַׁע",
+   "words": [
+    "blessed is he whose transgression is forgiven"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "פֶּשַׁע",
+     "ref": "PSA 32:1",
+     "form": "פֶּ֗שַׁע"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "ROM 4:7",
+     "form": "d Fähler vergä"
+    },
+    {
+     "ref": "PSA 32:1",
+     "form": "d Sünde zueddeckt"
+    }
+   ],
+   "note": "Ps 32,1-2 nach Röm 4,7-8 (»zueddeckt«, »d Schuld nid aarächnet«); פֶּשַׁע hier »Fähler« wie Röm 4,7, sonst »Vergehe/Unrächt«.",
+   "by": "agent:psa032",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H3658_lyre",
+   "kind": "term",
+   "value": "Zither",
+   "source": "כִּנּוֹר",
+   "attested": "by-rule",
+   "words": [
+    "lyre",
+    "harp"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "כִּנּוֹר",
+     "ref": "PSA 33:2",
+     "form": "כִנּ֑וֹר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 33:2",
+     "form": "mit der Zither"
+    }
+   ],
+   "note": "כִּנּוֹר = »Zither«, נֵבֶל = »Harfe« (Harfe belegt: Offb 14,2); Ps 33; 43; 57; 71; 81; 92; 98; 108; 147; 149; 150. REVIEW »zither« = englisch? Nein, deutsches Instrumentenwort.",
+   "by": "agent:psa033",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6218",
+   "kind": "term",
+   "value": "Harfe mit zäh Saite",
+   "source": "נֵבֶל עָשׂוֹר",
+   "attested": "by-rule",
+   "alternatives": [
+    {
+     "value": "Saite"
+    }
+   ],
+   "words": [
+    "harp of ten strings",
+    "ten-stringed harp"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עָשׂוֹר",
+     "ref": "PSA 33:2",
+     "form": "עָ֝שׂ֗וֹר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "REV 14:2",
+     "form": "Harfe"
+    },
+    {
+     "ref": "PSA 33:2",
+     "form": "Harfe mit zäh Saite"
+    }
+   ],
+   "note": "Ps 33,2; 92,4; 144,9.",
+   "by": "agent:psa033",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:shir_hadash",
+   "kind": "formula",
+   "value": "es nöis Lied",
+   "source": "שִׁיר חָדָשׁ",
+   "words": [
+    "a new song"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חָדָשׁ",
+     "ref": "PSA 33:3",
+     "form": "חָדָ֑שׁ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "REV 14:3",
+     "form": "es nöis Lied"
+    },
+    {
+     "ref": "PSA 33:3",
+     "form": "es nöis Lied"
+    }
+   ],
+   "note": "Ps 33,3; 40,4; 96,1; 98,1; 144,9; 149,1.",
+   "by": "agent:psa033",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:abimelech",
+   "kind": "name",
+   "value": "Abimelech",
+   "source": "אֲבִימֶלֶךְ",
+   "attested": "by-rule",
+   "words": [
+    "abimelech"
+   ],
+   "evidence": [
+    {
+     "ref": "GEN 20:2",
+     "form": "Abimelech"
+    },
+    {
+     "ref": "PSA 34:1",
+     "form": "em Abimelech"
+    }
+   ],
+   "note": "Wie Gen 20-26 im Projekt.",
+   "by": "agent:psa034",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps34_9",
+   "kind": "formula",
+   "value": "Chüschtet und lueget, wi guet der HERR isch",
+   "source": "טַעֲמוּ וּרְאוּ כִּי־טוֹב יְהוָה",
+   "alternatives": [
+    {
+     "value": "Chüschtet"
+    }
+   ],
+   "words": [
+    "taste and see that the lord is good"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "טָעַם",
+     "ref": "PSA 34:9",
+     "form": "טַעֲמ֣וּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1PE 2:3",
+     "form": "gchüschtet"
+    },
+    {
+     "ref": "PSA 34:9",
+     "form": "Chüschtet und lueget"
+    }
+   ],
+   "note": "Nach 1 Petr 2,3 (»gchüschtet, wi fründlech der Herr isch«). V. 13-17 nach 1 Petr 3,10-12; V. 21 nach Joh 19,36.",
+   "by": "agent:psa034",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:yirshu_arets",
+   "kind": "formula",
+   "value": "erbe ds Land",
+   "source": "יִירְשׁוּ אָרֶץ",
+   "words": [
+    "inherit the land",
+    "inherit the earth"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָרַשׁ",
+     "ref": "PSA 37:11",
+     "form": "יִֽירְשׁוּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MAT 5:5",
+     "form": "d Ärde"
+    },
+    {
+     "ref": "PSA 37:11",
+     "form": "erbe ds Land"
+    }
+   ],
+   "note": "Kehrwort Ps 37,9.11.22.29.34; »Land« nach dem Hebräischen (Mt 5,5 Bietenhard »d Ärde«, mit »naagä« statt »demüetig«).",
+   "by": "agent:psa037",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:al_titchar",
+   "kind": "formula",
+   "value": "Bis nid ufgregt",
+   "source": "אַל־תִּתְחַר",
+   "words": [
+    "do not fret"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חָרָה",
+     "ref": "PSA 37:1",
+     "form": "תִּתְחַ֥ר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 37:1",
+     "form": "Bis nid ufgregt"
+    },
+    {
+     "ref": "LUK 24:17",
+     "form": "ufgregt"
+    }
+   ],
+   "note": "Ps 37,1.7.8 dreimal gleich.",
+   "by": "agent:psa037",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:jeduthun",
+   "kind": "name",
+   "value": "Jeduthun",
+   "source": "יְדוּתוּן",
+   "attested": "by-rule",
+   "words": [
+    "jeduthun"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 39:1",
+     "form": "für e Jeduthun"
+    }
+   ],
+   "note": "Sängermeister (1 Chr 16,41); Ps 39; 62; 77. Hier »für e Jeduthun«, Ps 62; 77 »nach em Jeduthun« (עַל).",
+   "by": "agent:psa039",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1892",
+   "kind": "term",
+   "value": "e Huuch",
+   "source": "הֶבֶל",
+   "words": [
+    "breath",
+    "vapor",
+    "vanity"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "הֶבֶל",
+     "ref": "PSA 39:6",
+     "form": "הֶ֥בֶל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "2TH 2:8",
+     "form": "Huuch"
+    },
+    {
+     "ref": "PSA 39:6",
+     "form": "nume ne Huuch"
+    }
+   ],
+   "note": "Der Mensch ist »nume ne Huuch« (Ps 39,6.12; 62,10; 144,4); für Götzen »nüütnutzigs Züüg«.",
+   "by": "agent:psa039",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:hermon",
+   "kind": "name",
+   "value": "Hermon",
+   "source": "חֶרְמוֹן",
+   "attested": "by-rule",
+   "words": [
+    "hermon"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 42:7",
+     "form": "vo de Hermon-Bärge"
+    }
+   ],
+   "note": "Ps 42,7 Plural חֶרְמוֹנִים »vo de Hermon-Bärge«; Ps 89,13; 133,3 »Hermon«.",
+   "by": "agent:psa042",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:mizar",
+   "kind": "name",
+   "value": "Mizar",
+   "source": "מִצְעָר",
+   "attested": "by-rule",
+   "words": [
+    "mizar"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 42:7",
+     "form": "vom Bärg Mizar"
+    }
+   ],
+   "note": "Unbekannter Berg (oder »der kleine Berg«); als Name.",
+   "by": "agent:psa042",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H354",
+   "kind": "term",
+   "value": "Hirsch",
+   "source": "אַיָּל",
+   "attested": "by-rule",
+   "words": [
+    "deer",
+    "hart"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אַיָּל",
+     "ref": "PSA 42:2",
+     "form": "אַיָּ֗ל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 42:2",
+     "form": "Wi ne Hirsch"
+    }
+   ],
+   "note": "Ps 42,2; Hinde (אַיָּלָה) Ps 18,34; 22,1.",
+   "by": "agent:psa042",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps42_refrain",
+   "kind": "formula",
+   "value": "Warum bisch so bedrückt, my Seel, und warum bisch so ohni Rue i mir? Setz dy Hoffnig uf Gott! Denn i wird ihm no danke",
+   "source": "מַה־תִּשְׁתּוֹחֲחִי נַפְשִׁי וַתֶּהֱמִי עָלָי הוֹחִילִי לֵאלֹהִים כִּי־עוֹד אוֹדֶנּוּ",
+   "words": [
+    "why are you downcast, o my soul"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שׁיח",
+     "form": "תִּשְׁתּ֬וֹחֲחִ֨י",
+     "ref": "PSA 42:6"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 42:6",
+     "form": "Warum bisch so bedrückt"
+    },
+    {
+     "ref": "PSA 42:12",
+     "form": "Setz dy Hoffnig"
+    }
+   ],
+   "note": "Kehrvers Ps 42,6.12; 43,5. Schluss 42,6 »für d Rettig vo sym Gsicht« (MT), 42,12 und 43,5 »ihm, wo mi rettet und my Gott isch«.",
+   "by": "agent:psa042",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H8577_jackal",
+   "kind": "term",
+   "value": "Schakal",
+   "source": "תַּנִּים",
+   "attested": "by-rule",
+   "words": [
+    "jackals"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "תַּן",
+     "ref": "PSA 44:20",
+     "form": "תַּנִּ֑ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 44:20",
+     "form": "d Schakal"
+    }
+   ],
+   "note": "Plural »d Schakal« (Mundart ohne -e).",
+   "by": "agent:psa044",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ophir",
+   "kind": "name",
+   "value": "Ofir",
+   "source": "אוֹפִיר",
+   "attested": "by-rule",
+   "words": [
+    "ophir"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 45:10",
+     "form": "Guld vo Ofir"
+    }
+   ],
+   "note": "Goldland; Schreibung mit f wie in der Mundart (nicht »Ophir«).",
+   "by": "agent:psa045",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:al_shoshannim",
+   "kind": "formula",
+   "value": "Nach der Wys „Lilie“",
+   "source": "עַל־שֹׁשַׁנִּים",
+   "words": [
+    "according to lilies"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שׁוּשַׁן",
+     "ref": "PSA 45:1",
+     "form": "שֹׁ֭שַׁנִּים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 45:1",
+     "form": "Nach der Wys „Lilie“"
+    },
+    {
+     "ref": "MAT 6:28",
+     "form": "Lilie"
+    }
+   ],
+   "note": "Ps 45; 69; 80 (עַל־שֹׁשַׁנִּים עֵדוּת »Nach der Wys „Lilie vom Zügnis“«); Ps 60 שׁוּשַׁן עֵדוּת gleich.",
+   "by": "agent:psa045",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:al_alamot",
+   "kind": "formula",
+   "value": "Nach Alamot",
+   "source": "עַל־עֲלָמוֹת",
+   "attested": "by-rule",
+   "words": [
+    "according to alamoth"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עַלְמָה",
+     "ref": "PSA 46:1",
+     "form": "עֲלָמ֥וֹת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 46:1",
+     "form": "Nach Alamot"
+    }
+   ],
+   "note": "Musikangabe (vielleicht hohe Stimmen); wie »Nach der Gittit« unübersetzt (1 Chr 15,20).",
+   "by": "agent:psa046",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps46_refrain",
+   "kind": "formula",
+   "value": "Der HERR Zebaoth isch mit üüs, der Gott vom Jakob isch üsi Burg.",
+   "source": "יְהוָה צְבָאוֹת עִמָּנוּ מִשְׂגָּב־לָנוּ אֱלֹהֵי יַעֲקֹב",
+   "words": [
+    "the lord of hosts is with us"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מִשְׂגָּב",
+     "ref": "PSA 46:8",
+     "form": "מִשְׂגָּֽב"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 46:8",
+     "form": "isch mit üüs"
+    },
+    {
+     "ref": "PSA 46:12",
+     "form": "isch üsi Burg"
+    }
+   ],
+   "note": "Kehrvers Ps 46,8.12 (danach »Sela«).",
+   "by": "agent:psa046",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H8628_clap",
+   "kind": "term",
+   "value": "chlatschet",
+   "source": "תִּקְעוּ־כָף",
+   "attested": "by-rule",
+   "words": [
+    "clap your hands"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "תָּקַע",
+     "ref": "PSA 47:2",
+     "form": "תִּקְעוּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 47:2",
+     "form": "chlatschet i d Händ"
+    }
+   ],
+   "note": "Ps 47,2; vgl. Ps 98,8 (מָחָא כַף).",
+   "by": "agent:psa047",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7782",
+   "kind": "term",
+   "value": "Posuune",
+   "source": "שׁוֹפָר",
+   "words": [
+    "trumpet",
+    "horn",
+    "ram's horn"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שֹׁופָר",
+     "ref": "PSA 47:6",
+     "form": "שׁוֹפָֽר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "1TH 4:16",
+     "form": "Posuune"
+    },
+    {
+     "ref": "PSA 47:6",
+     "form": "vo der Posuune"
+    }
+   ],
+   "note": "שׁוֹפָר im Psalter »Posuune« (wie die NT-Posaune); חֲצֹצְרָה (Ps 98,6) »Trumpete«.",
+   "by": "agent:psa047",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H4026",
+   "kind": "term",
+   "value": "Turm",
+   "source": "מִגְדָּל",
+   "words": [
+    "tower",
+    "towers"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מִגְדָּל",
+     "ref": "PSA 48:13",
+     "form": "מִגְדָּלֶֽי"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "LUK 14:28",
+     "form": "Turm"
+    },
+    {
+     "ref": "PSA 48:13",
+     "form": "syni Türm"
+    }
+   ],
+   "alternatives": [
+    {
+     "value": "Türm",
+     "note": "Plural"
+    }
+   ],
+   "note": "Plural »Türm« (Ps 48,13); Ps 61,4 »e feschte Turm«.",
+   "by": "agent:psa048",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:nimshal_kabehemot",
+   "kind": "formula",
+   "value": "isch glych wi ds Veh, wo mues stärbe",
+   "source": "נִמְשַׁל כַּבְּהֵמוֹת נִדְמוּ",
+   "words": [
+    "like the beasts that perish"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מָשַׁל",
+     "ref": "PSA 49:13",
+     "form": "נִמְשַׁ֖ל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 49:13",
+     "form": "glych wi ds Veh"
+    },
+    {
+     "ref": "PSA 49:21",
+     "form": "wo mues stärbe"
+    }
+   ],
+   "note": "Kehrvers Ps 49,13.21 gleich.",
+   "by": "agent:psa049",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:asaph",
+   "kind": "name",
+   "value": "Asaf",
+   "source": "אָסָף",
+   "attested": "by-rule",
+   "words": [
+    "asaph"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 50:1",
+     "form": "E Psalm vom Asaf"
+    }
+   ],
+   "note": "Sänger Davids; Ps 50; 73-83 »vom Asaf«. f wie Ofir, Josef.",
+   "by": "agent:psa050",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:bathsheba",
+   "kind": "name",
+   "value": "Batseba",
+   "source": "בַּת־שֶׁבַע",
+   "attested": "by-rule",
+   "words": [
+    "bathsheba"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 51:2",
+     "form": "zur Batseba"
+    }
+   ],
+   "note": "Ohne h (wie Natan in Bietenhards NT).",
+   "by": "agent:psa051",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1818_bloodguilt",
+   "kind": "term",
+   "value": "Bluetschuld",
+   "source": "דָּמִים",
+   "attested": "by-rule",
+   "words": [
+    "bloodguilt",
+    "bloodshed"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "דָּם",
+     "ref": "PSA 51:16",
+     "form": "דָּמִ֨ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 51:16",
+     "form": "vor der Bluetschuld"
+    }
+   ],
+   "note": "דָּמִים im Plural = Blutschuld (Ps 51,16); אַנְשֵׁי דָמִים »Mörder« (Ps 5,7; 26,9).",
+   "by": "agent:psa051",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:doeg",
+   "kind": "name",
+   "value": "Doeg",
+   "source": "דּוֹאֵג",
+   "attested": "by-rule",
+   "words": [
+    "doeg"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 52:2",
+     "form": "Doeg"
+    }
+   ],
+   "note": "1 Sam 21-22.",
+   "by": "agent:psa052",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ahimelech",
+   "kind": "name",
+   "value": "Ahimelech",
+   "source": "אֲחִימֶלֶךְ",
+   "attested": "by-rule",
+   "words": [
+    "ahimelech"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 52:2",
+     "form": "vom Ahimelech"
+    }
+   ],
+   "note": "Priester in Nob (1 Sam 21-22); -melech wie Abimelech (Ps 34,1).",
+   "by": "agent:psa052",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:edomite",
+   "kind": "name",
+   "value": "Edomiter",
+   "source": "אֲדֹמִי",
+   "attested": "by-rule",
+   "words": [
+    "edomite"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 52:2",
+     "form": "der Edomiter"
+    }
+   ],
+   "note": "Volk Edom (Ps 60,10; 83,7; 137,7).",
+   "by": "agent:psa052",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8593_razor",
+   "kind": "term",
+   "value": "Rasiermässer",
+   "source": "תַּעַר",
+   "attested": "by-rule",
+   "words": [
+    "razor"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "תַּעַר",
+     "ref": "PSA 52:4",
+     "form": "תַ֥עַר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 52:4",
+     "form": "nes scharfs Rasiermässer"
+    }
+   ],
+   "note": "Ps 52,4.",
+   "by": "agent:psa052",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:al_mahalat",
+   "kind": "formula",
+   "value": "Nach Machalat",
+   "source": "עַל־מָחֲלַת",
+   "attested": "by-rule",
+   "words": [
+    "according to mahalath"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מַחֲלַת",
+     "ref": "PSA 53:1",
+     "form": "מָחֲלַ֗ת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 53:1",
+     "form": "Nach Machalat"
+    }
+   ],
+   "note": "Musikangabe, unübersetzt wie »Nach Alamot«; Ps 88,1 »Nach Machalat Leannot«. ch für ח wie »Chorleiter«? Schreibung zu bestätigen.",
+   "by": "agent:psa053",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ziph",
+   "kind": "name",
+   "value": "Sif",
+   "source": "זִיפִים",
+   "attested": "by-rule",
+   "words": [
+    "ziphites",
+    "ziph"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 54:2",
+     "form": "d Lüt vo Sif"
+    }
+   ],
+   "note": "Ort in Juda (1 Sam 23,19; 26,1); Bewohner »d Lüt vo Sif«. S für ז wie Sebulon? Schreibung zu bestätigen.",
+   "by": "agent:psa054",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4260_butter",
+   "kind": "term",
+   "value": "Anke",
+   "source": "מַחְמָאֹת",
+   "attested": "by-rule",
+   "words": [
+    "butter"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מַחֲמָאֹת",
+     "form": "מַחְמָאֹ֣ת",
+     "ref": "PSA 55:22"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 55:22",
+     "form": "Glatt wi Anke"
+    }
+   ],
+   "note": "Berndeutsch »Anke« = Butter (חֶמְאָה, auch Spr 30,33; Jes 7,15).",
+   "by": "agent:psa055",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:philistines",
+   "kind": "name",
+   "value": "Philister",
+   "source": "פְלִשְׁתִּים",
+   "attested": "by-rule",
+   "words": [
+    "philistines",
+    "philistia"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 56:1",
+     "form": "d Philister"
+    }
+   ],
+   "note": "Wie in den Genesis-Entwürfen; Land פְּלֶשֶׁת »Philischtäa« (Ps 60,10; 83,8; 87,4) zu entscheiden.",
+   "by": "agent:psa056",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:gath",
+   "kind": "name",
+   "value": "Gat",
+   "source": "גַּת",
+   "attested": "by-rule",
+   "words": [
+    "gath"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 56:1",
+     "form": "z Gat"
+    }
+   ],
+   "note": "Philisterstadt (1 Sam 21,11).",
+   "by": "agent:psa056",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H4997_bottle",
+   "kind": "term",
+   "value": "Schluuch",
+   "source": "נֹאד",
+   "attested": "by-rule",
+   "words": [
+    "bottle",
+    "wineskin"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "נֹאד",
+     "ref": "PSA 56:9",
+     "form": "נֹאדֶ֑"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "MRK 2:22",
+     "form": "Schlüüch"
+    },
+    {
+     "ref": "PSA 56:9",
+     "form": "i dy Schluuch"
+    }
+   ],
+   "note": "Singular zu »Schlüüch« (Mk 2,22); Ps 119,83 »wi ne Schluuch im Rouch«.",
+   "by": "agent:psa056",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps56_refrain",
+   "kind": "formula",
+   "value": "uf Gott vertroue n i, i ha ke Angscht. Was cha mir e Mönsch scho mache?",
+   "source": "בֵּאלֹהִים בָּטַחְתִּי לֹא אִירָא מַה־יַּעֲשֶׂה",
+   "words": [
+    "in god i trust; i will not be afraid"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בָּטַח",
+     "ref": "PSA 56:5",
+     "form": "בָּ֭טַחְתִּי"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 56:5",
+     "form": "i ha ke Angscht"
+    },
+    {
+     "ref": "HEB 13:6",
+     "form": "i ha ke Angscht"
+    }
+   ],
+   "note": "Kehrvers Ps 56,5.11-12 (V. 5 בָשָׂר, V. 12 אָדָם, beide »e Mönsch«); vgl. Ps 118,6 / Hebr 13,6.",
+   "by": "agent:psa056",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "formula:al_tashcheth",
+   "kind": "formula",
+   "value": "Nach der Wys „Verdirb nid“",
+   "source": "אַל־תַּשְׁחֵת",
+   "attested": "by-rule",
+   "words": [
+    "do not destroy"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שׁחת",
+     "ref": "PSA 57:1",
+     "form": "תַּ֭שְׁחֵת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 57:1",
+     "form": "„Verdirb nid“"
+    }
+   ],
+   "note": "Ps 57; 58; 59; 75 gleich.",
+   "by": "agent:psa057",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps57_refrain",
+   "kind": "formula",
+   "value": "Zeig di höch über em Himel, Gott, dy Herrlechkeit über der ganze Ärde!",
+   "source": "רוּמָה עַל־הַשָּׁמַיִם אֱלֹהִים עַל כָּל־הָאָרֶץ כְּבוֹדֶךָ",
+   "words": [
+    "be exalted, o god, above the heavens"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "רוּם",
+     "ref": "PSA 57:6",
+     "form": "ר֣וּמָ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 57:6",
+     "form": "Zeig di höch"
+    },
+    {
+     "ref": "PSA 57:12",
+     "form": "dy Herrlechkeit"
+    }
+   ],
+   "note": "Kehrvers Ps 57,6.12; Ps 108,6 gleich. Ps 57,8-12 = Ps 108,2-6.",
+   "by": "agent:psa057",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H7642_snail",
+   "kind": "term",
+   "value": "Schnägg",
+   "source": "שַׁבְּלוּל",
+   "attested": "by-rule",
+   "words": [
+    "snail",
+    "slug"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שַׁבְּלוּל",
+     "ref": "PSA 58:9",
+     "form": "שַׁ֭בְּלוּל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 58:9",
+     "form": "wi ne Schnägg"
+    }
+   ],
+   "note": "Berndeutsch »Schnägg« (Schnecke).",
+   "by": "agent:psa058",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps59_refrain",
+   "kind": "formula",
+   "value": "Am Aabe chöme si zrügg, si chnurre wi d Hünd und stryche um d Stadt ume.",
+   "source": "יָשׁוּבוּ לָעֶרֶב יֶהֱמוּ כַכָּלֶב וִיסוֹבְבוּ עִיר",
+   "attested": "by-rule",
+   "words": [
+    "they return at evening, snarling like dogs"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "הָמָה",
+     "ref": "PSA 59:7",
+     "form": "יֶהֱמ֥וּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 59:7",
+     "form": "chnurre wi d Hünd"
+    },
+    {
+     "ref": "PSA 59:15",
+     "form": "stryche um d Stadt"
+    }
+   ],
+   "note": "Kehrvers Ps 59,7.15; »chnurre« (knurren), »stryche« (herumstreichen) Mundart; V. 16 »chnurre« für יָלִינוּ.",
+   "by": "agent:psa059",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps59_refrain2",
+   "kind": "formula",
+   "value": "My Chraft … denn Gott isch my Burg",
+   "source": "עֻזִּי … כִּי־אֱלֹהִים מִשְׂגַּבִּי",
+   "words": [
+    "o my strength … for god is my fortress"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מִשְׂגָּב",
+     "ref": "PSA 59:10",
+     "form": "מִשְׂגַּבִּֽ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 59:10",
+     "form": "Gott isch my Burg"
+    },
+    {
+     "ref": "PSA 59:18",
+     "form": "Gott isch my Burg"
+    }
+   ],
+   "note": "Kehrvers Ps 59,10.18 (V. 10 »uf di wott i warte«, V. 18 »dir wott i Psalme singe«, nach MT verschieden).",
+   "by": "agent:psa059",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:edom",
+   "kind": "name",
+   "value": "Edom",
+   "source": "אֱדוֹם",
+   "attested": "by-rule",
+   "words": [
+    "edom"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:10",
+     "form": "uf Edom"
+    }
+   ],
+   "note": "Wie Genesis-Entwürfe.",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:aram-naharaim",
+   "kind": "name",
+   "value": "Aram-Naharajim",
+   "source": "אֲרַם נַהֲרַיִם",
+   "attested": "by-rule",
+   "words": [
+    "aram-naharaim"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:2",
+     "form": "Aram-Naharajim"
+    }
+   ],
+   "note": "Mesopotamien; Bindestrich.",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:aram-zobah",
+   "kind": "name",
+   "value": "Aram-Zoba",
+   "source": "אֲרַם צוֹבָה",
+   "attested": "by-rule",
+   "words": [
+    "aram-zobah",
+    "zobah"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:2",
+     "form": "Aram-Zoba"
+    }
+   ],
+   "note": "2 Sam 8,3.",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:joab",
+   "kind": "name",
+   "value": "Joab",
+   "source": "יוֹאָב",
+   "attested": "by-rule",
+   "words": [
+    "joab"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:2",
+     "form": "der Joab"
+    }
+   ],
+   "note": "",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:valley_of_salt",
+   "kind": "name",
+   "value": "Salztal",
+   "source": "גֵיא־מֶלַח",
+   "attested": "by-rule",
+   "words": [
+    "valley of salt"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:2",
+     "form": "im Salztal"
+    }
+   ],
+   "note": "2 Sam 8,13.",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:shechem",
+   "kind": "name",
+   "value": "Sichem",
+   "source": "שְׁכֶם",
+   "attested": "by-rule",
+   "words": [
+    "shechem"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:8",
+     "form": "Sichem"
+    }
+   ],
+   "note": "Wie Genesis-Entwürfe.",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:succoth",
+   "kind": "name",
+   "value": "Sukkot",
+   "source": "סֻכּוֹת",
+   "attested": "by-rule",
+   "words": [
+    "succoth"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:8",
+     "form": "vo Sukkot"
+    }
+   ],
+   "note": "Wie Gen 33,17.",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:gilead",
+   "kind": "name",
+   "value": "Gilead",
+   "source": "גִּלְעָד",
+   "attested": "by-rule",
+   "words": [
+    "gilead"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:9",
+     "form": "Gilead"
+    }
+   ],
+   "note": "Wie Genesis-Entwürfe.",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:philistia",
+   "kind": "name",
+   "value": "Philischtäa",
+   "source": "פְּלֶשֶׁת",
+   "attested": "by-rule",
+   "words": [
+    "philistia"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:10",
+     "form": "Philischtäa"
+    }
+   ],
+   "note": "Land der Philister (Ps 60,10; 83,8; 87,4; 108,10); Form zu bestätigen.",
+   "by": "agent:psa060",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps62_refrain",
+   "kind": "formula",
+   "value": "Nume är isch my Felse und my Rettig, my Burg; i chume nid is Wanke",
+   "source": "אַךְ־הוּא צוּרִי וִישׁוּעָתִי מִשְׂגַּבִּי לֹא־אֶמּוֹט",
+   "words": [
+    "he alone is my rock and my salvation"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "צוּר",
+     "ref": "PSA 62:3",
+     "form": "צ֭וּרִ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 62:3",
+     "form": "Nume är isch"
+    },
+    {
+     "ref": "PSA 62:7",
+     "form": "my Felse"
+    }
+   ],
+   "note": "Kehrvers Ps 62,3.7 (V. 3 + רַבָּה »nid sehr«); V. 2/6 »Nume bi Gott wird … still« gleich gebaut. אַךְ »nume« durchgehend.",
+   "by": "agent:psa062",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "term:H6010",
+   "kind": "term",
+   "value": "Tal",
+   "source": "עֵמֶק",
+   "attested": "by-rule",
+   "words": [
+    "valley",
+    "valleys",
+    "vale"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עֵמֶק",
+     "ref": "PSA 65:14",
+     "form": "עֲמָקִ֥ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 60:8",
+     "form": "ds Tal vo Sukkot"
+    },
+    {
+     "ref": "PSA 65:14",
+     "form": "d Täler"
+    }
+   ],
+   "alternatives": [
+    {
+     "value": "Täler",
+     "note": "Plural"
+    }
+   ],
+   "note": "Wie גַּיְא (`term:H1516_valley`); Plural »Täler«.",
+   "by": "agent:psa065",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps67_refrain",
+   "kind": "formula",
+   "value": "D Völker sölle dir danke, Gott, alli Völker sölle dir danke!",
+   "source": "יוֹדוּךָ עַמִּים אֱלֹהִים יוֹדוּךָ עַמִּים כֻּלָּם",
+   "words": [
+    "let the peoples praise you, o god"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָדָה",
+     "ref": "PSA 67:4",
+     "form": "יוֹד֖וּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 67:4",
+     "form": "sölle dir danke"
+    },
+    {
+     "ref": "PSA 67:6",
+     "form": "alli Völker"
+    }
+   ],
+   "note": "Kehrvers Ps 67,4.6.",
+   "by": "agent:psa067",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:zalmon",
+   "kind": "name",
+   "value": "Zalmon",
+   "source": "צַלְמוֹן",
+   "attested": "by-rule",
+   "words": [
+    "zalmon"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 68:15",
+     "form": "uf em Zalmon"
+    }
+   ],
+   "note": "Berg (Ri 9,48).",
+   "by": "agent:psa068",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8596",
+   "kind": "term",
+   "value": "Tamburin",
+   "source": "תֹּף",
+   "attested": "by-rule",
+   "words": [
+    "tambourine",
+    "timbrel",
+    "drum"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "תָּפַף",
+     "ref": "PSA 68:26",
+     "form": "תּוֹפֵפֽוֹת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 68:26",
+     "form": "ds Tamburin schla"
+    }
+   ],
+   "note": "תֹּף »Tamburin« (Ps 81,3; 149,3; 150,4); Ps 68,26 Verb תָּפַף »ds Tamburin schla«.",
+   "by": "agent:psa068",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6536_hoof",
+   "kind": "term",
+   "value": "Chloue",
+   "source": "מַפְרִיס",
+   "attested": "by-rule",
+   "words": [
+    "hoofs",
+    "hooves",
+    "divided hoof"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "פָּרַס",
+     "ref": "PSA 69:32",
+     "form": "מַפְרִֽיס"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 69:32",
+     "form": "Hörner und Chloue"
+    }
+   ],
+   "note": "Berndeutsch »Chloue« (Klauen, Hufe); auch Lev 11 (gespaltene Klauen).",
+   "by": "agent:psa069",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:sheba",
+   "kind": "name",
+   "value": "Scheba",
+   "source": "שְׁבָא",
+   "attested": "by-rule",
+   "words": [
+    "sheba"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 72:10",
+     "form": "vo Scheba"
+    },
+    {
+     "ref": "GEN 10:7",
+     "form": "Scheba"
+    }
+   ],
+   "note": "Land in Arabien (Ps 72,10.15; 1 Kön 10); wie Gen 10.",
+   "by": "agent:psa072",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:seba",
+   "kind": "name",
+   "value": "Seba",
+   "source": "סְבָא",
+   "attested": "by-rule",
+   "words": [
+    "seba"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 72:10",
+     "form": "und Seba"
+    },
+    {
+     "ref": "GEN 10:7",
+     "form": "Seba"
+    }
+   ],
+   "note": "Wie Gen 10,7.",
+   "by": "agent:psa072",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:leviathan",
+   "kind": "name",
+   "value": "Leviatan",
+   "source": "לִוְיָתָן",
+   "attested": "by-rule",
+   "words": [
+    "leviathan"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 74:14",
+     "form": "vom Leviatan"
+    }
+   ],
+   "note": "Meerungeheuer (Ps 74,14; 104,26; Hiob 3,8; 40,25; Jes 27,1).",
+   "by": "agent:psa074",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8577_monster",
+   "kind": "term",
+   "value": "Ungheuer",
+   "source": "תַּנִּין",
+   "attested": "by-rule",
+   "words": [
+    "sea monster",
+    "monster",
+    "dragon",
+    "serpent"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "תַּנִּין",
+     "ref": "PSA 74:13",
+     "form": "תַ֝נִּינִ֗ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 74:13",
+     "form": "vo de Ungheuer"
+    }
+   ],
+   "note": "תַּנִּין als Meerungeheuer/Drache »Ungheuer« (Ps 74,13; 148,7); als Schlange (Ex 7) eigens; vgl. term:H8577_jackal.",
+   "by": "agent:psa074",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3597_hammer",
+   "kind": "term",
+   "value": "Hammer",
+   "source": "כֵּילַפּוֹת",
+   "attested": "by-rule",
+   "words": [
+    "hammer",
+    "hammers"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "כֵּילָף",
+     "ref": "PSA 74:6",
+     "form": "כֵֽילַפֹּ֗ת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 74:6",
+     "form": "Bieli und Hammer"
+    }
+   ],
+   "note": "Mundart »Hammer« (gleich wie Englisch).",
+   "by": "agent:psa074",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:salem",
+   "kind": "name",
+   "value": "Salem",
+   "source": "שָׁלֵם",
+   "attested": "by-rule",
+   "words": [
+    "salem"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 76:3",
+     "form": "i Salem"
+    },
+    {
+     "ref": "GEN 14:18",
+     "form": "Salem"
+    }
+   ],
+   "note": "Wie Gen 14,18 und Hebr 7,1.",
+   "by": "agent:psa076",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:zoan",
+   "kind": "name",
+   "value": "Zoan",
+   "source": "צֹעַן",
+   "attested": "by-rule",
+   "words": [
+    "zoan"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 78:12",
+     "form": "im Gebiet vo Zoan"
+    }
+   ],
+   "note": "Stadt im Nildelta (Num 13,22; Ps 78,12.43).",
+   "by": "agent:psa078",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:shiloh",
+   "kind": "name",
+   "value": "Schilo",
+   "source": "שִׁלֹה",
+   "attested": "by-rule",
+   "words": [
+    "shiloh"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 78:60",
+     "form": "d Wonig z Schilo"
+    }
+   ],
+   "note": "Ort des Heiligtums (Jos 18; 1 Sam 1-4); sch für שׁ wie Scheba.",
+   "by": "agent:psa078",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6157_flies",
+   "kind": "term",
+   "value": "Flöige",
+   "source": "עָרֹב",
+   "attested": "by-rule",
+   "words": [
+    "flies",
+    "swarms of flies",
+    "swarm"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עָרֹב",
+     "ref": "PSA 78:45",
+     "form": "עָ֭רֹב"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 78:45",
+     "form": "e Huuffe Flöige"
+    }
+   ],
+   "note": "Berndeutsch »Flöige« (Fliegen); die Plage Ex 8; Ps 78,45; 105,31.",
+   "by": "agent:psa078",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2602_frost",
+   "kind": "term",
+   "value": "Ryffe",
+   "source": "חֲנָמַל",
+   "attested": "by-rule",
+   "words": [
+    "frost",
+    "sleet"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חֲנָמֵל",
+     "ref": "PSA 78:47",
+     "form": "חֲנָמַֽל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 78:47",
+     "form": "mit em Ryffe"
+    }
+   ],
+   "note": "Berndeutsch »Ryffe« (Raureif, Frost).",
+   "by": "agent:psa078",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps80_refrain",
+   "kind": "formula",
+   "value": "Gott, bring is zrügg und lass dys Gsicht lüüchte, dass mer grettet wärde!",
+   "source": "אֱלֹהִים הֲשִׁיבֵנוּ וְהָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה",
+   "words": [
+    "restore us, o god",
+    "make your face shine upon us"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שׁוּב",
+     "ref": "PSA 80:4",
+     "form": "הֲשִׁיבֵ֑"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 80:4",
+     "form": "bring is zrügg"
+    },
+    {
+     "ref": "PSA 80:8",
+     "form": "dass mer grettet wärde"
+    }
+   ],
+   "note": "Kehrvers Ps 80,4.8.20; die Anrede wächst: Gott (4), Gott Zebaoth (8), HERR, Gott Zebaoth (20).",
+   "by": "agent:psa080",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:meribah",
+   "kind": "name",
+   "value": "Meriba",
+   "source": "מְרִיבָה",
+   "attested": "by-rule",
+   "words": [
+    "meribah"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 81:8",
+     "form": "bim Wasser vo Meriba"
+    }
+   ],
+   "note": "Ex 17,7; Num 20,13; Ps 81,8; 95,8; 106,32.",
+   "by": "agent:psa081",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ishmaelites",
+   "kind": "name",
+   "value": "Ismaeliter",
+   "source": "יִשְׁמְעֵאלִים",
+   "attested": "by-rule",
+   "words": [
+    "ishmaelites"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:7",
+     "form": "d Ismaeliter"
+    }
+   ],
+   "note": "Wie Gen 37,25 (Ismaeliter).",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:hagrites",
+   "kind": "name",
+   "value": "Hagriter",
+   "source": "הַגְרִים",
+   "attested": "by-rule",
+   "words": [
+    "hagrites"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:7",
+     "form": "d Hagriter"
+    }
+   ],
+   "note": "1 Chr 5,10.19-20.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:gebal",
+   "kind": "name",
+   "value": "Gebal",
+   "source": "גְּבָל",
+   "attested": "by-rule",
+   "words": [
+    "gebal"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:8",
+     "form": "Gebal und Ammon"
+    }
+   ],
+   "note": "Byblos (Ez 27,9).",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ammon",
+   "kind": "name",
+   "value": "Ammon",
+   "source": "עַמּוֹן",
+   "attested": "by-rule",
+   "words": [
+    "ammon"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:8",
+     "form": "Gebal und Ammon"
+    }
+   ],
+   "note": "Volk; »d Ammoniter« für בְּנֵי עַמּוֹן.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:amalek",
+   "kind": "name",
+   "value": "Amalek",
+   "source": "עֲמָלֵק",
+   "attested": "by-rule",
+   "words": [
+    "amalek"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:8",
+     "form": "und Amalek"
+    }
+   ],
+   "note": "Volk (Ex 17).",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:assyria",
+   "kind": "name",
+   "value": "Assur",
+   "source": "אַשּׁוּר",
+   "attested": "by-rule",
+   "words": [
+    "assyria"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:9",
+     "form": "O Assur"
+    }
+   ],
+   "note": "Assyrien; Gen 2,14; 10,11.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:sisera",
+   "kind": "name",
+   "value": "Sisera",
+   "source": "סִיסְרָא",
+   "attested": "by-rule",
+   "words": [
+    "sisera"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:10",
+     "form": "mit em Sisera"
+    }
+   ],
+   "note": "Ri 4-5.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:jabin",
+   "kind": "name",
+   "value": "Jabin",
+   "source": "יָבִין",
+   "attested": "by-rule",
+   "words": [
+    "jabin"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:10",
+     "form": "mit em Jabin"
+    }
+   ],
+   "note": "Ri 4.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:kishon",
+   "kind": "name",
+   "value": "Kischon",
+   "source": "קִישׁוֹן",
+   "attested": "by-rule",
+   "words": [
+    "kishon"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:10",
+     "form": "am Bach Kischon"
+    }
+   ],
+   "note": "Ri 4,7; 5,21.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:endor",
+   "kind": "name",
+   "value": "Endor",
+   "source": "עֵין־דֹּאר",
+   "attested": "by-rule",
+   "words": [
+    "endor"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:11",
+     "form": "bi Endor"
+    }
+   ],
+   "note": "1 Sam 28,7; Jos 17,11.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:oreb",
+   "kind": "name",
+   "value": "Oreb",
+   "source": "עֹרֵב",
+   "attested": "by-rule",
+   "words": [
+    "oreb"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:12",
+     "form": "mit em Oreb"
+    }
+   ],
+   "note": "Ri 7,25.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:zeeb",
+   "kind": "name",
+   "value": "Seeb",
+   "source": "זְאֵב",
+   "attested": "by-rule",
+   "words": [
+    "zeeb"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:12",
+     "form": "mit em Seeb"
+    }
+   ],
+   "note": "Ri 7,25; ז = s wie Sebulon.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:zebah",
+   "kind": "name",
+   "value": "Sebach",
+   "source": "זֶבַח",
+   "attested": "by-rule",
+   "words": [
+    "zebah"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:12",
+     "form": "mit em Sebach"
+    }
+   ],
+   "note": "Ri 8; ז = s, ח = ch.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:zalmunna",
+   "kind": "name",
+   "value": "Zalmunna",
+   "source": "צַלְמֻנָּע",
+   "attested": "by-rule",
+   "words": [
+    "zalmunna"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:12",
+     "form": "mit em Zalmunna"
+    }
+   ],
+   "note": "Ri 8; צ = z.",
+   "by": "agent:psa083",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1866_swallow",
+   "kind": "term",
+   "value": "Schwalbe",
+   "source": "דְּרוֹר",
+   "attested": "by-rule",
+   "words": [
+    "swallow"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "דְּרוֹר",
+     "ref": "PSA 84:4",
+     "form": "דְר֤וֹר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 84:4",
+     "form": "d Schwalbe"
+    }
+   ],
+   "note": "Vogel (Ps 84,4; Spr 26,2).",
+   "by": "agent:psa084",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7064_nest",
+   "kind": "term",
+   "value": "Näscht",
+   "source": "קֵן",
+   "attested": "by-rule",
+   "words": [
+    "nest"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "קֵן",
+     "ref": "PSA 84:4",
+     "form": "קֵ֥ן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 84:4",
+     "form": "es Näscht"
+    }
+   ],
+   "note": "Berndeutsch »Näscht« (Nest).",
+   "by": "agent:psa084",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:baca",
+   "kind": "name",
+   "value": "Baka",
+   "source": "בָּכָא",
+   "attested": "by-rule",
+   "words": [
+    "baca"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 84:7",
+     "form": "ds Tal vo Baka"
+    }
+   ],
+   "note": "Ortsname (oder »Tränental«); als Name belassen wie BSB.",
+   "by": "agent:psa084",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ex34_6",
+   "kind": "formula",
+   "value": "e Gott, wo barmhärzig und gnädig isch, voll Geduld und rych a Tröiji und Wahrheit",
+   "source": "אֵל־רַחוּם וְחַנּוּן אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד וֶאֱמֶת",
+   "words": [
+    "compassionate and gracious",
+    "slow to anger",
+    "abounding in loving devotion"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "רַחוּם",
+     "ref": "PSA 86:15",
+     "form": "רַח֣וּם"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 86:15",
+     "form": "barmhärzig und gnädig"
+    },
+    {
+     "ref": "PSA 86:15",
+     "form": "voll Geduld"
+    }
+   ],
+   "note": "Gnadenformel (Ex 34,6; Jona 4,2 »e gnädige und barmhärzige Gott … voll Geduld und Tröiji«; Ps 86,15; 103,8; 145,8): »barmhärzig und gnädig«, אֶרֶךְ אַפַּיִם »voll Geduld«, רַב־חֶסֶד »rych a Tröiji«; Reihenfolge nach dem Hebräischen.",
+   "by": "agent:psa086",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided",
+   "attested": "attested"
+  },
+  {
+   "id": "name:rahab_egypt",
+   "kind": "name",
+   "value": "Rahab",
+   "source": "רַהַב",
+   "attested": "by-rule",
+   "words": [
+    "rahab"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 87:4",
+     "form": "Rahab und Babylon"
+    }
+   ],
+   "note": "Dichterischer Name für Ägypten / das Meerungeheuer (Ps 87,4; 89,11; Jes 51,9); nicht die Rahab von Jericho (רָחָב), gleiche Schreibung im Berndeutschen.",
+   "by": "agent:psa087",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:heman",
+   "kind": "name",
+   "value": "Heman",
+   "source": "הֵימָן",
+   "attested": "by-rule",
+   "words": [
+    "heman"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 88:1",
+     "form": "vom Heman"
+    }
+   ],
+   "note": "Sänger/Weiser (1 Kön 5,11; 1 Chr 15,19).",
+   "by": "agent:psa088",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ezrahite",
+   "kind": "name",
+   "value": "Esrachiter",
+   "source": "אֶזְרָחִי",
+   "attested": "by-rule",
+   "words": [
+    "ezrahite"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 88:1",
+     "form": "em Esrachiter"
+    },
+    {
+     "ref": "PSA 89:1",
+     "form": "em Esrachiter"
+    }
+   ],
+   "note": "Ps 88,1 (Heman), 89,1 (Etan); ז = s, ח = ch.",
+   "by": "agent:psa088",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:leannot",
+   "kind": "formula",
+   "value": "Leannot",
+   "source": "לְעַנּוֹת",
+   "attested": "by-rule",
+   "words": [
+    "leannoth"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 88:1",
+     "form": "Nach Machalat Leannot"
+    }
+   ],
+   "note": "Musikangabe, unübersetzt (vgl. Machalat Ps 53,1); wohl »zum Singen« oder »zur Demütigung«.",
+   "by": "agent:psa088",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:ethan",
+   "kind": "name",
+   "value": "Etan",
+   "source": "אֵיתָן",
+   "attested": "by-rule",
+   "words": [
+    "ethan"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 89:1",
+     "form": "vom Etan"
+    }
+   ],
+   "note": "Weiser (1 Kön 5,11); ת = t.",
+   "by": "agent:psa089",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:tabor",
+   "kind": "name",
+   "value": "Tabor",
+   "source": "תָּבוֹר",
+   "attested": "by-rule",
+   "words": [
+    "tabor"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 89:13",
+     "form": "der Tabor"
+    }
+   ],
+   "note": "Berg in Galiläa.",
+   "by": "agent:psa089",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8558_palm",
+   "kind": "term",
+   "value": "Palme",
+   "source": "תָּמָר",
+   "attested": "by-rule",
+   "words": [
+    "palm",
+    "palm tree"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "תָּמָר",
+     "ref": "PSA 92:13",
+     "form": "תָּמָ֣ר"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 92:13",
+     "form": "wi ne Palme"
+    }
+   ],
+   "note": "Baum; Palmezweige im Korpus (Joh 12,13).",
+   "by": "agent:psa092",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:massah",
+   "kind": "name",
+   "value": "Massa",
+   "source": "מַסָּה",
+   "attested": "by-rule",
+   "words": [
+    "massah"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 95:8",
+     "form": "am Tag vo Massa"
+    }
+   ],
+   "note": "Ort der Probe (Ex 17,7); neben Meriba. Hebr 3,8 übersetzt nach der LXX (»Prüefig«).",
+   "by": "agent:psa095",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ki_le_olam_hasdo",
+   "kind": "formula",
+   "value": "denn er isch guet, sy Tröiji blybt für geng",
+   "source": "כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ",
+   "attested": "by-rule",
+   "words": [
+    "for He is good; His loving devotion endures forever",
+    "His loving devotion endures forever"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חֶסֶד",
+     "ref": "PSA 100:5",
+     "form": "חַסְדּ֑"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 100:5",
+     "form": "sy Tröiji blybt für"
+    }
+   ],
+   "note": "Fest für Ps 100,5; 106,1; 107,1; 118; 136 (Kehrvers dort »denn sy Tröiji blybt für geng«).",
+   "by": "agent:psa100",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3563_owl",
+   "kind": "term",
+   "value": "Üle",
+   "source": "כּוֹס",
+   "attested": "by-rule",
+   "words": [
+    "owl"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "כּוֹס",
+     "ref": "PSA 102:7",
+     "form": "כ֣וֹס"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 102:7",
+     "form": "wi nen Üle"
+    }
+   ],
+   "note": "Mundartwort für Eule; der Vogel (nicht der Becher).",
+   "by": "agent:psa102",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6501_wild_donkey",
+   "kind": "term",
+   "value": "Wildesel",
+   "source": "פֶּרֶא",
+   "attested": "by-rule",
+   "words": [
+    "wild donkey",
+    "wild donkeys"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "פֶּרֶא",
+     "ref": "PSA 104:11",
+     "form": "פְרָאִ֣ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 104:11",
+     "form": "d Wildesel"
+    }
+   ],
+   "note": "Gebildet aus Esel.",
+   "by": "agent:psa104",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2624_stork",
+   "kind": "term",
+   "value": "Storch",
+   "source": "חֲסִידָה",
+   "attested": "by-rule",
+   "words": [
+    "stork"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חֲסִידָה",
+     "ref": "PSA 104:17",
+     "form": "חֲ֝סִידָ֗ה"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 104:17",
+     "form": "der Storch"
+    }
+   ],
+   "note": "Vogel.",
+   "by": "agent:psa104",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1265_cypress",
+   "kind": "term",
+   "value": "Zypresse",
+   "source": "בְּרוֹשׁ",
+   "attested": "by-rule",
+   "words": [
+    "cypress",
+    "fir",
+    "pine"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בְּרוֹשׁ",
+     "ref": "PSA 104:17",
+     "form": "בְּרוֹשִׁ֥ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 104:17",
+     "form": "i de Zypresse"
+    }
+   ],
+   "note": "Nadelbaum; Art unsicher (Zypresse/Wacholder/Tanne).",
+   "by": "agent:psa104",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3277_ibex",
+   "kind": "term",
+   "value": "Steiböck",
+   "source": "יָעֵל",
+   "attested": "by-rule",
+   "words": [
+    "wild goat",
+    "wild goats",
+    "ibex"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָעֵל",
+     "ref": "PSA 104:18",
+     "form": "יְּעֵלִ֑ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 104:18",
+     "form": "für d Steiböck"
+    }
+   ],
+   "note": "Plural; Einzahl Steibock.",
+   "by": "agent:psa104",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8227_hyrax",
+   "kind": "term",
+   "value": "Klippdächs",
+   "source": "שָׁפָן",
+   "attested": "by-rule",
+   "words": [
+    "rock badger",
+    "rock badgers",
+    "coney",
+    "coneys",
+    "hyrax"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שָׁפָן",
+     "ref": "PSA 104:18",
+     "form": "שְׁפַנִּֽים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 104:18",
+     "form": "für d Klippdächs"
+    }
+   ],
+   "note": "Plural; Einzahl Klippdachs.",
+   "by": "agent:psa104",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:hallelujah",
+   "kind": "formula",
+   "value": "Halleluja!",
+   "source": "הַלְלוּ־יָהּ",
+   "attested": "attested",
+   "words": [
+    "Hallelujah",
+    "Praise the LORD"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "הָלַל",
+     "ref": "PSA 104:35",
+     "form": "הַֽלְלוּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 104:35",
+     "form": "Halleluja"
+    }
+   ],
+   "note": "Als Ruf stehen gelassen wie Offb 19 (halleluja im Korpus); nicht »Lobet der HERR«. Ps 104-106; 111-113; 115-117; 135; 146-150.",
+   "by": "agent:psa104",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H3654_gnats",
+   "kind": "term",
+   "value": "Mügge",
+   "source": "כֵּן",
+   "attested": "by-rule",
+   "words": [
+    "gnats",
+    "gnat",
+    "lice"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "כֵּן",
+     "ref": "PSA 105:31",
+     "form": "כִּ֝נִּ֗ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 105:31",
+     "form": "Mügge"
+    }
+   ],
+   "note": "Plage (Ex 8,12-14); neben Flöige (עָרֹב).",
+   "by": "agent:psa105",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7958_quail",
+   "kind": "term",
+   "value": "Wachtle",
+   "source": "שְׂלָו",
+   "attested": "by-rule",
+   "words": [
+    "quail"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "שְׂלָו",
+     "ref": "PSA 105:40",
+     "form": "שְׂלָ֑ו"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 105:40",
+     "form": "het er Wachtle"
+    }
+   ],
+   "note": "Ex 16,13; Num 11,31.",
+   "by": "agent:psa105",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:red_sea",
+   "kind": "name",
+   "value": "rote Meer",
+   "source": "יַם־סוּף",
+   "attested": "attested",
+   "words": [
+    "Red Sea",
+    "Sea of Reeds"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 106:7",
+     "form": "am rote Meer"
+    }
+   ],
+   "note": "Wie Apg 7,36; Hebr 11,29 (»ds rote Meer«); nicht »Schilfmeer«.",
+   "by": "agent:psa106",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:dathan",
+   "kind": "name",
+   "value": "Datan",
+   "source": "דָּתָן",
+   "attested": "by-rule",
+   "words": [
+    "dathan"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 106:17",
+     "form": "der Datan"
+    }
+   ],
+   "note": "Num 16.",
+   "by": "agent:psa106",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:abiram",
+   "kind": "name",
+   "value": "Abiram",
+   "source": "אֲבִירָם",
+   "attested": "by-rule",
+   "words": [
+    "abiram"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 106:17",
+     "form": "vom Abiram"
+    }
+   ],
+   "note": "Num 16.",
+   "by": "agent:psa106",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:horeb",
+   "kind": "name",
+   "value": "Horeb",
+   "source": "חֹרֵב",
+   "attested": "by-rule",
+   "words": [
+    "horeb"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 106:19",
+     "form": "am Horeb"
+    }
+   ],
+   "note": "Berg Gottes (= Sinai).",
+   "by": "agent:psa106",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:baal_peor",
+   "kind": "name",
+   "value": "Baal-Peor",
+   "source": "בַּעַל פְּעוֹר",
+   "attested": "by-rule",
+   "words": [
+    "baal of peor",
+    "baal-peor",
+    "peor"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 106:28",
+     "form": "a Baal-Peor"
+    }
+   ],
+   "note": "Num 25,3; Baal im Korpus (Röm 11,4).",
+   "by": "agent:psa106",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:phinehas",
+   "kind": "name",
+   "value": "Pinchas",
+   "source": "פִּינְחָס",
+   "attested": "by-rule",
+   "words": [
+    "phinehas"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 106:30",
+     "form": "der Pinchas"
+    }
+   ],
+   "note": "Num 25,7; ח = ch.",
+   "by": "agent:psa106",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps107_refrain_cry",
+   "kind": "formula",
+   "value": "De hei si zum HERR grüeft i irer Not, und er het … us irer Angscht …",
+   "source": "וַיִּצְעֲקוּ אֶל־יְהוָה בַּצַּר לָהֶם מִמְּצוּקוֹתֵיהֶם",
+   "attested": "by-rule",
+   "words": [
+    "Then they cried out to the LORD in their trouble"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "צָעַק",
+     "ref": "PSA 107:6",
+     "form": "יִּצְעֲק֣וּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 107:6",
+     "form": "zum HERR grüeft"
+    },
+    {
+     "ref": "PSA 107:28",
+     "form": "i irer Not"
+    }
+   ],
+   "note": "Ps 107,6.13.19.28; das Schlussverb folgt dem Hebräischen: grettet (6), ghulfe (13.19), usegfüert (28).",
+   "by": "agent:psa107",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ps107_refrain_thanks",
+   "kind": "formula",
+   "value": "Si sölle em HERR danke für sy Tröiji und für syni Wunder a de Mönsche!",
+   "source": "יוֹדוּ לַיהוָה חַסְדּוֹ וְנִפְלְאוֹתָיו לִבְנֵי אָדָם",
+   "attested": "by-rule",
+   "words": [
+    "Let them give thanks to the LORD for His loving devotion and His wonders to the sons of men"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "יָדָה",
+     "ref": "PSA 107:8",
+     "form": "יוֹד֣וּ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 107:8",
+     "form": "em HERR danke für"
+    },
+    {
+     "ref": "PSA 107:31",
+     "form": "syni Wunder a"
+    }
+   ],
+   "note": "Ps 107,8.15.21.31 wortgleich.",
+   "by": "agent:psa107",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2919_dew",
+   "kind": "term",
+   "value": "Tou",
+   "source": "טַל",
+   "attested": "by-rule",
+   "words": [
+    "dew"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "טַל",
+     "ref": "PSA 110:3",
+     "form": "טַ֣ל"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 110:3",
+     "form": "der Tou vo dyne"
+    }
+   ],
+   "note": "Bern. für Tau; auch Ps 133,3.",
+   "by": "agent:psa110",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1682_bee",
+   "kind": "term",
+   "value": "Imbi",
+   "source": "דְּבוֹרָה",
+   "attested": "by-rule",
+   "words": [
+    "bee",
+    "bees"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "דְּבוֹרָה",
+     "ref": "PSA 118:12",
+     "form": "דְבוֹרִ֗ים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 118:12",
+     "form": "wi Imbi"
+    }
+   ],
+   "note": "Bern. Imbi (Mehrzahl gleich) für Biene.",
+   "by": "agent:psa118",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2706_statutes",
+   "kind": "term",
+   "value": "Ornige",
+   "source": "חֻקִּים",
+   "attested": "by-rule",
+   "words": [
+    "statutes",
+    "decrees"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חֹק",
+     "ref": "PSA 119:5",
+     "form": "חֻקֶּֽי"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 119:5",
+     "form": "dyni Ornige halte"
+    }
+   ],
+   "note": "Mehrzahl von Ornig (Ps 99,7). Ps 119: die acht Wörter fest: תּוֹרָה Gsetz, עֵדוֹת Zügnis, פִּקּוּדִים Vorschrifte, חֻקִּים Ornige, מִצְוֹת Gebot, מִשְׁפָּטִים Urteil, דָּבָר und אִמְרָה Wort.",
+   "by": "agent:psa119",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2459_fat",
+   "kind": "term",
+   "value": "Fett",
+   "source": "חֵלֶב",
+   "attested": "by-rule",
+   "words": [
+    "fat",
+    "fatness"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "חֵלֶב",
+     "ref": "PSA 119:70",
+     "form": "חֵ֣לֶב"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 119:70",
+     "form": "wi Fett"
+    }
+   ],
+   "note": "Tierfett; im Bild für ein unempfindliches Herz.",
+   "by": "agent:psa119",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "formula:shir_hamaalot",
+   "kind": "formula",
+   "value": "Es Wallfahrtslied.",
+   "source": "שִׁיר הַמַּעֲלוֹת",
+   "attested": "by-rule",
+   "words": [
+    "Wallfahrtslied",
+    "song of ascents"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מַעֲלָה",
+     "ref": "PSA 120:1",
+     "form": "מַּ֫עֲל֥וֹת"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 120:1",
+     "form": "Es Wallfahrtslied."
+    }
+   ],
+   "note": "Fest für Ps 120-134 (auch לַמַּעֲלוֹת Ps 121); mit Autor: »Es Wallfahrtslied. Vom David.«",
+   "by": "agent:psa120",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:meshech",
+   "kind": "name",
+   "value": "Meschech",
+   "source": "מֶשֶׁךְ",
+   "attested": "by-rule",
+   "words": [
+    "Meshech"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 120:5",
+     "form": "z Meschech"
+    }
+   ],
+   "note": "Schweizer Schreibung sch.",
+   "by": "agent:psa120",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:kedar",
+   "kind": "name",
+   "value": "Kedar",
+   "source": "קֵדָר",
+   "attested": "by-rule",
+   "words": [
+    "Kedar"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 120:5",
+     "form": "Zält vo Kedar"
+    }
+   ],
+   "by": "agent:psa120",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H7574_broom",
+   "kind": "term",
+   "value": "Ginschter",
+   "source": "רֹתֶם",
+   "attested": "by-rule",
+   "words": [
+    "broom tree",
+    "broom"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "רֹתֶם",
+     "ref": "PSA 120:4",
+     "form": "רְתָמִֽים"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 120:4",
+     "form": "Chole vo Ginschter"
+    }
+   ],
+   "note": "Ginster (Ginsterstrauch); Schreibung sch.",
+   "by": "agent:psa120",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:negev",
+   "kind": "name",
+   "value": "Negev",
+   "source": "נֶגֶב",
+   "attested": "by-rule",
+   "words": [
+    "Negev",
+    "Negeb"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 126:4",
+     "form": "im Negev"
+    }
+   ],
+   "note": "Wie Gen 12,9; 13,1.3 (»i Negev«, »vom Negev«).",
+   "by": "agent:psa126",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H485_sheaf",
+   "kind": "term",
+   "value": "Garbe",
+   "source": "אֲלֻמָּה",
+   "attested": "by-rule",
+   "words": [
+    "sheaf",
+    "sheaves"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אֲלֻמָה",
+     "ref": "PSA 126:6",
+     "form": "אֲלֻמֹּתָֽי"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 126:6",
+     "form": "syni Garbe"
+    }
+   ],
+   "note": "Wie Rut 2,7.15 (»zwüsche de Garbe«); Mehrzahl gleich.",
+   "by": "agent:psa126",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H827_quiver",
+   "kind": "term",
+   "value": "Chöcher",
+   "source": "אַשְׁפָּה",
+   "attested": "by-rule",
+   "words": [
+    "quiver"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אַשְׁפָּה",
+     "ref": "PSA 127:5",
+     "form": "אַשְׁפָּת֗"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 127:5",
+     "form": "sy Chöcher voll"
+    }
+   ],
+   "note": "Köcher; berndeutsch Ch- für K-.",
+   "by": "agent:psa127",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H8525_furrow",
+   "kind": "term",
+   "value": "Furche",
+   "source": "מַעֲנִית",
+   "attested": "by-rule",
+   "words": [
+    "furrow",
+    "furrows"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "מַעֲנִית",
+     "ref": "PSA 129:3",
+     "form": "מַעֲנִיתָֽ"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 129:3",
+     "form": "iri Furche"
+    }
+   ],
+   "note": "Ackerfurche; Mehrzahl gleich.",
+   "by": "agent:psa129",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:jaar",
+   "kind": "name",
+   "value": "Jaar",
+   "source": "יַעַר",
+   "attested": "by-rule",
+   "words": [
+    "Jaar"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 132:6",
+     "form": "Fälder vo Jaar"
+    }
+   ],
+   "note": "Ortsname (Kirjat-Jearim), wie BSB »Jaar«.",
+   "by": "agent:psa132",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H727_ark",
+   "kind": "term",
+   "value": "Lade",
+   "source": "אֲרוֹן",
+   "attested": "by-rule",
+   "words": [
+    "ark"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "אֲרוֹן",
+     "ref": "PSA 132:8",
+     "form": "אֲר֥וֹן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 132:8",
+     "form": "d Lade"
+    }
+   ],
+   "note": "Die Bundeslade (»d Bundeslade« wo der Bund genannt ist); nicht Arche (תֵּבָה, term:H8392).",
+   "by": "agent:psa132",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H2206_beard",
+   "kind": "term",
+   "value": "Bart",
+   "source": "זָקָן",
+   "attested": "by-rule",
+   "words": [
+    "beard"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "זָקָן",
+     "ref": "PSA 133:2",
+     "form": "זָּקָ֥ן"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 133:2",
+     "form": "uf e Bart"
+    }
+   ],
+   "note": "Bart; Mehrzahl Bärt.",
+   "by": "agent:psa133",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:sihon",
+   "kind": "name",
+   "value": "Sichon",
+   "source": "סִיחוֹן",
+   "attested": "by-rule",
+   "words": [
+    "Sihon"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 135:11",
+     "form": "der Sichon"
+    }
+   ],
+   "note": "ח als ch.",
+   "by": "agent:psa135",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:og",
+   "kind": "name",
+   "value": "Og",
+   "source": "עוֹג",
+   "attested": "by-rule",
+   "words": [
+    "Og"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 135:11",
+     "form": "der Og"
+    }
+   ],
+   "by": "agent:psa135",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "name:amorites",
+   "kind": "name",
+   "value": "Amoriter",
+   "source": "אֱמֹרִי",
+   "attested": "by-rule",
+   "words": [
+    "Amorites",
+    "Amorite"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 135:11",
+     "form": "vo de Amoriter"
+    }
+   ],
+   "by": "agent:psa135",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6158_raven",
+   "kind": "term",
+   "value": "Rabe",
+   "source": "עֹרֵב",
+   "attested": "by-rule",
+   "words": [
+    "raven",
+    "ravens"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "עֹרֵב",
+     "ref": "PSA 147:9",
+     "form": "עֹ֝רֵ֗ב"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 147:9",
+     "form": "de junge Rabe"
+    }
+   ],
+   "note": "Mehrzahl gleich (vgl. Lk 12,24 im Grundtext κόρακας).",
+   "by": "agent:psa147",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H1280_bar",
+   "kind": "term",
+   "value": "Rigel",
+   "source": "בְּרִיחַ",
+   "attested": "by-rule",
+   "words": [
+    "bar",
+    "bars"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "בְּרִיחַ",
+     "ref": "PSA 147:13",
+     "form": "בְּרִיחֵ֣י"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 147:13",
+     "form": "d Rigel"
+    }
+   ],
+   "note": "Riegel am Stadttor; berndeutsch Rigel.",
+   "by": "agent:psa147",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
+  },
+  {
+   "id": "term:H6767_cymbals",
+   "kind": "term",
+   "value": "Zimbele",
+   "source": "צֶלְצְלִים",
+   "attested": "by-rule",
+   "words": [
+    "cymbals",
+    "cymbal"
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "lemma": "צֶלְצְלִים",
+     "ref": "PSA 150:5",
+     "form": "צִלְצְלֵי"
+    }
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 150:5",
+     "form": "mit Zimbele"
+    }
+   ],
+   "note": "Becken (Musikinstrument); Einzahl Zimbel.",
+   "by": "agent:psa150",
+   "date": "2026-10-29",
+   "confidence": "high",
+   "method": "project-decision",
+   "status": "decided"
   }
  ]
 }

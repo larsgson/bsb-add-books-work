@@ -1,0 +1,116 @@
+!!<Reifegrad: Entwurf>!!
+!!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/psa107.txt), abgeglichen mit der Berean Standard Bible>!!
+!!<Exegetische Bearbeitung: Noch nicht erfolgt>!!
+!!<Literarische Prüfung: Noch nicht erfolgt>!!
+!!<Datum dieser Version: 29.10.2026>!!
+
+===Ds Buech vo de Psalme, Psalm 107===
+
+
+
+==Ds füfte Buech: Psalm 107–150==
+
+==Si sölle em HERR danke für sy Tröiji==
+
+//1 v1 Danket em HERR,
+//2 denn er isch guet,
+//2 sy Tröiji blybt für geng!
+//1 v2 So sölle säge die, wo der HERR erlöst het,
+//2 die, won er erlöst het us der Hand vom Find
+//1 v3 und us de Länder zämegrüeft,
+//2 vo Oschte und vo Weschte,
+//2 vo Norde und vom Meer.
+//1 v4 Si hei sech i der Wüeschti verloffe,
+//2 i der Einsami ohni Wäg;
+//2 e Stadt, wo me cha wohne,
+//2 hei si nid gfunde.
+//1 v5 Si hei Hunger
+//2 und Durscht gha,
+//2 iri Seel isch i ne schwach worde.
+//1 v6 De hei si zum HERR grüeft i irer Not,
+//2 und er het se us irer Angscht grettet.
+//1 v7 Er het se uf e grade Wäg gfüert,
+//2 dass si zu ne Stadt chöme, wo me cha wohne.
+//1 v8 Si sölle em HERR danke für sy Tröiji
+//2 und für syni Wunder a de Mönsche!
+//1 v9 Denn er het d Seel, wo Durscht het, satt gmacht
+//2 und di hungrigi Seel mit Guetem gfüllt.
+//1 v10 Si sy im Fyschtere und im tiefe Schatte gsässe,
+//2 gfange im Elände und i ysige Chetti,
+//1 v11 wil si sech gäge d Wort vo Gott gstellt hei
+//2 und der Rat vom Höchschte verachtet hei.
+//1 v12 Er het ires Härz mit Müej bbroche,
+//2 si sy gfalle,
+//2 und es isch niemer da gsi, wo ghulfe het.
+//1 v13 De hei si zum HERR grüeft i irer Not,
+//2 und er het ne us irer Angscht ghulfe.
+//1 v14 Er het se us em Fyschtere und us em tiefe Schatte usegfüert
+//2 und iri Fessle verrisse.
+//1 v15 Si sölle em HERR danke für sy Tröiji
+//2 und für syni Wunder a de Mönsche!
+//1 v16 Denn er het Tor us Bronze verschlage
+//2 und ysigi Stange verhoue.
+//1 v17 Dummi sy wäge irem Läbe vo Untröiji
+//2 und wäge irer Schuld plaget worde.
+//1 v18 Si hei vor allem Ässe es Gruuse gha,
+//2 und si sy nach bis a d Tor vom Tod cho.
+//1 v19 De hei si zum HERR grüeft i irer Not,
+//2 und er het ne us irer Angscht ghulfe.
+//1 v20 Er het sys Wort gschickt
+//2 und se gheilet
+//2 und se us em Verderbe grettet.
+//1 v21 Si sölle em HERR danke für sy Tröiji
+//2 und für syni Wunder a de Mönsche!
+//1 v22 Si sölle Opfer zum Danke bringe
+//2 und juble und mit Fröid verzelle, was er gmacht het!
+//1 v23 Die, wo mit Schiff uf ds Meer use sy
+//2 und uf grosse Wasser ires Gschäft gmacht hei,
+//1 v24 die hei d Wärch vom HERR gseh
+//2 und syni Wunder i der Tiefi.
+//1 v25 Er het gredt,
+//2 und e Sturm isch ufcho
+//2 und het d Wälle vom Meer höch ufglüpft.
+//1 v26 Si sy ufe bis zum Himel
+//2 und abe i d Tiefine;
+//2 iri Seel isch i der Not vergange.
+//1 v27 Si sy hin und här gloffe
+//2 und sy umegheit wi eine, wo z vil trunke het,
+//2 und alli iri Wysheit isch am Änd gsi.
+//1 v28 De hei si zum HERR grüeft i irer Not,
+//2 und er het se us irer Angscht usegfüert.
+//1 v29 Er het der Sturm la still wärde,
+//2 und iri Wälle sy still worde.
+//1 v30 Si sy froh gsi,
+//2 wil es still worde isch,
+//2 und er het se i dä Hafe gfüert, wo si hei welle.
+//1 v31 Si sölle em HERR danke für sy Tröiji
+//2 und für syni Wunder a de Mönsche!
+//1 v32 Si sölle ne rüeme i der Versammlig vom Volk
+//2 und ne lobe im Rat vo den Eltischte!
+//1 v33 Er macht Flüss zur Wüeschti
+//2 und Wasserquelle zu dürre Bode,
+//1 v34 ds fruchtbari Land zu Salz
+//2 wäge der Schlächtigkeit vo dene, wo drinn wohne.
+//1 v35 Er macht d Wüeschti zum See
+//2 und ds dürre Land zu Wasserquelle.
+//1 v36 Dert lat er Hungrigi wohne,
+//2 und si boue e Stadt, wo me cha wohne.
+//1 v37 Si sääje Fälder
+//2 und pflanze Räbbärg,
+//2 und die bringe Frucht und Ertrag.
+//1 v38 Er sägnet se,
+//2 und si wärde sehr vil,
+//2 und ires Veh lat er nid weniger wärde.
+//1 v39 De sy si weniger worde
+//2 und sy z Bode gstosse worde dür Druck, Not und Chummer.
+//1 v40 Er schüttet Schand über d Fürschte
+//2 und lat se sech verloufe i der Wüeschti,
+//2 wo's ke Wäg git.
+//1 v41 Aber der Arm lüpft er us em Elände use
+//2 und macht d Familie wi ne Herde gross.
+//1 v42 Die, wo ufrichtig sy, gseh's
+//2 und fröie sech,
+//2 aber alli Schlächtigkeit mues ds Muul halte.
+//1 v43 Wär wys isch,
+//2 dä söll das zu Härze nä
+//2 und d Tröiji vom HERR begryffe!

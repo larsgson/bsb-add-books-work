@@ -1,0 +1,207 @@
+!!<Reifegrad: Entwurf>!!
+!!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/psa078.txt), abgeglichen mit der Berean Standard Bible>!!
+!!<Exegetische Bearbeitung: Noch nicht erfolgt>!!
+!!<Literarische Prüfung: Noch nicht erfolgt>!!
+!!<Datum dieser Version: 29.10.2026>!!
+
+===Ds Buech vo de Psalme, Psalm 78===
+
+
+==Was üsi Vätter is verzellt hei==
+
+v1 E Maskil vom Asaf.
+
+//1 Los,
+//2 my Volk,
+//2 uf mys Gsetz,
+//2 heit öiji Ohre zu de Wort vo mym Muul!
+//1 v2 I wott mys Muul uftue zu me Glychnis,
+//2 i wott Rätsel la fürecho us der alte Zyt,
+//1 v3 wo mer ghört
+//2 und kennt hei
+//2 und wo üsi Vätter üüs verzellt hei.
+//1 v4 Mir wei's nid vor irne Chind verstecke,
+//2 mir wei der nächschte Generation verzelle, wi me der HERR mues lobe,
+//2 vo syr Macht und vo syne Wunder,
+//2 wo n er ta het.
+//1 v5 Er het es Zügnis ygsetzt i Jakob
+//2 und es Gsetz gä i Israel;
+//2 er het üsne Vätter befole,
+//2 se irne Chind z lehre,
+//1 v6 dass o d Generation nach üüs se kennt,
+//2 d Chind,
+//2 wo no sölle uf d Wält cho;
+//2 die sölle ufsta
+//2 und's irne Chind verzelle,
+//1 v7 dass si iri Hoffnig uf Gott setze
+//2 und d Tate vo Gott nid vergässe
+//2 und syni Gebot halte,
+//1 v8 und dass si nid wärde wi iri Vätter,
+//2 e Generation, wo hert und bös isch,
+//2 e Generation, wo ires Härz nid fescht gmacht het
+//2 und wo ire Geischt nid tröi zu Gott gsi isch.
+//1 v9 D Söhn vo Efraim, mit em Pfyleboge i der Hand,
+//2 sy umgchehrt am Tag vom Chrieg.
+//1 v10 Si hei der Bund vo Gott nid ghalte
+//2 und nid welle nach sym Gsetz läbe.
+//1 v11 Si hei syni Tate vergässe
+//2 und syni Wunder,
+//2 wo n er ne zeigt het.
+//1 v12 Vor irne Vätter het er Wunder ta im Land Ägypte, im Gebiet vo Zoan.
+//1 v13 Er het ds Meer teilt
+//2 und se dür ds Meer gfüert
+//2 und ds Wasser la sta wi ne Muure.
+//1 v14 Am Tag het er se mit der Wulche gfüert
+//2 und di ganzi Nacht mit em Liecht vom Füür.
+//1 v15 Er het Felse i der Wüeschti ufta
+//2 und ne z trinke gä, so vil wi us de Tiefine.
+//1 v16 Er het e Bach us em Felse la usecho
+//2 und Wasser la abeloufe wi Flüss.
+//1 v17 Aber si hei geng no wyter
+//2 gäge ihn gsündiget
+//2 und sech gäge der Höchscht gstellt i der Wüeschti.
+//1 v18 Si hei Gott i irem Härz uf d Prob gstellt,
+//2 wo si Ässe verlangt hei für iri Gluscht.
+//1 v19 Si hei gäge Gott gredt
+//2 und gseit:
+//2 „Cha Gott öppe
+//2 i der Wüeschti e Tisch zwägmache?
+//1 v20 Lue, er het der Felse gschlage,
+//2 und ds Wasser isch usecho,
+//2 und e Bach isch übergloffe.
+//2 Cha er o Brot gä,
+//2 oder sym Volk Fleisch bringe?“
+//1 v21 Drum het der HERR, won er das ghört het,
+//2 e grossi Wuet übercho;
+//2 Füür het gäge Jakob aagfange z brönne,
+//2 und o sy Töubi isch gäge Israel ufgstige,
+//1 v22 wil si nid a Gott gloubt hei
+//2 und nid uf sy Rettig vertrout.
+//1 v23 Und doch het er de Wulche obe befole
+//2 und d Türe vom Himel ufta,
+//1 v24 er het Manna uf se la rägne,
+//2 für z ässe,
+//2 und er het ne Chorn vom Himel ggä.
+//1 v25 Jede het Brot vo de Ängel gässe;
+//2 er het ne Ässe gschickt, dass si satt wärde.
+//1 v26 Er het der Luft vo Oschte am Himel la wääje
+//2 und mit syr Chraft der Luft vo Süde tribe.
+//1 v27 Er het Fleisch uf se la rägne wi Stoub
+//2 und Vögel wi der Sand am Meer.
+//1 v28 Er het se la gheie mitts i irem Lager,
+//2 rund um iri Zält.
+//1 v29 Si hei gässe
+//2 und sy ganz satt worde;
+//2 was si gluschtet het, das het er ne bbracht.
+//1 v30 Si hei no nid mit irer Gluscht ufghört,
+//2 iri Ässe isch no i irem Muul gsi,
+//1 v31 da isch d Töubi vo Gott gäge se ufgstige;
+//2 er het di Starche under ne tödt
+//2 und di junge Manne vo Israel z Bode gworfe.
+//1 v32 Trotz allem hei si wyter gsündiget
+//2 und nid a syni Wunder gloubt.
+//1 v33 Drum het er iri Täg wi ne Huuch la ufhöre
+//2 und iri Jahr i Schrecke.
+//1 v34 Wen er se tödt het,
+//2 de hei si ne gsuecht,
+//2 si sy umgchehrt
+//2 und hei fröie Gott gsuecht.
+//1 v35 Si hei dra ddänkt,
+//2 dass Gott ire Felse isch
+//2 und Gott, der Höchscht, dä, wo se erlöst.
+//1 v36 Aber si hei ne mit irem Muul aagloge
+//2 und mit irer Zunge hei si ne aagloge.
+//1 v37 Ires Härz isch nid fescht zu ihm gstande,
+//2 und si sy nid tröi gsi zu sym Bund.
+//1 v38 Aber är isch barmhärzig;
+//2 er vergit Schuld
+//2 und vernichtet nid.
+//2 Mängisch het er sy Töubi zrüggzoge
+//2 und nid sy ganzi Wuet la usecho.
+//1 v39 Er het dra ddänkt,
+//2 dass si nume Fleisch sy,
+//2 e Huuch,
+//2 wo verby isch
+//2 und nid wider chunt.
+//1 v40 Wi mängisch hei si sech i der Wüeschti gäge ihn gstellt,
+//2 ihm weh ta im dürre Land!
+//1 v41 Geng wider hei si Gott uf d Prob gstellt
+//2 und der Heilig vo Israel beleidiget.
+//1 v42 Si hei nid meh a sy Hand ddänkt,
+//2 a dä Tag,
+//2 wo n er se vom Find erlöst het,
+//1 v43 wo n er z Ägypte syni Zeiche ta het
+//2 und syni Wunder im Gebiet vo Zoan.
+//1 v44 Er het iri Flüss i Bluet verwandlet
+//2 und iri Wasser,
+//2 dass si nid hei chönne trinke.
+//1 v45 Er het e Huuffe Flöige under se gschickt,
+//2 wo se gfrässe hei,
+//2 und Frösche,
+//2 wo se is Verderbe bbracht hei.
+//1 v46 Er het iri Ärn de Würm ggä
+//2 und d Frucht vo irer Arbeit de Höigümper.
+//1 v47 Er het iri Räbe mit em Hagelwätter z Bode gschlage
+//2 und ire Fygeboum mit em Ryffe.
+//1 v48 Er het ires Veh em Hagelwätter usgliferet
+//2 und iri Herde de Blitze.
+//1 v49 Er het d Hitz vo syr Wuet uf se gschickt,
+//2 Wuet und Töubi und Not,
+//2 e Schar vo Ängel, wo Böses bringe.
+//1 v50 Er het syr Töubi freie Wäg gla;
+//2 er het ire Seel nid vor em Tod bewahrt,
+//2 und ires Läbe het er der Chrankheit usgliferet.
+//1 v51 Er het alli Erschtgeborene z Ägypte gschlage,
+//2 ds Erschte vo irer Chraft i de Zält vom Ham.
+//1 v52 Aber sys Volk het er la uszie wi Schaf
+//2 und se wi ne Herde i der Wüeschti gfüert.
+//1 v53 Er het se i Sicherheit gfüert,
+//2 so dass si nid Angscht gha hei,
+//2 aber iri Finde het ds Meer zuedeckt.
+//1 v54 Er het se a d Gränze vo sym heilige Land bbracht,
+//2 zu däm Bärg,
+//2 wo sy rächti Hand erworbe het.
+//1 v55 Er het Völker vor ne vertribe
+//2 und ne ires Erb mit em Los zueteilt
+//2 und d Stämm vo Israel i irne Zält la wohne.
+//1 v56 Aber si hei Gott, der Höchscht, uf d Prob gstellt
+//2 und sech gäge ihn gstellt
+//2 und syni Zügnis nid ghalte.
+//1 v57 Si sy abgfalle
+//2 und sy untröi gsi wi iri Vätter;
+//2 si sy chrumm worde wi ne Pfyleboge, wo nüüt nützt.
+//1 v58 Si hei ne toub gmacht mit irne Opfer uf de Höger
+//2 und ne mit irne Götzebilder yfersüchtig gmacht.
+//1 v59 Gott het's ghört
+//2 und isch toub worde
+//2 und het Israel ganz verstosse.
+//1 v60 Er het d Wonig z Schilo verla,
+//2 ds Zält, wo n er under de Mönsche gwohnt het.
+//1 v61 Er het sy Macht i d Gfangeschaft gä
+//2 und sy Pracht i d Hand vom Find.
+//1 v62 Er het sys Volk em Schwärt usgliferet
+//2 und isch toub gsi über sys Erb.
+//1 v63 Syni junge Manne het ds Füür gfrässe,
+//2 und für syni junge Froue het niemer es Lied für d Hochzyt gsunge.
+//1 v64 Syni Prieschter sy dür ds Schwärt gfalle,
+//2 und syni Witwe hei nid chönne briegge.
+//1 v65 Da isch der Herr erwachet wi eine, wo gschlafe het,
+//2 wi ne starche Ma,
+//2 wo vom Wy jublet.
+//1 v66 Er het syni Finde zrügg gschlage
+//2 und ne Schand für geng aagleit.
+//1 v67 Er het ds Zält vom Josef abgwise
+//2 und der Stamm Efraim nid usgläse,
+//1 v68 nei, er het der Stamm Juda usgläse,
+//2 der Bärg Zion,
+//2 wo n er lieb het.
+//1 v69 Er het sys Heiligtum boue wi d Höchi,
+//2 wi d Ärde,
+//2 wo n er fescht gmacht het für geng.
+//1 v70 Er het der David, sy Chnächt, usgläse
+//2 und ne zwüsche de Schaf wäggno.
+//1 v71 Hinder de Schaf, wo Jungi hei, het er ne wäggno,
+//2 für sys Volk Jakob z hüete
+//2 und Israel, sys Erb.
+//1 v72 Er het se ghüetet mit eme ufrichtige Härz
+//2 und mit Händ, wo gschickt sy, gfüert.

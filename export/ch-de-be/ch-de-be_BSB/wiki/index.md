@@ -29,7 +29,7 @@ Verlag, Bern 1984. Zitate sind kurz, unverändert und nicht CC0 (siehe `../CREDI
   [Verneinung und Vergleich](grammar/verneinung-vergleich.md) ·
   [Erzählung, Rede, Partikeln](grammar/erzaehlung.md)
 - [Rechtschreibung](orthographie.md) · [Wortschatz](wortschatz.md) · [Namen](namen.md)
-- [Entscheide des Projekts](entscheide.md) · [Entscheide AT-Wortschatz](entscheide-at.md)
+- [Entscheide des Projekts](entscheide.md) · [Entscheide AT-Wortschatz](entscheide-at.md) · [Psalmen](psalmen.md)
 - [Lücken](luecken.md) · [Fragen an das Sprachteam](fragen.md)
 
 
@@ -48,8 +48,9 @@ Verlag, Bern 1984. Zitate sind kurz, unverändert und nicht CC0 (siehe `../CREDI
 - [Lücken](luecken.md) — 19 store entries
 - [Namen](namen.md) — 100 store entries
 - [Rechtschreibung](orthographie.md) — 11 store entries
+- [Psalmen](psalmen.md) — 246 store entries
 - [The team's input](team-input.md) — 0 store entries
 - [Wortschatz](wortschatz.md) — 103 store entries
 - [Inbox](inbox.md) — 0 unplaced entries
 - [Log](log.md) — who changed what, newest last
-<!-- store:end sha=7109d94b -->
+<!-- store:end sha=0818cdc1 -->

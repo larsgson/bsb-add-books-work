@@ -1,0 +1,52 @@
+!!<Reifegrad: Entwurf>!!
+!!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/psa148.txt), abgeglichen mit der Berean Standard Bible>!!
+!!<Exegetische Bearbeitung: Noch nicht erfolgt>!!
+!!<Literarische Prüfung: Noch nicht erfolgt>!!
+!!<Datum dieser Version: 29.10.2026>!!
+
+===Ds Buech vo de Psalme, Psalm 148===
+
+
+==Alls söll der HERR lobe==
+
+//1 v1 Halleluja!
+//2 Lobet der HERR vom Himel här,
+//2 lobet ne i der Höchi!
+//1 v2 Lobet ne,
+//2 alli syni Ängel!
+//2 Lobet ne,
+//2 alli syni Heer!
+//1 v3 Lobet ne,
+//2 Sunne und Mond!
+//2 Lobet ne,
+//2 alli Stärne, wo lüüchte!
+//1 v4 Lobet ne,
+//2 dihr höchschte Himel,
+//2 und dihr Wasser,
+//2 wo obe am Himel syt!
+//1 v5 Si sölle der Name vom HERR lobe;
+//2 denn är het befole,
+//2 und si sy gschaffe worde.
+//1 v6 Er het se ygsetzt für geng und ewig;
+//2 er het ne es Gsetz ggä,
+//2 und das vergeit nid.
+//1 v7 Lobet der HERR vo der Ärde här,
+//2 dihr Ungheuer im Meer und alli Tiefine!
+//1 v8 Füür und Hagelchörner, Schnee und Rouch,
+//2 du Sturm,
+//2 wo tuet, was sys Wort seit!
+//1 v9 Dihr Bärge und alli Hoger,
+//2 Bäum mit Frucht und alli Zedere!
+//1 v10 Dihr wilde Tier und alls Veh,
+//2 chlyni Tier und Vögel, wo flüge!
+//1 v11 Dihr Chünige vo der Ärde und alli Völker,
+//2 Fürschte und alli Richter vo der Ärde!
+//1 v12 Jungi Manne und o jungi Froue,
+//2 Alti mit de Junge!
+//1 v13 Si sölle der Name vom HERR lobe;
+//2 denn sy Name alleini isch höch,
+//2 sy Herrlechkeit isch über der Ärde und em Himel.
+//1 v14 Er het sym Volk es Horn la ufrichte,
+//2 es Lob für alli syni Fromme,
+//2 für d Chinder vo Israel, ds Volk, wo naach bi ihm isch.
+//2 Halleluja!

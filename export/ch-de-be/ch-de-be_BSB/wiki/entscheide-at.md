@@ -134,11 +134,12 @@ dort den Entwurf beibehalten und im Notizfile nennen.
   - answers: deep
   - Form im Text: »Tiefi« mit Artikel d. Jona 2,6 ebenso.
   - agent:memory-setup, 2026-10-14
-- **`term:H7549`** רָקִיעַ → **ds Himelsgwölb** [high, decided, by-rule]
-  - NT: GEN 1:6 *Himelsgwölb*; GEN 1:7 *Himelsgwölb*
-  - answers: expanse
-  - Neubildung, im Korpus 0×.
-  - agent:memory-setup, 2026-10-14
+- **`term:H7549`** רָקִיעַ → **d Feschti** [high, decided, attested]
+  - gloss: רָקִיעַ: רָקִֽיעַ (PSA 19:2) — English (generated): The heavens
+  - NT: PSA 19:2 *d Feschti*; 1CO 3:2 *Feschti*
+  - answers: firmament, expanse, skies
+  - Himmelsgewölbe = »d Feschti«; Gen 1 im Projekt prüfen (gleich halten).
+  - agent:psa019, 2026-10-29
 - **`formula:evening_morning`** וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם <n> → **Es isch Aabe worde und Morge worde: der <n> Tag** [high, decided, by-rule]
   - NT: GEN 1:5 *Aabe worde und Morge*; GEN 1:8 *Aabe worde und Morge*
   - answers: evening, morning, day
@@ -394,4 +395,4 @@ dort den Entwurf beibehalten und im Notizfile nennen.
   - answers: exodus
   - Titel nach dem Muster »Ds erschte Buech Mose«; Korpusverweise »2Mo«. Offen bis zur Durchsicht.
   - agent:exo001, 2026-10-15
-<!-- store:end sha=a0628655 -->
+<!-- store:end sha=d356d6e0 -->
