@@ -869,4 +869,94 @@ Tilbagevendende vendinger og deres faste danske form. `<…>` er pladser der udf
   - answers: Sæt, mig, som, et, segl, på, dit, hjerte
   - With 'kærligheden er stærk som døden' (8:6).
   - agent:sng008, 2026-10-29
-<!-- store:end sha=da077534 -->
+- **`formula:chr_list_sons`** בְּנֵי X … → **sønner var** [high, decided, attested]
+  - gloss: בֵּן: בְּנֵ֣י (1CH 1:5) — English (generated): The sons
+  - NT: GEN 10:2 *sønner var*; 1CH 1:5 *sønner var*
+  - answers: sønner var
+  - Genealogy lists in Chronicles: 'X's sønner var: A, B og C.' as DFB Gen 10:2.
+  - agent:1ch001, 2026-10-31
+- **`formula:migrash_chr`** וְאֶת־מִגְרָשֶׁיהָ → **med tilhørende marker** [high, decided, attested]
+  - gloss: מִגְרָשׁ: מִגְרָשֶׁ֔י (1CH 6:43)
+  - NT: JOS 21:13 *med tilhørende marker*; 1CH 6:43 *med tilhørende marker*
+  - answers: med tilhørende marker
+  - Levite city lists (Jos 21, 1 Chr 6): collected once per verse/group.
+  - agent:1ch006, 2026-10-31
+- **`formula:hasdo_leolam`** כִּי לְעוֹלָם חַסְדּוֹ → **for hans nåde varer til evig tid** [high, decided, attested]
+  - gloss: חֶסֶד: חַסְדּֽ (1CH 16:34) — English (generated): His loving devotion
+  - NT: 1CH 16:34 *for hans nåde varer til evig tid*
+  - answers: for hans nåde varer til evig tid
+  - DFB Ps 106:1 / 136 refrain.
+  - agent:1ch016, 2026-10-31
+- **`formula:hazaq_ematz_chr`** חֲזַק וֶאֱמָץ אַל־תִּירָא וְאַל־תֵּחָת → **Vær stærk og modig** [high, decided, attested]
+  - gloss: חָזַק: חֲזַ֣ק (1CH 22:13) — English (generated): Be strong
+  - NT: JOS 1:9 *Vær stærk og modig*; 1CH 22:13 *Vær stærk og modig*
+  - answers: Vær stærk og modig
+  - As project Jos 1:9 ('Vær ikke bange, og tab ikke modet').
+  - agent:1ch022, 2026-10-31
+- **`formula:shabbat_hodesh_moed`** לַשַּׁבָּתוֹת לֶחֳדָשִׁים וְלַמֹּעֲדִים → **sabbaterne, nymånefesterne og højtiderne** [high, decided, attested]
+  - gloss: מוֹעֵד: מֹּעֲדִ֑ים (1CH 23:31) — English (generated): and appointed feasts
+  - NT: 1CH 23:31 *sabbaterne, nymånefesterne og højtiderne*
+  - answers: sabbaterne, nymånefesterne og højtiderne
+  - Festival triad.
+  - agent:1ch023, 2026-10-31
+- **`formula:goral_yasa`** וַיֵּצֵא הַגּוֹרָל הָרִאשׁוֹן לְ → **Det første lod faldt på** [high, decided, attested]
+  - gloss: גּוֹרָל: גּוֹרָ֤ל (1CH 24:7) — English (generated): lot
+  - NT: 1CH 24:7 *Det første lod faldt på*
+  - answers: Det første lod faldt på
+  - Lot list: 'det andet på …', ordinals in words to 10, then '11.' etc.
+  - agent:1ch024, 2026-10-31
+- **`formula:al_yede_chr`** עַל־יְדֵי → **under ledelse af** [high, decided, attested]
+  - gloss: יָד: יַד (1CH 25:2) — English (generated): the direction
+  - NT: 1CH 25:2 *under ledelse af*; 1CH 25:6 *under ledelse af*
+  - answers: under ledelse af
+  - Of musicians under a leader (1 Chr 25; 2 Chr 23:18).
+  - agent:1ch025, 2026-10-31
+- **`formula:mahaloqet_24000`** וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף → **i hans skifte var der 24.000 mand** [high, decided, attested]
+  - gloss: מַחֲלֹקֶת: מַּחֲלֹ֤קֶת (1CH 27:2) — English (generated): division
+  - NT: 1CH 27:2 *i hans skifte var der 24.000 mand*; 1CH 27:5 *i hans skifte var der 24.000 mand*
+  - answers: i hans skifte var der 24.000 mand
+  - Refrain of 1 Chr 27:2-15.
+  - agent:1ch027, 2026-10-31
+- **`formula:lo_yarpekha`** לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ → **Han svigter dig ikke og forlader dig ikke** [high, decided, attested]
+  - gloss: רָפָה: יַרְפְּ (1CH 28:20) — English (generated): fail you
+  - NT: 1CH 28:20 *Han svigter dig ikke og forlader dig ikke*
+  - answers: Han svigter dig ikke og forlader dig ikke
+  - As project Jos 1:5 ('Jeg svigter dig ikke og forlader dig ikke').
+  - agent:1ch028, 2026-10-31
+- **`formula:david_reign_chr`** וְהַיָּמִים אֲשֶׁר מָלַךְ עַל־יִשְׂרָאֵל אַרְבָּעִים שָׁנָה → **Den periode han var konge over Israel** [high, decided, attested]
+  - gloss: מָלַךְ: מָלַךְ֙ (1CH 29:27) — English (generated): reign
+  - NT: 1CH 29:27 *Den periode han var konge over Israel*
+  - answers: Den periode han var konge over Israel
+  - As DFB 1 Kgs 2:11.
+  - agent:1ch029, 2026-10-31
+- **`formula:sheal_ma_etten`** שְׁאַל מָה אֶתֶּן־לָךְ → **Sig, hvad jeg skal give dig** [high, decided, attested]
+  - gloss: שָׁאַל: שְׁאַ֖ל (2CH 1:7) — English (generated): Ask
+  - NT: 2CH 1:7 *Sig, hvad jeg skal give dig*
+  - answers: Sig, hvad jeg skal give dig
+  - DFB 1 Kgs 3:5.
+  - agent:2ch001, 2026-10-31
+- **`formula:shama_min_hashamayim`** וְאַתָּה תִּשְׁמַע מִן־הַשָּׁמַיִם → **så hør du fra himlen** [high, decided, attested]
+  - gloss: שָׁמַע: תִּשְׁמַ֣ע (2CH 6:23) — English (generated): hear
+  - NT: 2CH 6:23 *så hør du fra himlen*; 2CH 6:25 *så hør du fra himlen*
+  - answers: så hør du fra himlen
+  - Refrain of Solomon's prayer (2 Chr 6); 1 Kgs 8 'hør i himlen'.
+  - agent:2ch006, 2026-10-31
+- **`formula:ki_tov_ki_leolam`** כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ → **For han er god, for hans nåde varer til evig tid** [high, decided, attested]
+  - gloss: חֶסֶד: חַסְדּֽ (2CH 7:3) — English (generated): His loving devotion
+  - NT: 2CH 7:3 *For han er god, for hans nåde varer til evig tid*; 2CH 5:13 *For han er god, for hans nåde varer til evig tid*
+  - answers: For han er god, for hans nåde varer til evig tid
+  - Refrain (1 Chr 16:34; 2 Chr 5:13; 7:3).
+  - agent:2ch007, 2026-10-31
+- **`formula:three_feasts`** חַג הַמַּצּוֹת וּבְחַג הַשָּׁבֻעוֹת וּבְחַג הַסֻּכּוֹת → **ugefesten og** [high, decided, attested]
+  - gloss: שָׁבוּעַ: שָּׁבֻע֖וֹת (2CH 8:13) — English (generated): of Weeks
+  - NT: 2CH 8:13 *ugefesten og*
+  - answers: ugefesten og
+  - de usyrede brøds fest, ugefesten og løvhyttefesten.
+  - agent:2ch008, 2026-10-31
+- **`formula:cyrus_edict_2ch`** כֹּה אָמַר כּוֹרֶשׁ מֶלֶךְ פָּרַס → **Så siger Persiens konge Kyros** [high, decided, attested]
+  - gloss: כּוֹרֶשׁ: כּ֣וֹרֶשׁ (2CH 36:23) — English (generated): Cyrus
+  - NT: 2CH 36:22 *Så siger Persiens konge Kyros*; 2CH 36:23 *Så siger Persiens konge Kyros*
+  - answers: Så siger Persiens konge Kyros
+  - 2 Chr 36:22-23 = project Ezra 1:1-3 word for word.
+  - agent:2ch036, 2026-10-31
+<!-- store:end sha=635741d7 -->

@@ -52,6 +52,8 @@ samme navn står i DFB på begge måder (Kana'an 9×, Kana’an 32×). Åbent; i
 - **Hoseas** (profeten, DFB Rom 9,25) mod kongen **Hosea** (2 Kong 15-17); Gomer, Diblajim, Be'eri, Jizre'el,
   Lo-Ruhama, Lo-Ammi (Hos 1; navnenes betydning i {T:}).
 
+- **Krønikebøgerne** (1-2 Krøn): navnene følger parallellerne (DFB 1 Mos 4-11; projektets 1 Mos 25, 36; 1-2 Sam; 1-2 Kong; Ezra). Hvor Krønikebogens hebraiske form afviger fra parallellen, beholdes den afvigende form og parallellens form nævnes i {T:} (1 Krøn 1: Difat/Rifat, Ebal/Obal, Aljan/Alvan, Hamran/Hemdan, Ja'akan/Akan, Pa'i/Pa'u, Hadad/Hadar).
+
 ## Åbne navne
 
 Morija/Moria, Hanok/Enok (Rubens søn), Efrat/Efrata, Mispe/Mispa (Jos 15,38; 18,26), Nahor/Nakor og El
@@ -1741,6 +1743,468 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
   - NT: SNG 8:11 *Baal-Hamon*
   - answers: Baal-Hamon
   - agent:sng008, 2026-10-29
+- **`name:diphath`** דִּיפַת → **Difat** [high, decided, attested]
+  - gloss: דִּיפַת: דִיפַ֖ת (1CH 1:6) — English (generated): Riphath
+  - NT: 1CH 1:6 *Difat*
+  - answers: Difat
+  - Chronicles' form; Gen 10:3 Rifat (DFB).
+  - agent:1ch001, 2026-10-31
+- **`name:alian`** עַלְיָן → **Aljan** [high, decided, attested]
+  - gloss: עַלְיָן: עַלְיָ֧ן (1CH 1:40) — English (generated): Alvan
+  - NT: 1CH 1:40 *Aljan*
+  - answers: Aljan
+  - Gen 36:23 Alvan.
+  - agent:1ch001, 2026-10-31
+- **`name:hamran`** חַמְרָן → **Hamran** [high, decided, attested]
+  - gloss: חַמְרָן: חַמְרָ֥ן (1CH 1:41) — English (generated): Hemdan
+  - NT: 1CH 1:41 *Hamran*
+  - answers: Hamran
+  - Gen 36:26 Hemdan.
+  - agent:1ch001, 2026-10-31
+- **`name:jaakan`** יַעֲקָן → **Ja'akan** [high, decided, attested]
+  - gloss: יַעֲקָן: יַעֲקָ֑ן (1CH 1:42) — English (generated): and Akan
+  - NT: 1CH 1:42 *Ja'akan*
+  - answers: Ja'akan
+  - Gen 36:27 Akan.
+  - agent:1ch001, 2026-10-31
+- **`name:pai`** פָּעִי → **Pa'i** [high, decided, attested]
+  - gloss: פָּעִי: פָּ֑עִי (1CH 1:50) — English (generated): Pau
+  - NT: 1CH 1:50 *Pa'i*
+  - answers: Pa'i
+  - Gen 36:39 Pa'u.
+  - agent:1ch001, 2026-10-31
+- **`name:homam`** הוֹמָם → **Homam** [high, decided, attested]
+  - gloss: הוֹמָם: הוֹמָ֑ם (1CH 1:39) — English (generated): and Homam
+  - NT: 1CH 1:39 *Homam*
+  - answers: Homam
+  - Gen 36:22 Hemam.
+  - agent:1ch001, 2026-10-31
+- **`name:achar`** עָכָר → **Akar** [high, decided, attested]
+  - gloss: עָכָר: עָכָר֙ (1CH 2:7) — English (generated): Achar
+  - NT: 1CH 2:7 *Akar*
+  - answers: Akar
+  - Chronicles' form of Achan (Jos 7 Akan), wordplay with ʕōkēr.
+  - agent:1ch002, 2026-10-31
+- **`name:nahshon`** נַחְשׁוֹן → **Nakshon** [high, decided, attested]
+  - gloss: נַחְשׁוֹן: נַחְשׁ֔וֹן (1CH 2:10) — English (generated): Nahshon
+  - NT: RUT 4:20 *Nakshon*; 1CH 2:10 *Nakshon*
+  - answers: Nakshon
+  - DFB Num, Ruth 4:20.
+  - agent:1ch002, 2026-10-31
+- **`name:boaz`** בֹּעַז → **Boaz** [high, decided, attested]
+  - gloss: בֹּעַז: בֹּֽעַז (1CH 2:11) — English (generated): Boaz
+  - NT: RUT 4:21 *Boaz*; 1CH 2:11 *Boaz*
+  - answers: Boaz
+  - DFB Ruth.
+  - agent:1ch002, 2026-10-31
+- **`name:jether_amasa`** יֶתֶר → **Jeter** [high, decided, attested]
+  - gloss: יֶתֶר: יֶ֖תֶר (1CH 2:17) — English (generated): was Jether
+  - NT: 1KI 2:5 *Jeter*; 1CH 2:17 *Jeter*
+  - answers: Jeter
+  - Amasa's father, DFB 1 Kgs 2:5; 2 Sam 17:25 Jitra.
+  - agent:1ch002, 2026-10-31
+- **`name:kelubai`** כְּלוּבָי → **Kelubaj** [high, decided, attested]
+  - gloss: כְּלוּבָי: כְּלוּבָֽי (1CH 2:9) — English (generated): and Caleb
+  - NT: 1CH 2:9 *Kelubaj*
+  - answers: Kelubaj
+  - = Caleb (v. 18).
+  - agent:1ch002, 2026-10-31
+- **`name:abijah_king`** אֲבִיָּה → **Abija** [high, decided, attested]
+  - gloss: אֲבִיָּה: אֲבִיָּ֥ה (1CH 3:10) — English (generated): Abijah
+  - NT: 1CH 3:10 *Abija*
+  - answers: Abija
+  - King of Judah in Chronicles (1 Kgs 15 Abijam).
+  - agent:1ch003, 2026-10-31
+- **`name:jeconiah`** יְכָנְיָה → **Jekonja** [high, decided, attested]
+  - gloss: יְכָנְיָה: יְכָנְיָ֥ה (1CH 3:16) — English (generated): Jeconiah
+  - NT: JER 24:1 *Jekonja*; 1CH 3:16 *Jekonja*
+  - answers: Jekonja
+  - DFB Jer 24:1; = Jojakin.
+  - agent:1ch003, 2026-10-31
+- **`name:daniel_david`** דָּנִיֵּאל → **Daniel** [high, decided, attested]
+  - gloss: דָּנִיֵּאל: דָּנִיֵּ֔אל (1CH 3:1) — English (generated): Daniel
+  - NT: 1CH 3:1 *Daniel*
+  - answers: Daniel
+  - David's son (2 Sam 3:3 Kilab).
+  - agent:1ch003, 2026-10-31
+- **`name:jabez`** יַעְבֵּץ → **Jabes** [high, decided, attested]
+  - gloss: יַעְבֵּץ: יַעְבֵּ֔ץ (1CH 4:9) — English (generated): Now Jabez
+  - NT: 1CH 4:9 *Jabes*
+  - answers: Jabes
+  - Person (4:9-10) and town (2:55); not Jabesh (יָבֵשׁ).
+  - agent:1ch004, 2026-10-31
+- **`name:nemuel_simeon`** נְמוּאֵל → **Nemuel** [high, decided, attested]
+  - gloss: נְמוּאֵל: נְמוּאֵ֣ל (1CH 4:24) — English (generated): Nemuel
+  - NT: NUM 26:12 *Nemuel*; 1CH 4:24 *Nemuel*
+  - answers: Nemuel
+  - Simeon's son, DFB Num 26:12 (Gen 46:10 Jemuel).
+  - agent:1ch004, 2026-10-31
+- **`name:otniel`** עָתְנִיאֵל → **Otniel** [high, decided, attested]
+  - gloss: עׇתְנִיאֵל: עָתְנִיאֵ֖ל (1CH 4:13) — English (generated): Othniel
+  - NT: JDG 1:13 *Otniel*; 1CH 4:13 *Otniel*
+  - answers: Otniel
+  - DFB Judg 1:13.
+  - agent:1ch004, 2026-10-31
+- **`name:hanoch_reuben`** חֲנוֹךְ (Rubens søn) → **Enok** [medium, decided, attested]
+  - gloss: חֲנוֹךְ: חֲנ֥וֹךְ (1CH 5:3) — English (generated): Hanoch
+  - NT: NUM 26:5 *Enok*; 1CH 5:3 *Enok*
+  - answers: Enok
+  - Reuben's son as DFB Num 26:5; the project's Gen 46:9 has Hanok (open question). Midian's son stays Hanok (Gen 25:4, 1 Chr 1:33).
+  - agent:1ch005, 2026-10-31
+- **`name:hagrites`** הַגְרִאִים → **hagritterne** [high, decided, attested]
+  - gloss: הַגְרִי: הַגְרִאִ֔ים (1CH 5:10) — English (generated): the Hagrites
+  - NT: PSA 83:7 *hagritterne*; 1CH 5:10 *hagritterne*
+  - answers: hagritterne
+  - DFB Ps 83:7 hagritter.
+  - agent:1ch005, 2026-10-31
+- **`name:gershom_levi`** גֵּרְשֹׁם (Levis søn) → **Gershom** [high, decided, attested]
+  - gloss: גֵּרְשֹׁם: גֵּרְשֹׁ֕ם (1CH 6:1) — English (generated): Gershom
+  - NT: 1CH 6:1 *Gershom*
+  - answers: Gershom
+  - 1 Chr 6 spells Gershom; 5:27 Gershon (DFB Num 3:17). Each place as written.
+  - agent:1ch006, 2026-10-31
+- **`name:selofkad`** צְלָפְחָד → **Selofkad** [high, decided, attested]
+  - gloss: צְלׇפְחָד: צְלָפְחָ֑ד (1CH 7:15) — English (generated): Zelophehad
+  - NT: JOS 17:3 *Selofkad*
+  - answers: Selofkad
+  - DFB Num 27; project Jos 17:3.
+  - agent:1ch007, 2026-10-31
+- **`name:bet_shan`** בֵּית שְׁאָן → **Bet-Shan** [high, decided, attested]
+  - gloss: בֵּית שְׁאָן: בֵּית (1CH 7:29) — English (generated): Beth shean
+  - NT: JOS 17:11 *Bet-Shan*
+  - answers: Bet-Shan
+  - Project Jos 17:11.
+  - agent:1ch007, 2026-10-31
+- **`name:eshbaal`** אֶשְׁבַּעַל → **Eshba'al** [high, decided, attested]
+  - gloss: אֶשְׁבַּעַל: אֶשְׁבָּֽעַל (1CH 8:33) — English (generated): and Esh baal
+  - NT: 1CH 8:33 *Eshba'al*
+  - answers: Eshba'al
+  - Chronicles' form; 2 Sam Ishboshet in a {T:}.
+  - agent:1ch008, 2026-10-31
+- **`name:meribbaal`** מְרִיב בַּעַל → **Merib-Ba'al** [high, decided, attested]
+  - gloss: מְרִיב בַּעַל: מְרִ֣יב (1CH 8:34) — English (generated): Merib baal
+  - NT: 1CH 8:34 *Merib-Ba'al*
+  - answers: Merib-Ba'al
+  - Chronicles' form; 2 Sam Mefiboshet in a {T:}.
+  - agent:1ch008, 2026-10-31
+- **`name:jashobam`** יָשָׁבְעָם → **Jashobam** [high, decided, attested]
+  - gloss: יָשׇׁבְעָם: יָשָׁבְעָ֣ם (1CH 11:11) — English (generated): Jashobeam
+  - NT: 1CH 11:11 *Jashobam*
+  - answers: Jashobam
+  - Chronicles' name for 2 Sam 23:8 Josheb-Basshebet.
+  - agent:1ch011, 2026-10-31
+- **`name:jebus`** יְבוּס → **Jebus** [high, decided, attested]
+  - gloss: יְבוּס: יְב֑וּס (1CH 11:4) — English (generated): Jebus
+  - NT: 1CH 11:4 *Jebus*
+  - answers: Jebus
+  - Old name of Jerusalem.
+  - agent:1ch011, 2026-10-31
+- **`name:jeremias_any`** יִרְמְיָה(וּ) → **Jeremias** [high, decided, attested]
+  - gloss: יִרְמְיָה: יִרְמְיָ֤ה (1CH 12:5)
+  - NT: NEH 10:3 *Jeremias*; 2KI 23:31 *Jeremias*; 1CH 12:5 *Jeremias*
+  - answers: Jeremias
+  - Every bearer of the name, as Neh 10:3; 12:1; 2 Kgs 23:31.
+  - agent:1ch012, 2026-10-31
+- **`name:shihor_misrayim`** שִׁיחוֹר מִצְרַיִם → **Egyptens Shihor** [high, decided, attested]
+  - gloss: שִׁיחוֹר: שִׁיח֥וֹר (1CH 13:5) — English (generated): the Shihor
+  - NT: 1CH 13:5 *Egyptens Shihor*
+  - answers: Egyptens Shihor
+  - Border of the land; Lebo-Hamat the other end.
+  - agent:1ch013, 2026-10-31
+- **`name:perez_uzza`** פֶּרֶץ עֻזָּא → **Perez-Uzza** [high, decided, attested]
+  - gloss: פֶּרֶץ עֻזָּא: עֻזָּ֔א (1CH 13:11) — English (generated): against Uzzah
+  - NT: 2SA 6:8 *Perez-Uzza*; 1CH 13:11 *Perez-Uzza*
+  - answers: Perez-Uzza
+  - As the project's 2 Sam 6:8.
+  - agent:1ch013, 2026-10-31
+- **`name:hiram_huram`** חוּרָם (Tyrus' konge) → **Hiram** [high, decided, attested]
+  - gloss: חִירָם: חוּרָ֨ם (1CH 14:1) — English (generated): Now Hiram
+  - NT: 2SA 5:11 *Hiram*; 1CH 14:1 *Hiram*
+  - answers: Hiram
+  - Chronicles spells Huram; same king as 2 Sam 5:11 Hiram; one person, one form.
+  - agent:1ch014, 2026-10-31
+- **`name:baal_perasim`** בַּעַל פְּרָצִים → **Ba'al-Perasim** [high, decided, attested]
+  - gloss: בַּעַל פְּרָצִים: בַֽעַל (1CH 14:11) — English (generated): to Baal perazim
+  - NT: 2SA 5:20 *Ba'al-Perasim*; 1CH 14:11 *Ba'al-Perasim*
+  - answers: Ba'al-Perasim
+  - As 2 Sam 5:20.
+  - agent:1ch014, 2026-10-31
+- **`name:egypten_land_chr`** מִצְרַיִם (landet) → **Egypten** [high, decided, attested]
+  - gloss: מִצְרַיִם: מִּצְרַ֖יִם (1CH 17:21) — English (generated): from Egypt
+  - NT: 1CH 13:5 *Egypten*; 1CH 17:21 *Egypten*
+  - answers: Egypten
+  - The country; Misrajim only for Ham's son (1 Chr 1:8, Gen 10:6).
+  - agent:1ch017, 2026-10-31
+- **`name:hadad_ezer_chr`** הֲדַדְעֶזֶר → **Hadad-Ezer** [high, decided, attested]
+  - gloss: הֲדַדְעֶזֶר: הֲדַדְעֶ֥זֶר (1CH 18:3) — English (generated): Hadadezer
+  - NT: 2SA 8:3 *Hadad-Ezer*; 1CH 18:3 *Hadad-Ezer*
+  - answers: Hadad-Ezer
+  - As 2 Sam 8:3.
+  - agent:1ch018, 2026-10-31
+- **`name:shofak`** שׁוֹפַךְ → **Shofak** [high, decided, attested]
+  - gloss: שׁוֹפָךְ: שׁוֹפַ֛ךְ (1CH 19:16) — English (generated): with Shophach
+  - NT: 1CH 19:16 *Shofak*; 1CH 19:18 *Shofak*
+  - answers: Shofak
+  - Chronicles' spelling; 2 Sam 10:16 Shobak.
+  - agent:1ch019, 2026-10-31
+- **`name:aram_naharayim_chr`** אֲרַם נַהֲרַיִם → **Aram-Naharajim** [high, decided, attested]
+  - gloss: אֲרַם נַהֲרַיִם: אֲרַ֨ם (1CH 19:6) — English (generated): Aram naharaim
+  - NT: 1CH 19:6 *Aram-Naharajim*
+  - answers: Aram-Naharajim
+  - Mesopotamia.
+  - agent:1ch019, 2026-10-31
+- **`name:rabba_chr`** רַבָּה → **Rabba** [high, decided, attested]
+  - gloss: רַבָּה: רַבָּ֔ה (1CH 20:1) — English (generated): to Rabbah
+  - NT: 1CH 20:1 *Rabba*
+  - answers: Rabba
+  - Ammonite capital.
+  - agent:1ch020, 2026-10-31
+- **`name:ornan`** אָרְנָן → **Ornan** [high, decided, attested]
+  - gloss: אׇרְנָן: אָרְנָ֥ן (1CH 21:15) — English (generated): of Ornan
+  - NT: 1CH 21:15 *Ornan*; 1CH 21:18 *Ornan*
+  - answers: Ornan
+  - Chronicles' form of 2 Sam 24 Aravna; kept with a {T:}.
+  - agent:1ch021, 2026-10-31
+- **`name:satan_chr`** שָׂטָן (uden artikel) → **Satan** [high, decided, attested]
+  - gloss: שָׂטָן: שָׂטָ֖ן (1CH 21:1) — English (generated): Then Satan
+  - NT: 1CH 21:1 *Satan*
+  - answers: Satan
+  - Without article; {T:} 'en modstander'. Open for the user.
+  - agent:1ch021, 2026-10-31
+- **`name:hiram_abi`** חוּרָם אָבִי → **Hiram-Abi** [high, decided, attested]
+  - gloss: חוּרָם: חוּרָ֥ם (2CH 2:12) — English (generated): Huram abi
+  - NT: 2CH 2:12 *Hiram-Abi*
+  - answers: Hiram-Abi
+  - The craftsman (1 Kgs 7:13 Hiram); Huram -> Hiram as for the king.
+  - agent:2ch002, 2026-10-31
+- **`name:morijabjerget`** הַר הַמּוֹרִיָּה → **Morijabjerget** [high, decided, attested]
+  - gloss: מֹרִיָּה: מּ֣וֹרִיָּ֔ה (2CH 3:1) — English (generated): Moriah
+  - NT: 2CH 3:1 *Morijabjerget*
+  - answers: Morijabjerget
+  - As project Gen 22.
+  - agent:2ch003, 2026-10-31
+- **`name:esjongeber`** עֶצְיוֹן־גֶּבֶר → **Esjongeber** [high, decided, attested]
+  - gloss: עֶצְיוֹן גֶּבֶר: עֶצְיֽוֹן (2CH 8:17) — English (generated): to Ezion geber
+  - NT: 2CH 8:17 *Esjongeber*
+  - answers: Esjongeber
+  - DFB 1 Kgs 9:26.
+  - agent:2ch008, 2026-10-31
+- **`name:akija_shilo_chr`** אֲחִיָּה הַשִּׁילוֹנִי → **Akijas** [high, decided, attested]
+  - gloss: אֲחִיָּה: אֲחִיָּ֣ה (2CH 9:29) — English (generated): of Ahijah
+  - NT: 2CH 9:29 *Akijas*
+  - answers: Akijas
+  - The prophet; project 1 Kgs 'shilonitten Akija'.
+  - agent:2ch009, 2026-10-31
+- **`name:jedo`** יֶעְדּוֹ → **Jedos** [high, decided, attested]
+  - gloss: יֶעְדּוֹ: יֶעְדּ֣וֹ (2CH 9:29) — English (generated): of Iddo
+  - NT: 2CH 9:29 *Jedos*
+  - answers: Jedos
+  - The seer (Chronicles also Iddo, 12:15; 13:22).
+  - agent:2ch009, 2026-10-31
+- **`name:hadoram_chr`** הֲדֹרָם → **Hadoram** [high, decided, attested]
+  - gloss: הֲדֹורָם: הֲדֹרָם֙ (2CH 10:18) — English (generated): Hadoram
+  - NT: 2CH 10:18 *Hadoram*
+  - answers: Hadoram
+  - 1 Kgs 12:18 Adoram; kept with {T:}.
+  - agent:2ch010, 2026-10-31
+- **`name:shemaja_ish_haelohim`** שְׁמַעְיָהוּ אִישׁ הָאֱלֹהִים → **Shemaja** [high, decided, attested]
+  - gloss: שְׁמַעְיָהוּ: שְׁמַֽעְיָ֥הוּ (2CH 11:2) — English (generated): Shemaiah
+  - NT: 2CH 11:2 *Shemaja*
+  - answers: Shemaja
+  - As project 1 Kgs 12:22.
+  - agent:2ch011, 2026-10-31
+- **`name:shishak`** שִׁישַׁק → **Shishak** [high, decided, attested]
+  - gloss: שִׁישַׁק: שִׁישַׁ֥ק (2CH 12:2) — English (generated): Shishak
+  - NT: 2CH 12:2 *Shishak*
+  - answers: Shishak
+  - As project 1 Kgs 14:25.
+  - agent:2ch012, 2026-10-31
+- **`name:mikaja_uriel`** מִיכָיָהוּ → **Mikaja** [high, decided, attested]
+  - gloss: מִיכָיָהוּ: מִיכָיָ֥הוּ (2CH 13:2) — English (generated): was Micaiah
+  - NT: 2CH 13:2 *Mikaja*
+  - answers: Mikaja
+  - Abijah's mother in Chronicles; 1 Kgs 15:2 Maacah. Kept with {T:}.
+  - agent:2ch013, 2026-10-31
+- **`name:zera_kushi`** זֶרַח הַכּוּשִׁי → **Zera** [high, decided, attested]
+  - gloss: זֶרַח: זֶ֣רַח (2CH 14:8) — English (generated): Then Zerah
+  - NT: 2CH 14:8 *Zera*
+  - answers: Zera
+  - Kushitten Zera.
+  - agent:2ch014, 2026-10-31
+- **`name:azarja_oded`** עֲזַרְיָהוּ בֶּן עוֹדֵד → **Azarja** [high, decided, attested]
+  - gloss: עֲזַרְיָהוּ: עֲזַרְיָ֨הוּ֙ (2CH 15:1) — English (generated): Azariah
+  - NT: 2CH 15:1 *Azarja*
+  - answers: Azarja
+  - Prophet, son of Oded.
+  - agent:2ch015, 2026-10-31
+- **`name:hanani_seer`** חֲנָנִי הָרֹאֶה → **Hanani** [high, decided, attested]
+  - gloss: חֲנָנִי: חֲנָ֣נִי (2CH 16:7) — English (generated): Hanani
+  - NT: 2CH 16:7 *Hanani*
+  - answers: Hanani
+  - The seer, father of Jehu.
+  - agent:2ch016, 2026-10-31
+- **`name:abel_majim`** אָבֵל מַיִם → **Abel-Majim** [high, decided, attested]
+  - gloss: אַבֵל מַיִם: אָבֵ֣ל (2CH 16:4) — English (generated): Abel maim
+  - NT: 2CH 16:4 *Abel-Majim*
+  - answers: Abel-Majim
+  - 1 Kgs 15:20 Abel-Beth-Maacah; {T:}.
+  - agent:2ch016, 2026-10-31
+- **`name:josafat_king`** יְהוֹשָׁפָט → **Josafat** [high, decided, attested]
+  - gloss: יְהוֹשָׁפָט: יְהוֹשָׁפָ֥ט (2CH 17:1) — English (generated): Jehoshaphat
+  - NT: 2CH 17:1 *Josafat*
+  - answers: Josafat
+  - King of Judah, as project 1 Kgs 22.
+  - agent:2ch017, 2026-10-31
+- **`name:mika_jimla`** מִיכָיְהוּ בֶן יִמְלָא → **Mika** [high, decided, attested]
+  - gloss: מִיכָיְהוּ: מִיכָ֣יְהוּ (2CH 18:7) — English (generated): is Micaiah
+  - NT: 2CH 18:7 *Mika*
+  - answers: Mika
+  - Micaiah son of Imlah; as project 1 Kgs 22.
+  - agent:2ch018, 2026-10-31
+- **`name:jehu_hanani`** יֵהוּא בֶן חֲנָנִי → **Jehu** [high, decided, attested]
+  - gloss: יֵהוּא: יֵה֣וּא (2CH 19:2) — English (generated): Jehu
+  - NT: 2CH 19:2 *Jehu*
+  - answers: Jehu
+  - The seer, son of Hanani (1 Kgs 16).
+  - agent:2ch019, 2026-10-31
+- **`name:berakadalen`** עֵמֶק בְּרָכָה → **Berakadalen** [high, decided, attested]
+  - gloss: בְּרָכָה: בְּרָכָ֔ה (2CH 20:26) — English (generated): of Beracah
+  - NT: 2CH 20:26 *Berakadalen*
+  - answers: Berakadalen
+  - Valley of Beracah; {T:} 'velsignelse'.
+  - agent:2ch020, 2026-10-31
+- **`name:jahaziel_levite`** יַחֲזִיאֵל → **Jahaziel** [high, decided, attested]
+  - gloss: יַחֲזִיאֵל: יַחֲזִיאֵ֡ל (2CH 20:14) — English (generated): Jahaziel
+  - NT: 2CH 20:14 *Jahaziel*
+  - answers: Jahaziel
+  - Levite of Asaph's line.
+  - agent:2ch020, 2026-10-31
+- **`name:hasason_tamar`** חַצְצוֹן תָּמָר → **Hasason-Tamar** [high, decided, attested]
+  - gloss: חַצֲצֹן תָּמָר: חַֽצְצ֣וֹן (2CH 20:2) — English (generated): in Hazazon tamar
+  - NT: 2CH 20:2 *Hasason-Tamar*
+  - answers: Hasason-Tamar
+  - = En-Gedi.
+  - agent:2ch020, 2026-10-31
+- **`name:joram_judah`** יְהוֹרָם → **Joram** [high, decided, attested]
+  - gloss: יְהוֹרָם: יְהוֹרָ֥ם (2CH 21:1) — English (generated): Jehoram
+  - NT: 2CH 21:1 *Joram*
+  - answers: Joram
+  - King of Judah, as project 2 Kgs 8:16.
+  - agent:2ch021, 2026-10-31
+- **`name:joahaz_ahazja`** יְהוֹאָחָז → **Joahaz** [high, decided, attested]
+  - gloss: יְהוֹאָחָז: יְהוֹאָחָ֖ז (2CH 21:17) — English (generated): Jehoahaz
+  - NT: 2CH 21:17 *Joahaz*
+  - answers: Joahaz
+  - = Ahazja (22:1); kept.
+  - agent:2ch021, 2026-10-31
+- **`name:joshabat`** יְהוֹשַׁבְעַת → **Joshab'at** [high, decided, attested]
+  - gloss: יְהוֹשַׁבְעַת: יְהוֹשַׁבְעַ֨ת (2CH 22:11) — English (generated): But Jehoshabeath
+  - NT: 2CH 22:11 *Joshab'at*
+  - answers: Joshab'at
+  - 2 Kgs 11:2 Josheba; Chronicler's form kept with {T:}.
+  - agent:2ch022, 2026-10-31
+- **`name:atalja`** עֲתַלְיָהוּ → **Atalja** [high, decided, attested]
+  - gloss: עֲתַלְיָהוּ: עֲתַלְיָ֖הוּ (2CH 22:2) — English (generated): was Athaliah
+  - NT: 2CH 22:2 *Atalja*
+  - answers: Atalja
+  - As project 2 Kgs 8:26; 11.
+  - agent:2ch022, 2026-10-31
+- **`name:jesod_porten`** שַׁעַר הַיְסוֹד → **Jesod-porten** [high, decided, attested]
+  - gloss: יְסוֹד: יְס֑וֹד (2CH 23:5) — English (generated): at the Foundation
+  - NT: 2CH 23:5 *Jesod-porten*
+  - answers: Jesod-porten
+  - 2 Kgs 11:6 Sur-porten; {T:}.
+  - agent:2ch023, 2026-10-31
+- **`name:mattan_baal`** מַתָּן → **Mattan** [high, decided, attested]
+  - gloss: מַתָּן: מַתָּן֙ (2CH 23:17) — English (generated): Mattan
+  - NT: 2CH 23:17 *Mattan*
+  - answers: Mattan
+  - Priest of Baal; as 2 Kgs 11:18.
+  - agent:2ch023, 2026-10-31
+- **`name:zakarja_jojada`** זְכַרְיָה בֶּן יְהוֹיָדָע → **Zakarja** [high, decided, attested]
+  - gloss: זְכַרְיָה: זְכַרְיָה֙ (2CH 24:20) — English (generated): Zechariah
+  - NT: 2CH 24:20 *Zakarja*
+  - answers: Zakarja
+  - Priest, son of Jehoiada; stoned.
+  - agent:2ch024, 2026-10-31
+- **`name:joaddan`** יְהוֹעַדָּן → **Joaddan** [high, decided, attested]
+  - gloss: יְהוֹעַדָּן: יְהוֹעַדָּ֖ן (2CH 25:1) — English (generated): was Jehoaddan
+  - NT: 2CH 25:1 *Joaddan*
+  - answers: Joaddan
+  - Amaziah's mother; as 2 Kgs 14:2.
+  - agent:2ch025, 2026-10-31
+- **`name:uzzija`** עֻזִּיָּהוּ → **Uzzija** [high, decided, attested]
+  - gloss: עֻזִּיָּהוּ: עֻזִּיָּ֔הוּ (2CH 26:1) — English (generated): Uzziah
+  - NT: 2CH 26:1 *Uzzija*
+  - answers: Uzzija
+  - King of Judah; 2 Kgs Azarja ({T:}); DFB Isa 1:1 Uzzija.
+  - agent:2ch026, 2026-10-31
+- **`name:esajas`** יְשַׁעְיָהוּ בֶן אָמוֹץ → **Esajas** [high, decided, attested]
+  - gloss: יְשַׁעְיָהוּ: יְשַֽׁעְיָ֥הוּ (2CH 26:22) — English (generated): Isaiah
+  - NT: 2CH 26:22 *Esajas*
+  - answers: Esajas
+  - The prophet, as DFB Isa 1:1 (Esajas, Amos' søn); other bearers Jesaja.
+  - agent:2ch026, 2026-10-31
+- **`name:jerusha`** יְרוּשָׁה → **Jerusha** [high, decided, attested]
+  - gloss: יְרוּשָׁא: יְרוּשָׁ֖ה (2CH 27:1) — English (generated): was Jerushah
+  - NT: 2CH 27:1 *Jerusha*
+  - answers: Jerusha
+  - Jotham's mother; as 2 Kgs 15:33.
+  - agent:2ch027, 2026-10-31
+- **`name:oded_prophet_samaria`** עֹדֵד → **Oded** [high, decided, attested]
+  - gloss: עֹדֵד: עֹדֵ֣ד (2CH 28:9) — English (generated): Oded
+  - NT: 2CH 28:9 *Oded*
+  - answers: Oded
+  - Prophet in Samaria.
+  - agent:2ch028, 2026-10-31
+- **`name:palmebyen`** עִיר הַתְּמָרִים → **Palmebyen** [high, decided, attested]
+  - gloss: תָּמָר: תְּמָרִ֖ים (2CH 28:15) — English (generated): of Palms
+  - NT: 2CH 28:15 *Palmebyen*
+  - answers: Palmebyen
+  - = Jericho.
+  - agent:2ch028, 2026-10-31
+- **`name:abija_hezekiah_mother`** אֲבִיָּה בַּת זְכַרְיָהוּ → **Abija** [high, decided, attested]
+  - gloss: אֲבִיָּה: אֲבִיָּ֖ה (2CH 29:1) — English (generated): was Abijah
+  - NT: 2CH 29:1 *Abija*
+  - answers: Abija
+  - Hezekiah's mother; 2 Kgs 18:2 Abi; {T:}.
+  - agent:2ch029, 2026-10-31
+- **`name:konanja`** כָּנַנְיָהוּ → **Konanja** [high, decided, attested]
+  - gloss: כָּנַנְיָהוּ: כָּֽנַנְיָ֣הוּ (2CH 31:12) — English (generated): Conaniah
+  - NT: 2CH 31:12 *Konanja*; 2CH 31:13 *Konanja*
+  - answers: Konanja
+  - Levite in charge of the contributions.
+  - agent:2ch031, 2026-10-31
+- **`name:gihon_upper_outlet`** גִּיחוֹן → **Gihon** [high, decided, attested]
+  - gloss: גִּיחוֹן: גִיחוֹן֙ (2CH 32:30) — English (generated): of Gihon
+  - NT: 2CH 32:30 *Gihon*
+  - answers: Gihon
+  - Spring; Gihons øvre udløb.
+  - agent:2ch032, 2026-10-31
+- **`name:hozai`** חוֹזָי → **Hozaj** [high, decided, attested]
+  - gloss: חֹזֶה: חוֹזָֽי (2CH 33:19) — English (generated): of the Seers
+  - NT: 2CH 33:19 *Hozaj*
+  - answers: Hozaj
+  - Hebrew reads a name; BSB 'the seers'; open question.
+  - agent:2ch033, 2026-10-31
+- **`name:abdon_son_of_micah`** עַבְדּוֹן בֶּן מִיכָה → **Abdon, Mikas søn** [high, decided, attested]
+  - gloss: עַבְדּוֹן: עַבְדּ֨וֹן (2CH 34:20) — English (generated): Abdon
+  - NT: 2CH 34:20 *Abdon, Mikas søn*
+  - answers: Abdon, Mikas søn
+  - 2 Kgs 22:12 Akbor, Mikajas søn; {T:}.
+  - agent:2ch034, 2026-10-31
+- **`name:huldah`** חֻלְדָּה הַנְּבִיאָה → **profetinden Hulda** [high, decided, attested]
+  - gloss: חֻלְדָּה: חֻלְדָּ֨ה (2CH 34:22) — English (generated): Huldah
+  - NT: 2CH 34:22 *profetinden Hulda*
+  - answers: profetinden Hulda
+  - As 2 Kgs 22:14.
+  - agent:2ch034, 2026-10-31
+- **`name:karkemish`** כַּרְכְּמִישׁ → **Karkemish** [high, decided, attested]
+  - gloss: כַּרְכְּמִישׁ: כַרְכְּמִ֖ישׁ (2CH 35:20) — English (generated): at Carchemish
+  - NT: 2CH 35:20 *Karkemish*
+  - answers: Karkemish
+  - As DFB Jer 46:2.
+  - agent:2ch035, 2026-10-31
 - **`letter:shin`** **šin → sh** [high, observed]
   - NT: GEN 20:1 *Kadesh*; GEN 30:13 *Asher*; GEN 35:26 *Asher*
   - Bashan, Shilo, Shittim, Kadesh, Asher; men husformer går forud (Sinear, Sikem).
@@ -1785,4 +2249,4 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
 - **`letter:known_forms`** **indarbejdede danske former bruges uændret: Jerusalem, Betlehem, Jordan, Libanon, Egypten, Gilead, Efraim, Manasse, Juda, Ruben, Gad, Zebulon, Issakar, Asher, Naftali, Dan, Benjamin, Simeon, Levi** [high, decided]
   - NT: DAN 1:1 *Jerusalem*; DAN 5:2 *Jerusalem*
   - agent:memory-setup, 2026-10-14
-<!-- store:end sha=b5e6a211 -->
+<!-- store:end sha=ab300ed7 -->

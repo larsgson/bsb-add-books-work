@@ -509,6 +509,80 @@ Bogspecifikke stilark ligger i bogmapperne (fx `jos/jos_style_guide.md`). Denne 
 | מַלְאָכִי / מַלְאַךְ הַבְּרִית | min budbringer; pagtens budbringer (DFB's NT-citat: »engel«) | Mal 3 |
 | סְגֻלָּה | ejendomsfolk (DFB 1 Pet 2,9) | Mal 3 |
 | אֵלִיָּה הַנָּבִיא | profeten Elias | Mal 3 |
+| (bogtitel) | Første Krønikebog / Anden Krønikebog (ikke afgjort) | 1 Krøn 1 |
+| בְּנֵי X (slægtslister) | X's sønner var: A, B og C | 1 Krøn 1 |
+| יָלַד (slægtslister) | X fik Y (DFB 1 Mos 10) | 1 Krøn 1 |
+| וַיָּמָת … וַיִּמְלֹךְ תַּחְתָּיו | Da X døde, blev Y konge efter ham | 1 Krøn 1 |
+| אַלּוּף | stammehøvding | 1 Krøn 1 |
+| הוֹלִיד (slægtslister) | X fik Y, og Y fik Z (DFB Rut 4) | 1 Krøn 2 |
+| נְשִׂיא בְּנֵי יְהוּדָה | fyrsten for Judas efterkommere | 1 Krøn 2 |
+| בְּנֵי דָוִיד … הַבְּכוֹר X לַ־Y | den førstefødte X, af Y | 1 Krøn 3 |
+| וְאֶת־מִגְרָשֶׁיהָ (bylister) | med tilhørende marker, én gang pr. vers | 1 Krøn 6,42-66 |
+| עִיר מִקְלָט | tilflugtsbyen | 1 Krøn 6,42 |
+| מְשׁוֹרֵר | sanger | 1 Krøn 6,18 |
+| צְלָפְחָד | Selofkad | 1 Krøn 7,15 |
+| גְּדוּדֵי צְבָא מִלְחָמָה | hærafdelinger til krig | 1 Krøn 7,4 |
+| אֶשְׁבַּעַל | Eshba'al ({T:} Ishboshet) | 1 Krøn 8,33 |
+| מְרִיב בַּעַל | Merib-Ba'al ({T:} Mefiboshet) | 1 Krøn 8,34 |
+| לֶחֶם הַמַּעֲרֶכֶת | skuebrødene | 1 Krøn 9,32 |
+| אֱמוּנָה (om embede) | tillidshverv | 1 Krøn 9,22 |
+| מְלוּכָה | kongemagten | 1 Krøn 10,14 |
+| שָׁאַל בָּאוֹב | søge råd hos en dødemaner | 1 Krøn 10,13 |
+| רֹאשׁ הַשְּׁלוֹשִׁים | lederen af de tredive | 1 Krøn 11,11 |
+| מִשְׁמַעַת | livvagt | 1 Krøn 11,25 |
+| גְּדוּד | strejfskare | 1 Krøn 12,19.22 |
+| יִרְמְיָה (alle bærere) | Jeremias | 1 Krøn 12,5 |
+| קְהַל יִשְׂרָאֵל | Israels forsamling | 1 Krøn 13,2 |
+| פֶּרֶץ עֻזָּא | Perez-Uzza | 1 Krøn 13,11 |
+| חוּרָם/חִירָם (Tyrus) | Hiram | 1 Krøn 14,1 |
+| שָׁאַל בֵּאלֹהִים | spurgte Gud til råds | 1 Krøn 14,10 |
+| הִתְקַדֵּשׁ | hellige sig | 1 Krøn 15,12.14 |
+| מַשָּׂא (levitterne) | bæringen ({T:} sangen) | 1 Krøn 15,22 |
+| כִּי לְעוֹלָם חַסְדּוֹ | for hans nåde varer til evig tid | 1 Krøn 16,34.41 |
+| בָּמָה (Gibeon) | offerhøjen | 1 Krøn 16,39 |
+| יְהוָה אֱלֹהִים (tiltale) | HERRE Gud | 1 Krøn 17,16-17 |
+| מִצְרַיִם (landet) | Egypten | 1 Krøn 13,5; 17,21 |
+| מַזְכִּיר | kansler | 1 Krøn 18,15 |
+| הַכְּרֵתִי וְהַפְּלֵתִי | kreterne og pleterne | 1 Krøn 18,17 |
+| שָׂטָן (1 Krøn 21,1) | Satan ({T:} en modstander) | 1 Krøn 21,1 |
+| אָרְנָן | Ornan | 1 Krøn 21,15 |
+| חֲזַק וֶאֱמָץ | Vær stærk og modig | 1 Krøn 22,13 |
+| אַבְנֵי גָזִית | kvadersten | 1 Krøn 22,2 |
+| מַחְלְקוֹת | skifter | 1 Krøn 23,6 |
+| שֹׁטְרִים | tilsynsmænd | 1 Krøn 23,4 |
+| עַל־יְדֵי (musik) | under ledelse af | 1 Krøn 25,2 |
+| כִּנֹּרוֹת נְבָלִים מְצִלְתָּיִם | citre, harper og cymbler | 1 Krøn 25,1 |
+| גִּבּוֹרֵי חַיִל (1 Krøn 26) | dygtige krigere | 1 Krøn 26,6 |
+| בֵּית הָאֲסֻפִּים | forrådshuset | 1 Krøn 26,15 |
+| שָׂרֵי הָרְכוּשׁ | forvaltere (af ejendommen) | 1 Krøn 27,31 |
+| רֵעַ הַמֶּלֶךְ | kongens ven | 1 Krøn 27,33 |
+| לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ | Han svigter dig ikke og forlader dig ikke | 1 Krøn 28,20 |
+| תַּבְנִית | tegningen | 1 Krøn 28,11 |
+| כַּפֹּרֶת | sonedækket | 1 Krøn 28,11 |
+| הִתְנַדֵּב | give villigt | 1 Krøn 29,9 |
+| בִּירָה (templet) | borgen | 1 Krøn 29,1 |
+| גֵּרִים וְתוֹשָׁבִים | fremmede og tilflyttere | 1 Krøn 29,15 |
+| חָכְמָה וּמַדָּע | visdom og kundskab | 2 Krøn 1,10 |
+| חוּרָם (konge af Tyrus) | Hiram | 2 Krøn 2,2 |
+| אַרְגָּמָן / כַּרְמִיל / תְּכֵלֶת | rødt purpur / karmin / blåt purpur | 2 Krøn 2,6 |
+| קֹדֶשׁ הַקֳּדָשִׁים | det Allerhelligste | 2 Krøn 3,8 |
+| פָּרֹכֶת | forhænget | 2 Krøn 3,14 |
+| הַיָּם מוּצָק | Havet som var støbt | 2 Krøn 4,2 |
+| זָהָב סָגוּר | ægte guld | 2 Krøn 4,20 |
+| בַּדִּים | bærestængerne | 2 Krøn 5,9 |
+| תְּחִנָּה | bønfaldelse | 2 Krøn 6,19 |
+| תִּשְׁמַע מִן־הַשָּׁמַיִם | hør fra himlen | 2 Krøn 6,21 |
+| עֲצֶרֶת | festforsamling | 2 Krøn 7,9 |
+| עֻזִּיָּהוּ | Uzzija (2 Kong Azarja) | 2 Krøn 26 |
+| יְשַׁעְיָהוּ בֶן אָמוֹץ | profeten Esajas, Amos' søn (som DFB Es 1,1) | 2 Krøn 26 |
+| תּוֹדוֹת | lovprisningsofre (*šᵊlāmîm* = takofre) | 2 Krøn 29,31 |
+| פְּקִידִים / מֻפְקָדִים | tilsynsførende (*šōṭᵊrîm* = tilsynsmænd) | 2 Krøn 31,13 |
+| רָצִים | ilbud | 2 Krøn 30,6 |
+| זְרוֹעַ בָּשָׂר | en arm af kød | 2 Krøn 32,8 |
+| סֶמֶל | gudebillede | 2 Krøn 33,7 |
+| נִתַּךְ (vrede) | udøst | 2 Krøn 34,21 |
+| פְּסָחִים | påskeofre (ental: påskelammet) | 2 Krøn 35,7 |
+| חֲסָדִים (gerninger) | fromme gerninger | 2 Krøn 32,32 |
 
 ## Projektregler (bindende, 22.10.2026)
 

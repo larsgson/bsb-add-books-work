@@ -195,3 +195,68 @@ title: Log
 - 2026-10-29 agent:sng006: Højsangen 6 oversat (12 vers, hebraisk nummerering); store: »frygtindgydende som hære under bannere«.
 - 2026-10-29 agent:sng007: Højsangen 7 oversat (hebraisk 7,1 = BSB 6,13); store: Shulamit, Bat-Rabbim.
 - 2026-10-29 agent:sng008: Højsangen 8 oversat; bogen og visdomsløbet færdigt; store: »Sæt mig som et segl«, Baal-Hamon.
+- 2026-10-31 agent:1ch001: Første Krønikebog 1 oversat (navnelisten Adam–Edom; DFB 1 Mos 5, 10, 11 og projektets 1 Mos 25, 36 som paralleller); store: Difat, Aljan, Hamran, Ja'akan, Pa'i, Homam, listeformen »X's sønner var«.
+- 2026-10-31 agent:1ch002: Første Krønikebog 2 oversat (Judas slægt; DFB Rut 4 og projektets 1 Mos 38, Jos 7, 1-2 Sam som paralleller); store: Akar, Nakshon, Boaz, Jeter, Kelubaj.
+- 2026-10-31 agent:1ch003: Første Krønikebog 3 oversat (Davids sønner og kongeslægten; projektets 2 Sam 3 og 5 som paralleller); store: Abija, Jekonja, Daniel (Davids søn).
+- 2026-10-31 agent:1ch004: Første Krønikebog 4 oversat (Judas slægter, Jabes' bøn, Simeon; Jos 19 som parallel); store: Jabes, Nemuel, Otniel.
+- 2026-10-31 agent:1ch005: Første Krønikebog 5 oversat (Ruben, Gad, Manasse, ypperstepræsterne; hebraisk 5,27-41 = BSB 6,1-15); store: Enok (Rubens søn), hagritterne, »ført ind i slægtsregistret«.
+- 2026-10-31 agent:1ch006: Første Krønikebog 6 oversat (levitterne, sangerne, levitbyerne; hebraisk 6,1-66 = BSB 6,16-81; Jos 21 som parallel); store: »med tilhørende marker«, Gershom.
+- 2026-10-31 agent:1ch007: Første Krønikebog 7 oversat (Issakar, Benjamin, Naftali, Manasse, Efraim, Asher); store: Selofkad, Bet-Shan.
+- 2026-10-31 agent:1ch008: Første Krønikebog 8 oversat (Benjamin, Sauls slægt); store: Eshba'al, Merib-Ba'al.
+- 2026-10-31 agent:1ch009: Første Krønikebog 9 oversat (indbyggerne i Jerusalem, dørvogterne, Sauls slægt; Neh 11 som parallel); store: tempeltjenerne, skuebrødene.
+- 2026-10-31 agent:1ch010: Første Krønikebog 10 oversat (Sauls død; 1 Sam 31 som parallel, afvigelser vist); store: afguder, kongemagten.
+- 2026-10-31 agent:1ch011: Første Krønikebog 11 oversat (David konge, Jerusalem, Davids helte; 2 Sam 5 og 23 som paralleller); store: Jashobam, Jebus.
+- 2026-10-31 agent:1ch012: Første Krønikebog 12 oversat (Davids tilhængere i Siklag og Hebron; hebraisk 12,4-41 = BSB 12,4-40); store: Jeremias, strejfskare.
+- 2026-10-31 agent:1ch013: Første Krønikebog 13 oversat (arken fra Kirjat-Jearim, Uzza; 2 Sam 6,1-11 som parallel); store: Egyptens Shihor, Perez-Uzza.
+- 2026-10-31 agent:1ch014: Første Krønikebog 14 oversat (Hiram, Davids sønner, sejre over filistrene; 2 Sam 5,11-25 som parallel); store: Hiram, Ba'al-Perasim.
+- 2026-10-31 agent:1ch015: Første Krønikebog 15 oversat (levitterne bærer arken til Jerusalem; 2 Sam 6,12-16 som parallel); store: hellige sig, alamot/sheminit.
+- 2026-10-31 agent:1ch016: Første Krønikebog 16 oversat (arken i teltet, Davids lovsang efter DFB Sl 105, 96, 106; 2 Sam 6,17-20); store: nåde-omkvædet, HERRENS pagts ark.
+- 2026-10-31 agent:1ch017: Første Krønikebog 17 oversat (Natans profeti og Davids bøn; 2 Sam 7 som parallel); store: Egypten (landet), trofasthed.
+- 2026-10-31 agent:1ch018: Første Krønikebog 18 oversat (Davids sejre og embedsmænd; 2 Sam 8 som parallel); store: Hadad-Ezer, kreterne og pleterne.
+- 2026-10-31 agent:1ch019: Første Krønikebog 19 oversat (krigen mod ammonitterne og aramæerne; 2 Sam 10 som parallel); store: Shofak, Aram-Naharajim.
+- 2026-10-31 agent:1ch020: Første Krønikebog 20 oversat (Rabba, kampene mod Rafas efterkommere; 2 Sam 21,18-22 som parallel); store: Rabba, Rafas efterkommere.
+- 2026-10-31 agent:1ch021: Første Krønikebog 21 oversat (folketællingen, pesten, Ornans tærskeplads; 2 Sam 24 som parallel); store: Ornan, Satan.
+- 2026-10-31 agent:1ch022: Første Krønikebog 22 oversat (David forbereder templet og giver Salomo opdraget); store: Vær stærk og modig, kvadersten.
+- 2026-10-31 agent:1ch023: Første Krønikebog 23 oversat (levitternes skifter og tjeneste); store: skifter, højtidsformlen.
+- 2026-10-31 agent:1ch024: Første Krønikebog 24 oversat (præsternes 24 skifter, de øvrige levitter); store: lodformlen, tjenesteorden.
+- 2026-10-31 agent:1ch025: Første Krønikebog 25 oversat (sangernes 24 skifter); store: under ledelse af, profeterede.
+- 2026-10-31 agent:1ch026: Første Krønikebog 26 oversat (dørvogterne, skatkamrene, embederne); store: dygtige krigere, forrådshuset.
+- 2026-10-31 agent:1ch027: Første Krønikebog 27 oversat (hærens skifter, stammelederne, kongens forvaltere); store: skifteformlen, forvaltere.
+- 2026-10-31 agent:1ch028: Første Krønikebog 28 oversat (Davids tale, tegningen til templet); store: Jos 1,5-formlen, tegningen, sonedækket.
+- 2026-10-31 agent:1ch029: Første Krønikebog 29 oversat (gaverne, Davids lovprisning, Salomo konge, Davids død; DFB 1 Kong 2,10-12); bogen færdig.
+- 2026-10-31 agent:2ch001: Anden Krønikebog 1 oversat (Gibeon, bønnen om visdom, Salomos rigdom; DFB 1 Kong 3; 10,26-29).
+- 2026-10-31 agent:2ch002: Anden Krønikebog 2 oversat (brevet til Hiram, svaret, arbejdsstyrken); store: Hiram-Abi, farverne.
+- 2026-10-31 agent:2ch003: Anden Krønikebog 3 oversat (templets bygning, keruberne, søjlerne; DFB 1 Kong 6-7).
+- 2026-10-31 agent:2ch004: Anden Krønikebog 4 oversat (templets inventar; DFB 1 Kong 7,23-50).
+- 2026-10-31 agent:2ch005: Anden Krønikebog 5 oversat (arken føres ind; DFB 1 Kong 7,51-8,11).
+- 2026-10-31 agent:2ch006: Anden Krønikebog 6 oversat (Salomos tale og bøn; DFB 1 Kong 8,12-53; Sl 132,8-10).
+- 2026-10-31 agent:2ch007: Anden Krønikebog 7 oversat (ild fra himlen, festen, HERRENS svar; DFB 1 Kong 8,62-9,9).
+- 2026-10-31 agent:2ch008: Anden Krønikebog 8 oversat (Salomos byggerier og flåde; DFB 1 Kong 9,10-28).
+- 2026-10-31 agent:2ch009: Anden Krønikebog 9 oversat (dronningen af Saba, Salomos rigdom og død; DFB 1 Kong 10; 11,41-43).
+- 2026-10-31 agent:2ch010: Anden Krønikebog 10 oversat (rigets deling; projektets 1 Kong 12,1-19).
+- 2026-10-31 agent:2ch011: Anden Krønikebog 11 oversat (Shemaja, befæstningerne, præsterne og levitterne, Rehabeams familie).
+- 2026-10-31 agent:2ch012: Anden Krønikebog 12 oversat (Shishaks felttog, Rehabeams død; projektets 1 Kong 14,21-31).
+- 2026-10-31 agent:2ch013: Anden Krønikebog 13 oversat (Abijas tale og sejr; projektets 1 Kong 15,1-8).
+- 2026-10-31 agent:2ch014: Anden Krønikebog 14 oversat (Asas første år, sejren over Zera).
+- 2026-10-31 agent:2ch015: Anden Krønikebog 15 oversat (Azarjas profeti, pagten, Ma'aka; projektets 1 Kong 15,13-15).
+- 2026-10-31 agent:2ch016: Anden Krønikebog 16 oversat (Asa og Basha, seeren Hanani, Asas død; projektets 1 Kong 15,16-24).
+- 2026-10-31 agent:2ch017: Anden Krønikebog 17 oversat (Josafats styre, undervisningen i loven, hæren).
+- 2026-10-31 agent:2ch018: Anden Krønikebog 18 oversat (Mika og Akab; projektets 1 Kong 22,1-35).
+- 2026-10-31 agent:2ch019: Anden Krønikebog 19 oversat (seeren Jehu, Josafats dommere).
+- 2026-10-31 agent:2ch020: Anden Krønikebog 20 oversat (sejren i Berakadalen, Josafats sidste år; projektets 1 Kong 22,41-50).
+- 2026-10-31 agent:2ch021: Anden Krønikebog 21 oversat (Joram, Elias' brev; projektets 2 Kong 8,16-24).
+- 2026-10-31 agent:2ch022: Anden Krønikebog 22 oversat (Ahazja, Atalja; projektets 2 Kong 8,25-29; 11,1-3).
+- 2026-10-31 agent:2ch023: Anden Krønikebog 23 oversat (Joash gøres til konge, Ataljas død; projektets 2 Kong 11,4-20).
+- 2026-10-31 agent:2ch024: Anden Krønikebog 24 oversat (Joash, Zakarjas stening; projektets 2 Kong 12).
+- 2026-10-31 agent:2ch025: Anden Krønikebog 25 oversat (Amazja; projektets 2 Kong 14,1-20).
+- 2026-10-31 agent:2ch026: Anden Krønikebog 26 oversat (Uzzija; projektets 2 Kong 14,21-22; 15,2-7).
+- 2026-10-31 agent:2ch027: Anden Krønikebog 27 oversat (Jotam; projektets 2 Kong 15,32-38).
+- 2026-10-31 agent:2ch028: Anden Krønikebog 28 oversat (Akaz, profeten Oded; projektets 2 Kong 16).
+- 2026-10-31 agent:2ch029: Anden Krønikebog 29 oversat (Hizkija renser HERRENS hus).
+- 2026-10-31 agent:2ch030: Anden Krønikebog 30 oversat (Hizkijas påske).
+- 2026-10-31 agent:2ch031: Anden Krønikebog 31 oversat (gaverne til præster og levitter).
+- 2026-10-31 agent:2ch032: Anden Krønikebog 32 oversat (Sankerib; projektets 2 Kong 18-20).
+- 2026-10-31 agent:2ch033: Anden Krønikebog 33 oversat (Manasse, Amon; projektets 2 Kong 21).
+- 2026-10-31 agent:2ch034: Anden Krønikebog 34 oversat (Josija, lovbogen, Hulda; projektets 2 Kong 22-23).
+- 2026-10-31 agent:2ch035: Anden Krønikebog 35 oversat (Josijas påske og død; projektets 2 Kong 23).
+- 2026-10-31 agent:2ch036: Anden Krønikebog 36 oversat (de sidste konger, Kyros' påbud; projektets 2 Kong 23-25 og Ezra 1). Bogen færdig.

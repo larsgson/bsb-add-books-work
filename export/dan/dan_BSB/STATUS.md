@@ -1,6 +1,6 @@
 # Status: Danish (dansk)
 
-269 chapters: **269 draft**, 0 in review, 0 published.
+334 chapters: **334 draft**, 0 in review, 0 published.
 
 > **Udkast.** Oversat med AI-agenter direkte fra hebraisk og græsk, med Berean Standard Bible (BSB) som eneste hjælpeoversættelse; endnu ikke gennemset eller godkendt af et sprogteam. Ikke til brug som udgivet bibeltekst. Fri af ophavsret (CC0).
 
@@ -13,6 +13,8 @@
 | 2 Samuel (`2sa`) | 22 | draft: 1–10, 13–24 | den-frie-bibel (public-domain) has chapters 11–12: ours continue it |
 | 1 Kings (`1ki`) | 11 | draft: 12–22 | den-frie-bibel (public-domain) has chapters 1–11: ours continue it |
 | 2 Kings (`2ki`) | 24 | draft: 1–4, 6–25 | den-frie-bibel (public-domain) has chapters 5: ours continue it |
+| 1 Chronicles (`1ch`) | 29 | draft: 1–29 | — |
+| 2 Chronicles (`2ch`) | 36 | draft: 1–36 | — |
 | Ezra (`ezr`) | 10 | draft: 1–10 | — |
 | Nehemiah (`neh`) | 13 | draft: 1–13 | — |
 | Esther (`est`) | 10 | draft: 1–10 | — |

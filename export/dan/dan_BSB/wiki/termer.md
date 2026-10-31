@@ -2079,4 +2079,292 @@ Daniel-stilarkene og de ensretninger review-oversigterne har gennemført.
   - answers: min, ven
   - The bride of the groom, beside dodi 'min elskede'; re'im (5:1) = venner.
   - agent:sng005, 2026-10-29
-<!-- store:end sha=a0ab8275 -->
+- **`term:hityahes`** הִתְיַחֵשׂ → **ført ind i slægtsregistret** [high, decided, attested]
+  - gloss: יָחַשׂ: הִתְיַחֵ֖שׂ (1CH 5:7) — English (generated): are recorded
+  - NT: 1CH 5:7 *ført ind i slægtsregistret*; 1CH 5:17 *ført ind i slægtsregistret*
+  - answers: slægtsregistret
+  - Hithpael 'be enrolled by genealogy'; 4:33 'førte slægtsregister'.
+  - agent:1ch005, 2026-10-31
+- **`term:netinim_chr`** נְתִינִים → **tempeltjenerne** [high, decided, attested]
+  - gloss: נָתִין: נְּתִינִֽים (1CH 9:2) — English (generated): and temple servants
+  - NT: NEH 11:3 *tempeltjenerne*; 1CH 9:2 *tempeltjenerne*
+  - answers: tempeltjenerne
+  - As Ezra/Nehemiah.
+  - agent:1ch009, 2026-10-31
+- **`term:lehem_maareket`** לֶחֶם הַמַּעֲרֶכֶת → **skuebrødene** [high, decided, attested]
+  - gloss: מַעֲרֶכֶת: מַּעֲרָ֑כֶת (1CH 9:32) — English (generated): the rows
+  - NT: 1CH 9:32 *skuebrødene*
+  - answers: skuebrødene
+  - DFB's term for the bread of the Presence.
+  - agent:1ch009, 2026-10-31
+- **`term:atsabbim_chr`** עֲצַבִּים → **afguder** [high, decided, attested]
+  - gloss: עָצָב: עֲצַבֵּי (1CH 10:9) — English (generated): of their idols
+  - NT: 1CH 10:9 *afguder*
+  - answers: afguder
+  - Idols; 1 Sam 31:9 'afgudshuse' (bêt ʕăṣabbêhem).
+  - agent:1ch010, 2026-10-31
+- **`term:meluka_chr`** מְלוּכָה → **kongemagten** [high, decided, attested]
+  - gloss: מְלוּכָה: מְּלוּכָ֔ה (1CH 10:14) — English (generated): and turned the kingdom
+  - NT: 1CH 10:14 *kongemagten*
+  - answers: kongemagten
+  - The kingship passed to David.
+  - agent:1ch010, 2026-10-31
+- **`term:gedud_chr`** גְּדוּד → **strejfskare** [high, decided, attested]
+  - gloss: גְּדוּד: גְּד֔וּד (1CH 12:22) — English (generated): the raiders
+  - NT: 1CH 12:19 *strejfskare*; 1CH 12:22 *strejfskare*
+  - answers: strejfskare
+  - Raiding band.
+  - agent:1ch012, 2026-10-31
+- **`term:hitqaddesh_chr`** הִתְקַדֵּשׁ → **helligede** [high, decided, attested]
+  - gloss: קָדַשׁ: יִּֽתְקַדְּשׁ֔וּ (1CH 15:14) — English (generated): consecrated themselves
+  - NT: 1CH 15:14 *helligede*
+  - answers: hellige sig
+  - Hitpael qdš: "hellige sig" (v. 12 imperative "Hellig jer").
+  - agent:1ch015, 2026-10-31
+- **`term:alamot_sheminit`** עַל־עֲלָמוֹת → **efter alamot** [high, decided, attested]
+  - gloss: עַלְמָה: עֲלָמֽוֹת (1CH 15:20) — English (generated): Alamoth
+  - NT: 1CH 15:20 *efter alamot*
+  - answers: efter alamot
+  - Musical term as DFB Ps 46:1; 'efter sheminit' 15:21 (Ps 6:1).
+  - agent:1ch015, 2026-10-31
+- **`term:ark_berit_chr`** אֲרוֹן בְּרִית יְהוָה → **HERRENS pagts ark** [high, decided, attested]
+  - gloss: אֲרוֹן: אֲר֣וֹן (1CH 16:37) — English (generated): the ark
+  - NT: 1CH 15:25 *HERRENS pagts ark*; 1CH 16:37 *HERRENS pagts ark*
+  - answers: HERRENS pagts ark
+  - Project form (13x before).
+  - agent:1ch016, 2026-10-31
+- **`term:hesed_trofasthed_chr`** חֶסֶד (Guds løfte til David) → **trofasthed** [high, decided, attested]
+  - gloss: חֶסֶד: חַסְדִּ (1CH 17:13) — English (generated): My loving devotion
+  - NT: 2SA 7:15 *trofasthed*; 1CH 17:13 *trofasthed*
+  - answers: trofasthed
+  - As 2 Sam 7:15; in the liturgical refrain 'nåde' (16:34).
+  - agent:1ch017, 2026-10-31
+- **`term:kreti_pleti_chr`** הַכְּרֵתִי וְהַפְּלֵתִי → **kreterne og pleterne** [high, decided, attested]
+  - gloss: כְּרֵתִי: כְּרֵתִ֖י (1CH 18:17) — English (generated): the Cherethites
+  - NT: 2SA 8:18 *kreterne og pleterne*; 1CH 18:17 *kreterne og pleterne*
+  - answers: kreterne og pleterne
+  - As 2 Sam 8:18.
+  - agent:1ch018, 2026-10-31
+- **`term:rafa_descendants`** יְלִדֵי הָרָפָא / יִלִּדֵי הָרְפָאִים → **Rafas efterkommere** [high, decided, attested]
+  - gloss: רְפָאִים: רְפָאִ֖ים (1CH 20:4) — English (generated): of the Rephaim
+  - NT: 2SA 21:18 *Rafas efterkommere*; 1CH 20:4 *Rafas efterkommere*
+  - answers: Rafas efterkommere
+  - As 2 Sam 21:18.
+  - agent:1ch020, 2026-10-31
+- **`term:avne_gazit`** אַבְנֵי גָזִית → **kvadersten** [high, decided, attested]
+  - gloss: גָּזִית: גָזִ֔ית (1CH 22:2) — English (generated): finished
+  - NT: 1CH 22:2 *kvadersten*
+  - answers: kvadersten
+  - Dressed stone.
+  - agent:1ch022, 2026-10-31
+- **`term:mahleqot`** מַחְלְקוֹת → **skifter** [high, decided, attested]
+  - gloss: מַחֲלֹקֶת: מַחְלְק֑וֹת (1CH 23:6) — English (generated): into divisions
+  - NT: 1CH 23:6 *skifter*
+  - answers: skifter
+  - The divisions of priests and Levites (1 Chr 23-27).
+  - agent:1ch023, 2026-10-31
+- **`term:pequdda_chr`** פְּקֻדָּה → **tjenesteorden** [high, decided, attested]
+  - gloss: פְּקֻדָּה: פְקֻדָּתָ֖ (1CH 24:3) — English (generated): according to the offices
+  - NT: 1CH 24:3 *tjenesteorden*; 1CH 24:19 *tjenesteorden*
+  - answers: tjenesteorden
+  - Order of service; 23:11 'tjenestegruppe'.
+  - agent:1ch024, 2026-10-31
+- **`term:nibba_music`** הַנִּבְּאִים בְּכִנֹּרוֹת → **profeterede** [high, decided, attested]
+  - gloss: נָבָא: נִּבְּאִ֛ים (1CH 25:1) — English (generated): to prophesy
+  - NT: 1CH 25:1 *profeterede*; 1CH 25:2 *profeterede*
+  - answers: profeterede
+  - Prophesying with instruments kept literal.
+  - agent:1ch025, 2026-10-31
+- **`term:gibbore_hayil_chr`** גִּבּוֹרֵי חַיִל → **dygtige krigere** [high, decided, attested]
+  - gloss: חַיִל: חַ֖יִל (1CH 26:6) — English (generated): capable men
+  - NT: 1CH 26:6 *dygtige krigere*; 1CH 26:31 *dygtige krigere*
+  - answers: dygtige krigere
+  - 1 Chr 26; 'bᵊnê/ʔîš ḥayil' = 'dygtige mænd'.
+  - agent:1ch026, 2026-10-31
+- **`term:bet_haasuppim`** בֵּית הָאֲסֻפִּים → **forrådshuset** [high, decided, attested]
+  - gloss: אָסֹף: אֲסֻפִּֽים (1CH 26:15)
+  - NT: 1CH 26:15 *forrådshuset*; 1CH 26:17 *forrådshuset*
+  - answers: forrådshuset
+  - Storehouse at the south gate.
+  - agent:1ch026, 2026-10-31
+- **`term:sare_harekush`** שָׂרֵי הָרְכוּשׁ → **forvaltere** [high, decided, attested]
+  - gloss: רְכוּשׁ: רְכ֔וּשׁ (1CH 27:31) — English (generated): property
+  - NT: 1CH 27:31 *forvaltere*
+  - answers: forvaltere
+  - Stewards of the king's property.
+  - agent:1ch027, 2026-10-31
+- **`term:tabnit`** תַּבְנִית → **tegningen** [high, decided, attested]
+  - gloss: תַּבְנִית: תַּבְנִ֣ית (1CH 28:11) — English (generated): the plans
+  - NT: 1CH 28:11 *tegningen*; 1CH 28:19 *tegningen*
+  - answers: tegningen
+  - The temple plan (1 Chr 28:11-19).
+  - agent:1ch028, 2026-10-31
+- **`term:kapporet_chr`** הַכַּפֹּרֶת → **sonedækkets** [high, decided, attested]
+  - gloss: כַּפֹּרֶת: כַּפֹּֽרֶת (1CH 28:11) — English (generated): for the mercy seat
+  - NT: 1CH 28:11 *sonedækkets*
+  - answers: sonedækkets
+  - DFB Exod 25 'sonedækket'.
+  - agent:1ch028, 2026-10-31
+- **`term:hitnaddev`** הִתְנַדֵּב → **villigt** [high, decided, attested]
+  - gloss: נָדַב: הִֽתְנַדְּבָ֔ (1CH 29:9) — English (generated): the willing response of their leaders
+  - NT: 1CH 29:9 *villigt*; 1CH 29:17 *villigt*
+  - answers: villigt
+  - Freewill giving: 'give villigt'.
+  - agent:1ch029, 2026-10-31
+- **`term:bira`** הַבִּירָה → **borgen** [high, decided, attested]
+  - gloss: בִּירָה: בִּירָ֔ה (1CH 29:1) — English (generated): this palace
+  - NT: 1CH 29:1 *borgen*
+  - answers: borgen
+  - The temple called 'the citadel' (1 Chr 29:1, 19).
+  - agent:1ch029, 2026-10-31
+- **`term:hokhma_madda`** חָכְמָה וּמַדָּע → **visdom og kundskab** [high, decided, attested]
+  - gloss: מַדָּע: מַדָּע֙ (2CH 1:10) — English (generated): and knowledge
+  - NT: 2CH 1:10 *visdom og kundskab*; 2CH 1:11 *visdom og kundskab*
+  - answers: visdom og kundskab
+  - Chronicles' pair (1 Kgs 3: 'et lydigt sind').
+  - agent:2ch001, 2026-10-31
+- **`term:argaman_karmil_tekhelet`** אַרְגָּמָן כַּרְמִיל תְּכֵלֶת → **karmin** [high, decided, attested]
+  - gloss: כַּרְמִיל: כַרְמִ֣יל (2CH 2:6) — English (generated): crimson
+  - NT: 2CH 2:6 *karmin*; 2CH 2:13 *karmin*
+  - answers: karmin
+  - rødt purpur, karmin, blåt purpur.
+  - agent:2ch002, 2026-10-31
+- **`term:qodesh_haqodashim_chr`** קֹדֶשׁ הַקֳּדָשִׁים → **Allerhelligste** [high, decided, attested]
+  - gloss: קֹדֶשׁ: קֹ֣דֶשׁ (2CH 3:8) — English (generated): the Most Holy
+  - NT: 2CH 3:8 *Allerhelligste*; 2CH 3:10 *Allerhelligste*
+  - answers: Allerhelligste
+  - DFB 1 Kgs 6 'det Allerhelligste'.
+  - agent:2ch003, 2026-10-31
+- **`term:hayyam_mutsaq`** הַיָּם מוּצָק → **Havet** [high, decided, attested]
+  - gloss: יָם: יָּ֖ם (2CH 4:2) — English (generated): the Sea
+  - NT: 2CH 4:2 *Havet*; 2CH 4:15 *Havet*
+  - answers: Havet
+  - The cast sea, DFB 1 Kgs 7:23 'Havet som var støbt'.
+  - agent:2ch004, 2026-10-31
+- **`term:hassirot`** הַסִּירוֹת → **askespandene** [high, decided, attested]
+  - gloss: סִיר: סִּיר֔וֹת (2CH 4:11) — English (generated): the pots
+  - NT: 2CH 4:11 *askespandene*
+  - answers: askespandene
+  - DFB 1 Kgs 7:40.45.
+  - agent:2ch004, 2026-10-31
+- **`term:baddim`** הַבַּדִּים → **Bærestængerne** [high, decided, attested]
+  - gloss: בַּד: בַּדִּים֒ (2CH 5:9) — English (generated): The poles
+  - NT: 2CH 5:9 *Bærestængerne*
+  - answers: Bærestængerne
+  - DFB 1 Kgs 8:8.
+  - agent:2ch005, 2026-10-31
+- **`term:qodshe_david`** קָדְשֵׁי דָּוִיד → **helliggaver** [high, decided, attested]
+  - gloss: קֹדֶשׁ: קָדְשֵׁ֣י (2CH 5:1) — English (generated): had dedicated
+  - NT: 2CH 5:1 *helliggaver*
+  - answers: helliggaver
+  - DFB 1 Kgs 7:51.
+  - agent:2ch005, 2026-10-31
+- **`term:tehinna`** תְּחִנָּה → **bønfaldelse** [high, decided, attested]
+  - gloss: תְּחִנָּה: תְּחִנָּת֖ (2CH 6:19) — English (generated): plea
+  - NT: 2CH 6:19 *bønfaldelse*; 2CH 6:29 *bønfaldelse*
+  - answers: bønfaldelse
+  - DFB 1 Kgs 8: 'bøn og bønfaldelse'.
+  - agent:2ch006, 2026-10-31
+- **`term:atseret_chr`** עֲצֶרֶת → **festforsamling** [high, decided, attested]
+  - gloss: עֲצֶרֶת: עֲצָ֑רֶת (2CH 7:9) — English (generated): a solemn assembly
+  - NT: 2CH 7:9 *festforsamling*
+  - answers: festforsamling
+  - Solemn assembly on the eighth day.
+  - agent:2ch007, 2026-10-31
+- **`term:seirim`** שְׂעִירִים → **bukkedæmonerne** [high, decided, attested]
+  - gloss: שָׂעִיר: שְּׂעִירִ֑ים (2CH 11:15) — English (generated): and for the goat demons
+  - NT: 2CH 11:15 *bukkedæmonerne*
+  - answers: bukkedæmonerne
+  - Goat demons (Lev 17:7).
+  - agent:2ch011, 2026-10-31
+- **`term:nikna`** נִכְנַע → **ydmygede** [high, decided, attested]
+  - gloss: כָּנַע: יִּכָּנְע֥וּ (2CH 12:6) — English (generated): humbled themselves
+  - NT: 2CH 12:6 *ydmygede*
+  - answers: ydmygede
+  - 'ydmyge sig' throughout Chronicles.
+  - agent:2ch012, 2026-10-31
+- **`term:berit_melah`** בְּרִית מֶלַח → **saltpagt** [high, decided, attested]
+  - gloss: מֶלַח: מֶֽלַח (2CH 13:5) — English (generated): of salt
+  - NT: 2CH 13:5 *saltpagt*
+  - answers: saltpagt
+  - Covenant of salt.
+  - agent:2ch013, 2026-10-31
+- **`term:hammanim`** חַמָּנִים → **røgelsesaltrene** [high, decided, attested]
+  - gloss: חַמָּן: חַמָּנִ֑ים (2CH 14:4) — English (generated): and incense altars
+  - NT: 2CH 14:4 *røgelsesaltrene*
+  - answers: røgelsesaltrene
+  - Incense altars.
+  - agent:2ch014, 2026-10-31
+- **`term:shiqqusim`** שִׁקּוּצִים → **afskyelige** [high, decided, attested]
+  - gloss: שִׁקּוּץ: שִּׁקּוּצִים֙ (2CH 15:8) — English (generated): the detestable idols
+  - NT: 2CH 15:8 *afskyelige*
+  - answers: afskyelige
+  - 'de afskyelige afguder'.
+  - agent:2ch015, 2026-10-31
+- **`term:netsivim`** נְצִיבִים → **fogeder** [high, decided, attested]
+  - gloss: נְצִיב: נְצִיבִים֙ (2CH 17:2) — English (generated): garrisons
+  - NT: 2CH 17:2 *fogeder*
+  - answers: fogeder
+  - Garrisons/governors; as 1 Chr 18:13.
+  - agent:2ch017, 2026-10-31
+- **`term:qetsef`** קֶצֶף → **vrede** [high, decided, attested]
+  - gloss: קֶצֶף: קֶּ֔צֶף (2CH 19:2) — English (generated): the wrath
+  - NT: 2CH 19:2 *vrede*
+  - answers: vrede
+  - Wrath (divine).
+  - agent:2ch019, 2026-10-31
+- **`term:masat_moshe`** מַשְׂאַת מֹשֶׁה → **afgift** [high, decided, attested]
+  - gloss: מַשְׂאֵת: מַשְׂאַת֙ (2CH 24:6) — English (generated): the tax imposed
+  - NT: 2CH 24:6 *afgift*
+  - answers: afgift
+  - The tax Moses imposed.
+  - agent:2ch024, 2026-10-31
+- **`term:hekal`** הֵיכַל יְהוָה → **tempel** [high, decided, attested]
+  - gloss: הֵיכָל: הֵיכַ֣ל (2CH 26:16) — English (generated): the temple
+  - NT: 2CH 26:16 *tempel*
+  - answers: tempel
+  - hêkal 'tempel', kept apart from bayit 'hus'.
+  - agent:2ch026, 2026-10-31
+- **`term:todot`** תּוֹדוֹת → **lovprisningsofre** [high, decided, attested]
+  - gloss: תּוֹדָה: תוֹד֖וֹת (2CH 29:31) — English (generated): and thank offerings
+  - NT: 2CH 29:31 *lovprisningsofre*
+  - answers: lovprisningsofre
+  - Thank offerings; style guide (Amos 4); shelamim = takofre.
+  - agent:2ch029, 2026-10-31
+- **`term:rasim_couriers`** הָרָצִים → **ilbudene** [high, decided, attested]
+  - gloss: רוּץ: רָצִ֨ים (2CH 30:6) — English (generated): the couriers
+  - NT: 2CH 30:6 *ilbudene*; 2CH 30:10 *ilbudene*
+  - answers: ilbudene
+  - Couriers with letters (2 Chr 30:6,10).
+  - agent:2ch030, 2026-10-31
+- **`term:pequdim_overseers`** פְּקִידִים → **tilsynsførende** [high, decided, attested]
+  - gloss: פָּקִיד: פְּקִידִ֗ים (2CH 31:13) — English (generated): overseers
+  - NT: 2CH 31:13 *tilsynsførende*
+  - answers: tilsynsførende
+  - Distinct from shoterim (tilsynsmænd).
+  - agent:2ch031, 2026-10-31
+- **`term:zeroa_basar`** זְרוֹעַ בָּשָׂר → **en arm af kød** [high, decided, attested]
+  - gloss: זְרוֹעַ: זְר֣וֹעַ (2CH 32:8) — English (generated): the arm
+  - NT: 2CH 32:8 *en arm af kød*
+  - answers: en arm af kød
+  - Human strength vs the LORD.
+  - agent:2ch032, 2026-10-31
+- **`term:semel`** סֶמֶל → **gudebillede** [high, decided, attested]
+  - gloss: סֶמֶל: סֶּ֖מֶל (2CH 33:7) — English (generated): image
+  - NT: 2CH 33:7 *gudebillede*; 2CH 33:15 *gudebillede*
+  - answers: gudebillede
+  - Manasseh's image (33:7, 15).
+  - agent:2ch033, 2026-10-31
+- **`term:pesahim_offerings`** פְּסָחִים → **påskeofre** [high, decided, attested]
+  - gloss: פֶּסַח: פְּסָחִים֒ (2CH 35:7) — English (generated): for the Passover offerings
+  - NT: 2CH 35:7 *påskeofre*; 2CH 35:8 *påskeofre*; 2CH 35:9 *påskeofre*
+  - answers: påskeofre
+  - Plural: Passover animals given (35:7-9); singular = påskelammet.
+  - agent:2ch035, 2026-10-31
+- **`term:haskem_shaloah`** הַשְׁכֵּם וְשָׁלוֹחַ → **igen og igen** [high, decided, attested]
+  - gloss: שָׁכַם: הַשְׁכֵּ֣ם (2CH 36:15) — English (generated): Again and again
+  - NT: 2CH 36:15 *igen og igen*
+  - answers: igen og igen
+  - Sending persistently.
+  - agent:2ch036, 2026-10-31
+<!-- store:end sha=c7b58b01 -->

@@ -29171,6 +29171,4398 @@
    "by": "agent:sng008",
    "date": "2026-10-29",
    "status": "decided"
+  },
+  {
+   "id": "name:diphath",
+   "kind": "name",
+   "source": "דִּיפַת",
+   "value": "Difat",
+   "words": [
+    "Difat"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 1:6",
+     "form": "Difat"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דִיפַ֖ת",
+     "lemma": "דִּיפַת",
+     "ref": "1CH 1:6"
+    }
+   ],
+   "note": "Chronicles' form; Gen 10:3 Rifat (DFB).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:alian",
+   "kind": "name",
+   "source": "עַלְיָן",
+   "value": "Aljan",
+   "words": [
+    "Aljan"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 1:40",
+     "form": "Aljan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַלְיָ֧ן",
+     "lemma": "עַלְיָן",
+     "ref": "1CH 1:40"
+    }
+   ],
+   "note": "Gen 36:23 Alvan.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hamran",
+   "kind": "name",
+   "source": "חַמְרָן",
+   "value": "Hamran",
+   "words": [
+    "Hamran"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 1:41",
+     "form": "Hamran"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַמְרָ֥ן",
+     "lemma": "חַמְרָן",
+     "ref": "1CH 1:41"
+    }
+   ],
+   "note": "Gen 36:26 Hemdan.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jaakan",
+   "kind": "name",
+   "source": "יַעֲקָן",
+   "value": "Ja'akan",
+   "words": [
+    "Ja'akan"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 1:42",
+     "form": "Ja'akan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַעֲקָ֑ן",
+     "lemma": "יַעֲקָן",
+     "ref": "1CH 1:42"
+    }
+   ],
+   "note": "Gen 36:27 Akan.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:pai",
+   "kind": "name",
+   "source": "פָּעִי",
+   "value": "Pa'i",
+   "words": [
+    "Pa'i"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 1:50",
+     "form": "Pa'i"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פָּ֑עִי",
+     "lemma": "פָּעִי",
+     "ref": "1CH 1:50"
+    }
+   ],
+   "note": "Gen 36:39 Pa'u.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:homam",
+   "kind": "name",
+   "source": "הוֹמָם",
+   "value": "Homam",
+   "words": [
+    "Homam"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 1:39",
+     "form": "Homam"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הוֹמָ֑ם",
+     "lemma": "הוֹמָם",
+     "ref": "1CH 1:39"
+    }
+   ],
+   "note": "Gen 36:22 Hemam.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:chr_list_sons",
+   "kind": "formula",
+   "source": "בְּנֵי X …",
+   "value": "sønner var",
+   "words": [
+    "sønner var"
+   ],
+   "evidence": [
+    {
+     "ref": "GEN 10:2",
+     "form": "sønner var"
+    },
+    {
+     "ref": "1CH 1:5",
+     "form": "sønner var"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בְּנֵ֣י",
+     "lemma": "בֵּן",
+     "ref": "1CH 1:5"
+    }
+   ],
+   "note": "Genealogy lists in Chronicles: 'X's sønner var: A, B og C.' as DFB Gen 10:2.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:achar",
+   "kind": "name",
+   "source": "עָכָר",
+   "value": "Akar",
+   "words": [
+    "Akar"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 2:7",
+     "form": "Akar"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עָכָר֙",
+     "lemma": "עָכָר",
+     "ref": "1CH 2:7"
+    }
+   ],
+   "note": "Chronicles' form of Achan (Jos 7 Akan), wordplay with ʕōkēr.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch002",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:nahshon",
+   "kind": "name",
+   "source": "נַחְשׁוֹן",
+   "value": "Nakshon",
+   "words": [
+    "Nakshon"
+   ],
+   "evidence": [
+    {
+     "ref": "RUT 4:20",
+     "form": "Nakshon"
+    },
+    {
+     "ref": "1CH 2:10",
+     "form": "Nakshon"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נַחְשׁ֔וֹן",
+     "lemma": "נַחְשׁוֹן",
+     "ref": "1CH 2:10"
+    }
+   ],
+   "note": "DFB Num, Ruth 4:20.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch002",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:boaz",
+   "kind": "name",
+   "source": "בֹּעַז",
+   "value": "Boaz",
+   "words": [
+    "Boaz"
+   ],
+   "evidence": [
+    {
+     "ref": "RUT 4:21",
+     "form": "Boaz"
+    },
+    {
+     "ref": "1CH 2:11",
+     "form": "Boaz"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בֹּֽעַז",
+     "lemma": "בֹּעַז",
+     "ref": "1CH 2:11"
+    }
+   ],
+   "note": "DFB Ruth.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch002",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jether_amasa",
+   "kind": "name",
+   "source": "יֶתֶר",
+   "value": "Jeter",
+   "words": [
+    "Jeter"
+   ],
+   "evidence": [
+    {
+     "ref": "1KI 2:5",
+     "form": "Jeter"
+    },
+    {
+     "ref": "1CH 2:17",
+     "form": "Jeter"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֶ֖תֶר",
+     "lemma": "יֶתֶר",
+     "ref": "1CH 2:17"
+    }
+   ],
+   "note": "Amasa's father, DFB 1 Kgs 2:5; 2 Sam 17:25 Jitra.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch002",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:kelubai",
+   "kind": "name",
+   "source": "כְּלוּבָי",
+   "value": "Kelubaj",
+   "words": [
+    "Kelubaj"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 2:9",
+     "form": "Kelubaj"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כְּלוּבָֽי",
+     "lemma": "כְּלוּבָי",
+     "ref": "1CH 2:9"
+    }
+   ],
+   "note": "= Caleb (v. 18).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch002",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:abijah_king",
+   "kind": "name",
+   "source": "אֲבִיָּה",
+   "value": "Abija",
+   "words": [
+    "Abija"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 3:10",
+     "form": "Abija"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲבִיָּ֥ה",
+     "lemma": "אֲבִיָּה",
+     "ref": "1CH 3:10"
+    }
+   ],
+   "note": "King of Judah in Chronicles (1 Kgs 15 Abijam).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch003",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jeconiah",
+   "kind": "name",
+   "source": "יְכָנְיָה",
+   "value": "Jekonja",
+   "words": [
+    "Jekonja"
+   ],
+   "evidence": [
+    {
+     "ref": "JER 24:1",
+     "form": "Jekonja"
+    },
+    {
+     "ref": "1CH 3:16",
+     "form": "Jekonja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְכָנְיָ֥ה",
+     "lemma": "יְכָנְיָה",
+     "ref": "1CH 3:16"
+    }
+   ],
+   "note": "DFB Jer 24:1; = Jojakin.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch003",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:daniel_david",
+   "kind": "name",
+   "source": "דָּנִיֵּאל",
+   "value": "Daniel",
+   "words": [
+    "Daniel"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 3:1",
+     "form": "Daniel"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "דָּנִיֵּ֔אל",
+     "lemma": "דָּנִיֵּאל",
+     "ref": "1CH 3:1"
+    }
+   ],
+   "note": "David's son (2 Sam 3:3 Kilab).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch003",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jabez",
+   "kind": "name",
+   "source": "יַעְבֵּץ",
+   "value": "Jabes",
+   "words": [
+    "Jabes"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 4:9",
+     "form": "Jabes"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַעְבֵּ֔ץ",
+     "lemma": "יַעְבֵּץ",
+     "ref": "1CH 4:9"
+    }
+   ],
+   "note": "Person (4:9-10) and town (2:55); not Jabesh (יָבֵשׁ).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch004",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:nemuel_simeon",
+   "kind": "name",
+   "source": "נְמוּאֵל",
+   "value": "Nemuel",
+   "words": [
+    "Nemuel"
+   ],
+   "evidence": [
+    {
+     "ref": "NUM 26:12",
+     "form": "Nemuel"
+    },
+    {
+     "ref": "1CH 4:24",
+     "form": "Nemuel"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְמוּאֵ֣ל",
+     "lemma": "נְמוּאֵל",
+     "ref": "1CH 4:24"
+    }
+   ],
+   "note": "Simeon's son, DFB Num 26:12 (Gen 46:10 Jemuel).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch004",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:otniel",
+   "kind": "name",
+   "source": "עָתְנִיאֵל",
+   "value": "Otniel",
+   "words": [
+    "Otniel"
+   ],
+   "evidence": [
+    {
+     "ref": "JDG 1:13",
+     "form": "Otniel"
+    },
+    {
+     "ref": "1CH 4:13",
+     "form": "Otniel"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עָתְנִיאֵ֖ל",
+     "lemma": "עׇתְנִיאֵל",
+     "ref": "1CH 4:13"
+    }
+   ],
+   "note": "DFB Judg 1:13.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch004",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hanoch_reuben",
+   "kind": "name",
+   "source": "חֲנוֹךְ (Rubens søn)",
+   "value": "Enok",
+   "words": [
+    "Enok"
+   ],
+   "evidence": [
+    {
+     "ref": "NUM 26:5",
+     "form": "Enok"
+    },
+    {
+     "ref": "1CH 5:3",
+     "form": "Enok"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲנ֥וֹךְ",
+     "lemma": "חֲנוֹךְ",
+     "ref": "1CH 5:3"
+    }
+   ],
+   "note": "Reuben's son as DFB Num 26:5; the project's Gen 46:9 has Hanok (open question). Midian's son stays Hanok (Gen 25:4, 1 Chr 1:33).",
+   "attested": "attested",
+   "confidence": "medium",
+   "method": "project-decision",
+   "by": "agent:1ch005",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hagrites",
+   "kind": "name",
+   "source": "הַגְרִאִים",
+   "value": "hagritterne",
+   "words": [
+    "hagritterne"
+   ],
+   "evidence": [
+    {
+     "ref": "PSA 83:7",
+     "form": "hagritterne"
+    },
+    {
+     "ref": "1CH 5:10",
+     "form": "hagritterne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הַגְרִאִ֔ים",
+     "lemma": "הַגְרִי",
+     "ref": "1CH 5:10"
+    }
+   ],
+   "note": "DFB Ps 83:7 hagritter.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch005",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hityahes",
+   "kind": "term",
+   "source": "הִתְיַחֵשׂ",
+   "value": "ført ind i slægtsregistret",
+   "words": [
+    "slægtsregistret"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 5:7",
+     "form": "ført ind i slægtsregistret"
+    },
+    {
+     "ref": "1CH 5:17",
+     "form": "ført ind i slægtsregistret"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הִתְיַחֵ֖שׂ",
+     "lemma": "יָחַשׂ",
+     "ref": "1CH 5:7"
+    }
+   ],
+   "note": "Hithpael 'be enrolled by genealogy'; 4:33 'førte slægtsregister'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch005",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:migrash_chr",
+   "kind": "formula",
+   "source": "וְאֶת־מִגְרָשֶׁיהָ",
+   "value": "med tilhørende marker",
+   "words": [
+    "med tilhørende marker"
+   ],
+   "evidence": [
+    {
+     "ref": "JOS 21:13",
+     "form": "med tilhørende marker"
+    },
+    {
+     "ref": "1CH 6:43",
+     "form": "med tilhørende marker"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִגְרָשֶׁ֔י",
+     "lemma": "מִגְרָשׁ",
+     "ref": "1CH 6:43"
+    }
+   ],
+   "note": "Levite city lists (Jos 21, 1 Chr 6): collected once per verse/group.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch006",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:gershom_levi",
+   "kind": "name",
+   "source": "גֵּרְשֹׁם (Levis søn)",
+   "value": "Gershom",
+   "words": [
+    "Gershom"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 6:1",
+     "form": "Gershom"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גֵּרְשֹׁ֕ם",
+     "lemma": "גֵּרְשֹׁם",
+     "ref": "1CH 6:1"
+    }
+   ],
+   "note": "1 Chr 6 spells Gershom; 5:27 Gershon (DFB Num 3:17). Each place as written.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch006",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:selofkad",
+   "kind": "name",
+   "source": "צְלָפְחָד",
+   "value": "Selofkad",
+   "words": [
+    "Selofkad"
+   ],
+   "evidence": [
+    {
+     "ref": "JOS 17:3",
+     "form": "Selofkad"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "צְלָפְחָ֑ד",
+     "lemma": "צְלׇפְחָד",
+     "ref": "1CH 7:15"
+    }
+   ],
+   "note": "DFB Num 27; project Jos 17:3.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch007",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:bet_shan",
+   "kind": "name",
+   "source": "בֵּית שְׁאָן",
+   "value": "Bet-Shan",
+   "words": [
+    "Bet-Shan"
+   ],
+   "evidence": [
+    {
+     "ref": "JOS 17:11",
+     "form": "Bet-Shan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בֵּית",
+     "lemma": "בֵּית שְׁאָן",
+     "ref": "1CH 7:29"
+    }
+   ],
+   "note": "Project Jos 17:11.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch007",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:eshbaal",
+   "kind": "name",
+   "source": "אֶשְׁבַּעַל",
+   "value": "Eshba'al",
+   "words": [
+    "Eshba'al"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 8:33",
+     "form": "Eshba'al"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֶשְׁבָּֽעַל",
+     "lemma": "אֶשְׁבַּעַל",
+     "ref": "1CH 8:33"
+    }
+   ],
+   "note": "Chronicles' form; 2 Sam Ishboshet in a {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch008",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:meribbaal",
+   "kind": "name",
+   "source": "מְרִיב בַּעַל",
+   "value": "Merib-Ba'al",
+   "words": [
+    "Merib-Ba'al"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 8:34",
+     "form": "Merib-Ba'al"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְרִ֣יב",
+     "lemma": "מְרִיב בַּעַל",
+     "ref": "1CH 8:34"
+    }
+   ],
+   "note": "Chronicles' form; 2 Sam Mefiboshet in a {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch008",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:netinim_chr",
+   "kind": "term",
+   "source": "נְתִינִים",
+   "value": "tempeltjenerne",
+   "words": [
+    "tempeltjenerne"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 11:3",
+     "form": "tempeltjenerne"
+    },
+    {
+     "ref": "1CH 9:2",
+     "form": "tempeltjenerne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְּתִינִֽים",
+     "lemma": "נָתִין",
+     "ref": "1CH 9:2"
+    }
+   ],
+   "note": "As Ezra/Nehemiah.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch009",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:lehem_maareket",
+   "kind": "term",
+   "source": "לֶחֶם הַמַּעֲרֶכֶת",
+   "value": "skuebrødene",
+   "words": [
+    "skuebrødene"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 9:32",
+     "form": "skuebrødene"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַּעֲרָ֑כֶת",
+     "lemma": "מַעֲרֶכֶת",
+     "ref": "1CH 9:32"
+    }
+   ],
+   "note": "DFB's term for the bread of the Presence.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch009",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:atsabbim_chr",
+   "kind": "term",
+   "source": "עֲצַבִּים",
+   "value": "afguder",
+   "words": [
+    "afguder"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 10:9",
+     "form": "afguder"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲצַבֵּי",
+     "lemma": "עָצָב",
+     "ref": "1CH 10:9"
+    }
+   ],
+   "note": "Idols; 1 Sam 31:9 'afgudshuse' (bêt ʕăṣabbêhem).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch010",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:meluka_chr",
+   "kind": "term",
+   "source": "מְלוּכָה",
+   "value": "kongemagten",
+   "words": [
+    "kongemagten"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 10:14",
+     "form": "kongemagten"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מְּלוּכָ֔ה",
+     "lemma": "מְלוּכָה",
+     "ref": "1CH 10:14"
+    }
+   ],
+   "note": "The kingship passed to David.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch010",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jashobam",
+   "kind": "name",
+   "source": "יָשָׁבְעָם",
+   "value": "Jashobam",
+   "words": [
+    "Jashobam"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 11:11",
+     "form": "Jashobam"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יָשָׁבְעָ֣ם",
+     "lemma": "יָשׇׁבְעָם",
+     "ref": "1CH 11:11"
+    }
+   ],
+   "note": "Chronicles' name for 2 Sam 23:8 Josheb-Basshebet.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch011",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jebus",
+   "kind": "name",
+   "source": "יְבוּס",
+   "value": "Jebus",
+   "words": [
+    "Jebus"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 11:4",
+     "form": "Jebus"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְב֑וּס",
+     "lemma": "יְבוּס",
+     "ref": "1CH 11:4"
+    }
+   ],
+   "note": "Old name of Jerusalem.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch011",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jeremias_any",
+   "kind": "name",
+   "source": "יִרְמְיָה(וּ)",
+   "value": "Jeremias",
+   "words": [
+    "Jeremias"
+   ],
+   "evidence": [
+    {
+     "ref": "NEH 10:3",
+     "form": "Jeremias"
+    },
+    {
+     "ref": "2KI 23:31",
+     "form": "Jeremias"
+    },
+    {
+     "ref": "1CH 12:5",
+     "form": "Jeremias"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִרְמְיָ֤ה",
+     "lemma": "יִרְמְיָה",
+     "ref": "1CH 12:5"
+    }
+   ],
+   "note": "Every bearer of the name, as Neh 10:3; 12:1; 2 Kgs 23:31.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch012",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:gedud_chr",
+   "kind": "term",
+   "source": "גְּדוּד",
+   "value": "strejfskare",
+   "words": [
+    "strejfskare"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 12:19",
+     "form": "strejfskare"
+    },
+    {
+     "ref": "1CH 12:22",
+     "form": "strejfskare"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גְּד֔וּד",
+     "lemma": "גְּדוּד",
+     "ref": "1CH 12:22"
+    }
+   ],
+   "note": "Raiding band.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch012",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:shihor_misrayim",
+   "kind": "name",
+   "source": "שִׁיחוֹר מִצְרַיִם",
+   "value": "Egyptens Shihor",
+   "words": [
+    "Egyptens Shihor"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 13:5",
+     "form": "Egyptens Shihor"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שִׁיח֥וֹר",
+     "lemma": "שִׁיחוֹר",
+     "ref": "1CH 13:5"
+    }
+   ],
+   "note": "Border of the land; Lebo-Hamat the other end.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch013",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:perez_uzza",
+   "kind": "name",
+   "source": "פֶּרֶץ עֻזָּא",
+   "value": "Perez-Uzza",
+   "words": [
+    "Perez-Uzza"
+   ],
+   "evidence": [
+    {
+     "ref": "2SA 6:8",
+     "form": "Perez-Uzza"
+    },
+    {
+     "ref": "1CH 13:11",
+     "form": "Perez-Uzza"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֻזָּ֔א",
+     "lemma": "פֶּרֶץ עֻזָּא",
+     "ref": "1CH 13:11"
+    }
+   ],
+   "note": "As the project's 2 Sam 6:8.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch013",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hiram_huram",
+   "kind": "name",
+   "source": "חוּרָם (Tyrus' konge)",
+   "value": "Hiram",
+   "words": [
+    "Hiram"
+   ],
+   "evidence": [
+    {
+     "ref": "2SA 5:11",
+     "form": "Hiram"
+    },
+    {
+     "ref": "1CH 14:1",
+     "form": "Hiram"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חוּרָ֨ם",
+     "lemma": "חִירָם",
+     "ref": "1CH 14:1"
+    }
+   ],
+   "note": "Chronicles spells Huram; same king as 2 Sam 5:11 Hiram; one person, one form.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch014",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:baal_perasim",
+   "kind": "name",
+   "source": "בַּעַל פְּרָצִים",
+   "value": "Ba'al-Perasim",
+   "words": [
+    "Ba'al-Perasim"
+   ],
+   "evidence": [
+    {
+     "ref": "2SA 5:20",
+     "form": "Ba'al-Perasim"
+    },
+    {
+     "ref": "1CH 14:11",
+     "form": "Ba'al-Perasim"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בַֽעַל",
+     "lemma": "בַּעַל פְּרָצִים",
+     "ref": "1CH 14:11"
+    }
+   ],
+   "note": "As 2 Sam 5:20.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch014",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hitqaddesh_chr",
+   "kind": "term",
+   "source": "הִתְקַדֵּשׁ",
+   "value": "helligede",
+   "words": [
+    "hellige sig"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 15:14",
+     "form": "helligede"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִּֽתְקַדְּשׁ֔וּ",
+     "lemma": "קָדַשׁ",
+     "ref": "1CH 15:14"
+    }
+   ],
+   "note": "Hitpael qdš: \"hellige sig\" (v. 12 imperative \"Hellig jer\").",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch015",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:alamot_sheminit",
+   "kind": "term",
+   "source": "עַל־עֲלָמוֹת",
+   "value": "efter alamot",
+   "words": [
+    "efter alamot"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 15:20",
+     "form": "efter alamot"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲלָמֽוֹת",
+     "lemma": "עַלְמָה",
+     "ref": "1CH 15:20"
+    }
+   ],
+   "note": "Musical term as DFB Ps 46:1; 'efter sheminit' 15:21 (Ps 6:1).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch015",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:hasdo_leolam",
+   "kind": "formula",
+   "source": "כִּי לְעוֹלָם חַסְדּוֹ",
+   "value": "for hans nåde varer til evig tid",
+   "words": [
+    "for hans nåde varer til evig tid"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 16:34",
+     "form": "for hans nåde varer til evig tid"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַסְדּֽ",
+     "lemma": "חֶסֶד",
+     "ref": "1CH 16:34"
+    }
+   ],
+   "note": "DFB Ps 106:1 / 136 refrain.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch016",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:ark_berit_chr",
+   "kind": "term",
+   "source": "אֲרוֹן בְּרִית יְהוָה",
+   "value": "HERRENS pagts ark",
+   "words": [
+    "HERRENS pagts ark"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 15:25",
+     "form": "HERRENS pagts ark"
+    },
+    {
+     "ref": "1CH 16:37",
+     "form": "HERRENS pagts ark"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲר֣וֹן",
+     "lemma": "אֲרוֹן",
+     "ref": "1CH 16:37"
+    }
+   ],
+   "note": "Project form (13x before).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch016",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:egypten_land_chr",
+   "kind": "name",
+   "source": "מִצְרַיִם (landet)",
+   "value": "Egypten",
+   "words": [
+    "Egypten"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 13:5",
+     "form": "Egypten"
+    },
+    {
+     "ref": "1CH 17:21",
+     "form": "Egypten"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִּצְרַ֖יִם",
+     "lemma": "מִצְרַיִם",
+     "ref": "1CH 17:21"
+    }
+   ],
+   "note": "The country; Misrajim only for Ham's son (1 Chr 1:8, Gen 10:6).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch017",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hesed_trofasthed_chr",
+   "kind": "term",
+   "source": "חֶסֶד (Guds løfte til David)",
+   "value": "trofasthed",
+   "words": [
+    "trofasthed"
+   ],
+   "evidence": [
+    {
+     "ref": "2SA 7:15",
+     "form": "trofasthed"
+    },
+    {
+     "ref": "1CH 17:13",
+     "form": "trofasthed"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַסְדִּ",
+     "lemma": "חֶסֶד",
+     "ref": "1CH 17:13"
+    }
+   ],
+   "note": "As 2 Sam 7:15; in the liturgical refrain 'nåde' (16:34).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch017",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hadad_ezer_chr",
+   "kind": "name",
+   "source": "הֲדַדְעֶזֶר",
+   "value": "Hadad-Ezer",
+   "words": [
+    "Hadad-Ezer"
+   ],
+   "evidence": [
+    {
+     "ref": "2SA 8:3",
+     "form": "Hadad-Ezer"
+    },
+    {
+     "ref": "1CH 18:3",
+     "form": "Hadad-Ezer"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הֲדַדְעֶ֥זֶר",
+     "lemma": "הֲדַדְעֶזֶר",
+     "ref": "1CH 18:3"
+    }
+   ],
+   "note": "As 2 Sam 8:3.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch018",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:kreti_pleti_chr",
+   "kind": "term",
+   "source": "הַכְּרֵתִי וְהַפְּלֵתִי",
+   "value": "kreterne og pleterne",
+   "words": [
+    "kreterne og pleterne"
+   ],
+   "evidence": [
+    {
+     "ref": "2SA 8:18",
+     "form": "kreterne og pleterne"
+    },
+    {
+     "ref": "1CH 18:17",
+     "form": "kreterne og pleterne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כְּרֵתִ֖י",
+     "lemma": "כְּרֵתִי",
+     "ref": "1CH 18:17"
+    }
+   ],
+   "note": "As 2 Sam 8:18.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch018",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:shofak",
+   "kind": "name",
+   "source": "שׁוֹפַךְ",
+   "value": "Shofak",
+   "words": [
+    "Shofak"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 19:16",
+     "form": "Shofak"
+    },
+    {
+     "ref": "1CH 19:18",
+     "form": "Shofak"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שׁוֹפַ֛ךְ",
+     "lemma": "שׁוֹפָךְ",
+     "ref": "1CH 19:16"
+    }
+   ],
+   "note": "Chronicles' spelling; 2 Sam 10:16 Shobak.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch019",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:aram_naharayim_chr",
+   "kind": "name",
+   "source": "אֲרַם נַהֲרַיִם",
+   "value": "Aram-Naharajim",
+   "words": [
+    "Aram-Naharajim"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 19:6",
+     "form": "Aram-Naharajim"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲרַ֨ם",
+     "lemma": "אֲרַם נַהֲרַיִם",
+     "ref": "1CH 19:6"
+    }
+   ],
+   "note": "Mesopotamia.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch019",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:rabba_chr",
+   "kind": "name",
+   "source": "רַבָּה",
+   "value": "Rabba",
+   "words": [
+    "Rabba"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 20:1",
+     "form": "Rabba"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רַבָּ֔ה",
+     "lemma": "רַבָּה",
+     "ref": "1CH 20:1"
+    }
+   ],
+   "note": "Ammonite capital.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch020",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:rafa_descendants",
+   "kind": "term",
+   "source": "יְלִדֵי הָרָפָא / יִלִּדֵי הָרְפָאִים",
+   "value": "Rafas efterkommere",
+   "words": [
+    "Rafas efterkommere"
+   ],
+   "evidence": [
+    {
+     "ref": "2SA 21:18",
+     "form": "Rafas efterkommere"
+    },
+    {
+     "ref": "1CH 20:4",
+     "form": "Rafas efterkommere"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רְפָאִ֖ים",
+     "lemma": "רְפָאִים",
+     "ref": "1CH 20:4"
+    }
+   ],
+   "note": "As 2 Sam 21:18.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch020",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:ornan",
+   "kind": "name",
+   "source": "אָרְנָן",
+   "value": "Ornan",
+   "words": [
+    "Ornan"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 21:15",
+     "form": "Ornan"
+    },
+    {
+     "ref": "1CH 21:18",
+     "form": "Ornan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אָרְנָ֥ן",
+     "lemma": "אׇרְנָן",
+     "ref": "1CH 21:15"
+    }
+   ],
+   "note": "Chronicles' form of 2 Sam 24 Aravna; kept with a {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch021",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:satan_chr",
+   "kind": "name",
+   "source": "שָׂטָן (uden artikel)",
+   "value": "Satan",
+   "words": [
+    "Satan"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 21:1",
+     "form": "Satan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָׂטָ֖ן",
+     "lemma": "שָׂטָן",
+     "ref": "1CH 21:1"
+    }
+   ],
+   "note": "Without article; {T:} 'en modstander'. Open for the user.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch021",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:hazaq_ematz_chr",
+   "kind": "formula",
+   "source": "חֲזַק וֶאֱמָץ אַל־תִּירָא וְאַל־תֵּחָת",
+   "value": "Vær stærk og modig",
+   "words": [
+    "Vær stærk og modig"
+   ],
+   "evidence": [
+    {
+     "ref": "JOS 1:9",
+     "form": "Vær stærk og modig"
+    },
+    {
+     "ref": "1CH 22:13",
+     "form": "Vær stærk og modig"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲזַ֣ק",
+     "lemma": "חָזַק",
+     "ref": "1CH 22:13"
+    }
+   ],
+   "note": "As project Jos 1:9 ('Vær ikke bange, og tab ikke modet').",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch022",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:avne_gazit",
+   "kind": "term",
+   "source": "אַבְנֵי גָזִית",
+   "value": "kvadersten",
+   "words": [
+    "kvadersten"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 22:2",
+     "form": "kvadersten"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גָזִ֔ית",
+     "lemma": "גָּזִית",
+     "ref": "1CH 22:2"
+    }
+   ],
+   "note": "Dressed stone.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch022",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:mahleqot",
+   "kind": "term",
+   "source": "מַחְלְקוֹת",
+   "value": "skifter",
+   "words": [
+    "skifter"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 23:6",
+     "form": "skifter"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַחְלְק֑וֹת",
+     "lemma": "מַחֲלֹקֶת",
+     "ref": "1CH 23:6"
+    }
+   ],
+   "note": "The divisions of priests and Levites (1 Chr 23-27).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch023",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:shabbat_hodesh_moed",
+   "kind": "formula",
+   "source": "לַשַּׁבָּתוֹת לֶחֳדָשִׁים וְלַמֹּעֲדִים",
+   "value": "sabbaterne, nymånefesterne og højtiderne",
+   "words": [
+    "sabbaterne, nymånefesterne og højtiderne"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 23:31",
+     "form": "sabbaterne, nymånefesterne og højtiderne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מֹּעֲדִ֑ים",
+     "lemma": "מוֹעֵד",
+     "ref": "1CH 23:31"
+    }
+   ],
+   "note": "Festival triad.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch023",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:goral_yasa",
+   "kind": "formula",
+   "source": "וַיֵּצֵא הַגּוֹרָל הָרִאשׁוֹן לְ",
+   "value": "Det første lod faldt på",
+   "words": [
+    "Det første lod faldt på"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 24:7",
+     "form": "Det første lod faldt på"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גּוֹרָ֤ל",
+     "lemma": "גּוֹרָל",
+     "ref": "1CH 24:7"
+    }
+   ],
+   "note": "Lot list: 'det andet på …', ordinals in words to 10, then '11.' etc.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch024",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:pequdda_chr",
+   "kind": "term",
+   "source": "פְּקֻדָּה",
+   "value": "tjenesteorden",
+   "words": [
+    "tjenesteorden"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 24:3",
+     "form": "tjenesteorden"
+    },
+    {
+     "ref": "1CH 24:19",
+     "form": "tjenesteorden"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פְקֻדָּתָ֖",
+     "lemma": "פְּקֻדָּה",
+     "ref": "1CH 24:3"
+    }
+   ],
+   "note": "Order of service; 23:11 'tjenestegruppe'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch024",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:al_yede_chr",
+   "kind": "formula",
+   "source": "עַל־יְדֵי",
+   "value": "under ledelse af",
+   "words": [
+    "under ledelse af"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 25:2",
+     "form": "under ledelse af"
+    },
+    {
+     "ref": "1CH 25:6",
+     "form": "under ledelse af"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַד",
+     "lemma": "יָד",
+     "ref": "1CH 25:2"
+    }
+   ],
+   "note": "Of musicians under a leader (1 Chr 25; 2 Chr 23:18).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch025",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:nibba_music",
+   "kind": "term",
+   "source": "הַנִּבְּאִים בְּכִנֹּרוֹת",
+   "value": "profeterede",
+   "words": [
+    "profeterede"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 25:1",
+     "form": "profeterede"
+    },
+    {
+     "ref": "1CH 25:2",
+     "form": "profeterede"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נִּבְּאִ֛ים",
+     "lemma": "נָבָא",
+     "ref": "1CH 25:1"
+    }
+   ],
+   "note": "Prophesying with instruments kept literal.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch025",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:gibbore_hayil_chr",
+   "kind": "term",
+   "source": "גִּבּוֹרֵי חַיִל",
+   "value": "dygtige krigere",
+   "words": [
+    "dygtige krigere"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 26:6",
+     "form": "dygtige krigere"
+    },
+    {
+     "ref": "1CH 26:31",
+     "form": "dygtige krigere"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַ֖יִל",
+     "lemma": "חַיִל",
+     "ref": "1CH 26:6"
+    }
+   ],
+   "note": "1 Chr 26; 'bᵊnê/ʔîš ḥayil' = 'dygtige mænd'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch026",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:bet_haasuppim",
+   "kind": "term",
+   "source": "בֵּית הָאֲסֻפִּים",
+   "value": "forrådshuset",
+   "words": [
+    "forrådshuset"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 26:15",
+     "form": "forrådshuset"
+    },
+    {
+     "ref": "1CH 26:17",
+     "form": "forrådshuset"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲסֻפִּֽים",
+     "lemma": "אָסֹף",
+     "ref": "1CH 26:15"
+    }
+   ],
+   "note": "Storehouse at the south gate.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch026",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:mahaloqet_24000",
+   "kind": "formula",
+   "source": "וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף",
+   "value": "i hans skifte var der 24.000 mand",
+   "words": [
+    "i hans skifte var der 24.000 mand"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 27:2",
+     "form": "i hans skifte var der 24.000 mand"
+    },
+    {
+     "ref": "1CH 27:5",
+     "form": "i hans skifte var der 24.000 mand"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַּחֲלֹ֤קֶת",
+     "lemma": "מַחֲלֹקֶת",
+     "ref": "1CH 27:2"
+    }
+   ],
+   "note": "Refrain of 1 Chr 27:2-15.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch027",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:sare_harekush",
+   "kind": "term",
+   "source": "שָׂרֵי הָרְכוּשׁ",
+   "value": "forvaltere",
+   "words": [
+    "forvaltere"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 27:31",
+     "form": "forvaltere"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רְכ֔וּשׁ",
+     "lemma": "רְכוּשׁ",
+     "ref": "1CH 27:31"
+    }
+   ],
+   "note": "Stewards of the king's property.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch027",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:lo_yarpekha",
+   "kind": "formula",
+   "source": "לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ",
+   "value": "Han svigter dig ikke og forlader dig ikke",
+   "words": [
+    "Han svigter dig ikke og forlader dig ikke"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 28:20",
+     "form": "Han svigter dig ikke og forlader dig ikke"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַרְפְּ",
+     "lemma": "רָפָה",
+     "ref": "1CH 28:20"
+    }
+   ],
+   "note": "As project Jos 1:5 ('Jeg svigter dig ikke og forlader dig ikke').",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch028",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:tabnit",
+   "kind": "term",
+   "source": "תַּבְנִית",
+   "value": "tegningen",
+   "words": [
+    "tegningen"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 28:11",
+     "form": "tegningen"
+    },
+    {
+     "ref": "1CH 28:19",
+     "form": "tegningen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תַּבְנִ֣ית",
+     "lemma": "תַּבְנִית",
+     "ref": "1CH 28:11"
+    }
+   ],
+   "note": "The temple plan (1 Chr 28:11-19).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch028",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:kapporet_chr",
+   "kind": "term",
+   "source": "הַכַּפֹּרֶת",
+   "value": "sonedækkets",
+   "words": [
+    "sonedækkets"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 28:11",
+     "form": "sonedækkets"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כַּפֹּֽרֶת",
+     "lemma": "כַּפֹּרֶת",
+     "ref": "1CH 28:11"
+    }
+   ],
+   "note": "DFB Exod 25 'sonedækket'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch028",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hitnaddev",
+   "kind": "term",
+   "source": "הִתְנַדֵּב",
+   "value": "villigt",
+   "words": [
+    "villigt"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 29:9",
+     "form": "villigt"
+    },
+    {
+     "ref": "1CH 29:17",
+     "form": "villigt"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הִֽתְנַדְּבָ֔",
+     "lemma": "נָדַב",
+     "ref": "1CH 29:9"
+    }
+   ],
+   "note": "Freewill giving: 'give villigt'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch029",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:bira",
+   "kind": "term",
+   "source": "הַבִּירָה",
+   "value": "borgen",
+   "words": [
+    "borgen"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 29:1",
+     "form": "borgen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בִּירָ֔ה",
+     "lemma": "בִּירָה",
+     "ref": "1CH 29:1"
+    }
+   ],
+   "note": "The temple called 'the citadel' (1 Chr 29:1, 19).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch029",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:david_reign_chr",
+   "kind": "formula",
+   "source": "וְהַיָּמִים אֲשֶׁר מָלַךְ עַל־יִשְׂרָאֵל אַרְבָּעִים שָׁנָה",
+   "value": "Den periode han var konge over Israel",
+   "words": [
+    "Den periode han var konge over Israel"
+   ],
+   "evidence": [
+    {
+     "ref": "1CH 29:27",
+     "form": "Den periode han var konge over Israel"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מָלַךְ֙",
+     "lemma": "מָלַךְ",
+     "ref": "1CH 29:27"
+    }
+   ],
+   "note": "As DFB 1 Kgs 2:11.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:1ch029",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:sheal_ma_etten",
+   "kind": "formula",
+   "source": "שְׁאַל מָה אֶתֶּן־לָךְ",
+   "value": "Sig, hvad jeg skal give dig",
+   "words": [
+    "Sig, hvad jeg skal give dig"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 1:7",
+     "form": "Sig, hvad jeg skal give dig"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְׁאַ֖ל",
+     "lemma": "שָׁאַל",
+     "ref": "2CH 1:7"
+    }
+   ],
+   "note": "DFB 1 Kgs 3:5.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hokhma_madda",
+   "kind": "term",
+   "source": "חָכְמָה וּמַדָּע",
+   "value": "visdom og kundskab",
+   "words": [
+    "visdom og kundskab"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 1:10",
+     "form": "visdom og kundskab"
+    },
+    {
+     "ref": "2CH 1:11",
+     "form": "visdom og kundskab"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַדָּע֙",
+     "lemma": "מַדָּע",
+     "ref": "2CH 1:10"
+    }
+   ],
+   "note": "Chronicles' pair (1 Kgs 3: 'et lydigt sind').",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch001",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hiram_abi",
+   "kind": "name",
+   "source": "חוּרָם אָבִי",
+   "value": "Hiram-Abi",
+   "words": [
+    "Hiram-Abi"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 2:12",
+     "form": "Hiram-Abi"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חוּרָ֥ם",
+     "lemma": "חוּרָם",
+     "ref": "2CH 2:12"
+    }
+   ],
+   "note": "The craftsman (1 Kgs 7:13 Hiram); Huram -> Hiram as for the king.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch002",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:argaman_karmil_tekhelet",
+   "kind": "term",
+   "source": "אַרְגָּמָן כַּרְמִיל תְּכֵלֶת",
+   "value": "karmin",
+   "words": [
+    "karmin"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 2:6",
+     "form": "karmin"
+    },
+    {
+     "ref": "2CH 2:13",
+     "form": "karmin"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כַרְמִ֣יל",
+     "lemma": "כַּרְמִיל",
+     "ref": "2CH 2:6"
+    }
+   ],
+   "note": "rødt purpur, karmin, blåt purpur.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch002",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:qodesh_haqodashim_chr",
+   "kind": "term",
+   "source": "קֹדֶשׁ הַקֳּדָשִׁים",
+   "value": "Allerhelligste",
+   "words": [
+    "Allerhelligste"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 3:8",
+     "form": "Allerhelligste"
+    },
+    {
+     "ref": "2CH 3:10",
+     "form": "Allerhelligste"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קֹ֣דֶשׁ",
+     "lemma": "קֹדֶשׁ",
+     "ref": "2CH 3:8"
+    }
+   ],
+   "note": "DFB 1 Kgs 6 'det Allerhelligste'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch003",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:morijabjerget",
+   "kind": "name",
+   "source": "הַר הַמּוֹרִיָּה",
+   "value": "Morijabjerget",
+   "words": [
+    "Morijabjerget"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 3:1",
+     "form": "Morijabjerget"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מּ֣וֹרִיָּ֔ה",
+     "lemma": "מֹרִיָּה",
+     "ref": "2CH 3:1"
+    }
+   ],
+   "note": "As project Gen 22.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch003",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hayyam_mutsaq",
+   "kind": "term",
+   "source": "הַיָּם מוּצָק",
+   "value": "Havet",
+   "words": [
+    "Havet"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 4:2",
+     "form": "Havet"
+    },
+    {
+     "ref": "2CH 4:15",
+     "form": "Havet"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יָּ֖ם",
+     "lemma": "יָם",
+     "ref": "2CH 4:2"
+    }
+   ],
+   "note": "The cast sea, DFB 1 Kgs 7:23 'Havet som var støbt'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch004",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hassirot",
+   "kind": "term",
+   "source": "הַסִּירוֹת",
+   "value": "askespandene",
+   "words": [
+    "askespandene"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 4:11",
+     "form": "askespandene"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סִּיר֔וֹת",
+     "lemma": "סִיר",
+     "ref": "2CH 4:11"
+    }
+   ],
+   "note": "DFB 1 Kgs 7:40.45.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch004",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:baddim",
+   "kind": "term",
+   "source": "הַבַּדִּים",
+   "value": "Bærestængerne",
+   "words": [
+    "Bærestængerne"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 5:9",
+     "form": "Bærestængerne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בַּדִּים֒",
+     "lemma": "בַּד",
+     "ref": "2CH 5:9"
+    }
+   ],
+   "note": "DFB 1 Kgs 8:8.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch005",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:qodshe_david",
+   "kind": "term",
+   "source": "קָדְשֵׁי דָּוִיד",
+   "value": "helliggaver",
+   "words": [
+    "helliggaver"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 5:1",
+     "form": "helliggaver"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קָדְשֵׁ֣י",
+     "lemma": "קֹדֶשׁ",
+     "ref": "2CH 5:1"
+    }
+   ],
+   "note": "DFB 1 Kgs 7:51.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch005",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:shama_min_hashamayim",
+   "kind": "formula",
+   "source": "וְאַתָּה תִּשְׁמַע מִן־הַשָּׁמַיִם",
+   "value": "så hør du fra himlen",
+   "words": [
+    "så hør du fra himlen"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 6:23",
+     "form": "så hør du fra himlen"
+    },
+    {
+     "ref": "2CH 6:25",
+     "form": "så hør du fra himlen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תִּשְׁמַ֣ע",
+     "lemma": "שָׁמַע",
+     "ref": "2CH 6:23"
+    }
+   ],
+   "note": "Refrain of Solomon's prayer (2 Chr 6); 1 Kgs 8 'hør i himlen'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch006",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:tehinna",
+   "kind": "term",
+   "source": "תְּחִנָּה",
+   "value": "bønfaldelse",
+   "words": [
+    "bønfaldelse"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 6:19",
+     "form": "bønfaldelse"
+    },
+    {
+     "ref": "2CH 6:29",
+     "form": "bønfaldelse"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תְּחִנָּת֖",
+     "lemma": "תְּחִנָּה",
+     "ref": "2CH 6:19"
+    }
+   ],
+   "note": "DFB 1 Kgs 8: 'bøn og bønfaldelse'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch006",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:ki_tov_ki_leolam",
+   "kind": "formula",
+   "source": "כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ",
+   "value": "For han er god, for hans nåde varer til evig tid",
+   "words": [
+    "For han er god, for hans nåde varer til evig tid"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 7:3",
+     "form": "For han er god, for hans nåde varer til evig tid"
+    },
+    {
+     "ref": "2CH 5:13",
+     "form": "For han er god, for hans nåde varer til evig tid"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַסְדּֽ",
+     "lemma": "חֶסֶד",
+     "ref": "2CH 7:3"
+    }
+   ],
+   "note": "Refrain (1 Chr 16:34; 2 Chr 5:13; 7:3).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch007",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:atseret_chr",
+   "kind": "term",
+   "source": "עֲצֶרֶת",
+   "value": "festforsamling",
+   "words": [
+    "festforsamling"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 7:9",
+     "form": "festforsamling"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲצָ֑רֶת",
+     "lemma": "עֲצֶרֶת",
+     "ref": "2CH 7:9"
+    }
+   ],
+   "note": "Solemn assembly on the eighth day.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch007",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:three_feasts",
+   "kind": "formula",
+   "source": "חַג הַמַּצּוֹת וּבְחַג הַשָּׁבֻעוֹת וּבְחַג הַסֻּכּוֹת",
+   "value": "ugefesten og",
+   "words": [
+    "ugefesten og"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 8:13",
+     "form": "ugefesten og"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שָּׁבֻע֖וֹת",
+     "lemma": "שָׁבוּעַ",
+     "ref": "2CH 8:13"
+    }
+   ],
+   "note": "de usyrede brøds fest, ugefesten og løvhyttefesten.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch008",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:esjongeber",
+   "kind": "name",
+   "source": "עֶצְיוֹן־גֶּבֶר",
+   "value": "Esjongeber",
+   "words": [
+    "Esjongeber"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 8:17",
+     "form": "Esjongeber"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֶצְיֽוֹן",
+     "lemma": "עֶצְיוֹן גֶּבֶר",
+     "ref": "2CH 8:17"
+    }
+   ],
+   "note": "DFB 1 Kgs 9:26.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch008",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:akija_shilo_chr",
+   "kind": "name",
+   "source": "אֲחִיָּה הַשִּׁילוֹנִי",
+   "value": "Akijas",
+   "words": [
+    "Akijas"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 9:29",
+     "form": "Akijas"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲחִיָּ֣ה",
+     "lemma": "אֲחִיָּה",
+     "ref": "2CH 9:29"
+    }
+   ],
+   "note": "The prophet; project 1 Kgs 'shilonitten Akija'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch009",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jedo",
+   "kind": "name",
+   "source": "יֶעְדּוֹ",
+   "value": "Jedos",
+   "words": [
+    "Jedos"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 9:29",
+     "form": "Jedos"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֶעְדּ֣וֹ",
+     "lemma": "יֶעְדּוֹ",
+     "ref": "2CH 9:29"
+    }
+   ],
+   "note": "The seer (Chronicles also Iddo, 12:15; 13:22).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch009",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hadoram_chr",
+   "kind": "name",
+   "source": "הֲדֹרָם",
+   "value": "Hadoram",
+   "words": [
+    "Hadoram"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 10:18",
+     "form": "Hadoram"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הֲדֹרָם֙",
+     "lemma": "הֲדֹורָם",
+     "ref": "2CH 10:18"
+    }
+   ],
+   "note": "1 Kgs 12:18 Adoram; kept with {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch010",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:seirim",
+   "kind": "term",
+   "source": "שְׂעִירִים",
+   "value": "bukkedæmonerne",
+   "words": [
+    "bukkedæmonerne"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 11:15",
+     "form": "bukkedæmonerne"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְּׂעִירִ֑ים",
+     "lemma": "שָׂעִיר",
+     "ref": "2CH 11:15"
+    }
+   ],
+   "note": "Goat demons (Lev 17:7).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch011",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:shemaja_ish_haelohim",
+   "kind": "name",
+   "source": "שְׁמַעְיָהוּ אִישׁ הָאֱלֹהִים",
+   "value": "Shemaja",
+   "words": [
+    "Shemaja"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 11:2",
+     "form": "Shemaja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שְׁמַֽעְיָ֥הוּ",
+     "lemma": "שְׁמַעְיָהוּ",
+     "ref": "2CH 11:2"
+    }
+   ],
+   "note": "As project 1 Kgs 12:22.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch011",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:shishak",
+   "kind": "name",
+   "source": "שִׁישַׁק",
+   "value": "Shishak",
+   "words": [
+    "Shishak"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 12:2",
+     "form": "Shishak"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שִׁישַׁ֥ק",
+     "lemma": "שִׁישַׁק",
+     "ref": "2CH 12:2"
+    }
+   ],
+   "note": "As project 1 Kgs 14:25.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch012",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:nikna",
+   "kind": "term",
+   "source": "נִכְנַע",
+   "value": "ydmygede",
+   "words": [
+    "ydmygede"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 12:6",
+     "form": "ydmygede"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יִּכָּנְע֥וּ",
+     "lemma": "כָּנַע",
+     "ref": "2CH 12:6"
+    }
+   ],
+   "note": "'ydmyge sig' throughout Chronicles.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch012",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:mikaja_uriel",
+   "kind": "name",
+   "source": "מִיכָיָהוּ",
+   "value": "Mikaja",
+   "words": [
+    "Mikaja"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 13:2",
+     "form": "Mikaja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִיכָיָ֥הוּ",
+     "lemma": "מִיכָיָהוּ",
+     "ref": "2CH 13:2"
+    }
+   ],
+   "note": "Abijah's mother in Chronicles; 1 Kgs 15:2 Maacah. Kept with {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch013",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:berit_melah",
+   "kind": "term",
+   "source": "בְּרִית מֶלַח",
+   "value": "saltpagt",
+   "words": [
+    "saltpagt"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 13:5",
+     "form": "saltpagt"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מֶֽלַח",
+     "lemma": "מֶלַח",
+     "ref": "2CH 13:5"
+    }
+   ],
+   "note": "Covenant of salt.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch013",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:zera_kushi",
+   "kind": "name",
+   "source": "זֶרַח הַכּוּשִׁי",
+   "value": "Zera",
+   "words": [
+    "Zera"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 14:8",
+     "form": "Zera"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זֶ֣רַח",
+     "lemma": "זֶרַח",
+     "ref": "2CH 14:8"
+    }
+   ],
+   "note": "Kushitten Zera.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch014",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hammanim",
+   "kind": "term",
+   "source": "חַמָּנִים",
+   "value": "røgelsesaltrene",
+   "words": [
+    "røgelsesaltrene"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 14:4",
+     "form": "røgelsesaltrene"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַמָּנִ֑ים",
+     "lemma": "חַמָּן",
+     "ref": "2CH 14:4"
+    }
+   ],
+   "note": "Incense altars.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch014",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:azarja_oded",
+   "kind": "name",
+   "source": "עֲזַרְיָהוּ בֶּן עוֹדֵד",
+   "value": "Azarja",
+   "words": [
+    "Azarja"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 15:1",
+     "form": "Azarja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲזַרְיָ֨הוּ֙",
+     "lemma": "עֲזַרְיָהוּ",
+     "ref": "2CH 15:1"
+    }
+   ],
+   "note": "Prophet, son of Oded.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch015",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:shiqqusim",
+   "kind": "term",
+   "source": "שִׁקּוּצִים",
+   "value": "afskyelige",
+   "words": [
+    "afskyelige"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 15:8",
+     "form": "afskyelige"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "שִּׁקּוּצִים֙",
+     "lemma": "שִׁקּוּץ",
+     "ref": "2CH 15:8"
+    }
+   ],
+   "note": "'de afskyelige afguder'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch015",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hanani_seer",
+   "kind": "name",
+   "source": "חֲנָנִי הָרֹאֶה",
+   "value": "Hanani",
+   "words": [
+    "Hanani"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 16:7",
+     "form": "Hanani"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֲנָ֣נִי",
+     "lemma": "חֲנָנִי",
+     "ref": "2CH 16:7"
+    }
+   ],
+   "note": "The seer, father of Jehu.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch016",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:abel_majim",
+   "kind": "name",
+   "source": "אָבֵל מַיִם",
+   "value": "Abel-Majim",
+   "words": [
+    "Abel-Majim"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 16:4",
+     "form": "Abel-Majim"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אָבֵ֣ל",
+     "lemma": "אַבֵל מַיִם",
+     "ref": "2CH 16:4"
+    }
+   ],
+   "note": "1 Kgs 15:20 Abel-Beth-Maacah; {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch016",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:josafat_king",
+   "kind": "name",
+   "source": "יְהוֹשָׁפָט",
+   "value": "Josafat",
+   "words": [
+    "Josafat"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 17:1",
+     "form": "Josafat"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְהוֹשָׁפָ֥ט",
+     "lemma": "יְהוֹשָׁפָט",
+     "ref": "2CH 17:1"
+    }
+   ],
+   "note": "King of Judah, as project 1 Kgs 22.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch017",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:netsivim",
+   "kind": "term",
+   "source": "נְצִיבִים",
+   "value": "fogeder",
+   "words": [
+    "fogeder"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 17:2",
+     "form": "fogeder"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "נְצִיבִים֙",
+     "lemma": "נְצִיב",
+     "ref": "2CH 17:2"
+    }
+   ],
+   "note": "Garrisons/governors; as 1 Chr 18:13.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch017",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:mika_jimla",
+   "kind": "name",
+   "source": "מִיכָיְהוּ בֶן יִמְלָא",
+   "value": "Mika",
+   "words": [
+    "Mika"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 18:7",
+     "form": "Mika"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מִיכָ֣יְהוּ",
+     "lemma": "מִיכָיְהוּ",
+     "ref": "2CH 18:7"
+    }
+   ],
+   "note": "Micaiah son of Imlah; as project 1 Kgs 22.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch018",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jehu_hanani",
+   "kind": "name",
+   "source": "יֵהוּא בֶן חֲנָנִי",
+   "value": "Jehu",
+   "words": [
+    "Jehu"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 19:2",
+     "form": "Jehu"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יֵה֣וּא",
+     "lemma": "יֵהוּא",
+     "ref": "2CH 19:2"
+    }
+   ],
+   "note": "The seer, son of Hanani (1 Kgs 16).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch019",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:qetsef",
+   "kind": "term",
+   "source": "קֶצֶף",
+   "value": "vrede",
+   "words": [
+    "vrede"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 19:2",
+     "form": "vrede"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "קֶּ֔צֶף",
+     "lemma": "קֶצֶף",
+     "ref": "2CH 19:2"
+    }
+   ],
+   "note": "Wrath (divine).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch019",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:berakadalen",
+   "kind": "name",
+   "source": "עֵמֶק בְּרָכָה",
+   "value": "Berakadalen",
+   "words": [
+    "Berakadalen"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 20:26",
+     "form": "Berakadalen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "בְּרָכָ֔ה",
+     "lemma": "בְּרָכָה",
+     "ref": "2CH 20:26"
+    }
+   ],
+   "note": "Valley of Beracah; {T:} 'velsignelse'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch020",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jahaziel_levite",
+   "kind": "name",
+   "source": "יַחֲזִיאֵל",
+   "value": "Jahaziel",
+   "words": [
+    "Jahaziel"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 20:14",
+     "form": "Jahaziel"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יַחֲזִיאֵ֡ל",
+     "lemma": "יַחֲזִיאֵל",
+     "ref": "2CH 20:14"
+    }
+   ],
+   "note": "Levite of Asaph's line.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch020",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hasason_tamar",
+   "kind": "name",
+   "source": "חַצְצוֹן תָּמָר",
+   "value": "Hasason-Tamar",
+   "words": [
+    "Hasason-Tamar"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 20:2",
+     "form": "Hasason-Tamar"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חַֽצְצ֣וֹן",
+     "lemma": "חַצֲצֹן תָּמָר",
+     "ref": "2CH 20:2"
+    }
+   ],
+   "note": "= En-Gedi.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch020",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:joram_judah",
+   "kind": "name",
+   "source": "יְהוֹרָם",
+   "value": "Joram",
+   "words": [
+    "Joram"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 21:1",
+     "form": "Joram"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְהוֹרָ֥ם",
+     "lemma": "יְהוֹרָם",
+     "ref": "2CH 21:1"
+    }
+   ],
+   "note": "King of Judah, as project 2 Kgs 8:16.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch021",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:joahaz_ahazja",
+   "kind": "name",
+   "source": "יְהוֹאָחָז",
+   "value": "Joahaz",
+   "words": [
+    "Joahaz"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 21:17",
+     "form": "Joahaz"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְהוֹאָחָ֖ז",
+     "lemma": "יְהוֹאָחָז",
+     "ref": "2CH 21:17"
+    }
+   ],
+   "note": "= Ahazja (22:1); kept.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch021",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:joshabat",
+   "kind": "name",
+   "source": "יְהוֹשַׁבְעַת",
+   "value": "Joshab'at",
+   "words": [
+    "Joshab'at"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 22:11",
+     "form": "Joshab'at"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְהוֹשַׁבְעַ֨ת",
+     "lemma": "יְהוֹשַׁבְעַת",
+     "ref": "2CH 22:11"
+    }
+   ],
+   "note": "2 Kgs 11:2 Josheba; Chronicler's form kept with {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch022",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:atalja",
+   "kind": "name",
+   "source": "עֲתַלְיָהוּ",
+   "value": "Atalja",
+   "words": [
+    "Atalja"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 22:2",
+     "form": "Atalja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֲתַלְיָ֖הוּ",
+     "lemma": "עֲתַלְיָהוּ",
+     "ref": "2CH 22:2"
+    }
+   ],
+   "note": "As project 2 Kgs 8:26; 11.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch022",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jesod_porten",
+   "kind": "name",
+   "source": "שַׁעַר הַיְסוֹד",
+   "value": "Jesod-porten",
+   "words": [
+    "Jesod-porten"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 23:5",
+     "form": "Jesod-porten"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְס֑וֹד",
+     "lemma": "יְסוֹד",
+     "ref": "2CH 23:5"
+    }
+   ],
+   "note": "2 Kgs 11:6 Sur-porten; {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch023",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:mattan_baal",
+   "kind": "name",
+   "source": "מַתָּן",
+   "value": "Mattan",
+   "words": [
+    "Mattan"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 23:17",
+     "form": "Mattan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַתָּן֙",
+     "lemma": "מַתָּן",
+     "ref": "2CH 23:17"
+    }
+   ],
+   "note": "Priest of Baal; as 2 Kgs 11:18.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch023",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:zakarja_jojada",
+   "kind": "name",
+   "source": "זְכַרְיָה בֶּן יְהוֹיָדָע",
+   "value": "Zakarja",
+   "words": [
+    "Zakarja"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 24:20",
+     "form": "Zakarja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זְכַרְיָה֙",
+     "lemma": "זְכַרְיָה",
+     "ref": "2CH 24:20"
+    }
+   ],
+   "note": "Priest, son of Jehoiada; stoned.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch024",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:masat_moshe",
+   "kind": "term",
+   "source": "מַשְׂאַת מֹשֶׁה",
+   "value": "afgift",
+   "words": [
+    "afgift"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 24:6",
+     "form": "afgift"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "מַשְׂאַת֙",
+     "lemma": "מַשְׂאֵת",
+     "ref": "2CH 24:6"
+    }
+   ],
+   "note": "The tax Moses imposed.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch024",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:joaddan",
+   "kind": "name",
+   "source": "יְהוֹעַדָּן",
+   "value": "Joaddan",
+   "words": [
+    "Joaddan"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 25:1",
+     "form": "Joaddan"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְהוֹעַדָּ֖ן",
+     "lemma": "יְהוֹעַדָּן",
+     "ref": "2CH 25:1"
+    }
+   ],
+   "note": "Amaziah's mother; as 2 Kgs 14:2.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch025",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:uzzija",
+   "kind": "name",
+   "source": "עֻזִּיָּהוּ",
+   "value": "Uzzija",
+   "words": [
+    "Uzzija"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 26:1",
+     "form": "Uzzija"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֻזִּיָּ֔הוּ",
+     "lemma": "עֻזִּיָּהוּ",
+     "ref": "2CH 26:1"
+    }
+   ],
+   "note": "King of Judah; 2 Kgs Azarja ({T:}); DFB Isa 1:1 Uzzija.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch026",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:esajas",
+   "kind": "name",
+   "source": "יְשַׁעְיָהוּ בֶן אָמוֹץ",
+   "value": "Esajas",
+   "words": [
+    "Esajas"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 26:22",
+     "form": "Esajas"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְשַֽׁעְיָ֥הוּ",
+     "lemma": "יְשַׁעְיָהוּ",
+     "ref": "2CH 26:22"
+    }
+   ],
+   "note": "The prophet, as DFB Isa 1:1 (Esajas, Amos' søn); other bearers Jesaja.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch026",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:hekal",
+   "kind": "term",
+   "source": "הֵיכַל יְהוָה",
+   "value": "tempel",
+   "words": [
+    "tempel"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 26:16",
+     "form": "tempel"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הֵיכַ֣ל",
+     "lemma": "הֵיכָל",
+     "ref": "2CH 26:16"
+    }
+   ],
+   "note": "hêkal 'tempel', kept apart from bayit 'hus'.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch026",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:jerusha",
+   "kind": "name",
+   "source": "יְרוּשָׁה",
+   "value": "Jerusha",
+   "words": [
+    "Jerusha"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 27:1",
+     "form": "Jerusha"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "יְרוּשָׁ֖ה",
+     "lemma": "יְרוּשָׁא",
+     "ref": "2CH 27:1"
+    }
+   ],
+   "note": "Jotham's mother; as 2 Kgs 15:33.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch027",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:oded_prophet_samaria",
+   "kind": "name",
+   "source": "עֹדֵד",
+   "value": "Oded",
+   "words": [
+    "Oded"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 28:9",
+     "form": "Oded"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עֹדֵ֣ד",
+     "lemma": "עֹדֵד",
+     "ref": "2CH 28:9"
+    }
+   ],
+   "note": "Prophet in Samaria.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch028",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:palmebyen",
+   "kind": "name",
+   "source": "עִיר הַתְּמָרִים",
+   "value": "Palmebyen",
+   "words": [
+    "Palmebyen"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 28:15",
+     "form": "Palmebyen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תְּמָרִ֖ים",
+     "lemma": "תָּמָר",
+     "ref": "2CH 28:15"
+    }
+   ],
+   "note": "= Jericho.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch028",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:abija_hezekiah_mother",
+   "kind": "name",
+   "source": "אֲבִיָּה בַּת זְכַרְיָהוּ",
+   "value": "Abija",
+   "words": [
+    "Abija"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 29:1",
+     "form": "Abija"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "אֲבִיָּ֖ה",
+     "lemma": "אֲבִיָּה",
+     "ref": "2CH 29:1"
+    }
+   ],
+   "note": "Hezekiah's mother; 2 Kgs 18:2 Abi; {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch029",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:todot",
+   "kind": "term",
+   "source": "תּוֹדוֹת",
+   "value": "lovprisningsofre",
+   "words": [
+    "lovprisningsofre"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 29:31",
+     "form": "lovprisningsofre"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "תוֹד֖וֹת",
+     "lemma": "תּוֹדָה",
+     "ref": "2CH 29:31"
+    }
+   ],
+   "note": "Thank offerings; style guide (Amos 4); shelamim = takofre.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch029",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:rasim_couriers",
+   "kind": "term",
+   "source": "הָרָצִים",
+   "value": "ilbudene",
+   "words": [
+    "ilbudene"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 30:6",
+     "form": "ilbudene"
+    },
+    {
+     "ref": "2CH 30:10",
+     "form": "ilbudene"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "רָצִ֨ים",
+     "lemma": "רוּץ",
+     "ref": "2CH 30:6"
+    }
+   ],
+   "note": "Couriers with letters (2 Chr 30:6,10).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch030",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:konanja",
+   "kind": "name",
+   "source": "כָּנַנְיָהוּ",
+   "value": "Konanja",
+   "words": [
+    "Konanja"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 31:12",
+     "form": "Konanja"
+    },
+    {
+     "ref": "2CH 31:13",
+     "form": "Konanja"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כָּֽנַנְיָ֣הוּ",
+     "lemma": "כָּנַנְיָהוּ",
+     "ref": "2CH 31:12"
+    }
+   ],
+   "note": "Levite in charge of the contributions.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch031",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:pequdim_overseers",
+   "kind": "term",
+   "source": "פְּקִידִים",
+   "value": "tilsynsførende",
+   "words": [
+    "tilsynsførende"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 31:13",
+     "form": "tilsynsførende"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פְּקִידִ֗ים",
+     "lemma": "פָּקִיד",
+     "ref": "2CH 31:13"
+    }
+   ],
+   "note": "Distinct from shoterim (tilsynsmænd).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch031",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:zeroa_basar",
+   "kind": "formula",
+   "source": "זְרוֹעַ בָּשָׂר",
+   "value": "en arm af kød",
+   "words": [
+    "en arm af kød"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 32:8",
+     "form": "en arm af kød"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "זְר֣וֹעַ",
+     "lemma": "זְרוֹעַ",
+     "ref": "2CH 32:8"
+    }
+   ],
+   "note": "Human strength vs the LORD.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch032",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:gihon_upper_outlet",
+   "kind": "name",
+   "source": "גִּיחוֹן",
+   "value": "Gihon",
+   "words": [
+    "Gihon"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 32:30",
+     "form": "Gihon"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "גִיחוֹן֙",
+     "lemma": "גִּיחוֹן",
+     "ref": "2CH 32:30"
+    }
+   ],
+   "note": "Spring; Gihons øvre udløb.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch032",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:semel",
+   "kind": "term",
+   "source": "סֶמֶל",
+   "value": "gudebillede",
+   "words": [
+    "gudebillede"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 33:7",
+     "form": "gudebillede"
+    },
+    {
+     "ref": "2CH 33:15",
+     "form": "gudebillede"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "סֶּ֖מֶל",
+     "lemma": "סֶמֶל",
+     "ref": "2CH 33:7"
+    }
+   ],
+   "note": "Manasseh's image (33:7, 15).",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch033",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:hozai",
+   "kind": "name",
+   "source": "חוֹזָי",
+   "value": "Hozaj",
+   "words": [
+    "Hozaj"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 33:19",
+     "form": "Hozaj"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חוֹזָֽי",
+     "lemma": "חֹזֶה",
+     "ref": "2CH 33:19"
+    }
+   ],
+   "note": "Hebrew reads a name; BSB 'the seers'; open question.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch033",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:abdon_son_of_micah",
+   "kind": "name",
+   "source": "עַבְדּוֹן בֶּן מִיכָה",
+   "value": "Abdon, Mikas søn",
+   "words": [
+    "Abdon, Mikas søn"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 34:20",
+     "form": "Abdon, Mikas søn"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "עַבְדּ֨וֹן",
+     "lemma": "עַבְדּוֹן",
+     "ref": "2CH 34:20"
+    }
+   ],
+   "note": "2 Kgs 22:12 Akbor, Mikajas søn; {T:}.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch034",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:huldah",
+   "kind": "name",
+   "source": "חֻלְדָּה הַנְּבִיאָה",
+   "value": "profetinden Hulda",
+   "words": [
+    "profetinden Hulda"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 34:22",
+     "form": "profetinden Hulda"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "חֻלְדָּ֨ה",
+     "lemma": "חֻלְדָּה",
+     "ref": "2CH 34:22"
+    }
+   ],
+   "note": "As 2 Kgs 22:14.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch034",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "name:karkemish",
+   "kind": "name",
+   "source": "כַּרְכְּמִישׁ",
+   "value": "Karkemish",
+   "words": [
+    "Karkemish"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 35:20",
+     "form": "Karkemish"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כַרְכְּמִ֖ישׁ",
+     "lemma": "כַּרְכְּמִישׁ",
+     "ref": "2CH 35:20"
+    }
+   ],
+   "note": "As DFB Jer 46:2.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch035",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:pesahim_offerings",
+   "kind": "term",
+   "source": "פְּסָחִים",
+   "value": "påskeofre",
+   "words": [
+    "påskeofre"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 35:7",
+     "form": "påskeofre"
+    },
+    {
+     "ref": "2CH 35:8",
+     "form": "påskeofre"
+    },
+    {
+     "ref": "2CH 35:9",
+     "form": "påskeofre"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "פְּסָחִים֒",
+     "lemma": "פֶּסַח",
+     "ref": "2CH 35:7"
+    }
+   ],
+   "note": "Plural: Passover animals given (35:7-9); singular = påskelammet.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch035",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "formula:cyrus_edict_2ch",
+   "kind": "formula",
+   "source": "כֹּה אָמַר כּוֹרֶשׁ מֶלֶךְ פָּרַס",
+   "value": "Så siger Persiens konge Kyros",
+   "words": [
+    "Så siger Persiens konge Kyros"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 36:22",
+     "form": "Så siger Persiens konge Kyros"
+    },
+    {
+     "ref": "2CH 36:23",
+     "form": "Så siger Persiens konge Kyros"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "כּ֣וֹרֶשׁ",
+     "lemma": "כּוֹרֶשׁ",
+     "ref": "2CH 36:23"
+    }
+   ],
+   "note": "2 Chr 36:22-23 = project Ezra 1:1-3 word for word.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch036",
+   "date": "2026-10-31",
+   "status": "decided"
+  },
+  {
+   "id": "term:haskem_shaloah",
+   "kind": "formula",
+   "source": "הַשְׁכֵּם וְשָׁלוֹחַ",
+   "value": "igen og igen",
+   "words": [
+    "igen og igen"
+   ],
+   "evidence": [
+    {
+     "ref": "2CH 36:15",
+     "form": "igen og igen"
+    }
+   ],
+   "gloss": [
+    {
+     "lang": "hbo",
+     "form": "הַשְׁכֵּ֣ם",
+     "lemma": "שָׁכַם",
+     "ref": "2CH 36:15"
+    }
+   ],
+   "note": "Sending persistently.",
+   "attested": "attested",
+   "confidence": "high",
+   "method": "project-decision",
+   "by": "agent:2ch036",
+   "date": "2026-10-31",
+   "status": "decided"
   }
  ]
 }
